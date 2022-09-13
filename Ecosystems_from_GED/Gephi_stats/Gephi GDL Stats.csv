@@ -1,0 +1,188 @@
+Id,Label,timeset,fullname,type,weight,"# gephi",indegree,outdegree,Degree,weighted indegree,weighted outdegree,Weighted Degree,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,Authority,Hub,modularity_class,componentnumber,clustering,triangles,eigencentrality
+inMateriis,inMateriis,,inMateriis,Generador de Conocimiento,1.4,54,10,15,25,34,69,103,4,0.426606,0.478943,1693.202956,0.195813,0.195813,3,0,0.110526,21,0.472239
+Actum BSS,Actum BSS,,Actum Business Solutions & Strategy,Habilitador,1,62,1,0,1,5,0,5,5,0.299517,0.316487,0,0.014298,0.014298,3,0,0,0,0.0342
+CIATEJ,CIATEJ,,Centro de Investigación y Asistencia en Tecnología y Diseño del Estado de Jalisco,Generador de Conocimiento,4.4,44,7,17,24,17,41,58,3,0.428571,0.485663,1833.776078,0.149225,0.149224,6,0,0.086957,22,0.38113
+AMC,AMC,,Academia Mexicana de Ciencias,Vinculador,0.2,156,1,0,1,1,0,1,4,0.300485,0.318548,0,0.010896,0.010896,6,0,0,0,0.028834
+CIE ITESM GDA,CIE ITESM GDA,,"Centro de Inteligencia de Emprendimiento, Tecnológico de Monterrey en Guadalajara",Generador de Conocimiento,1,47,0,16,16,0,31,31,4,0.396588,0.43862,1055.693817,0.149471,0.14947,1,0,0.10989,10,0.355804
+AMCHAM,AMCHAM,,American Chamber of Commerce of Mexico en Guadalajara,Vinculador,0.2,157,1,0,1,1,0,1,5,0.284404,0.299014,0,0.010914,0.010914,1,0,0,0,0.025773
+Enlace E+E GDA,Enlace E+E GDA,,Enlace E+E Guadalajara,Habilitador,0.6,79,2,16,18,10,55,65,5,0.383505,0.433871,1746.692659,0.118656,0.118654,0,0,0.022059,3,0.289001
+AMEXCAP,AMEXCAP,,Asociación Mexicana de Capital Privado,Vinculador,1.2,158,3,0,3,7,0,7,5,0.325175,0.350986,16.033955,0.032498,0.032498,0,0,0.333333,1,0.077847
+Global Proteus,Global Proteus,,Global Proteus,Habilitador,3.6,85,8,16,24,18,65,83,5,0.38193,0.429391,1092.06938,0.158269,0.158268,1,0,0.141667,17,0.375374
+INADEM,INADEM,,Instituto Nacional del Emprendedor,Articulador,10.2,9,10,4,14,40,12,52,4,0.419865,0.459229,636.888384,0.16815,0.168151,3,0,0.254545,14,0.403268
+ARG Consultores,ARG Consultores,,ARG Consultores,Habilitador,0.8,63,2,0,2,5,0,5,6,0.277198,0.295878,0,0.012466,0.012466,1,0,1,1,0.030236
+Global Shapers,Global Shapers,,Global Shapers Community,Comunidad,0.2,27,0,2,2,0,2,2,6,0.277198,0.295878,0,0.012466,0.012466,1,0,1,1,0.030236
+ASELA,ASELA,,Asociación de Emprendedores de Latinoamérica,Vinculador,0.2,159,0,2,2,0,2,2,6,0.277198,0.295878,0,0.017285,0.017286,1,0,1,1,0.040357
+ASEM,ASEM,,Asociación de Emprendedores de México,Vinculador,2.4,160,3,3,6,9,5,14,5,0.365422,0.392652,56.518885,0.078467,0.078467,1,0,0.7,7,0.182493
+Numbelt,Numbelt,,Numbelt,Habilitador,1.6,104,5,8,13,18,32,50,4,0.38193,0.416667,308.761973,0.126785,0.126784,1,0,0.361111,13,0.30141
+AVM,AVM,,Angel Ventures México,Habilitador,1.6,64,3,0,3,8,0,8,5,0.304419,0.329928,23.165959,0.020102,0.020102,1,0,0,0,0.051477
+PNP,PNP,,Plug and Play México,Habilitador,1.6,108,1,6,7,4,26,30,5,0.337568,0.36129,74.860995,0.05335,0.05335,1,0,0.1,1,0.128465
+Skytechture,Skytechture,,Skytechture Aceleradora,Habilitador,0.6,118,4,11,15,10,34,44,4,0.368317,0.416219,677.538232,0.072491,0.07249,8,0,0.064103,5,0.196637
+Reto Zapopan,Reto Zapopan,,Reto Zapopan,Habilitador,5.8,115,13,15,28,44,60,104,3,0.419865,0.481183,2526.314693,0.093662,0.093661,7,0,0.043333,13,0.264557
+Baker McKenzie,Baker McKenzie,,Baker McKenzie,Habilitador,0.8,65,1,0,1,4,0,4,4,0.296178,0.315412,0,0.006839,0.006839,7,0,0,0,0.021884
+Balero,Balero,,Balero,Habilitador,1.4,66,2,0,2,7,0,7,5,0.310518,0.333065,5.680806,0.027055,0.027055,3,0,0,0,0.063726
+Pragmatec,Pragmatec,,Pragmatec México,Habilitador,3.4,110,9,17,26,27,62,89,4,0.419865,0.476254,1128.605083,0.221065,0.221064,3,0,0.157895,30,0.528468
+Talent Network,Talent Network,,Talent Network,Vinculador,1.4,189,2,20,22,6,84,90,4,0.389121,0.444444,1531.342749,0.098809,0.098808,8,0,0.036842,7,0.25524
+Blockchain MX,Blockchain MX,,Blockchain MX,Comunidad,0.6,18,1,0,1,3,0,3,5,0.280543,0.298925,0,0.007215,0.007215,8,0,0,0,0.020188
+BlueBox,BlueBox,,BlueBox,Habilitador,0.8,67,1,0,1,4,0,4,5,0.276786,0.289964,0,0.009257,0.009257,1,0,0,0,0.02167
+ITESM GDA,ITESM GDA,,Instituto Tecnológico y de Estudios Superiores de Monterrey Campus Guadalajara,Habilitador,19.4,95,19,5,24,88,10,98,4,0.424658,0.47043,1078.111405,0.201519,0.201521,1,0,0.190476,20,0.48729
+BNI Jalisco,BNI Jalisco,,Business Network International Jalisco,Vinculador,1,161,2,12,14,6,44,50,3,0.394068,0.4319,693.003958,0.082603,0.082602,2,0,0.090909,6,0.219156
+Radio Fórmula,Radio Fórmula,,Radio Fórmula,Promotor,1.6,151,0,2,2,0,8,8,4,0.299517,0.319444,2.583333,0.014716,0.014716,2,0,0,0,0.038288
+SICYT,SICYT,,"Secretaría de Innovación, Ciencia y Tecnología de Jalisco",Articulador,26,17,33,18,51,119,67,186,4,0.525424,0.579301,5361.703501,0.414589,0.414594,5,0,0.117647,70,1
+Bosch,Bosch,,Bosch,Generador de Conocimiento,1.6,41,2,5,7,8,25,33,4,0.359768,0.383065,83.504173,0.082578,0.082577,5,0,0.166667,1,0.199298
+CANACO,CANACO,,"Cámara de Comercio, Servicios y Turismo de Guadalajara",Vinculador,5.4,163,6,5,11,21,7,28,4,0.347015,0.391577,385.402704,0.041543,0.041543,2,0,0.142857,4,0.129999
+CreAtinnovArte,CreAtinnovArte,,CreAtinnovArte,Habilitador,0.6,73,0,8,8,0,26,26,5,0.328042,0.35457,79.440403,0.03073,0.030729,6,0,0,0,0.093409
+Jóvenes COPARMEX,Jóvenes COPARMEX,,Jóvenes COPARMEX,Comunidad,0.6,35,2,11,13,2,47,49,4,0.347015,0.383961,681.290313,0.03269,0.03269,2,0,0.036364,2,0.096911
+LINE CUCEA,LINE CUCEA,,Laboratorio de Innovación y Emprendimiento CUCEA,Habilitador,1.6,98,10,13,23,36,48,84,4,0.416107,0.467742,2307.809277,0.126736,0.126734,4,0,0.052632,9,0.335458
+CANIETI,CANIETI,,"Cámara Nacional de la Industria Electrónica, de Telecomunicaciones y de Tecnologías de la Información",Vinculador,2,165,1,2,3,2,8,10,4,0.368317,0.391577,21.07619,0.047538,0.047538,5,0,0.666667,2,0.117775
+CAREINTRA,CAREINTRA,,Cámara Regional de la Industria de la Transformación del Estado de Jalisco,Vinculador,0.8,166,1,0,1,4,0,4,6,0.277612,0.294892,0,0.008664,0.008664,0,0,0,0,0.021848
+Inncampo,Inncampo,,Inncampo,Comunidad,1.6,33,5,13,18,13,42,55,5,0.385892,0.433871,829.033845,0.181126,0.181126,3,0,0.133333,14,0.419862
+CCEJJ,CCEJJ,,Consejo Coordinador de Jóvenes Empresarios de Jalisco,Vinculador,5.4,167,5,3,8,16,12,28,5,0.356322,0.391756,11.893694,0.110695,0.110696,3,0,0.733333,11,0.254154
+iTuesday,iTuesday,,iTuesday,Comunidad,9.6,34,25,14,39,82,43,125,4,0.457002,0.519265,2087.294238,0.357721,0.357722,3,0,0.142857,54,0.836271
+MIT EF México,MIT EF México,,MIT Enterprise Forum México,Vinculador,6,185,13,21,34,52,63,115,5,0.414254,0.479122,1590.915843,0.303736,0.303735,3,0,0.11,33,0.708975
+CCIJ,CCIJ,,Consejo de Cámaras Industriales de Jalisco,Vinculador,1.8,168,3,0,3,9,0,9,5,0.329787,0.36129,23.227401,0.046982,0.046983,0,0,0.333333,1,0.109702
+ESMEX,ESMEX,,Emprendimiento Social México,Habilitador,2.6,81,5,12,17,14,57,71,4,0.330373,0.369176,973.263049,0.035428,0.035429,4,0,0.066667,3,0.112496
+CECIES UDG,CECIES UDG,,"Centro de Educación, Ciencia y Sociedad de la UDG",Generador de Conocimiento,1,42,1,0,1,5,0,5,5,0.248663,0.263889,0,0.002587,0.002587,4,0,0,0,0.010428
+CEGINT ITESO,CEGINT ITESO,,Centro para la Gestión de la Innovación y la Tecnología del ITESO,Habilitador,0.4,69,1,0,1,2,0,2,5,0.284404,0.299014,0,0.010914,0.010914,1,0,0,0,0.025773
+CEPROE,CEPROE,,Centro de Promoción Económica y Turismo,Promotor,0.2,131,1,0,1,1,0,1,5,0.284404,0.299014,0,0.010914,0.010914,1,0,0,0,0.025773
+CUTonalá,CUTonalá,,Centro Universitario de Tonalá de la UDG,Generador de Conocimiento,1.4,53,3,8,11,8,30,38,4,0.389937,0.427867,624.02727,0.095081,0.09508,5,0,0.155556,7,0.242572
+CGCS UDG,CGCS UDG,,Coordinación General de Comunicación Social UDG,Promotor,0.4,133,1,0,1,2,0,2,5,0.280967,0.295072,0,0.006942,0.006942,5,0,0,0,0.018252
+CIAD,CIAD,,Centro Integral Avanzado en Diseño,Habilitador,0.4,70,1,0,1,2,0,2,4,0.300485,0.318548,0,0.010896,0.010896,6,0,0,0,0.028834
+CIAJ,CIAJ,,Cámara de la Industria Alimenticia de Jalisco,Vinculador,1.2,169,2,0,2,6,0,6,4,0.329204,0.354391,22.675831,0.017735,0.017735,7,0,0,0,0.050718
+CIATEC,CIATEC,,Centro de Innovación Aplicada en Tecnologías Competitivas,Generador de Conocimiento,0.6,43,1,0,1,3,0,3,5,0.299517,0.316487,0,0.014298,0.014298,3,0,0,0,0.0342
+CAJ,CAJ,,Consejo Agropecuario de Jalisco,Vinculador,0.8,162,0,2,2,0,4,4,4,0.320138,0.344086,18.843363,0.024121,0.024121,3,0,0,0,0.058604
+CONACYT,CONACYT,,Consejo Nacional de Ciencia y Tecnología,Articulador,11.4,2,10,2,12,48,9,57,4,0.349624,0.390233,105.258895,0.111966,0.111968,6,0,0.285714,6,0.276062
+JALTEC,JALTEC,,Jalisco Tecnológico,Vinculador,0.2,183,0,1,1,0,1,1,4,0.300485,0.318548,0,0.010896,0.010896,6,0,0,0,0.028834
+CIBO,CIBO,,Centro de Investigación Biomédica de Occidente,Generador de Conocimiento,0.2,45,1,0,1,1,0,1,4,0.300485,0.318548,0,0.010896,0.010896,6,0,0,0,0.028834
+CICI CUCEA,CICI CUCEA,,Centro de Innovación de Ciudades Inteligentes del CUCEA,Generador de Conocimiento,1.4,46,1,1,2,4,3,7,4,0.322917,0.34767,9.204767,0.031431,0.031432,4,0,0,0,0.07591
+OTT ITESO,OTT ITESO,,Oficina de Transferencia de Tecnología del ITESO,Habilitador,1.2,107,10,13,23,29,51,80,4,0.398287,0.451165,1386.620133,0.137655,0.137653,6,0,0.070175,12,0.348202
+CIESAS Occidente,CIESAS Occidente,,Centro de Investigación y Estudios Superiores en Antropología Social Occidente,Generador de Conocimiento,0.6,48,1,0,1,3,0,3,5,0.285276,0.302867,0,0.010051,0.010051,6,0,0,0,0.026397
+CINVESTAV,CINVESTAV,,Centro de Investigación y de Estudios Avanzados,Generador de Conocimiento,4.2,50,6,2,8,16,5,21,4,0.370518,0.409498,121.556507,0.093434,0.093435,5,0,0.190476,4,0.226376
+DataLab,DataLab,,DataLab MX,Comunidad,1.6,19,1,10,11,3,40,43,5,0.366864,0.397133,415.087541,0.093663,0.093662,8,0,0.142857,3,0.235576
+Clúster 4.0,Clúster 4.0,,Industrial Clúster 4.0,Vinculador,1.4,170,1,1,2,3,4,7,4,0.357006,0.375896,0,0.037487,0.037487,5,0,1,1,0.091378
+Clúster de Robótica,Clúster de Robótica,,Clúster de Robótica Jalisco,Vinculador,0.2,171,1,0,1,1,0,1,5,0.269565,0.287097,0,0.005293,0.005293,8,0,0,0,0.015909
+Clúster Médico,Clúster Médico,,Clúster Médico de Jalisco,Vinculador,1.2,172,1,1,2,3,3,6,5,0.313131,0.335305,0,0.030439,0.030439,3,0,1,1,0.072152
+MIND,MIND,,México Innovación y Diseño,Habilitador,6.8,100,10,2,12,33,2,35,4,0.369048,0.413082,306.267018,0.089102,0.089103,5,0,0.111111,4,0.222002
+Clúster Mueblero,Clúster Mueblero,,Clúster Mueblero de Jalisco,Vinculador,0.2,173,2,0,2,2,0,2,4,0.311037,0.333781,0,0.013345,0.013345,5,0,1,1,0.038601
+COECYTJAL,COECYTJAL,,Consejo Estatal de Ciencia y Tecnología de Jalisco,Articulador,2,1,3,0,3,10,0,10,5,0.303426,0.331989,25.519172,0.025899,0.0259,6,0,0,0,0.065264
+OTT ITESM GDA,OTT ITESM GDA,,Oficina de Transferencia de Tecnología del ITESM campus GDA,Habilitador,0.6,106,2,6,8,9,30,39,5,0.359073,0.382348,56.040146,0.098397,0.098395,6,0,0.2,2,0.236574
+COMCE,COMCE,,Consejo Empresarial Mexicano de Comercio Exterior,Vinculador,0.6,174,1,0,1,3,0,3,5,0.257975,0.271953,0,0.002387,0.002387,2,0,0,0,0.008818
+Comunicación Institucional ITESO,Comunicación Institucional ITESO,,Oficina de Comunicación Institucional ITESO,Promotor,1,134,1,0,1,5,0,5,5,0.285276,0.302867,0,0.010051,0.010051,6,0,0,0,0.026397
+CISAI,CISAI,,Centro de Innovación Social de Alto Impacto ITESO,Habilitador,1.6,71,0,5,5,0,25,25,4,0.358382,0.376344,28.374728,0.103298,0.103296,5,0,0,0,0.24734
+Red Bean,Red Bean,,Red Bean,Habilitador,1.6,113,2,7,9,6,33,39,4,0.354962,0.384857,275.836056,0.033906,0.033905,7,0,0.142857,3,0.095631
+CONCAMIN,CONCAMIN,,Confederación de Cámaras Industriales,Vinculador,1,175,1,0,1,5,0,5,5,0.262341,0.274462,0,0.002476,0.002476,7,0,0,0,0.008305
+Connectory,Connectory,,Connectory by Bosch & Centraal,Habilitador,11.8,72,12,0,12,59,0,59,4,0.345083,0.381272,193.922531,0.075089,0.07509,8,0,0.066667,1,0.202621
+FUN,FUN,,FuckUp Nights,Comunidad,2.8,24,8,7,15,33,30,63,4,0.403471,0.446237,772.07251,0.118938,0.118937,3,0,0.166667,13,0.287829
+Talent Land,Talent Land,,Talent Land,Habilitador,1.8,122,2,3,5,4,12,16,5,0.329787,0.362455,41.233888,0.042256,0.042256,8,0,0,0,0.105161
+SCAL,SCAL,,SCAL Comunicación Integral,Habilitador,0.6,117,0,8,8,0,36,36,5,0.359768,0.381004,207.99955,0.110079,0.110077,5,0,0.166667,1,0.265087
+Consejo de la Moda de Jalisco,Consejo de la Moda de Jalisco,,Consejo de la Moda de Jalisco,Vinculador,0.8,176,1,0,1,4,0,4,6,0.264957,0.274373,0,0.008037,0.008038,5,0,0,0,0.018968
+COPARMEX,COPARMEX,,Confederación Patronal de la República Mexicana,Vinculador,3,177,2,3,5,10,6,16,4,0.323478,0.351254,52.993472,0.018578,0.018578,2,0,0.166667,1,0.055583
+CRT,CRT,,Consejo Regulador del Tequila,Vinculador,0.2,179,1,0,1,1,0,1,4,0.300485,0.318548,0,0.010896,0.010896,6,0,0,0,0.028834
+CUAAD,CUAAD,,"Centro Universitario de Arte, Arquitectura y Diseño de la UDG",Habilitador,1.6,74,2,0,2,8,0,8,4,0.298555,0.318996,2.556572,0.011497,0.011498,4,0,0,0,0.034214
+CUCBA,CUCBA,,Centro Universitario de Ciencias Biológicas y Agropecuarias de la UDG,Generador de Conocimiento,2.2,51,3,0,3,11,0,11,5,0.32069,0.347849,9.210495,0.043664,0.043664,3,0,0.333333,1,0.101922
+CUCEA,CUCEA,,Centro Universitario de Ciencias Económico Administrativas de la UDG,Habilitador,1,75,1,0,1,5,0,5,5,0.294304,0.31129,0,0.009254,0.009254,4,0,0,0,0.026009
+CUCEI,CUCEI,,Centro Universitario de Ciencias Exactas e Ingeniería de la UDG,Generador de Conocimiento,1.6,52,1,1,2,5,3,8,5,0.313131,0.335305,0,0.030439,0.030439,3,0,1,1,0.072152
+CULagos,CULagos,,Centro Universitario de los Lagos de la UDG,Habilitador,0.8,76,2,0,2,5,0,5,4,0.304419,0.323925,0,0.013041,0.013041,4,0,1,1,0.037869
+UDG,UDG,,Universidad de Guadalajara,Habilitador,4.4,125,5,4,9,20,4,24,4,0.358382,0.397401,354.666243,0.05187,0.051871,2,0,0.190476,4,0.146091
+Student Energy,Student Energy,,Student Energy Universidad de Guadalajara,Comunidad,0.2,40,0,2,2,0,2,2,5,0.290625,0.311649,0,0.012235,0.012235,8,0,1,1,0.034161
+DIMA,DIMA,,DIMA,Vinculador,0.8,180,1,0,1,4,0,4,5,0.269565,0.287097,0,0.005293,0.005293,8,0,0,0,0.015909
+Disruptivo TV,Disruptivo TV,,Disruptivo TV,Promotor,1.6,136,2,0,2,8,0,8,5,0.248663,0.263889,0,0.005174,0.005174,4,0,0,0,0.020856
+Egresados IPADE,Egresados IPADE,,Asociacion de Egresados IPADE,Comunidad,0.8,20,1,0,1,4,0,4,6,0.277612,0.294892,0,0.008664,0.008664,0,0,0,0,0.021848
+Endeavor Jalisco,Endeavor Jalisco,,Endeavor Jalisco,Habilitador,1.8,77,2,0,2,9,0,9,5,0.28972,0.310663,5.916667,0.012948,0.012948,0,0,0,0,0.032119
+IOS OFFICES,IOS OFFICES,,IOS OFFICES,Habilitador,2.2,93,2,3,5,7,7,14,4,0.343808,0.377688,95.468016,0.058677,0.058677,0,0,0.2,2,0.137372
+Endeavor Occidente,Endeavor Occidente,,Endeavor Occidente,Habilitador,1,78,1,0,1,5,0,5,6,0.293375,0.314068,0,0.022178,0.022178,3,0,0,0,0.049901
+Enlace E+E Nacional,Enlace E+E Nacional,,Enlace E+E Nacional,Habilitador,1,80,0,1,1,0,5,5,6,0.277612,0.294892,0,0.008664,0.008664,0,0,0,0,0.021848
+ITESM GDA (AI),ITESM GDA (AI),,Instituto Tecnológico y de Estudios Superiores de Monterrey Campus Guadalajara (Área de Investigación),Generador de Conocimiento,2.4,55,2,1,3,7,5,12,5,0.319039,0.348566,39.711355,0.025657,0.025657,0,0,0,0,0.066497
+Enlazadot,Enlazadot,,Cadena Empresarial Enlazadot,Vinculador,1,181,1,0,1,5,0,5,4,0.283105,0.296595,0,0.006031,0.006031,2,0,0,0,0.017125
+Entrepreneur,Entrepreneur,,Entrepreneur,Promotor,0.6,139,1,0,1,3,0,3,5,0.345083,0.359946,0,0.030272,0.030272,5,0,0,0,0.07119
+Meetroopers,Meetroopers,,Meetroopers,Vinculador,3.8,184,3,4,7,10,10,20,4,0.382716,0.411738,390.84295,0.092753,0.092753,3,0,0.4,6,0.21885
+Socialab,Socialab,,Socialab,Habilitador,1,119,0,1,1,0,5,5,5,0.248663,0.263889,0,0.002587,0.002587,4,0,0,0,0.010428
+EXATEC,EXATEC,,Comunidad EXATEC,Comunidad,0.8,22,1,0,1,4,0,4,6,0.277612,0.294892,0,0.008664,0.008664,0,0,0,0,0.021848
+Expo Guadalajara,Expo Guadalajara,,Expo Guadalajara,Habilitador,1,82,1,0,1,5,0,5,5,0.280543,0.298925,0,0.007215,0.007215,8,0,0,0,0.020188
+FOJAL,FOJAL,,Fondo Jalisco de Fomento Empresarial,Habilitador,0.6,83,2,0,2,3,0,3,5,0.2976,0.32052,10.057228,0.019577,0.019578,0,0,0,0,0.047622
+Forbes,Forbes,,Forbes México,Promotor,0.4,140,1,0,1,2,0,2,6,0.293375,0.314068,0,0.022178,0.022178,3,0,0,0,0.049901
+Fractal,Fractal,,Fractal,Promotor,0.4,141,1,0,1,2,0,2,6,0.293375,0.314068,0,0.022178,0.022178,3,0,0,0,0.049901
+Mutuo,Mutuo,,Mutuo Coworking,Habilitador,1.8,101,1,1,2,4,5,9,5,0.292453,0.312007,5.768735,0.01258,0.01258,3,0,0,0,0.030958
+PLAYERS of Life,PLAYERS of Life,,PLAYERS of Life - Revista Guadalajara,Promotor,1.8,149,1,1,2,4,5,9,4,0.300971,0.321685,18.783001,0.011071,0.011071,3,0,0,0,0.029981
+Revista MPC,Revista MPC,,Revista Mejores Prácticas Corporativas,Promotor,1.4,153,0,2,2,0,7,7,4,0.313659,0.337814,0,0.015523,0.015523,3,0,1,1,0.043047
+GAIN,GAIN,,Guadalajara Angel Investor Network,Habilitador,1,84,1,0,1,5,0,5,5,0.314189,0.333065,0,0.02612,0.02612,3,0,0,0,0.058796
+Geek Girls Mx,Geek Girls Mx,,Geek Girls Mx,Comunidad,1,25,1,0,1,5,0,5,5,0.299517,0.316487,0,0.014298,0.014298,3,0,0,0,0.0342
+Gene Garage,Gene Garage,,Gene Garage,Comunidad,1.4,26,2,0,2,7,0,7,5,0.315254,0.339427,5.627646,0.02912,0.02912,3,0,0,0,0.068153
+COPARMEX León,COPARMEX León,,Confederación Patronal de la República Mexicana León,Vinculador,0.6,178,0,1,1,0,3,3,6,0.276786,0.29319,0,0.011556,0.011556,1,0,0,0,0.027269
+Global Shapers GDL,Global Shapers GDL,,Global Shapers Guadalajara Hub,Comunidad,2.6,28,4,6,10,16,13,29,5,0.376518,0.412366,63.802859,0.11239,0.11239,3,0,0.333333,12,0.261401
+Gob. Angoulême,Gob. Angoulême,,Gobierno de Angoulême,Articulador,0.8,3,1,0,1,4,0,4,4,0.296178,0.315412,0,0.006839,0.006839,7,0,0,0,0.021884
+Gob. Chile,Gob. Chile,,Gobierno de Chile,Articulador,0.8,4,1,0,1,4,0,4,4,0.296178,0.315412,0,0.006839,0.006839,7,0,0,0,0.021884
+Gob. Jalisco,Gob. Jalisco,,Gobierno de Jalisco,Articulador,7.2,6,7,2,9,35,2,37,4,0.389937,0.420699,169.913056,0.072464,0.072464,8,0,0.4,6,0.188802
+Sarape Social,Sarape Social,,Sarape Social,Habilitador,0.6,116,3,2,5,3,9,12,5,0.29477,0.321774,193.752112,0.009177,0.009177,6,0,0,0,0.032725
+Gob. Zapopan,Gob. Zapopan,,Gobierno de Zapopan,Articulador,4.2,8,4,3,7,19,3,22,4,0.343173,0.37948,196.836281,0.024518,0.024518,7,0,0.133333,2,0.073995
+Zapopan Lab,Zapopan Lab,,Zapopan Lab,Habilitador,0.6,129,3,4,7,14,20,34,4,0.362573,0.389785,289.597293,0.058249,0.058248,7,0,0.095238,2,0.141916
+Google for Education,Google for Education,,Google for Education,Habilitador,0.8,86,1,0,1,4,0,4,4,0.296178,0.315412,0,0.006839,0.006839,7,0,0,0,0.021884
+H/F,H/F,,Hackers & Founders Guadalajara,Comunidad,4,29,5,4,9,13,8,21,4,0.394904,0.430108,209.768877,0.117032,0.117032,3,0,0.392857,11,0.275028
+Hacedores,Hacedores,,Hacedores,Comunidad,1,31,1,0,1,5,0,5,5,0.280543,0.298925,0,0.007215,0.007215,8,0,0,0,0.020188
+HackerGarage,HackerGarage,,HackerGarage,Habilitador,4.2,87,6,0,6,21,0,21,4,0.362573,0.397849,105.975321,0.081868,0.081868,7,0,0.266667,4,0.192955
+History Channel,History Channel,,History Channel,Promotor,0.8,142,1,0,1,4,0,4,5,0.280543,0.298925,0,0.007215,0.007215,8,0,0,0,0.020188
+IJALDEM,IJALDEM,,Instituto Jalisciense del Emprendedor,Habilitador,2.6,88,4,1,5,11,3,14,4,0.354962,0.388441,113.760838,0.06739,0.06739,1,0,0.2,2,0.16008
+IJALTI,IJALTI,,Instituto Jalisciense de Tecnologías de la Información,Vinculador,0.6,182,1,0,1,3,0,3,5,0.280543,0.298925,0,0.007215,0.007215,8,0,0,0,0.020188
+IMPI,IMPI,,Instituto Mexicano de la Propiedad Industrial,Habilitador,1.6,89,2,0,2,8,0,8,5,0.290625,0.31138,1.847401,0.01608,0.016081,5,0,0,0,0.040851
+INCmty,INCmty,,INC Monterrey,Habilitador,2,90,2,1,3,5,5,10,4,0.33574,0.363351,13.770264,0.04154,0.041541,3,0,0.333333,1,0.097603
+BUAP,BUAP,,Benemérita Universidad Autónoma de Puebla,Habilitador,0.6,68,0,1,1,0,3,3,5,0.299517,0.316487,0,0.014298,0.014298,3,0,0,0,0.0342
+H/F Women,H/F Women,,Hackers & Founders Women,Comunidad,0.6,30,0,1,1,0,3,3,5,0.299517,0.316487,0,0.014298,0.014298,3,0,0,0,0.0342
+ProMéxico,ProMéxico,,ProMéxico,Promotor,1.2,150,0,2,2,0,6,6,5,0.314189,0.336649,12.841639,0.019591,0.019591,3,0,0,0,0.050109
+SE,SE,,Secretaría de Economía Federal,Articulador,4.6,12,6,1,7,19,5,24,4,0.348315,0.380824,115.380849,0.041986,0.041986,7,0,0.3,3,0.112803
+El Informador,El Informador,,El Informador,Promotor,0.2,137,0,1,1,0,1,1,6,0.278861,0.295699,0,0.013225,0.013225,3,0,0,0,0.02977
+SADER,SADER,,Secretaría de Agricultura y Desarrollo Rural,Articulador,1.8,10,1,1,2,5,4,9,6,0.278861,0.295699,0,0.013225,0.013225,3,0,0,0,0.02977
+Intel GDC,Intel GDC,,Intel Guadalajara Design Center,Habilitador,1.6,92,2,1,3,4,5,9,5,0.322917,0.347849,0,0.048297,0.048297,3,0,1,1,0.108697
+IPADE,IPADE,,IPADE Business School,Habilitador,0.8,94,1,0,1,4,0,4,6,0.277612,0.294892,0,0.008664,0.008664,0,0,0,0,0.021848
+TecLean,TecLean,,TecLean Accelerator,Habilitador,2.6,123,0,4,4,0,20,20,4,0.331551,0.355735,3.886739,0.059802,0.059801,1,0,0.666667,2,0.140168
+ITESO,ITESO,,Instituto Tecnológico y de Estudios Superiores de Occidente,Habilitador,9,96,10,1,11,41,4,45,4,0.362573,0.405466,497.651503,0.058954,0.058955,6,0,0.071429,2,0.166824
+ITESO (AI),ITESO (AI),,Instituto Tecnológico y de Estudios Superiores de Occidente (Área de Investigación),Generador de Conocimiento,0.8,56,1,0,1,4,0,4,5,0.296178,0.314785,0,0.016141,0.016141,3,0,0,0,0.037953
+Jóvenes Empresarios CANACO,Jóvenes Empresarios CANACO,,Jóvenes Empresarios de la Cámara de Comercio,Comunidad,1,36,3,2,5,5,2,7,4,0.354286,0.382168,94.085756,0.044598,0.044599,2,0,0.3,3,0.109964
+Lifestyle,Lifestyle,,IOS Offices Lifestyle,Promotor,0.2,143,2,0,2,2,0,2,5,0.32069,0.341577,0,0.030404,0.030404,0,0,1,1,0.069067
+CGCI UDG,CGCI UDG,,Coordinación General de Cooperación e Internacionalización UDG,Promotor,1,132,0,1,1,0,5,5,5,0.294304,0.31129,0,0.009254,0.009254,4,0,0,0,0.026009
+Emprendedores Universitarios CANACO,Emprendedores Universitarios CANACO,,Grupo de Emprendedores Universitarios de la Cámara Nacional de Comercio,Comunidad,0.8,21,0,1,1,0,4,4,5,0.294304,0.31129,0,0.009254,0.009254,4,0,0,0,0.026009
+IMEF Universitario,IMEF Universitario,,Instituto Mexicano de Ejecutivos de Finanzas Universitario,Comunidad,0.8,32,0,1,1,0,4,4,5,0.294304,0.31129,0,0.009254,0.009254,4,0,0,0,0.026009
+Innovación Social CUCEA,Innovación Social CUCEA,,Innovación Social CUCEA UDG,Habilitador,0.8,91,0,1,1,0,4,4,5,0.294304,0.31129,0,0.009254,0.009254,4,0,0,0,0.026009
+Medios UDG,Medios UDG,,Coordinación General de Comunicación Social UDG,Promotor,0.6,144,0,1,1,0,3,3,5,0.294304,0.31129,0,0.009254,0.009254,4,0,0,0,0.026009
+MakersGDL,MakersGDL,,MakersGDL,Comunidad,0.4,37,1,0,1,2,0,2,6,0.278861,0.295699,0,0.013225,0.013225,3,0,0,0,0.02977
+MassChallenge,MassChallenge,,MassChallenge,Habilitador,0.8,99,1,0,1,4,0,4,4,0.296178,0.315412,0,0.006839,0.006839,7,0,0,0,0.021884
+Milenio,Milenio,,Milenio,Promotor,1,145,1,0,1,5,0,5,5,0.280543,0.298925,0,0.007215,0.007215,8,0,0,0,0.020188
+Embajada del Reino Unido,Embajada del Reino Unido,,Embajada del Reino Unido,Promotor,0.6,138,0,1,1,0,3,3,6,0.293375,0.314068,0,0.022178,0.022178,3,0,0,0,0.049901
+ITTlajomulco,ITTlajomulco,,Instituto Tecnológico de Tlajomulco,Habilitador,0.8,97,0,1,1,0,4,4,6,0.293375,0.314068,0,0.022178,0.022178,3,0,0,0,0.049901
+Mural,Mural,,Mural,Promotor,1.8,146,2,1,3,5,4,9,5,0.358382,0.381004,0,0.060656,0.060656,5,0,1,3,0.139709
+NAFIN,NAFIN,,Nacional Financiera,Habilitador,1.6,102,2,0,2,8,0,8,4,0.312081,0.335573,19.935599,0.02081,0.02081,1,0,0,0,0.053278
+Nation,Nation,,Nation Media Company,Promotor,1.8,147,2,0,2,9,0,9,5,0.283537,0.303495,0,0.020813,0.020814,1,0,1,1,0.048938
+New Factory,New Factory,,New Factory Finlandia,Habilitador,1,103,1,0,1,5,0,5,5,0.285276,0.302867,0,0.010051,0.010051,6,0,0,0,0.026397
+Notisistema,Notisistema,,Notisistema,Promotor,0.6,148,1,0,1,3,0,3,6,0.277612,0.294892,0,0.008664,0.008664,0,0,0,0,0.021848
+Onthia,Onthia,,Onthia Consultora,Habilitador,0.6,105,1,0,1,3,0,3,6,0.276786,0.29319,0,0.011556,0.011556,1,0,0,0,0.027269
+Oracle,Oracle,,Oracle,Generador de Conocimiento,0.4,57,1,0,1,2,0,2,6,0.268786,0.280914,0,0.006839,0.006839,8,0,0,0,0.01763
+CANAINPA,CANAINPA,,Cámara Nacional de la Industria Panificadora y Similares de México,Vinculador,0.6,164,0,1,1,0,3,3,5,0.285276,0.302867,0,0.010051,0.010051,6,0,0,0,0.026397
+RedOTT,RedOTT,,Red de Oficinas de Tranferencia Tecnológica,Vinculador,0.2,187,0,2,2,0,2,2,5,0.306931,0.331989,0,0.026192,0.026192,3,0,1,1,0.064349
+POSiBLE,POSiBLE,,POSiBLE México,Habilitador,1.6,109,1,1,2,4,4,8,5,0.288372,0.3069,3.807354,0.011195,0.011196,7,0,0,0,0.0291
+F*ck Tha Pitch,F*ck Tha Pitch,,F*ck Tha Pitch,Comunidad,0.4,23,0,1,1,0,2,2,5,0.296178,0.314785,0,0.016141,0.016141,3,0,0,0,0.037953
+PROLAB,PROLAB,,PROLAB Proveedor de Laboratorios,Habilitador,1,111,1,0,1,5,0,5,5,0.299517,0.316487,0,0.014298,0.014298,3,0,0,0,0.0342
+PSM,PSM,,Promotora Social México,Habilitador,2,112,2,0,2,10,0,10,5,0.248663,0.263889,0,0.005174,0.005174,4,0,0,0,0.020856
+RedIncuba,RedIncuba,,RedIncuba,Vinculador,0.8,186,1,0,1,4,0,4,6,0.277612,0.294892,0,0.008664,0.008664,0,0,0,0,0.021848
+Redwood Ventures,Redwood Ventures,,Redwood Ventures,Habilitador,1.8,114,1,1,2,5,4,9,4,0.299517,0.322581,0,0.009314,0.009315,7,0,1,1,0.030189
+Canal 8,Canal 8,,Canal 8,Promotor,0.8,130,0,1,1,0,4,4,4,0.296178,0.315412,0,0.006839,0.006839,7,0,0,0,0.021884
+Despierta América,Despierta América,,Despierta América,Promotor,0.4,135,0,1,1,0,2,2,4,0.296178,0.315412,0,0.006839,0.006839,7,0,0,0,0.021884
+Gob. Tlajomulco,Gob. Tlajomulco,,Gobierno de Tlajomulco,Articulador,0.4,7,0,1,1,0,2,2,4,0.296178,0.315412,0,0.006839,0.006839,7,0,0,0,0.021884
+Revista Entorno Empresarial,Revista Entorno Empresarial,,Revista Entorno Empresarial COPARMEX,Promotor,0.8,152,1,0,1,4,0,4,5,0.257975,0.271953,0,0.002387,0.002387,2,0,0,0,0.008818
+SAGARPA,SAGARPA,,"Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",Articulador,0.4,11,2,0,2,3,0,3,5,0.295238,0.31586,0,0.02177,0.02177,3,0,1,1,0.049344
+Gob. Guadalajara,Gob. Guadalajara,,Gobierno de Guadalajara,Articulador,0.2,5,0,1,1,0,1,1,6,0.227941,0.24086,0,0.00067,0.00067,6,0,0,0,0.003595
+SEDECO,SEDECO,,Secretaría de Desarrollo Económico de Jalisco,Articulador,2.4,14,3,0,3,12,0,12,4,0.358382,0.379928,25.897426,0.048889,0.048889,7,0,0.333333,1,0.117448
+SEPROE,SEPROE,,Secretaría de Promoción Económica,Articulador,1.8,16,3,0,3,10,0,10,5,0.298555,0.324283,41.457732,0.012407,0.012407,2,0,0.333333,1,0.035811
+CIIoT,CIIoT,,"Centro de Innovación, Desarrollo Tecnológico y Aplicaciones en IoT",Generador de Conocimiento,0.8,49,0,1,1,0,4,4,5,0.345083,0.359946,0,0.030272,0.030272,5,0,0,0,0.07119
+Social Valley,Social Valley,,Social Valley,Comunidad,1,38,2,0,2,6,0,6,5,0.288372,0.305645,0,0.009359,0.009359,4,0,1,1,0.026104
+SparkUP,SparkUP,,Incubadora de Empresas de la Universidad Panamericana Spark UP,Habilitador,1,120,1,0,1,5,0,5,4,0.296178,0.315412,0,0.006839,0.006839,7,0,0,0,0.021884
+Stanford Social Innovation Center,Stanford Social Innovation Center,,Stanford Social Innovation Center,Habilitador,1,121,1,0,1,5,0,5,5,0.266476,0.277419,0,0.004253,0.004253,7,0,0,0,0.010848
+StartupGDL,StartupGDL,,StartupGDL,Vinculador,0.4,188,1,0,1,2,0,2,5,0.284404,0.299014,0,0.010914,0.010914,1,0,0,0,0.025773
+Speed Cubes,Speed Cubes,,Speed Cubes,Comunidad,1,39,0,1,1,0,5,5,5,0.280543,0.298925,0,0.007215,0.007215,8,0,0,0,0.020188
+Televisa,Televisa,,Televisa,Promotor,1.6,154,2,0,2,8,0,8,4,0.316327,0.342294,15.188885,0.01811,0.018111,8,0,0,0,0.049022
+Transfo,Transfo,,Transfo,Habilitador,2,124,2,0,2,10,0,10,5,0.248663,0.263889,0,0.005174,0.005174,4,0,0,0,0.020856
+TV Azteca,TV Azteca,,TV Azteca,Promotor,1,155,2,0,2,6,0,6,4,0.318493,0.339606,0,0.029376,0.029376,3,0,1,1,0.0674
+UC Berkeley,UC Berkeley,,"Universidad de California, Berkeley",Generador de Conocimiento,0.6,58,1,0,1,3,0,3,5,0.285276,0.302867,0,0.010051,0.010051,6,0,0,0,0.026397
+UDG (AI),UDG (AI),,Universidad de Guadalajara (Área de Investigación),Generador de Conocimiento,1,59,1,0,1,5,0,5,4,0.296178,0.315412,0,0.006839,0.006839,7,0,0,0,0.021884
+UNAM,UNAM,,Universidad Nacional Autónoma de México,Generador de Conocimiento,0.2,60,1,0,1,1,0,1,4,0.300485,0.318548,0,0.010896,0.010896,6,0,0,0,0.028834
+UNIVA,UNIVA,,Universidad del Valle de Atemajac,Habilitador,1,126,1,0,1,5,0,5,5,0.257975,0.271953,0,0.002387,0.002387,2,0,0,0,0.008818
+UP,UP,,Universiad Panamericana,Habilitador,0.2,127,1,0,1,1,0,1,4,0.283105,0.296595,0,0.006031,0.006031,2,0,0,0,0.017125
+WeWork,WeWork,,WeWork,Habilitador,0.4,128,1,0,1,2,0,2,5,0.287926,0.303047,0,0.008684,0.008684,3,0,0,0,0.021163
+Wizeline,Wizeline,,Wizeline,Generador de Conocimiento,0.4,61,1,0,1,2,0,2,6,0.268786,0.280914,0,0.006839,0.006839,8,0,0,0,0.01763

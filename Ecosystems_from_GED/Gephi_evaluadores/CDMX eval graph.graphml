@@ -1,0 +1,308 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="Weight" attr.type="long"/>
+<key id="d1" for="node" attr.name="weight" attr.type="float"/>
+<key id="d0" for="node" attr.name="rol" attr.type="string"/>
+<graph edgedefault="directed"><node id="Epic Queen">
+  <data key="d0">Comunidad</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="WeWork Labs">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="SVX">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Ronin PR Mexico">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Fortune">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Santander">
+  <data key="d0">Habilitador</data>
+  <data key="d1">11.6</data>
+</node>
+<node id="Universidad La Salle">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Ignia">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="MITEF México">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="UAM Cuajimalpa">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Adobe Capital">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="Homework">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="ITESM">
+  <data key="d0">Habilitador</data>
+  <data key="d1">7.2</data>
+</node>
+<node id="ALEB Investments">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Santander Universidades">
+  <data key="d0">Habilitador</data>
+  <data key="d1">5.6</data>
+</node>
+<node id="ASEM">
+  <data key="d0">Vinculador</data>
+  <data key="d1">3.6</data>
+</node>
+<node id="Global Shapers">
+  <data key="d0">Comunidad</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="CIEBT-IPN">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Seedstars">
+  <data key="d0">Habilitador</data>
+  <data key="d1">3.4</data>
+</node>
+<node id="Mountain Nazca">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="FONDESO">
+  <data key="d0">Habilitador</data>
+  <data key="d1">3.8</data>
+</node>
+<node id="Comunidad IoTinkerers">
+  <data key="d0">Comunidad</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Laboratoria">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Finnovista">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Startup México">
+  <data key="d0">Habilitador</data>
+  <data key="d1">3.2</data>
+</node>
+<node id="Catapulta">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="EPIC LAB">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="TechnoPoli">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="UVM">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CIC UNAM">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="SDSN México">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="BlueBox">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Angel Ventures">
+  <data key="d0">Habilitador</data>
+  <data key="d1">3.0</data>
+</node>
+<node id="UP">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="InnovaUNAM">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="UAM">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">2.0</data>
+</node>
+<edge source="Epic Queen" target="ITESM">
+  <data key="d2">3</data>
+</edge>
+<edge source="SVX" target="ASEM">
+  <data key="d2">3</data>
+</edge>
+<edge source="SVX" target="Catapulta">
+  <data key="d2">3</data>
+</edge>
+<edge source="SVX" target="Global Shapers">
+  <data key="d2">3</data>
+</edge>
+<edge source="Ronin PR Mexico" target="Santander">
+  <data key="d2">5</data>
+</edge>
+<edge source="Fortune" target="Adobe Capital">
+  <data key="d2">4</data>
+</edge>
+<edge source="Santander" target="UVM">
+  <data key="d2">5</data>
+</edge>
+<edge source="Santander" target="Universidad La Salle">
+  <data key="d2">5</data>
+</edge>
+<edge source="Santander" target="UP">
+  <data key="d2">4</data>
+</edge>
+<edge source="Universidad La Salle" target="SDSN México">
+  <data key="d2">4</data>
+</edge>
+<edge source="Universidad La Salle" target="ITESM">
+  <data key="d2">3</data>
+</edge>
+<edge source="Universidad La Salle" target="Seedstars">
+  <data key="d2">3</data>
+</edge>
+<edge source="Universidad La Salle" target="Startup México">
+  <data key="d2">3</data>
+</edge>
+<edge source="Universidad La Salle" target="Santander Universidades">
+  <data key="d2">5</data>
+</edge>
+<edge source="UAM Cuajimalpa" target="Santander">
+  <data key="d2">1</data>
+</edge>
+<edge source="ITESM" target="ASEM">
+  <data key="d2">1</data>
+</edge>
+<edge source="ITESM" target="Seedstars">
+  <data key="d2">3</data>
+</edge>
+<edge source="ALEB Investments" target="Startup México">
+  <data key="d2">3</data>
+</edge>
+<edge source="Santander Universidades" target="CIEBT-IPN">
+  <data key="d2">1</data>
+</edge>
+<edge source="Santander Universidades" target="ITESM">
+  <data key="d2">3</data>
+</edge>
+<edge source="Santander Universidades" target="Universidad La Salle">
+  <data key="d2">1</data>
+</edge>
+<edge source="Santander Universidades" target="UAM">
+  <data key="d2">1</data>
+</edge>
+<edge source="Santander Universidades" target="Santander">
+  <data key="d2">5</data>
+</edge>
+<edge source="ASEM" target="ITESM">
+  <data key="d2">5</data>
+</edge>
+<edge source="ASEM" target="Ronin PR Mexico">
+  <data key="d2">1</data>
+</edge>
+<edge source="ASEM" target="Homework">
+  <data key="d2">3</data>
+</edge>
+<edge source="ASEM" target="Santander">
+  <data key="d2">5</data>
+</edge>
+<edge source="Global Shapers" target="Seedstars">
+  <data key="d2">3</data>
+</edge>
+<edge source="CIEBT-IPN" target="UAM">
+  <data key="d2">3</data>
+</edge>
+<edge source="CIEBT-IPN" target="FONDESO">
+  <data key="d2">4</data>
+</edge>
+<edge source="Mountain Nazca" target="Angel Ventures">
+  <data key="d2">3</data>
+</edge>
+<edge source="FONDESO" target="UVM">
+  <data key="d2">1</data>
+</edge>
+<edge source="FONDESO" target="UAM">
+  <data key="d2">1</data>
+</edge>
+<edge source="Comunidad IoTinkerers" target="ASEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="Comunidad IoTinkerers" target="Seedstars">
+  <data key="d2">5</data>
+</edge>
+<edge source="Finnovista" target="Ignia">
+  <data key="d2">4</data>
+</edge>
+<edge source="Startup México" target="Angel Ventures">
+  <data key="d2">3</data>
+</edge>
+<edge source="Catapulta" target="Seedstars">
+  <data key="d2">5</data>
+</edge>
+<edge source="EPIC LAB" target="Angel Ventures">
+  <data key="d2">5</data>
+</edge>
+<edge source="EPIC LAB" target="UAM Cuajimalpa">
+  <data key="d2">3</data>
+</edge>
+<edge source="Angel Ventures" target="WeWork Labs">
+  <data key="d2">4</data>
+</edge>
+<edge source="UP" target="MITEF México">
+  <data key="d2">3</data>
+</edge>
+<edge source="UP" target="Startup México">
+  <data key="d2">3</data>
+</edge>
+<edge source="UP" target="Santander">
+  <data key="d2">5</data>
+</edge>
+<edge source="InnovaUNAM" target="CIEBT-IPN">
+  <data key="d2">3</data>
+</edge>
+<edge source="InnovaUNAM" target="Startup México">
+  <data key="d2">2</data>
+</edge>
+<edge source="InnovaUNAM" target="SDSN México">
+  <data key="d2">2</data>
+</edge>
+<edge source="InnovaUNAM" target="ITESM">
+  <data key="d2">3</data>
+</edge>
+<edge source="InnovaUNAM" target="FONDESO">
+  <data key="d2">3</data>
+</edge>
+<edge source="InnovaUNAM" target="Santander">
+  <data key="d2">5</data>
+</edge>
+<edge source="UAM" target="Startup México">
+  <data key="d2">2</data>
+</edge>
+<edge source="UAM" target="Santander">
+  <data key="d2">5</data>
+</edge>
+<edge source="UAM" target="Santander Universidades">
+  <data key="d2">5</data>
+</edge>
+</graph></graphml>

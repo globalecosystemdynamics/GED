@@ -1,0 +1,2813 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="Weight" attr.type="long"/>
+<key id="d1" for="node" attr.name="weight" attr.type="float"/>
+<key id="d0" for="node" attr.name="rol" attr.type="string"/>
+<graph edgedefault="directed"><node id="Rabbit">
+  <data key="d0">Enabler</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="Uruguay XXI">
+  <data key="d0">Articulator</data>
+  <data key="d1">8.8</data>
+</node>
+<node id="CUTI">
+  <data key="d0">Linker</data>
+  <data key="d1">9.0</data>
+</node>
+<node id="PEDECIBA">
+  <data key="d0">Articulator</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="BVM">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="Incubacoop">
+  <data key="d0">Enabler</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="ANII">
+  <data key="d0">Articulator</data>
+  <data key="d1">35.8</data>
+</node>
+<node id="ThalesLab">
+  <data key="d0">Enabler</data>
+  <data key="d1">2.8</data>
+</node>
+<node id="UM">
+  <data key="d0">Enabler</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="XENIORS">
+  <data key="d0">Enabler</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="CIE-ORT">
+  <data key="d0">Enabler</data>
+  <data key="d1">11.4</data>
+</node>
+<node id="Quanam">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="ANDE">
+  <data key="d0">Articulator</data>
+  <data key="d1">46.0</data>
+</node>
+<node id="CCUU">
+  <data key="d0">Linker</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="AJE">
+  <data key="d0">Linker</data>
+  <data key="d1">6.2</data>
+</node>
+<node id="El País">
+  <data key="d0">Promoter</data>
+  <data key="d1">4.0</data>
+</node>
+<node id="Co-Work LatAm">
+  <data key="d0">Enabler</data>
+  <data key="d1">2.4</data>
+</node>
+<node id="Espacio Serratosa">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="CIU">
+  <data key="d0">Linker</data>
+  <data key="d1">10.6</data>
+</node>
+<node id="IPMont">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">6.0</data>
+</node>
+<node id="BID">
+  <data key="d0">Enabler</data>
+  <data key="d1">12.6</data>
+</node>
+<node id="Transforma Uruguay">
+  <data key="d0">Articulator</data>
+  <data key="d1">7.8</data>
+</node>
+<node id="MGAP">
+  <data key="d0">Articulator</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="Xmartlabs">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Fundación Ricaldoni">
+  <data key="d0">Enabler</data>
+  <data key="d1">10.6</data>
+</node>
+<node id="Fundación da Vinci América Latina">
+  <data key="d0">Enabler</data>
+  <data key="d1">7.0</data>
+</node>
+<node id="Proyecto Kanban">
+  <data key="d0">Community</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Unidad Mypes">
+  <data key="d0">Articulator</data>
+  <data key="d1">4.0</data>
+</node>
+<node id="Comunidad Odoo">
+  <data key="d0">Community</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="Campus Party">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="UCU">
+  <data key="d0">Enabler</data>
+  <data key="d1">3.8</data>
+</node>
+<node id="INGENIO">
+  <data key="d0">Enabler</data>
+  <data key="d1">10.8</data>
+</node>
+<node id="SNCYT">
+  <data key="d0">Articulator</data>
+  <data key="d1">4.8</data>
+</node>
+<node id="OPH">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="GlobalizeU">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="IPTP">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="LATU Latitud">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Facultad Ingeniería UDELAR">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">4.8</data>
+</node>
+<node id="Universidad ORT Uruguay">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">7.2</data>
+</node>
+<node id="INIA">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">6.8</data>
+</node>
+<node id="CTPLAS">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="ANMYPE">
+  <data key="d0">Linker</data>
+  <data key="d1">3.0</data>
+</node>
+<node id="Confederación Empresarial">
+  <data key="d0">Linker</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="Comunidad Wordpress">
+  <data key="d0">Community</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="UTEC">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">11.0</data>
+</node>
+<node id="Santander Universidades">
+  <data key="d0">Enabler</data>
+  <data key="d1">2.4</data>
+</node>
+<node id="Incubadora Khem- IPTP">
+  <data key="d0">Enabler</data>
+  <data key="d1">8.6</data>
+</node>
+<node id="UEU">
+  <data key="d0">Linker</data>
+  <data key="d1">3.4</data>
+</node>
+<node id="IIBCE">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">3.0</data>
+</node>
+<node id="CUDIM">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="Socialab">
+  <data key="d0">Enabler</data>
+  <data key="d1">7.6</data>
+</node>
+<node id="UDELAR">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">12.6</data>
+</node>
+<node id="UCLEH">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="CTC">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="CISUR">
+  <data key="d0">Linker</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Centro de Extensionismo Industrial">
+  <data key="d0">Enabler</data>
+  <data key="d1">3.2</data>
+</node>
+<node id="Endeavor">
+  <data key="d0">Enabler</data>
+  <data key="d1">5.6</data>
+</node>
+<node id="Empretec">
+  <data key="d0">Enabler</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="YouHub">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Piso 40">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="INEFOP">
+  <data key="d0">Articulator</data>
+  <data key="d1">10.8</data>
+</node>
+<node id="Enperspectiva">
+  <data key="d0">Promoter</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="RAFE">
+  <data key="d0">Linker</data>
+  <data key="d1">14.8</data>
+</node>
+<node id="El Observador">
+  <data key="d0">Promoter</data>
+  <data key="d1">3.8</data>
+</node>
+<node id="MIEM-DNPI">
+  <data key="d0">Enabler</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="LATU">
+  <data key="d0">Enabler</data>
+  <data key="d1">8.6</data>
+</node>
+<node id="El Abrojo">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="FCPU">
+  <data key="d0">Linker</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="CONEXO Cowork">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Cikato">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="Sistema B">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Initium">
+  <data key="d0">Enabler</data>
+  <data key="d1">3.4</data>
+</node>
+<node id="Centro IthaKa">
+  <data key="d0">Enabler</data>
+  <data key="d1">4.4</data>
+</node>
+<node id="DGT">
+  <data key="d0">Articulator</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Desarrollo Sostenible e Inteligente">
+  <data key="d0">Articulator</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="Centro de Competitividad de Rivera">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="Centro de Competitividad de Tacuarembó">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="CETP-UTU">
+  <data key="d0">Enabler</data>
+  <data key="d1">5.6</data>
+</node>
+<node id="ICT4V">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">3.2</data>
+</node>
+<node id="Meetup Agile">
+  <data key="d0">Community</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="Meetup Sales Force">
+  <data key="d0">Community</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="IPRU">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="GRIDX">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="ACDE">
+  <data key="d0">Linker</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="IDTT">
+  <data key="d0">Articulator</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="ADEF">
+  <data key="d0">Articulator</data>
+  <data key="d1">3.6</data>
+</node>
+<node id="MIEM">
+  <data key="d0">Articulator</data>
+  <data key="d1">9.4</data>
+</node>
+<node id="RED PI">
+  <data key="d0">Linker</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Oficina de Planeamiento y Presupuesto">
+  <data key="d0">Articulator</data>
+  <data key="d1">4.0</data>
+</node>
+<node id="Antel">
+  <data key="d0">Enabler</data>
+  <data key="d1">4.6</data>
+</node>
+<node id="EUCD">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="MIEM-Dinapyme">
+  <data key="d0">Articulator</data>
+  <data key="d1">9.8</data>
+</node>
+<node id="Intendencia de Rocha">
+  <data key="d0">Articulator</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="UDEPI UDELAR">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="CTAgua">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="MRREE">
+  <data key="d0">Articulator</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Radio Universal">
+  <data key="d0">Promoter</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="INACOOP">
+  <data key="d0">Articulator</data>
+  <data key="d1">3.6</data>
+</node>
+<node id="CEDU">
+  <data key="d0">Linker</data>
+  <data key="d1">2.4</data>
+</node>
+<node id="FCEA UDELAR">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">3.6</data>
+</node>
+<node id="Intendencia de Canelones">
+  <data key="d0">Articulator</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Impulsa Industria">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Cowork Enlace">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="UDE">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CDU">
+  <data key="d0">Linker</data>
+  <data key="d1">2.4</data>
+</node>
+<node id="NahualUY">
+  <data key="d0">Community</data>
+  <data key="d1">3.4</data>
+</node>
+<node id="BIDLab">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Ashoka Uruguay">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="FUCREA">
+  <data key="d0">Linker</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CSIC UDELAR">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="ClusterUY">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="Brou">
+  <data key="d0">Enabler</data>
+  <data key="d1">2.4</data>
+</node>
+<node id="CBII">
+  <data key="d0">Enabler</data>
+  <data key="d1">3.6</data>
+</node>
+<node id="Product Hunt Montevideo">
+  <data key="d0">Community</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CCI Durazno">
+  <data key="d0">Linker</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="GEPIAN">
+  <data key="d0">Enabler</data>
+  <data key="d1">3.4</data>
+</node>
+<node id="CLUSTERPACK">
+  <data key="d0">Linker</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Ferrere">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Cowork Melo">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Del Plata Office">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Oportunidades Circulares">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="DESEM">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="El Espectador">
+  <data key="d0">Promoter</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="ADM">
+  <data key="d0">Linker</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="CCEAU">
+  <data key="d0">Linker</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Instituto 3IE">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="UNQ">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Fundación SES">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="FUNDAQUIM">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Portal Uruguay Emprendedor">
+  <data key="d0">Promoter</data>
+  <data key="d1">3.4</data>
+</node>
+<node id="Genexus">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="UPV">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="UP">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="FUNDASOL">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CNCS">
+  <data key="d0">Linker</data>
+  <data key="d1">4.4</data>
+</node>
+<node id="PCTP">
+  <data key="d0">Enabler</data>
+  <data key="d1">6.6</data>
+</node>
+<node id="C-Emprendedor">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="SINERGIA">
+  <data key="d0">Enabler</data>
+  <data key="d1">3.2</data>
+</node>
+<node id="Mujeres IT">
+  <data key="d0">Community</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="Pyxis">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="Facultad de Ciencias UDELAR">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="FQ UDELAR">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">4.0</data>
+</node>
+<node id="AUGM">
+  <data key="d0">Linker</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="INACAL">
+  <data key="d0">Articulator</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="YABT Uruguay">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Co-lavora">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="FADU UDELAR">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Cámara de Representantes">
+  <data key="d0">Articulator</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="CUDECOOP">
+  <data key="d0">Linker</data>
+  <data key="d1">4.0</data>
+</node>
+<node id="PTC">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="FIJE">
+  <data key="d0">Linker</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="MEC">
+  <data key="d0">Articulator</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="ADPUGH">
+  <data key="d0">Linker</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Anong">
+  <data key="d0">Linker</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="INTI">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="CAIME">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="ITESO">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="UVITT">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Pro Empresa">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="FOCO Comunicacion Visual">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Gobierno Nacional">
+  <data key="d0">Articulator</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="FOMIN">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="MEF">
+  <data key="d0">Articulator</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="MIT">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Erasmus">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Fundación BROU">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Santander">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Stanford d.school">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="JWEL MIT">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="FAGRO UDELAR">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Devops Day">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="WTC">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="GUYER">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="500 Startups">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="CAF">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Intendencia de Flores">
+  <data key="d0">Articulator</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Intendencia de San José">
+  <data key="d0">Articulator</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Cámara Inmobiliaria">
+  <data key="d0">Linker</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="FES">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="InnoVal">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="ANEP">
+  <data key="d0">Articulator</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CODICEN">
+  <data key="d0">Articulator</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="IILA">
+  <data key="d0">Linker</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Mobile Day">
+  <data key="d0">Promoter</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Swift Montevideo">
+  <data key="d0">Community</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="AGESIC">
+  <data key="d0">Articulator</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="ICCA">
+  <data key="d0">Linker</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="TNU">
+  <data key="d0">Promoter</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Radio Uruguay">
+  <data key="d0">Promoter</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Radio Sarandí">
+  <data key="d0">Promoter</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Crónicas Económicas">
+  <data key="d0">Promoter</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CCI Salto">
+  <data key="d0">Linker</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="OMEU">
+  <data key="d0">Linker</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="ADP">
+  <data key="d0">Articulator</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="El Empresario">
+  <data key="d0">Promoter</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="UCU Business School">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CUAM">
+  <data key="d0">Linker</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="AD Cerro Largo">
+  <data key="d0">Articulator</data>
+  <data key="d1">0.6</data>
+</node>
+<edge source="Rabbit" target="Uruguay XXI">
+  <data key="d2">1</data>
+</edge>
+<edge source="Rabbit" target="CUTI">
+  <data key="d2">1</data>
+</edge>
+<edge source="Rabbit" target="CIU">
+  <data key="d2">3</data>
+</edge>
+<edge source="Rabbit" target="MIEM">
+  <data key="d2">3</data>
+</edge>
+<edge source="Rabbit" target="ANDE">
+  <data key="d2">4</data>
+</edge>
+<edge source="Rabbit" target="ANII">
+  <data key="d2">5</data>
+</edge>
+<edge source="Uruguay XXI" target="CISUR">
+  <data key="d2">3</data>
+</edge>
+<edge source="Uruguay XXI" target="PEDECIBA">
+  <data key="d2">4</data>
+</edge>
+<edge source="Uruguay XXI" target="Transforma Uruguay">
+  <data key="d2">3</data>
+</edge>
+<edge source="Uruguay XXI" target="ANDE">
+  <data key="d2">3</data>
+</edge>
+<edge source="Uruguay XXI" target="MIEM-Dinapyme">
+  <data key="d2">3</data>
+</edge>
+<edge source="Uruguay XXI" target="ANII">
+  <data key="d2">3</data>
+</edge>
+<edge source="Uruguay XXI" target="INEFOP">
+  <data key="d2">3</data>
+</edge>
+<edge source="Uruguay XXI" target="Endeavor">
+  <data key="d2">3</data>
+</edge>
+<edge source="Uruguay XXI" target="CUTI">
+  <data key="d2">3</data>
+</edge>
+<edge source="Uruguay XXI" target="CIU">
+  <data key="d2">3</data>
+</edge>
+<edge source="Uruguay XXI" target="UEU">
+  <data key="d2">3</data>
+</edge>
+<edge source="Uruguay XXI" target="MIEM">
+  <data key="d2">3</data>
+</edge>
+<edge source="Uruguay XXI" target="BID">
+  <data key="d2">3</data>
+</edge>
+<edge source="Uruguay XXI" target="UTEC">
+  <data key="d2">3</data>
+</edge>
+<edge source="Uruguay XXI" target="FCEA UDELAR">
+  <data key="d2">3</data>
+</edge>
+<edge source="Uruguay XXI" target="Facultad Ingeniería UDELAR">
+  <data key="d2">3</data>
+</edge>
+<edge source="Uruguay XXI" target="UCU">
+  <data key="d2">3</data>
+</edge>
+<edge source="Uruguay XXI" target="CIE-ORT">
+  <data key="d2">3</data>
+</edge>
+<edge source="Uruguay XXI" target="Socialab">
+  <data key="d2">3</data>
+</edge>
+<edge source="Uruguay XXI" target="INGENIO">
+  <data key="d2">3</data>
+</edge>
+<edge source="Uruguay XXI" target="ThalesLab">
+  <data key="d2">3</data>
+</edge>
+<edge source="Uruguay XXI" target="SINERGIA">
+  <data key="d2">3</data>
+</edge>
+<edge source="Uruguay XXI" target="ICT4V">
+  <data key="d2">3</data>
+</edge>
+<edge source="Uruguay XXI" target="INIA">
+  <data key="d2">3</data>
+</edge>
+<edge source="Uruguay XXI" target="Oficina de Planeamiento y Presupuesto">
+  <data key="d2">3</data>
+</edge>
+<edge source="Uruguay XXI" target="CDU">
+  <data key="d2">3</data>
+</edge>
+<edge source="Uruguay XXI" target="CEDU">
+  <data key="d2">3</data>
+</edge>
+<edge source="CUTI" target="CCUU">
+  <data key="d2">1</data>
+</edge>
+<edge source="CUTI" target="INGENIO">
+  <data key="d2">1</data>
+</edge>
+<edge source="CUTI" target="ANDE">
+  <data key="d2">3</data>
+</edge>
+<edge source="CUTI" target="Antel">
+  <data key="d2">3</data>
+</edge>
+<edge source="CUTI" target="MRREE">
+  <data key="d2">3</data>
+</edge>
+<edge source="CUTI" target="UTEC">
+  <data key="d2">4</data>
+</edge>
+<edge source="CUTI" target="INEFOP">
+  <data key="d2">4</data>
+</edge>
+<edge source="CUTI" target="Uruguay XXI">
+  <data key="d2">4</data>
+</edge>
+<edge source="CUTI" target="MIEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="CUTI" target="Pyxis">
+  <data key="d2">3</data>
+</edge>
+<edge source="PEDECIBA" target="BVM">
+  <data key="d2">1</data>
+</edge>
+<edge source="PEDECIBA" target="Incubadora Khem- IPTP">
+  <data key="d2">2</data>
+</edge>
+<edge source="PEDECIBA" target="UEU">
+  <data key="d2">2</data>
+</edge>
+<edge source="PEDECIBA" target="IPMont">
+  <data key="d2">2</data>
+</edge>
+<edge source="PEDECIBA" target="IIBCE">
+  <data key="d2">2</data>
+</edge>
+<edge source="PEDECIBA" target="INIA">
+  <data key="d2">2</data>
+</edge>
+<edge source="PEDECIBA" target="CUDIM">
+  <data key="d2">2</data>
+</edge>
+<edge source="PEDECIBA" target="LATU Latitud">
+  <data key="d2">2</data>
+</edge>
+<edge source="PEDECIBA" target="GRIDX">
+  <data key="d2">3</data>
+</edge>
+<edge source="PEDECIBA" target="CIU">
+  <data key="d2">3</data>
+</edge>
+<edge source="PEDECIBA" target="UDELAR">
+  <data key="d2">5</data>
+</edge>
+<edge source="PEDECIBA" target="Universidad ORT Uruguay">
+  <data key="d2">3</data>
+</edge>
+<edge source="PEDECIBA" target="RED PI">
+  <data key="d2">3</data>
+</edge>
+<edge source="PEDECIBA" target="ANII">
+  <data key="d2">4</data>
+</edge>
+<edge source="PEDECIBA" target="Uruguay XXI">
+  <data key="d2">5</data>
+</edge>
+<edge source="Incubacoop" target="ANII">
+  <data key="d2">1</data>
+</edge>
+<edge source="Incubacoop" target="ANDE">
+  <data key="d2">3</data>
+</edge>
+<edge source="Incubacoop" target="FUNDASOL">
+  <data key="d2">4</data>
+</edge>
+<edge source="Incubacoop" target="MIEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="Incubacoop" target="CUDECOOP">
+  <data key="d2">5</data>
+</edge>
+<edge source="Incubacoop" target="INACOOP">
+  <data key="d2">5</data>
+</edge>
+<edge source="Incubacoop" target="RAFE">
+  <data key="d2">5</data>
+</edge>
+<edge source="Incubacoop" target="Portal Uruguay Emprendedor">
+  <data key="d2">5</data>
+</edge>
+<edge source="Incubacoop" target="IPMont">
+  <data key="d2">5</data>
+</edge>
+<edge source="Incubacoop" target="UTEC">
+  <data key="d2">5</data>
+</edge>
+<edge source="ANII" target="Quanam">
+  <data key="d2">2</data>
+</edge>
+<edge source="ANII" target="Antel">
+  <data key="d2">3</data>
+</edge>
+<edge source="ANII" target="El País">
+  <data key="d2">3</data>
+</edge>
+<edge source="ANII" target="LATU">
+  <data key="d2">5</data>
+</edge>
+<edge source="ANII" target="INGENIO">
+  <data key="d2">5</data>
+</edge>
+<edge source="ANII" target="ANDE">
+  <data key="d2">1</data>
+</edge>
+<edge source="ANII" target="ThalesLab">
+  <data key="d2">1</data>
+</edge>
+<edge source="ANII" target="Endeavor">
+  <data key="d2">1</data>
+</edge>
+<edge source="ANII" target="Gobierno Nacional">
+  <data key="d2">5</data>
+</edge>
+<edge source="ANII" target="MEF">
+  <data key="d2">5</data>
+</edge>
+<edge source="ANII" target="Centro IthaKa">
+  <data key="d2">3</data>
+</edge>
+<edge source="ANII" target="CIE-ORT">
+  <data key="d2">3</data>
+</edge>
+<edge source="ANII" target="Fundación Ricaldoni">
+  <data key="d2">3</data>
+</edge>
+<edge source="ANII" target="SINERGIA">
+  <data key="d2">3</data>
+</edge>
+<edge source="ANII" target="Socialab">
+  <data key="d2">3</data>
+</edge>
+<edge source="ANII" target="Piso 40">
+  <data key="d2">3</data>
+</edge>
+<edge source="ANII" target="FCEA UDELAR">
+  <data key="d2">3</data>
+</edge>
+<edge source="ANII" target="FQ UDELAR">
+  <data key="d2">3</data>
+</edge>
+<edge source="ThalesLab" target="UM">
+  <data key="d2">1</data>
+</edge>
+<edge source="ThalesLab" target="Socialab">
+  <data key="d2">2</data>
+</edge>
+<edge source="ThalesLab" target="Endeavor">
+  <data key="d2">2</data>
+</edge>
+<edge source="ThalesLab" target="Fundación Ricaldoni">
+  <data key="d2">3</data>
+</edge>
+<edge source="ThalesLab" target="ANII">
+  <data key="d2">5</data>
+</edge>
+<edge source="ThalesLab" target="BID">
+  <data key="d2">5</data>
+</edge>
+<edge source="ThalesLab" target="Genexus">
+  <data key="d2">5</data>
+</edge>
+<edge source="ThalesLab" target="ANDE">
+  <data key="d2">5</data>
+</edge>
+<edge source="XENIORS" target="CIE-ORT">
+  <data key="d2">1</data>
+</edge>
+<edge source="XENIORS" target="ANII">
+  <data key="d2">2</data>
+</edge>
+<edge source="XENIORS" target="Piso 40">
+  <data key="d2">2</data>
+</edge>
+<edge source="XENIORS" target="INEFOP">
+  <data key="d2">2</data>
+</edge>
+<edge source="XENIORS" target="ACDE">
+  <data key="d2">3</data>
+</edge>
+<edge source="XENIORS" target="RAFE">
+  <data key="d2">3</data>
+</edge>
+<edge source="XENIORS" target="ANDE">
+  <data key="d2">4</data>
+</edge>
+<edge source="XENIORS" target="CNCS">
+  <data key="d2">1</data>
+</edge>
+<edge source="XENIORS" target="CETP-UTU">
+  <data key="d2">1</data>
+</edge>
+<edge source="CIE-ORT" target="INGENIO">
+  <data key="d2">4</data>
+</edge>
+<edge source="CIE-ORT" target="ANDE">
+  <data key="d2">3</data>
+</edge>
+<edge source="CIE-ORT" target="Antel">
+  <data key="d2">3</data>
+</edge>
+<edge source="CIE-ORT" target="ANII">
+  <data key="d2">4</data>
+</edge>
+<edge source="CIE-ORT" target="UTEC">
+  <data key="d2">4</data>
+</edge>
+<edge source="CIE-ORT" target="CBII">
+  <data key="d2">4</data>
+</edge>
+<edge source="CIE-ORT" target="UM">
+  <data key="d2">4</data>
+</edge>
+<edge source="CIE-ORT" target="UCU">
+  <data key="d2">4</data>
+</edge>
+<edge source="CIE-ORT" target="UDELAR">
+  <data key="d2">4</data>
+</edge>
+<edge source="CIE-ORT" target="Fundación da Vinci América Latina">
+  <data key="d2">4</data>
+</edge>
+<edge source="CIE-ORT" target="Ferrere">
+  <data key="d2">4</data>
+</edge>
+<edge source="CIE-ORT" target="Initium">
+  <data key="d2">4</data>
+</edge>
+<edge source="CIE-ORT" target="ThalesLab">
+  <data key="d2">4</data>
+</edge>
+<edge source="CIE-ORT" target="El País">
+  <data key="d2">3</data>
+</edge>
+<edge source="CIE-ORT" target="RAFE">
+  <data key="d2">3</data>
+</edge>
+<edge source="CIE-ORT" target="Universidad ORT Uruguay">
+  <data key="d2">5</data>
+</edge>
+<edge source="CIE-ORT" target="Endeavor">
+  <data key="d2">3</data>
+</edge>
+<edge source="CIE-ORT" target="AJE">
+  <data key="d2">3</data>
+</edge>
+<edge source="CIE-ORT" target="CUTI">
+  <data key="d2">3</data>
+</edge>
+<edge source="CIE-ORT" target="CNCS">
+  <data key="d2">3</data>
+</edge>
+<edge source="CIE-ORT" target="El Observador">
+  <data key="d2">3</data>
+</edge>
+<edge source="CIE-ORT" target="YouHub">
+  <data key="d2">3</data>
+</edge>
+<edge source="CIE-ORT" target="WTC">
+  <data key="d2">3</data>
+</edge>
+<edge source="CIE-ORT" target="GUYER">
+  <data key="d2">3</data>
+</edge>
+<edge source="CIE-ORT" target="Santander">
+  <data key="d2">3</data>
+</edge>
+<edge source="Quanam" target="CUTI">
+  <data key="d2">1</data>
+</edge>
+<edge source="Quanam" target="ANDE">
+  <data key="d2">1</data>
+</edge>
+<edge source="Quanam" target="Facultad Ingeniería UDELAR">
+  <data key="d2">1</data>
+</edge>
+<edge source="Quanam" target="Universidad ORT Uruguay">
+  <data key="d2">1</data>
+</edge>
+<edge source="Quanam" target="INIA">
+  <data key="d2">1</data>
+</edge>
+<edge source="Quanam" target="UCU">
+  <data key="d2">1</data>
+</edge>
+<edge source="Quanam" target="Enperspectiva">
+  <data key="d2">2</data>
+</edge>
+<edge source="Quanam" target="Transforma Uruguay">
+  <data key="d2">3</data>
+</edge>
+<edge source="Quanam" target="Antel">
+  <data key="d2">3</data>
+</edge>
+<edge source="Quanam" target="ANII">
+  <data key="d2">5</data>
+</edge>
+<edge source="ANDE" target="DGT">
+  <data key="d2">2</data>
+</edge>
+<edge source="ANDE" target="Co-Work LatAm">
+  <data key="d2">2</data>
+</edge>
+<edge source="ANDE" target="INGENIO">
+  <data key="d2">3</data>
+</edge>
+<edge source="ANDE" target="UTEC">
+  <data key="d2">4</data>
+</edge>
+<edge source="ANDE" target="CIE-ORT">
+  <data key="d2">4</data>
+</edge>
+<edge source="ANDE" target="SINERGIA">
+  <data key="d2">4</data>
+</edge>
+<edge source="ANDE" target="ANMYPE">
+  <data key="d2">3</data>
+</edge>
+<edge source="ANDE" target="El País">
+  <data key="d2">3</data>
+</edge>
+<edge source="ANDE" target="CETP-UTU">
+  <data key="d2">4</data>
+</edge>
+<edge source="ANDE" target="Centro IthaKa">
+  <data key="d2">5</data>
+</edge>
+<edge source="ANDE" target="Socialab">
+  <data key="d2">5</data>
+</edge>
+<edge source="ANDE" target="GEPIAN">
+  <data key="d2">5</data>
+</edge>
+<edge source="ANDE" target="ADEF">
+  <data key="d2">5</data>
+</edge>
+<edge source="ANDE" target="ANII">
+  <data key="d2">5</data>
+</edge>
+<edge source="ANDE" target="Oficina de Planeamiento y Presupuesto">
+  <data key="d2">5</data>
+</edge>
+<edge source="ANDE" target="Incubadora Khem- IPTP">
+  <data key="d2">3</data>
+</edge>
+<edge source="ANDE" target="XENIORS">
+  <data key="d2">3</data>
+</edge>
+<edge source="ANDE" target="CIU">
+  <data key="d2">3</data>
+</edge>
+<edge source="ANDE" target="El Observador">
+  <data key="d2">3</data>
+</edge>
+<edge source="ANDE" target="MIEM">
+  <data key="d2">3</data>
+</edge>
+<edge source="ANDE" target="OMEU">
+  <data key="d2">3</data>
+</edge>
+<edge source="ANDE" target="UDELAR">
+  <data key="d2">3</data>
+</edge>
+<edge source="ANDE" target="ADP">
+  <data key="d2">3</data>
+</edge>
+<edge source="ANDE" target="DESEM">
+  <data key="d2">3</data>
+</edge>
+<edge source="AJE" target="El País">
+  <data key="d2">3</data>
+</edge>
+<edge source="AJE" target="RAFE">
+  <data key="d2">2</data>
+</edge>
+<edge source="AJE" target="El Observador">
+  <data key="d2">2</data>
+</edge>
+<edge source="AJE" target="Radio Universal">
+  <data key="d2">3</data>
+</edge>
+<edge source="AJE" target="ANDE">
+  <data key="d2">4</data>
+</edge>
+<edge source="AJE" target="DESEM">
+  <data key="d2">4</data>
+</edge>
+<edge source="AJE" target="El Espectador">
+  <data key="d2">4</data>
+</edge>
+<edge source="AJE" target="Co-Work LatAm">
+  <data key="d2">3</data>
+</edge>
+<edge source="AJE" target="FIJE">
+  <data key="d2">5</data>
+</edge>
+<edge source="AJE" target="Universidad ORT Uruguay">
+  <data key="d2">3</data>
+</edge>
+<edge source="El País" target="CEDU">
+  <data key="d2">3</data>
+</edge>
+<edge source="El País" target="ADM">
+  <data key="d2">4</data>
+</edge>
+<edge source="El País" target="CUTI">
+  <data key="d2">4</data>
+</edge>
+<edge source="El País" target="CCEAU">
+  <data key="d2">4</data>
+</edge>
+<edge source="El País" target="ADPUGH">
+  <data key="d2">5</data>
+</edge>
+<edge source="El País" target="ANDE">
+  <data key="d2">5</data>
+</edge>
+<edge source="Co-Work LatAm" target="Espacio Serratosa">
+  <data key="d2">1</data>
+</edge>
+<edge source="Co-Work LatAm" target="CIU">
+  <data key="d2">1</data>
+</edge>
+<edge source="Co-Work LatAm" target="Incubadora Khem- IPTP">
+  <data key="d2">2</data>
+</edge>
+<edge source="Co-Work LatAm" target="AJE">
+  <data key="d2">5</data>
+</edge>
+<edge source="Co-Work LatAm" target="Fundación da Vinci América Latina">
+  <data key="d2">5</data>
+</edge>
+<edge source="CIU" target="ANII">
+  <data key="d2">2</data>
+</edge>
+<edge source="CIU" target="UTEC">
+  <data key="d2">2</data>
+</edge>
+<edge source="CIU" target="AJE">
+  <data key="d2">3</data>
+</edge>
+<edge source="CIU" target="Instituto 3IE">
+  <data key="d2">4</data>
+</edge>
+<edge source="CIU" target="GEPIAN">
+  <data key="d2">4</data>
+</edge>
+<edge source="CIU" target="ANDE">
+  <data key="d2">5</data>
+</edge>
+<edge source="CIU" target="INEFOP">
+  <data key="d2">5</data>
+</edge>
+<edge source="CIU" target="Empretec">
+  <data key="d2">5</data>
+</edge>
+<edge source="CIU" target="RAFE">
+  <data key="d2">5</data>
+</edge>
+<edge source="IPMont" target="BID">
+  <data key="d2">1</data>
+</edge>
+<edge source="IPMont" target="MIEM">
+  <data key="d2">3</data>
+</edge>
+<edge source="IPMont" target="ANDE">
+  <data key="d2">3</data>
+</edge>
+<edge source="IPMont" target="ANII">
+  <data key="d2">5</data>
+</edge>
+<edge source="IPMont" target="UDELAR">
+  <data key="d2">5</data>
+</edge>
+<edge source="IPMont" target="MEC">
+  <data key="d2">5</data>
+</edge>
+<edge source="IPMont" target="IIBCE">
+  <data key="d2">5</data>
+</edge>
+<edge source="IPMont" target="CISUR">
+  <data key="d2">5</data>
+</edge>
+<edge source="IPMont" target="UDEPI UDELAR">
+  <data key="d2">5</data>
+</edge>
+<edge source="BID" target="Rabbit">
+  <data key="d2">2</data>
+</edge>
+<edge source="BID" target="INGENIO">
+  <data key="d2">5</data>
+</edge>
+<edge source="Transforma Uruguay" target="MGAP">
+  <data key="d2">1</data>
+</edge>
+<edge source="Transforma Uruguay" target="LATU">
+  <data key="d2">2</data>
+</edge>
+<edge source="Transforma Uruguay" target="LATU Latitud">
+  <data key="d2">2</data>
+</edge>
+<edge source="Transforma Uruguay" target="INACOOP">
+  <data key="d2">3</data>
+</edge>
+<edge source="Transforma Uruguay" target="ANII">
+  <data key="d2">4</data>
+</edge>
+<edge source="Transforma Uruguay" target="Uruguay XXI">
+  <data key="d2">4</data>
+</edge>
+<edge source="Transforma Uruguay" target="ANDE">
+  <data key="d2">5</data>
+</edge>
+<edge source="Transforma Uruguay" target="MIEM-Dinapyme">
+  <data key="d2">5</data>
+</edge>
+<edge source="Transforma Uruguay" target="INEFOP">
+  <data key="d2">5</data>
+</edge>
+<edge source="Transforma Uruguay" target="RAFE">
+  <data key="d2">5</data>
+</edge>
+<edge source="Transforma Uruguay" target="Centro de Extensionismo Industrial">
+  <data key="d2">5</data>
+</edge>
+<edge source="Xmartlabs" target="Fundación Ricaldoni">
+  <data key="d2">1</data>
+</edge>
+<edge source="Xmartlabs" target="ANII">
+  <data key="d2">2</data>
+</edge>
+<edge source="Xmartlabs" target="Endeavor">
+  <data key="d2">2</data>
+</edge>
+<edge source="Xmartlabs" target="ANDE">
+  <data key="d2">3</data>
+</edge>
+<edge source="Xmartlabs" target="El País">
+  <data key="d2">3</data>
+</edge>
+<edge source="Xmartlabs" target="BID">
+  <data key="d2">3</data>
+</edge>
+<edge source="Xmartlabs" target="El Observador">
+  <data key="d2">3</data>
+</edge>
+<edge source="Xmartlabs" target="INGENIO">
+  <data key="d2">5</data>
+</edge>
+<edge source="Xmartlabs" target="Uruguay XXI">
+  <data key="d2">4</data>
+</edge>
+<edge source="Xmartlabs" target="UDELAR">
+  <data key="d2">5</data>
+</edge>
+<edge source="Xmartlabs" target="Universidad ORT Uruguay">
+  <data key="d2">3</data>
+</edge>
+<edge source="Xmartlabs" target="UEU">
+  <data key="d2">3</data>
+</edge>
+<edge source="Xmartlabs" target="Mobile Day">
+  <data key="d2">3</data>
+</edge>
+<edge source="Xmartlabs" target="Swift Montevideo">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fundación Ricaldoni" target="CETP-UTU">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fundación Ricaldoni" target="Fundación da Vinci América Latina">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fundación Ricaldoni" target="RAFE">
+  <data key="d2">4</data>
+</edge>
+<edge source="Fundación Ricaldoni" target="INGENIO">
+  <data key="d2">5</data>
+</edge>
+<edge source="Fundación Ricaldoni" target="OPH">
+  <data key="d2">1</data>
+</edge>
+<edge source="Fundación Ricaldoni" target="CTPLAS">
+  <data key="d2">1</data>
+</edge>
+<edge source="Fundación Ricaldoni" target="FOMIN">
+  <data key="d2">5</data>
+</edge>
+<edge source="Fundación Ricaldoni" target="Facultad Ingeniería UDELAR">
+  <data key="d2">5</data>
+</edge>
+<edge source="Fundación Ricaldoni" target="Incubadora Khem- IPTP">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fundación Ricaldoni" target="ANDE">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fundación Ricaldoni" target="ANII">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fundación Ricaldoni" target="UDELAR">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fundación Ricaldoni" target="BID">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fundación Ricaldoni" target="CIU">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fundación Ricaldoni" target="Universidad ORT Uruguay">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fundación Ricaldoni" target="UM">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fundación Ricaldoni" target="UCU">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fundación Ricaldoni" target="MEC">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fundación Ricaldoni" target="AGESIC">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fundación Ricaldoni" target="MIEM">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fundación da Vinci América Latina" target="CUTI">
+  <data key="d2">1</data>
+</edge>
+<edge source="Fundación da Vinci América Latina" target="Cikato">
+  <data key="d2">2</data>
+</edge>
+<edge source="Fundación da Vinci América Latina" target="Centro IthaKa">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fundación da Vinci América Latina" target="CIE-ORT">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fundación da Vinci América Latina" target="AJE">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fundación da Vinci América Latina" target="ACDE">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fundación da Vinci América Latina" target="El País">
+  <data key="d2">4</data>
+</edge>
+<edge source="Fundación da Vinci América Latina" target="Co-Work LatAm">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fundación da Vinci América Latina" target="CETP-UTU">
+  <data key="d2">4</data>
+</edge>
+<edge source="Fundación da Vinci América Latina" target="ANII">
+  <data key="d2">5</data>
+</edge>
+<edge source="Fundación da Vinci América Latina" target="ANDE">
+  <data key="d2">5</data>
+</edge>
+<edge source="Fundación da Vinci América Latina" target="Incubadora Khem- IPTP">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fundación da Vinci América Latina" target="El Empresario">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fundación da Vinci América Latina" target="El Observador">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fundación da Vinci América Latina" target="UCU Business School">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fundación da Vinci América Latina" target="Uruguay XXI">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fundación da Vinci América Latina" target="RAFE">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fundación da Vinci América Latina" target="Portal Uruguay Emprendedor">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fundación da Vinci América Latina" target="MIEM">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fundación da Vinci América Latina" target="INIA">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fundación da Vinci América Latina" target="Espacio Serratosa">
+  <data key="d2">3</data>
+</edge>
+<edge source="Proyecto Kanban" target="Unidad Mypes">
+  <data key="d2">1</data>
+</edge>
+<edge source="Proyecto Kanban" target="Comunidad Odoo">
+  <data key="d2">1</data>
+</edge>
+<edge source="Proyecto Kanban" target="Comunidad Wordpress">
+  <data key="d2">1</data>
+</edge>
+<edge source="Proyecto Kanban" target="NahualUY">
+  <data key="d2">5</data>
+</edge>
+<edge source="Proyecto Kanban" target="Co-Work LatAm">
+  <data key="d2">3</data>
+</edge>
+<edge source="Proyecto Kanban" target="Mujeres IT">
+  <data key="d2">4</data>
+</edge>
+<edge source="Proyecto Kanban" target="Pyxis">
+  <data key="d2">4</data>
+</edge>
+<edge source="Unidad Mypes" target="CIU">
+  <data key="d2">3</data>
+</edge>
+<edge source="Unidad Mypes" target="INEFOP">
+  <data key="d2">3</data>
+</edge>
+<edge source="Unidad Mypes" target="IPRU">
+  <data key="d2">4</data>
+</edge>
+<edge source="Unidad Mypes" target="Brou">
+  <data key="d2">4</data>
+</edge>
+<edge source="Unidad Mypes" target="ANDE">
+  <data key="d2">5</data>
+</edge>
+<edge source="Unidad Mypes" target="ANMYPE">
+  <data key="d2">3</data>
+</edge>
+<edge source="Unidad Mypes" target="RAFE">
+  <data key="d2">5</data>
+</edge>
+<edge source="Unidad Mypes" target="Incubadora Khem- IPTP">
+  <data key="d2">3</data>
+</edge>
+<edge source="Campus Party" target="Rabbit">
+  <data key="d2">1</data>
+</edge>
+<edge source="UCU" target="INGENIO">
+  <data key="d2">1</data>
+</edge>
+<edge source="UCU" target="Unidad Mypes">
+  <data key="d2">4</data>
+</edge>
+<edge source="UCU" target="ANDE">
+  <data key="d2">5</data>
+</edge>
+<edge source="UCU" target="Santander Universidades">
+  <data key="d2">5</data>
+</edge>
+<edge source="UCU" target="ANII">
+  <data key="d2">3</data>
+</edge>
+<edge source="UCU" target="Universidad ORT Uruguay">
+  <data key="d2">3</data>
+</edge>
+<edge source="UCU" target="Initium">
+  <data key="d2">3</data>
+</edge>
+<edge source="UCU" target="Socialab">
+  <data key="d2">3</data>
+</edge>
+<edge source="UCU" target="IDTT">
+  <data key="d2">3</data>
+</edge>
+<edge source="UCU" target="AD Cerro Largo">
+  <data key="d2">3</data>
+</edge>
+<edge source="INGENIO" target="UTEC">
+  <data key="d2">2</data>
+</edge>
+<edge source="INGENIO" target="Endeavor">
+  <data key="d2">2</data>
+</edge>
+<edge source="INGENIO" target="RAFE">
+  <data key="d2">4</data>
+</edge>
+<edge source="INGENIO" target="Initium">
+  <data key="d2">3</data>
+</edge>
+<edge source="INGENIO" target="AJE">
+  <data key="d2">3</data>
+</edge>
+<edge source="INGENIO" target="CUTI">
+  <data key="d2">3</data>
+</edge>
+<edge source="INGENIO" target="Fundación Ricaldoni">
+  <data key="d2">4</data>
+</edge>
+<edge source="INGENIO" target="ANII">
+  <data key="d2">5</data>
+</edge>
+<edge source="INGENIO" target="BID">
+  <data key="d2">5</data>
+</edge>
+<edge source="INGENIO" target="LATU">
+  <data key="d2">5</data>
+</edge>
+<edge source="SNCYT" target="OPH">
+  <data key="d2">1</data>
+</edge>
+<edge source="SNCYT" target="Antel">
+  <data key="d2">3</data>
+</edge>
+<edge source="SNCYT" target="PEDECIBA">
+  <data key="d2">4</data>
+</edge>
+<edge source="SNCYT" target="Transforma Uruguay">
+  <data key="d2">5</data>
+</edge>
+<edge source="OPH" target="CTPLAS">
+  <data key="d2">1</data>
+</edge>
+<edge source="OPH" target="MIEM-DNPI">
+  <data key="d2">2</data>
+</edge>
+<edge source="OPH" target="Fundación Ricaldoni">
+  <data key="d2">5</data>
+</edge>
+<edge source="OPH" target="PCTP">
+  <data key="d2">5</data>
+</edge>
+<edge source="GlobalizeU" target="Co-Work LatAm">
+  <data key="d2">1</data>
+</edge>
+<edge source="IPTP" target="Fundación da Vinci América Latina">
+  <data key="d2">1</data>
+</edge>
+<edge source="LATU Latitud" target="ANDE">
+  <data key="d2">1</data>
+</edge>
+<edge source="LATU Latitud" target="INGENIO">
+  <data key="d2">1</data>
+</edge>
+<edge source="LATU Latitud" target="SNCYT">
+  <data key="d2">2</data>
+</edge>
+<edge source="LATU Latitud" target="Uruguay XXI">
+  <data key="d2">2</data>
+</edge>
+<edge source="LATU Latitud" target="CIU">
+  <data key="d2">3</data>
+</edge>
+<edge source="LATU Latitud" target="UEU">
+  <data key="d2">3</data>
+</edge>
+<edge source="LATU Latitud" target="ANII">
+  <data key="d2">5</data>
+</edge>
+<edge source="LATU Latitud" target="LATU">
+  <data key="d2">5</data>
+</edge>
+<edge source="LATU Latitud" target="CTAgua">
+  <data key="d2">3</data>
+</edge>
+<edge source="LATU Latitud" target="FQ UDELAR">
+  <data key="d2">3</data>
+</edge>
+<edge source="LATU Latitud" target="Facultad Ingeniería UDELAR">
+  <data key="d2">3</data>
+</edge>
+<edge source="LATU Latitud" target="Facultad de Ciencias UDELAR">
+  <data key="d2">3</data>
+</edge>
+<edge source="LATU Latitud" target="FAGRO UDELAR">
+  <data key="d2">3</data>
+</edge>
+<edge source="LATU Latitud" target="UTEC">
+  <data key="d2">3</data>
+</edge>
+<edge source="LATU Latitud" target="INIA">
+  <data key="d2">3</data>
+</edge>
+<edge source="Facultad Ingeniería UDELAR" target="DGT">
+  <data key="d2">2</data>
+</edge>
+<edge source="Facultad Ingeniería UDELAR" target="OPH">
+  <data key="d2">3</data>
+</edge>
+<edge source="Facultad Ingeniería UDELAR" target="Antel">
+  <data key="d2">4</data>
+</edge>
+<edge source="Universidad ORT Uruguay" target="IPMont">
+  <data key="d2">4</data>
+</edge>
+<edge source="INIA" target="Antel">
+  <data key="d2">3</data>
+</edge>
+<edge source="INIA" target="UDEPI UDELAR">
+  <data key="d2">4</data>
+</edge>
+<edge source="INIA" target="CISUR">
+  <data key="d2">5</data>
+</edge>
+<edge source="INIA" target="Cámara de Representantes">
+  <data key="d2">5</data>
+</edge>
+<edge source="INIA" target="ANII">
+  <data key="d2">5</data>
+</edge>
+<edge source="CTPLAS" target="CIU">
+  <data key="d2">4</data>
+</edge>
+<edge source="ANMYPE" target="Confederación Empresarial">
+  <data key="d2">1</data>
+</edge>
+<edge source="ANMYPE" target="INEFOP">
+  <data key="d2">3</data>
+</edge>
+<edge source="ANMYPE" target="CLUSTERPACK">
+  <data key="d2">3</data>
+</edge>
+<edge source="ANMYPE" target="MIEM-Dinapyme">
+  <data key="d2">4</data>
+</edge>
+<edge source="ANMYPE" target="RAFE">
+  <data key="d2">5</data>
+</edge>
+<edge source="ANMYPE" target="ANDE">
+  <data key="d2">5</data>
+</edge>
+<edge source="ANMYPE" target="IILA">
+  <data key="d2">3</data>
+</edge>
+<edge source="UTEC" target="Santander Universidades">
+  <data key="d2">2</data>
+</edge>
+<edge source="UTEC" target="Socialab">
+  <data key="d2">3</data>
+</edge>
+<edge source="UTEC" target="ANII">
+  <data key="d2">4</data>
+</edge>
+<edge source="UTEC" target="BID">
+  <data key="d2">4</data>
+</edge>
+<edge source="UTEC" target="OPH">
+  <data key="d2">4</data>
+</edge>
+<edge source="UTEC" target="ANDE">
+  <data key="d2">5</data>
+</edge>
+<edge source="UTEC" target="CIE-ORT">
+  <data key="d2">5</data>
+</edge>
+<edge source="UTEC" target="SINERGIA">
+  <data key="d2">3</data>
+</edge>
+<edge source="UTEC" target="CETP-UTU">
+  <data key="d2">3</data>
+</edge>
+<edge source="UTEC" target="CUTI">
+  <data key="d2">3</data>
+</edge>
+<edge source="UTEC" target="INEFOP">
+  <data key="d2">3</data>
+</edge>
+<edge source="UTEC" target="Impulsa Industria">
+  <data key="d2">3</data>
+</edge>
+<edge source="UTEC" target="LATU">
+  <data key="d2">3</data>
+</edge>
+<edge source="UTEC" target="INGENIO">
+  <data key="d2">3</data>
+</edge>
+<edge source="UTEC" target="Initium">
+  <data key="d2">3</data>
+</edge>
+<edge source="UTEC" target="Centro IthaKa">
+  <data key="d2">3</data>
+</edge>
+<edge source="UTEC" target="MIT">
+  <data key="d2">3</data>
+</edge>
+<edge source="UTEC" target="Incubacoop">
+  <data key="d2">3</data>
+</edge>
+<edge source="UTEC" target="Erasmus">
+  <data key="d2">3</data>
+</edge>
+<edge source="UTEC" target="Fundación BROU">
+  <data key="d2">3</data>
+</edge>
+<edge source="Incubadora Khem- IPTP" target="Intendencia de Canelones">
+  <data key="d2">3</data>
+</edge>
+<edge source="Incubadora Khem- IPTP" target="IIBCE">
+  <data key="d2">3</data>
+</edge>
+<edge source="Incubadora Khem- IPTP" target="SNCYT">
+  <data key="d2">3</data>
+</edge>
+<edge source="Incubadora Khem- IPTP" target="LATU Latitud">
+  <data key="d2">3</data>
+</edge>
+<edge source="Incubadora Khem- IPTP" target="DGT">
+  <data key="d2">3</data>
+</edge>
+<edge source="Incubadora Khem- IPTP" target="OPH">
+  <data key="d2">3</data>
+</edge>
+<edge source="Incubadora Khem- IPTP" target="ANDE">
+  <data key="d2">4</data>
+</edge>
+<edge source="Incubadora Khem- IPTP" target="IPMont">
+  <data key="d2">4</data>
+</edge>
+<edge source="Incubadora Khem- IPTP" target="PCTP">
+  <data key="d2">5</data>
+</edge>
+<edge source="Incubadora Khem- IPTP" target="ANII">
+  <data key="d2">5</data>
+</edge>
+<edge source="Incubadora Khem- IPTP" target="FQ UDELAR">
+  <data key="d2">5</data>
+</edge>
+<edge source="Incubadora Khem- IPTP" target="Fundación Ricaldoni">
+  <data key="d2">3</data>
+</edge>
+<edge source="Incubadora Khem- IPTP" target="Fundación da Vinci América Latina">
+  <data key="d2">3</data>
+</edge>
+<edge source="Incubadora Khem- IPTP" target="UM">
+  <data key="d2">3</data>
+</edge>
+<edge source="Incubadora Khem- IPTP" target="INGENIO">
+  <data key="d2">3</data>
+</edge>
+<edge source="IIBCE" target="CISUR">
+  <data key="d2">5</data>
+</edge>
+<edge source="CUDIM" target="CISUR">
+  <data key="d2">5</data>
+</edge>
+<edge source="Socialab" target="UDELAR">
+  <data key="d2">2</data>
+</edge>
+<edge source="Socialab" target="CIE-ORT">
+  <data key="d2">4</data>
+</edge>
+<edge source="Socialab" target="Oficina de Planeamiento y Presupuesto">
+  <data key="d2">3</data>
+</edge>
+<edge source="Socialab" target="CETP-UTU">
+  <data key="d2">3</data>
+</edge>
+<edge source="Socialab" target="Antel">
+  <data key="d2">3</data>
+</edge>
+<edge source="Socialab" target="UTEC">
+  <data key="d2">4</data>
+</edge>
+<edge source="Socialab" target="ANDE">
+  <data key="d2">5</data>
+</edge>
+<edge source="Socialab" target="ANII">
+  <data key="d2">5</data>
+</edge>
+<edge source="Socialab" target="BID">
+  <data key="d2">5</data>
+</edge>
+<edge source="UDELAR" target="OPH">
+  <data key="d2">4</data>
+</edge>
+<edge source="UDELAR" target="CSIC UDELAR">
+  <data key="d2">1</data>
+</edge>
+<edge source="UDELAR" target="UDEPI UDELAR">
+  <data key="d2">1</data>
+</edge>
+<edge source="UCLEH" target="CTC">
+  <data key="d2">2</data>
+</edge>
+<edge source="UCLEH" target="ANII">
+  <data key="d2">3</data>
+</edge>
+<edge source="UCLEH" target="ANDE">
+  <data key="d2">5</data>
+</edge>
+<edge source="UCLEH" target="ANMYPE">
+  <data key="d2">3</data>
+</edge>
+<edge source="UCLEH" target="INEFOP">
+  <data key="d2">3</data>
+</edge>
+<edge source="UCLEH" target="MIEM">
+  <data key="d2">4</data>
+</edge>
+<edge source="UCLEH" target="Cowork Melo">
+  <data key="d2">4</data>
+</edge>
+<edge source="UCLEH" target="Del Plata Office">
+  <data key="d2">4</data>
+</edge>
+<edge source="UCLEH" target="Oportunidades Circulares">
+  <data key="d2">4</data>
+</edge>
+<edge source="CISUR" target="Transforma Uruguay">
+  <data key="d2">2</data>
+</edge>
+<edge source="CISUR" target="Centro de Extensionismo Industrial">
+  <data key="d2">2</data>
+</edge>
+<edge source="CISUR" target="BID">
+  <data key="d2">3</data>
+</edge>
+<edge source="CISUR" target="Incubadora Khem- IPTP">
+  <data key="d2">3</data>
+</edge>
+<edge source="CISUR" target="SNCYT">
+  <data key="d2">4</data>
+</edge>
+<edge source="CISUR" target="IPTP">
+  <data key="d2">5</data>
+</edge>
+<edge source="Centro de Extensionismo Industrial" target="CSIC UDELAR">
+  <data key="d2">3</data>
+</edge>
+<edge source="Endeavor" target="AJE">
+  <data key="d2">3</data>
+</edge>
+<edge source="Endeavor" target="ANDE">
+  <data key="d2">3</data>
+</edge>
+<edge source="Endeavor" target="ANII">
+  <data key="d2">5</data>
+</edge>
+<edge source="Endeavor" target="BID">
+  <data key="d2">5</data>
+</edge>
+<edge source="Empretec" target="Uruguay XXI">
+  <data key="d2">2</data>
+</edge>
+<edge source="Empretec" target="YouHub">
+  <data key="d2">2</data>
+</edge>
+<edge source="Empretec" target="Intendencia de Rocha">
+  <data key="d2">3</data>
+</edge>
+<edge source="Empretec" target="ANII">
+  <data key="d2">3</data>
+</edge>
+<edge source="Empretec" target="RAFE">
+  <data key="d2">4</data>
+</edge>
+<edge source="Empretec" target="ANDE">
+  <data key="d2">5</data>
+</edge>
+<edge source="Empretec" target="CIU">
+  <data key="d2">4</data>
+</edge>
+<edge source="Empretec" target="Brou">
+  <data key="d2">5</data>
+</edge>
+<edge source="Empretec" target="Intendencia de Flores">
+  <data key="d2">3</data>
+</edge>
+<edge source="Empretec" target="CETP-UTU">
+  <data key="d2">3</data>
+</edge>
+<edge source="Empretec" target="Intendencia de San José">
+  <data key="d2">3</data>
+</edge>
+<edge source="Empretec" target="Cámara Inmobiliaria">
+  <data key="d2">3</data>
+</edge>
+<edge source="Empretec" target="Unidad Mypes">
+  <data key="d2">3</data>
+</edge>
+<edge source="Empretec" target="INEFOP">
+  <data key="d2">3</data>
+</edge>
+<edge source="Empretec" target="FES">
+  <data key="d2">3</data>
+</edge>
+<edge source="Empretec" target="Intendencia de Canelones">
+  <data key="d2">3</data>
+</edge>
+<edge source="Empretec" target="InnoVal">
+  <data key="d2">3</data>
+</edge>
+<edge source="INEFOP" target="Impulsa Industria">
+  <data key="d2">1</data>
+</edge>
+<edge source="INEFOP" target="CETP-UTU">
+  <data key="d2">1</data>
+</edge>
+<edge source="RAFE" target="Co-Work LatAm">
+  <data key="d2">2</data>
+</edge>
+<edge source="RAFE" target="Rabbit">
+  <data key="d2">3</data>
+</edge>
+<edge source="RAFE" target="UTEC">
+  <data key="d2">3</data>
+</edge>
+<edge source="RAFE" target="Unidad Mypes">
+  <data key="d2">4</data>
+</edge>
+<edge source="RAFE" target="ANII">
+  <data key="d2">5</data>
+</edge>
+<edge source="RAFE" target="MIEM-Dinapyme">
+  <data key="d2">5</data>
+</edge>
+<edge source="RAFE" target="ThalesLab">
+  <data key="d2">3</data>
+</edge>
+<edge source="RAFE" target="Initium">
+  <data key="d2">3</data>
+</edge>
+<edge source="RAFE" target="CUTI">
+  <data key="d2">3</data>
+</edge>
+<edge source="RAFE" target="Incubadora Khem- IPTP">
+  <data key="d2">3</data>
+</edge>
+<edge source="RAFE" target="CETP-UTU">
+  <data key="d2">3</data>
+</edge>
+<edge source="RAFE" target="CONEXO Cowork">
+  <data key="d2">3</data>
+</edge>
+<edge source="RAFE" target="FCEA UDELAR">
+  <data key="d2">3</data>
+</edge>
+<edge source="RAFE" target="El País">
+  <data key="d2">3</data>
+</edge>
+<edge source="RAFE" target="El Observador">
+  <data key="d2">3</data>
+</edge>
+<edge source="El Observador" target="Rabbit">
+  <data key="d2">2</data>
+</edge>
+<edge source="MIEM-DNPI" target="MIEM-Dinapyme">
+  <data key="d2">5</data>
+</edge>
+<edge source="LATU" target="CUTI">
+  <data key="d2">3</data>
+</edge>
+<edge source="LATU" target="ANMYPE">
+  <data key="d2">3</data>
+</edge>
+<edge source="LATU" target="ANII">
+  <data key="d2">5</data>
+</edge>
+<edge source="LATU" target="LATU Latitud">
+  <data key="d2">1</data>
+</edge>
+<edge source="LATU" target="INGENIO">
+  <data key="d2">1</data>
+</edge>
+<edge source="LATU" target="Endeavor">
+  <data key="d2">3</data>
+</edge>
+<edge source="LATU" target="CIU">
+  <data key="d2">3</data>
+</edge>
+<edge source="LATU" target="MIEM">
+  <data key="d2">3</data>
+</edge>
+<edge source="LATU" target="500 Startups">
+  <data key="d2">3</data>
+</edge>
+<edge source="LATU" target="CAF">
+  <data key="d2">3</data>
+</edge>
+<edge source="LATU" target="Fundación Ricaldoni">
+  <data key="d2">3</data>
+</edge>
+<edge source="LATU" target="CBII">
+  <data key="d2">3</data>
+</edge>
+<edge source="LATU" target="PCTP">
+  <data key="d2">3</data>
+</edge>
+<edge source="LATU" target="INIA">
+  <data key="d2">3</data>
+</edge>
+<edge source="LATU" target="Uruguay XXI">
+  <data key="d2">3</data>
+</edge>
+<edge source="LATU" target="ICT4V">
+  <data key="d2">3</data>
+</edge>
+<edge source="LATU" target="Centro de Extensionismo Industrial">
+  <data key="d2">3</data>
+</edge>
+<edge source="LATU" target="Transforma Uruguay">
+  <data key="d2">3</data>
+</edge>
+<edge source="LATU" target="INACOOP">
+  <data key="d2">3</data>
+</edge>
+<edge source="LATU" target="IPMont">
+  <data key="d2">3</data>
+</edge>
+<edge source="LATU" target="Antel">
+  <data key="d2">3</data>
+</edge>
+<edge source="El Abrojo" target="FCPU">
+  <data key="d2">2</data>
+</edge>
+<edge source="El Abrojo" target="INACOOP">
+  <data key="d2">3</data>
+</edge>
+<edge source="El Abrojo" target="FCEA UDELAR">
+  <data key="d2">3</data>
+</edge>
+<edge source="El Abrojo" target="ANDE">
+  <data key="d2">5</data>
+</edge>
+<edge source="El Abrojo" target="UNQ">
+  <data key="d2">4</data>
+</edge>
+<edge source="El Abrojo" target="Fundación SES">
+  <data key="d2">4</data>
+</edge>
+<edge source="El Abrojo" target="RAFE">
+  <data key="d2">5</data>
+</edge>
+<edge source="El Abrojo" target="Anong">
+  <data key="d2">5</data>
+</edge>
+<edge source="CONEXO Cowork" target="ANDE">
+  <data key="d2">2</data>
+</edge>
+<edge source="CONEXO Cowork" target="Universidad ORT Uruguay">
+  <data key="d2">3</data>
+</edge>
+<edge source="CONEXO Cowork" target="CIE-ORT">
+  <data key="d2">3</data>
+</edge>
+<edge source="CONEXO Cowork" target="Cowork Enlace">
+  <data key="d2">3</data>
+</edge>
+<edge source="CONEXO Cowork" target="RAFE">
+  <data key="d2">4</data>
+</edge>
+<edge source="CONEXO Cowork" target="Portal Uruguay Emprendedor">
+  <data key="d2">5</data>
+</edge>
+<edge source="CONEXO Cowork" target="AJE">
+  <data key="d2">4</data>
+</edge>
+<edge source="Sistema B" target="UTEC">
+  <data key="d2">2</data>
+</edge>
+<edge source="Sistema B" target="BID">
+  <data key="d2">5</data>
+</edge>
+<edge source="Initium" target="Socialab">
+  <data key="d2">3</data>
+</edge>
+<edge source="Initium" target="ANII">
+  <data key="d2">3</data>
+</edge>
+<edge source="Initium" target="Centro IthaKa">
+  <data key="d2">4</data>
+</edge>
+<edge source="Initium" target="UTEC">
+  <data key="d2">4</data>
+</edge>
+<edge source="Initium" target="ANDE">
+  <data key="d2">5</data>
+</edge>
+<edge source="Initium" target="Facultad de Ciencias UDELAR">
+  <data key="d2">3</data>
+</edge>
+<edge source="Initium" target="INGENIO">
+  <data key="d2">3</data>
+</edge>
+<edge source="Initium" target="Fundación Ricaldoni">
+  <data key="d2">3</data>
+</edge>
+<edge source="Initium" target="Fundación da Vinci América Latina">
+  <data key="d2">3</data>
+</edge>
+<edge source="Initium" target="Uruguay XXI">
+  <data key="d2">3</data>
+</edge>
+<edge source="Initium" target="RAFE">
+  <data key="d2">3</data>
+</edge>
+<edge source="Initium" target="MIEM">
+  <data key="d2">3</data>
+</edge>
+<edge source="Initium" target="SINERGIA">
+  <data key="d2">3</data>
+</edge>
+<edge source="Initium" target="MEC">
+  <data key="d2">3</data>
+</edge>
+<edge source="Initium" target="UEU">
+  <data key="d2">3</data>
+</edge>
+<edge source="Initium" target="CIU">
+  <data key="d2">3</data>
+</edge>
+<edge source="Initium" target="UCLEH">
+  <data key="d2">3</data>
+</edge>
+<edge source="Initium" target="Santander">
+  <data key="d2">3</data>
+</edge>
+<edge source="Initium" target="Stanford d.school">
+  <data key="d2">3</data>
+</edge>
+<edge source="Initium" target="JWEL MIT">
+  <data key="d2">3</data>
+</edge>
+<edge source="Centro IthaKa" target="Socialab">
+  <data key="d2">2</data>
+</edge>
+<edge source="Centro IthaKa" target="ThalesLab">
+  <data key="d2">2</data>
+</edge>
+<edge source="DGT" target="ADEF">
+  <data key="d2">2</data>
+</edge>
+<edge source="DGT" target="ANMYPE">
+  <data key="d2">3</data>
+</edge>
+<edge source="DGT" target="BID">
+  <data key="d2">5</data>
+</edge>
+<edge source="DGT" target="Uruguay XXI">
+  <data key="d2">3</data>
+</edge>
+<edge source="DGT" target="UEU">
+  <data key="d2">3</data>
+</edge>
+<edge source="DGT" target="PEDECIBA">
+  <data key="d2">3</data>
+</edge>
+<edge source="DGT" target="IPMont">
+  <data key="d2">3</data>
+</edge>
+<edge source="Desarrollo Sostenible e Inteligente" target="INGENIO">
+  <data key="d2">2</data>
+</edge>
+<edge source="Centro de Competitividad de Rivera" target="Empretec">
+  <data key="d2">2</data>
+</edge>
+<edge source="Centro de Competitividad de Tacuarembó" target="Empretec">
+  <data key="d2">2</data>
+</edge>
+<edge source="CETP-UTU" target="XENIORS">
+  <data key="d2">4</data>
+</edge>
+<edge source="CETP-UTU" target="ADEF">
+  <data key="d2">4</data>
+</edge>
+<edge source="CETP-UTU" target="CNCS">
+  <data key="d2">4</data>
+</edge>
+<edge source="CETP-UTU" target="ANDE">
+  <data key="d2">5</data>
+</edge>
+<edge source="CETP-UTU" target="CIU">
+  <data key="d2">3</data>
+</edge>
+<edge source="CETP-UTU" target="ICCA">
+  <data key="d2">3</data>
+</edge>
+<edge source="CETP-UTU" target="CIE-ORT">
+  <data key="d2">3</data>
+</edge>
+<edge source="CETP-UTU" target="Unidad Mypes">
+  <data key="d2">3</data>
+</edge>
+<edge source="CETP-UTU" target="Intendencia de San José">
+  <data key="d2">3</data>
+</edge>
+<edge source="CETP-UTU" target="AGESIC">
+  <data key="d2">3</data>
+</edge>
+<edge source="ICT4V" target="Quanam">
+  <data key="d2">1</data>
+</edge>
+<edge source="ICT4V" target="Antel">
+  <data key="d2">4</data>
+</edge>
+<edge source="ICT4V" target="Facultad Ingeniería UDELAR">
+  <data key="d2">1</data>
+</edge>
+<edge source="ICT4V" target="Universidad ORT Uruguay">
+  <data key="d2">1</data>
+</edge>
+<edge source="ICT4V" target="INIA">
+  <data key="d2">1</data>
+</edge>
+<edge source="ICT4V" target="UCU">
+  <data key="d2">1</data>
+</edge>
+<edge source="Meetup Agile" target="Co-Work LatAm">
+  <data key="d2">2</data>
+</edge>
+<edge source="Meetup Sales Force" target="Co-Work LatAm">
+  <data key="d2">2</data>
+</edge>
+<edge source="IPRU" target="ANMYPE">
+  <data key="d2">2</data>
+</edge>
+<edge source="GRIDX" target="IPMont">
+  <data key="d2">2</data>
+</edge>
+<edge source="ACDE" target="El País">
+  <data key="d2">2</data>
+</edge>
+<edge source="ACDE" target="AJE">
+  <data key="d2">3</data>
+</edge>
+<edge source="IDTT" target="CIU">
+  <data key="d2">2</data>
+</edge>
+<edge source="ADEF" target="Empretec">
+  <data key="d2">3</data>
+</edge>
+<edge source="ADEF" target="CIU">
+  <data key="d2">4</data>
+</edge>
+<edge source="MIEM" target="LATU Latitud">
+  <data key="d2">3</data>
+</edge>
+<edge source="MIEM" target="CISUR">
+  <data key="d2">3</data>
+</edge>
+<edge source="Oficina de Planeamiento y Presupuesto" target="UTEC">
+  <data key="d2">4</data>
+</edge>
+<edge source="Oficina de Planeamiento y Presupuesto" target="CETP-UTU">
+  <data key="d2">5</data>
+</edge>
+<edge source="Antel" target="EUCD">
+  <data key="d2">3</data>
+</edge>
+<edge source="Antel" target="MIEM-Dinapyme">
+  <data key="d2">3</data>
+</edge>
+<edge source="Antel" target="CETP-UTU">
+  <data key="d2">4</data>
+</edge>
+<edge source="Antel" target="ANDE">
+  <data key="d2">4</data>
+</edge>
+<edge source="Antel" target="CUTI">
+  <data key="d2">4</data>
+</edge>
+<edge source="Antel" target="DGT">
+  <data key="d2">4</data>
+</edge>
+<edge source="Antel" target="LATU">
+  <data key="d2">5</data>
+</edge>
+<edge source="Antel" target="UDELAR">
+  <data key="d2">3</data>
+</edge>
+<edge source="EUCD" target="Unidad Mypes">
+  <data key="d2">4</data>
+</edge>
+<edge source="MIEM-Dinapyme" target="Empretec">
+  <data key="d2">3</data>
+</edge>
+<edge source="MIEM-Dinapyme" target="CETP-UTU">
+  <data key="d2">4</data>
+</edge>
+<edge source="MIEM-Dinapyme" target="DGT">
+  <data key="d2">1</data>
+</edge>
+<edge source="MIEM-Dinapyme" target="ADEF">
+  <data key="d2">1</data>
+</edge>
+<edge source="MIEM-Dinapyme" target="ANMYPE">
+  <data key="d2">1</data>
+</edge>
+<edge source="MIEM-Dinapyme" target="Confederación Empresarial">
+  <data key="d2">1</data>
+</edge>
+<edge source="UDEPI UDELAR" target="CTAgua">
+  <data key="d2">3</data>
+</edge>
+<edge source="UDEPI UDELAR" target="Centro de Extensionismo Industrial">
+  <data key="d2">3</data>
+</edge>
+<edge source="UDEPI UDELAR" target="ANII">
+  <data key="d2">4</data>
+</edge>
+<edge source="UDEPI UDELAR" target="Antel">
+  <data key="d2">4</data>
+</edge>
+<edge source="UDEPI UDELAR" target="MIEM-DNPI">
+  <data key="d2">5</data>
+</edge>
+<edge source="UDEPI UDELAR" target="UDELAR">
+  <data key="d2">5</data>
+</edge>
+<edge source="UDEPI UDELAR" target="ANEP">
+  <data key="d2">3</data>
+</edge>
+<edge source="UDEPI UDELAR" target="CODICEN">
+  <data key="d2">3</data>
+</edge>
+<edge source="UDEPI UDELAR" target="Fundación Ricaldoni">
+  <data key="d2">3</data>
+</edge>
+<edge source="CEDU" target="Co-Work LatAm">
+  <data key="d2">3</data>
+</edge>
+<edge source="CEDU" target="CUTI">
+  <data key="d2">3</data>
+</edge>
+<edge source="CEDU" target="CNCS">
+  <data key="d2">3</data>
+</edge>
+<edge source="CEDU" target="BID">
+  <data key="d2">3</data>
+</edge>
+<edge source="CEDU" target="CUAM">
+  <data key="d2">3</data>
+</edge>
+<edge source="CEDU" target="CDU">
+  <data key="d2">3</data>
+</edge>
+<edge source="FCEA UDELAR" target="DGT">
+  <data key="d2">3</data>
+</edge>
+<edge source="Impulsa Industria" target="Fundación Ricaldoni">
+  <data key="d2">3</data>
+</edge>
+<edge source="Impulsa Industria" target="FUNDAQUIM">
+  <data key="d2">4</data>
+</edge>
+<edge source="Impulsa Industria" target="Instituto 3IE">
+  <data key="d2">4</data>
+</edge>
+<edge source="Impulsa Industria" target="CTPLAS">
+  <data key="d2">4</data>
+</edge>
+<edge source="Impulsa Industria" target="CETP-UTU">
+  <data key="d2">4</data>
+</edge>
+<edge source="Impulsa Industria" target="SNCYT">
+  <data key="d2">4</data>
+</edge>
+<edge source="Impulsa Industria" target="INEFOP">
+  <data key="d2">5</data>
+</edge>
+<edge source="Impulsa Industria" target="LATU">
+  <data key="d2">5</data>
+</edge>
+<edge source="Impulsa Industria" target="UTEC">
+  <data key="d2">5</data>
+</edge>
+<edge source="Impulsa Industria" target="INTI">
+  <data key="d2">5</data>
+</edge>
+<edge source="Impulsa Industria" target="CAIME">
+  <data key="d2">5</data>
+</edge>
+<edge source="Impulsa Industria" target="ITESO">
+  <data key="d2">5</data>
+</edge>
+<edge source="Impulsa Industria" target="TNU">
+  <data key="d2">3</data>
+</edge>
+<edge source="Impulsa Industria" target="Radio Uruguay">
+  <data key="d2">3</data>
+</edge>
+<edge source="Impulsa Industria" target="Radio Sarandí">
+  <data key="d2">3</data>
+</edge>
+<edge source="Impulsa Industria" target="Crónicas Económicas">
+  <data key="d2">3</data>
+</edge>
+<edge source="Impulsa Industria" target="CCI Salto">
+  <data key="d2">3</data>
+</edge>
+<edge source="UDE" target="Fundación Ricaldoni">
+  <data key="d2">3</data>
+</edge>
+<edge source="UDE" target="CDU">
+  <data key="d2">3</data>
+</edge>
+<edge source="UDE" target="ANDE">
+  <data key="d2">5</data>
+</edge>
+<edge source="UDE" target="ANII">
+  <data key="d2">4</data>
+</edge>
+<edge source="UDE" target="LATU">
+  <data key="d2">4</data>
+</edge>
+<edge source="UDE" target="Genexus">
+  <data key="d2">4</data>
+</edge>
+<edge source="UDE" target="CUTI">
+  <data key="d2">4</data>
+</edge>
+<edge source="UDE" target="UPV">
+  <data key="d2">5</data>
+</edge>
+<edge source="UDE" target="UP">
+  <data key="d2">4</data>
+</edge>
+<edge source="UDE" target="ADM">
+  <data key="d2">5</data>
+</edge>
+<edge source="UDE" target="500 Startups">
+  <data key="d2">3</data>
+</edge>
+<edge source="UDE" target="Antel">
+  <data key="d2">3</data>
+</edge>
+<edge source="UDE" target="UTEC">
+  <data key="d2">3</data>
+</edge>
+<edge source="CDU" target="DGT">
+  <data key="d2">3</data>
+</edge>
+<edge source="NahualUY" target="Proyecto Kanban">
+  <data key="d2">1</data>
+</edge>
+<edge source="NahualUY" target="Comunidad Wordpress">
+  <data key="d2">1</data>
+</edge>
+<edge source="BIDLab" target="Rabbit">
+  <data key="d2">3</data>
+</edge>
+<edge source="Ashoka Uruguay" target="Socialab">
+  <data key="d2">3</data>
+</edge>
+<edge source="FUCREA" target="Empretec">
+  <data key="d2">3</data>
+</edge>
+<edge source="CSIC UDELAR" target="UTEC">
+  <data key="d2">4</data>
+</edge>
+<edge source="CSIC UDELAR" target="INIA">
+  <data key="d2">4</data>
+</edge>
+<edge source="CSIC UDELAR" target="UDEPI UDELAR">
+  <data key="d2">1</data>
+</edge>
+<edge source="CSIC UDELAR" target="Centro de Extensionismo Industrial">
+  <data key="d2">1</data>
+</edge>
+<edge source="CSIC UDELAR" target="UDELAR">
+  <data key="d2">5</data>
+</edge>
+<edge source="ClusterUY" target="OPH">
+  <data key="d2">3</data>
+</edge>
+<edge source="ClusterUY" target="Antel">
+  <data key="d2">5</data>
+</edge>
+<edge source="Brou" target="ANMYPE">
+  <data key="d2">3</data>
+</edge>
+<edge source="CBII" target="El País">
+  <data key="d2">3</data>
+</edge>
+<edge source="CBII" target="ANII">
+  <data key="d2">5</data>
+</edge>
+<edge source="CBII" target="CIE-ORT">
+  <data key="d2">5</data>
+</edge>
+<edge source="Product Hunt Montevideo" target="Xmartlabs">
+  <data key="d2">3</data>
+</edge>
+<edge source="CCI Durazno" target="CIU">
+  <data key="d2">3</data>
+</edge>
+<edge source="GEPIAN" target="Fundación da Vinci América Latina">
+  <data key="d2">3</data>
+</edge>
+<edge source="GEPIAN" target="ANII">
+  <data key="d2">5</data>
+</edge>
+<edge source="FUNDASOL" target="ANDE">
+  <data key="d2">5</data>
+</edge>
+<edge source="FUNDASOL" target="ANII">
+  <data key="d2">4</data>
+</edge>
+<edge source="FUNDASOL" target="INACOOP">
+  <data key="d2">4</data>
+</edge>
+<edge source="FUNDASOL" target="INEFOP">
+  <data key="d2">4</data>
+</edge>
+<edge source="FUNDASOL" target="CNCS">
+  <data key="d2">4</data>
+</edge>
+<edge source="FUNDASOL" target="MIEM-Dinapyme">
+  <data key="d2">4</data>
+</edge>
+<edge source="FUNDASOL" target="PCTP">
+  <data key="d2">4</data>
+</edge>
+<edge source="FUNDASOL" target="C-Emprendedor">
+  <data key="d2">4</data>
+</edge>
+<edge source="FUNDASOL" target="RAFE">
+  <data key="d2">5</data>
+</edge>
+<edge source="CNCS" target="MIEM-Dinapyme">
+  <data key="d2">5</data>
+</edge>
+<edge source="PCTP" target="UDEPI UDELAR">
+  <data key="d2">4</data>
+</edge>
+<edge source="PCTP" target="CISUR">
+  <data key="d2">1</data>
+</edge>
+<edge source="PCTP" target="OPH">
+  <data key="d2">5</data>
+</edge>
+<edge source="PCTP" target="IPTP">
+  <data key="d2">1</data>
+</edge>
+<edge source="PCTP" target="Incubadora Khem- IPTP">
+  <data key="d2">1</data>
+</edge>
+<edge source="Pyxis" target="ANII">
+  <data key="d2">3</data>
+</edge>
+<edge source="Pyxis" target="BID">
+  <data key="d2">3</data>
+</edge>
+<edge source="Pyxis" target="Socialab">
+  <data key="d2">3</data>
+</edge>
+<edge source="Pyxis" target="Facultad Ingeniería UDELAR">
+  <data key="d2">3</data>
+</edge>
+<edge source="Pyxis" target="Universidad ORT Uruguay">
+  <data key="d2">3</data>
+</edge>
+<edge source="Pyxis" target="MIEM">
+  <data key="d2">3</data>
+</edge>
+<edge source="Pyxis" target="NahualUY">
+  <data key="d2">3</data>
+</edge>
+<edge source="Pyxis" target="Devops Day">
+  <data key="d2">3</data>
+</edge>
+<edge source="Facultad de Ciencias UDELAR" target="DGT">
+  <data key="d2">4</data>
+</edge>
+<edge source="FQ UDELAR" target="DGT">
+  <data key="d2">4</data>
+</edge>
+<edge source="FQ UDELAR" target="OPH">
+  <data key="d2">5</data>
+</edge>
+<edge source="AUGM" target="CSIC UDELAR">
+  <data key="d2">4</data>
+</edge>
+<edge source="INACAL" target="ANMYPE">
+  <data key="d2">1</data>
+</edge>
+<edge source="INACAL" target="CLUSTERPACK">
+  <data key="d2">1</data>
+</edge>
+<edge source="YABT Uruguay" target="CETP-UTU">
+  <data key="d2">4</data>
+</edge>
+<edge source="Co-lavora" target="CONEXO Cowork">
+  <data key="d2">4</data>
+</edge>
+<edge source="FADU UDELAR" target="Unidad Mypes">
+  <data key="d2">4</data>
+</edge>
+<edge source="Cámara de Representantes" target="UDE">
+  <data key="d2">4</data>
+</edge>
+<edge source="CUDECOOP" target="FUNDASOL">
+  <data key="d2">4</data>
+</edge>
+<edge source="CUDECOOP" target="Incubacoop">
+  <data key="d2">1</data>
+</edge>
+<edge source="PTC" target="FUNDASOL">
+  <data key="d2">4</data>
+</edge>
+<edge source="UVITT" target="UDEPI UDELAR">
+  <data key="d2">5</data>
+</edge>
+<edge source="Pro Empresa" target="CONEXO Cowork">
+  <data key="d2">5</data>
+</edge>
+<edge source="FOCO Comunicacion Visual" target="CONEXO Cowork">
+  <data key="d2">5</data>
+</edge>
+</graph></graphml>

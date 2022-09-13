@@ -1,0 +1,2471 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="Weight" attr.type="long"/>
+<key id="d1" for="node" attr.name="weight" attr.type="float"/>
+<key id="d0" for="node" attr.name="rol" attr.type="string"/>
+<graph edgedefault="directed"><node id="EDEM">
+  <data key="d0">Enabler</data>
+  <data key="d1">2.6</data>
+</node>
+<node id="UV">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">12.8</data>
+</node>
+<node id="UPV">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">16.2</data>
+</node>
+<node id="Lanzadera">
+  <data key="d0">Enabler</data>
+  <data key="d1">9.6</data>
+</node>
+<node id="Angels Capital">
+  <data key="d0">Enabler</data>
+  <data key="d1">2.6</data>
+</node>
+<node id="Generalitat Valenciana">
+  <data key="d0">Articulator</data>
+  <data key="d1">14.4</data>
+</node>
+<node id="Ayuntamiento de Valencia">
+  <data key="d0">Articulator</data>
+  <data key="d1">15.4</data>
+</node>
+<node id="Clave capital">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CPI">
+  <data key="d0">Enabler</data>
+  <data key="d1">6.6</data>
+</node>
+<node id="Start UPV">
+  <data key="d0">Enabler</data>
+  <data key="d1">3.4</data>
+</node>
+<node id="OTRI UV">
+  <data key="d0">Enabler</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="REDIT">
+  <data key="d0">Linker</data>
+  <data key="d1">16.8</data>
+</node>
+<node id="ITI">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">5.4</data>
+</node>
+<node id="Valencia Startups">
+  <data key="d0">Community</data>
+  <data key="d1">8.8</data>
+</node>
+<node id="CEV">
+  <data key="d0">Linker</data>
+  <data key="d1">12.2</data>
+</node>
+<node id="Go Hub">
+  <data key="d0">Enabler</data>
+  <data key="d1">4.4</data>
+</node>
+<node id="Universidad Jaime I">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">3.2</data>
+</node>
+<node id="AVIA">
+  <data key="d0">Linker</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="FEMEVAL">
+  <data key="d0">Linker</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="Cámara Valencia">
+  <data key="d0">Linker</data>
+  <data key="d1">5.4</data>
+</node>
+<node id="Fundación Valencia Port">
+  <data key="d0">Enabler</data>
+  <data key="d1">5.8</data>
+</node>
+<node id="INCLIVA">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">2.4</data>
+</node>
+<node id="CIICV">
+  <data key="d0">Linker</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="COITCV">
+  <data key="d0">Linker</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="Data Cycle Hub">
+  <data key="d0">Linker</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="UA">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">4.8</data>
+</node>
+<node id="Las Naves">
+  <data key="d0">Articulator</data>
+  <data key="d1">7.8</data>
+</node>
+<node id="INNOAVI">
+  <data key="d0">Articulator</data>
+  <data key="d1">14.0</data>
+</node>
+<node id="IVF">
+  <data key="d0">Enabler</data>
+  <data key="d1">9.8</data>
+</node>
+<node id="EMV">
+  <data key="d0">Promoter</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="FEVECTA">
+  <data key="d0">Linker</data>
+  <data key="d1">3.0</data>
+</node>
+<node id="Dirección General de Emprendimiento - GVA">
+  <data key="d0">Articulator</data>
+  <data key="d1">5.6</data>
+</node>
+<node id="LABORA">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="Caixa Popular">
+  <data key="d0">Enabler</data>
+  <data key="d1">2.6</data>
+</node>
+<node id="ESIC Valencia">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="VIT Emprende">
+  <data key="d0">Community</data>
+  <data key="d1">3.2</data>
+</node>
+<node id="Bbooster">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="Demium">
+  <data key="d0">Enabler</data>
+  <data key="d1">3.4</data>
+</node>
+<node id="Valencia Activa">
+  <data key="d0">Articulator</data>
+  <data key="d1">10.6</data>
+</node>
+<node id="AJEV">
+  <data key="d0">Linker</data>
+  <data key="d1">4.8</data>
+</node>
+<node id="Big Ban Angels">
+  <data key="d0">Enabler</data>
+  <data key="d1">6.6</data>
+</node>
+<node id="AVAESEN">
+  <data key="d0">Linker</data>
+  <data key="d1">5.4</data>
+</node>
+<node id="Startup Valencia">
+  <data key="d0">Linker</data>
+  <data key="d1">4.2</data>
+</node>
+<node id="CEEI Valencia">
+  <data key="d0">Enabler</data>
+  <data key="d1">9.4</data>
+</node>
+<node id="Innsomnia">
+  <data key="d0">Enabler</data>
+  <data key="d1">3.8</data>
+</node>
+<node id="Marina de empresas">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Tech Transfer UPV">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Bankia">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="Universidad Miguel Hernández">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">2.4</data>
+</node>
+<node id="Cámaras CV">
+  <data key="d0">Linker</data>
+  <data key="d1">4.2</data>
+</node>
+<node id="Ingenio">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">2.6</data>
+</node>
+<node id="CSIC Valencia">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">6.6</data>
+</node>
+<node id="RUVID">
+  <data key="d0">Linker</data>
+  <data key="d1">2.6</data>
+</node>
+<node id="CIPF">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="Ideas UPV">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Climate KIC Accelerator">
+  <data key="d0">Enabler</data>
+  <data key="d1">3.4</data>
+</node>
+<node id="EIT Climate-KIC">
+  <data key="d0">Linker</data>
+  <data key="d1">6.2</data>
+</node>
+<node id="IVACE">
+  <data key="d0">Articulator</data>
+  <data key="d1">21.0</data>
+</node>
+<node id="KM ZERO Food">
+  <data key="d0">Enabler</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="Startup Weekend">
+  <data key="d0">Community</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Vortex">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Valencia Plaza">
+  <data key="d0">Promoter</data>
+  <data key="d1">3.4</data>
+</node>
+<node id="Sabadell Hub Empresa">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Internet Freedom Festival">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="COEV">
+  <data key="d0">Linker</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="I2T UPV">
+  <data key="d0">Enabler</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="E&amp;Y">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Facultat d'Economia UV">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Conselleria Economía Sostenible">
+  <data key="d0">Articulator</data>
+  <data key="d1">9.6</data>
+</node>
+<node id="rePCV">
+  <data key="d0">Linker</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="ADEIT">
+  <data key="d0">Enabler</data>
+  <data key="d1">6.6</data>
+</node>
+<node id="FEBF">
+  <data key="d0">Linker</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="La Marina">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Administración General del Estado">
+  <data key="d0">Articulator</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="DIVAL">
+  <data key="d0">Articulator</data>
+  <data key="d1">2.4</data>
+</node>
+<node id="AECTA">
+  <data key="d0">Linker</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="evap/BPW">
+  <data key="d0">Linker</data>
+  <data key="d1">2.6</data>
+</node>
+<node id="AVALNET">
+  <data key="d0">Linker</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="IICV">
+  <data key="d0">Linker</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="El Mundo">
+  <data key="d0">Promoter</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="AIDIMME">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="AIMPLAS">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="CEIT">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="FISABIO">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="ADCV">
+  <data key="d0">Linker</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="AINIA">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="CDTI">
+  <data key="d0">Enabler</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="EHEDG">
+  <data key="d0">Linker</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="IIS La Fe">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">2.8</data>
+</node>
+<node id="BME">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Capital Cell">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Gesdocument">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="IFEDES">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="Aktion Legal">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="OTRI UA">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="AIJU">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="MINCOTUR">
+  <data key="d0">Articulator</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="FEDIT">
+  <data key="d0">Linker</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="EFFRA">
+  <data key="d0">Linker</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="EBN">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="ENISA">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="ADLYPSE">
+  <data key="d0">Linker</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="PCUV">
+  <data key="d0">Enabler</data>
+  <data key="d1">5.6</data>
+</node>
+<node id="Santander">
+  <data key="d0">Enabler</data>
+  <data key="d1">2.4</data>
+</node>
+<node id="CE">
+  <data key="d0">Articulator</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="F y G Consultores">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Junior Achievement">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Club para la Innovación">
+  <data key="d0">Linker</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Bioval">
+  <data key="d0">Linker</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="Delegación de Innovación y Gestión del Conocimiento">
+  <data key="d0">Articulator</data>
+  <data key="d1">2.6</data>
+</node>
+<node id="FLORIDA Universitaria">
+  <data key="d0">Enabler</data>
+  <data key="d1">3.2</data>
+</node>
+<node id="Agile on Board">
+  <data key="d0">Community</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="GeeksHubs">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="Socialnest Foundation">
+  <data key="d0">Enabler</data>
+  <data key="d1">3.2</data>
+</node>
+<node id="Observatori del Canvi Climàtic">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Biopolo La Fe">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="ClimateLaunchpad">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="VLC Tech City">
+  <data key="d0">Linker</data>
+  <data key="d1">2.4</data>
+</node>
+<node id="ITE">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="UV Empren">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Santander Universidades">
+  <data key="d0">Enabler</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="Fosbury &amp; Sons">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="FEMPA">
+  <data key="d0">Linker</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="FEVAMA">
+  <data key="d0">Linker</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="IBMV">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="ASIVALCO">
+  <data key="d0">Linker</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="AEFJ">
+  <data key="d0">Linker</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="ANCES">
+  <data key="d0">Linker</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="SEIMED">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="Fundación Equipo Humano">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Cámara España en Bélgica">
+  <data key="d0">Linker</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Dublin Chamber of Commerce">
+  <data key="d0">Linker</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Esmovia">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Tera Technopolis">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="TECH4CV">
+  <data key="d0">Linker</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Las Provincias">
+  <data key="d0">Promoter</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="RedTransfer">
+  <data key="d0">Linker</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="EIT Foood">
+  <data key="d0">Linker</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="PCA">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="MINECO">
+  <data key="d0">Articulator</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="DG Industria e I+D+I">
+  <data key="d0">Articulator</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="Consejo Valenciano del Emprendedor">
+  <data key="d0">Articulator</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="PARSEC Accelerator">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Foros Tecnologías Emergentes">
+  <data key="d0">Promoter</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="AEBAN">
+  <data key="d0">Linker</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Economía 3">
+  <data key="d0">Promoter</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="El Economista">
+  <data key="d0">Promoter</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="AVRE">
+  <data key="d0">Linker</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="FuckUp Nights">
+  <data key="d0">Community</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Capazia">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Santander X">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Finnova">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="EIT Health">
+  <data key="d0">Linker</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Startup Xplorer">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Bstartup">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Legal Hackers">
+  <data key="d0">Community</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Feria de Valencia">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Forbes">
+  <data key="d0">Promoter</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="IVIA">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Banco Sabadell">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="El Diario">
+  <data key="d0">Promoter</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="VLC Tech Hub">
+  <data key="d0">Promoter</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Hackers Civics">
+  <data key="d0">Community</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="UCV">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="UEV">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="IBV">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="ATA CV">
+  <data key="d0">Linker</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Blast of partners">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="AEI de la Infancia">
+  <data key="d0">Linker</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Caixa Capital Risc">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Ayto. Alicante">
+  <data key="d0">Articulator</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Diputación de Alicante">
+  <data key="d0">Articulator</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="IBIAE">
+  <data key="d0">Linker</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Promoibi">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="AVEP">
+  <data key="d0">Linker</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="INESCOP">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="ITC">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="AITEX">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CDR">
+  <data key="d0">Linker</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Secretaría Autonómica de Innovación y Transformación Digital">
+  <data key="d0">Articulator</data>
+  <data key="d1">0.6</data>
+</node>
+<edge source="EDEM" target="UV">
+  <data key="d2">5</data>
+</edge>
+<edge source="EDEM" target="UPV">
+  <data key="d2">4</data>
+</edge>
+<edge source="EDEM" target="Lanzadera">
+  <data key="d2">5</data>
+</edge>
+<edge source="EDEM" target="Angels Capital">
+  <data key="d2">5</data>
+</edge>
+<edge source="EDEM" target="Generalitat Valenciana">
+  <data key="d2">2</data>
+</edge>
+<edge source="EDEM" target="Ayuntamiento de Valencia">
+  <data key="d2">3</data>
+</edge>
+<edge source="EDEM" target="Ideas UPV">
+  <data key="d2">5</data>
+</edge>
+<edge source="UV" target="PCUV">
+  <data key="d2">5</data>
+</edge>
+<edge source="UV" target="ADEIT">
+  <data key="d2">5</data>
+</edge>
+<edge source="UV" target="INNOAVI">
+  <data key="d2">3</data>
+</edge>
+<edge source="UV" target="Santander">
+  <data key="d2">4</data>
+</edge>
+<edge source="UV" target="CEEI Valencia">
+  <data key="d2">3</data>
+</edge>
+<edge source="UV" target="Ingenio">
+  <data key="d2">4</data>
+</edge>
+<edge source="UV" target="Fundación Valencia Port">
+  <data key="d2">3</data>
+</edge>
+<edge source="UV" target="Generalitat Valenciana">
+  <data key="d2">5</data>
+</edge>
+<edge source="UV" target="Cámaras CV">
+  <data key="d2">3</data>
+</edge>
+<edge source="UV" target="CSIC Valencia">
+  <data key="d2">3</data>
+</edge>
+<edge source="UV" target="Conselleria Economía Sostenible">
+  <data key="d2">3</data>
+</edge>
+<edge source="UV" target="Dirección General de Emprendimiento - GVA">
+  <data key="d2">3</data>
+</edge>
+<edge source="UV" target="IVF">
+  <data key="d2">3</data>
+</edge>
+<edge source="UV" target="IVACE">
+  <data key="d2">3</data>
+</edge>
+<edge source="UV" target="REDIT">
+  <data key="d2">3</data>
+</edge>
+<edge source="UV" target="Cámara Valencia">
+  <data key="d2">3</data>
+</edge>
+<edge source="UV" target="CEV">
+  <data key="d2">3</data>
+</edge>
+<edge source="UV" target="Las Naves">
+  <data key="d2">3</data>
+</edge>
+<edge source="UV" target="OTRI UV">
+  <data key="d2">3</data>
+</edge>
+<edge source="UV" target="rePCV">
+  <data key="d2">3</data>
+</edge>
+<edge source="UV" target="Secretaría Autonómica de Innovación y Transformación Digital">
+  <data key="d2">3</data>
+</edge>
+<edge source="UPV" target="FEVECTA">
+  <data key="d2">4</data>
+</edge>
+<edge source="UPV" target="CPI">
+  <data key="d2">5</data>
+</edge>
+<edge source="UPV" target="Ingenio">
+  <data key="d2">1</data>
+</edge>
+<edge source="UPV" target="KM ZERO Food">
+  <data key="d2">4</data>
+</edge>
+<edge source="UPV" target="Fundación Valencia Port">
+  <data key="d2">4</data>
+</edge>
+<edge source="UPV" target="Ideas UPV">
+  <data key="d2">1</data>
+</edge>
+<edge source="UPV" target="ITI">
+  <data key="d2">1</data>
+</edge>
+<edge source="UPV" target="CEV">
+  <data key="d2">3</data>
+</edge>
+<edge source="UPV" target="IVF">
+  <data key="d2">3</data>
+</edge>
+<edge source="UPV" target="Conselleria Economía Sostenible">
+  <data key="d2">3</data>
+</edge>
+<edge source="UPV" target="INNOAVI">
+  <data key="d2">3</data>
+</edge>
+<edge source="UPV" target="Ayuntamiento de Valencia">
+  <data key="d2">3</data>
+</edge>
+<edge source="Lanzadera" target="Startup Valencia">
+  <data key="d2">4</data>
+</edge>
+<edge source="Lanzadera" target="La Marina">
+  <data key="d2">4</data>
+</edge>
+<edge source="Angels Capital" target="Clave capital">
+  <data key="d2">4</data>
+</edge>
+<edge source="Generalitat Valenciana" target="Ideas UPV">
+  <data key="d2">4</data>
+</edge>
+<edge source="Generalitat Valenciana" target="UV">
+  <data key="d2">4</data>
+</edge>
+<edge source="Ayuntamiento de Valencia" target="Valencia Activa">
+  <data key="d2">1</data>
+</edge>
+<edge source="Ayuntamiento de Valencia" target="Ingenio">
+  <data key="d2">4</data>
+</edge>
+<edge source="Ayuntamiento de Valencia" target="REDIT">
+  <data key="d2">4</data>
+</edge>
+<edge source="Ayuntamiento de Valencia" target="Ideas UPV">
+  <data key="d2">4</data>
+</edge>
+<edge source="Ayuntamiento de Valencia" target="IVACE">
+  <data key="d2">4</data>
+</edge>
+<edge source="Ayuntamiento de Valencia" target="La Marina">
+  <data key="d2">4</data>
+</edge>
+<edge source="Ayuntamiento de Valencia" target="UV">
+  <data key="d2">4</data>
+</edge>
+<edge source="Ayuntamiento de Valencia" target="CEV">
+  <data key="d2">1</data>
+</edge>
+<edge source="Ayuntamiento de Valencia" target="COITCV">
+  <data key="d2">1</data>
+</edge>
+<edge source="Ayuntamiento de Valencia" target="Dirección General de Emprendimiento - GVA">
+  <data key="d2">1</data>
+</edge>
+<edge source="Clave capital" target="CPI">
+  <data key="d2">4</data>
+</edge>
+<edge source="Clave capital" target="Start UPV">
+  <data key="d2">5</data>
+</edge>
+<edge source="Clave capital" target="OTRI UV">
+  <data key="d2">3</data>
+</edge>
+<edge source="Clave capital" target="REDIT">
+  <data key="d2">5</data>
+</edge>
+<edge source="Clave capital" target="IVF">
+  <data key="d2">5</data>
+</edge>
+<edge source="Clave capital" target="I2T UPV">
+  <data key="d2">5</data>
+</edge>
+<edge source="Clave capital" target="INNOAVI">
+  <data key="d2">5</data>
+</edge>
+<edge source="Clave capital" target="E&amp;Y">
+  <data key="d2">3</data>
+</edge>
+<edge source="Clave capital" target="Lanzadera">
+  <data key="d2">4</data>
+</edge>
+<edge source="Clave capital" target="CSIC Valencia">
+  <data key="d2">4</data>
+</edge>
+<edge source="Clave capital" target="UPV">
+  <data key="d2">5</data>
+</edge>
+<edge source="Clave capital" target="Caixa Popular">
+  <data key="d2">3</data>
+</edge>
+<edge source="CPI" target="Ayuntamiento de Valencia">
+  <data key="d2">2</data>
+</edge>
+<edge source="CPI" target="Fundación Valencia Port">
+  <data key="d2">2</data>
+</edge>
+<edge source="CPI" target="Generalitat Valenciana">
+  <data key="d2">3</data>
+</edge>
+<edge source="CPI" target="Ingenio">
+  <data key="d2">5</data>
+</edge>
+<edge source="CPI" target="Ideas UPV">
+  <data key="d2">3</data>
+</edge>
+<edge source="CPI" target="rePCV">
+  <data key="d2">2</data>
+</edge>
+<edge source="CPI" target="ITI">
+  <data key="d2">3</data>
+</edge>
+<edge source="CPI" target="CEV">
+  <data key="d2">3</data>
+</edge>
+<edge source="CPI" target="EDEM">
+  <data key="d2">3</data>
+</edge>
+<edge source="CPI" target="Lanzadera">
+  <data key="d2">3</data>
+</edge>
+<edge source="REDIT" target="RUVID">
+  <data key="d2">3</data>
+</edge>
+<edge source="REDIT" target="AVAESEN">
+  <data key="d2">2</data>
+</edge>
+<edge source="REDIT" target="Las Naves">
+  <data key="d2">3</data>
+</edge>
+<edge source="REDIT" target="IVF">
+  <data key="d2">3</data>
+</edge>
+<edge source="REDIT" target="Big Ban Angels">
+  <data key="d2">3</data>
+</edge>
+<edge source="REDIT" target="CIPF">
+  <data key="d2">2</data>
+</edge>
+<edge source="REDIT" target="IVACE">
+  <data key="d2">5</data>
+</edge>
+<edge source="REDIT" target="INNOAVI">
+  <data key="d2">5</data>
+</edge>
+<edge source="REDIT" target="UPV">
+  <data key="d2">5</data>
+</edge>
+<edge source="REDIT" target="COITCV">
+  <data key="d2">3</data>
+</edge>
+<edge source="REDIT" target="CEEI Valencia">
+  <data key="d2">4</data>
+</edge>
+<edge source="REDIT" target="Cámara Valencia">
+  <data key="d2">3</data>
+</edge>
+<edge source="REDIT" target="Cámaras CV">
+  <data key="d2">4</data>
+</edge>
+<edge source="REDIT" target="CSIC Valencia">
+  <data key="d2">4</data>
+</edge>
+<edge source="REDIT" target="ITI">
+  <data key="d2">1</data>
+</edge>
+<edge source="REDIT" target="IIS La Fe">
+  <data key="d2">1</data>
+</edge>
+<edge source="REDIT" target="AINIA">
+  <data key="d2">1</data>
+</edge>
+<edge source="REDIT" target="RedTransfer">
+  <data key="d2">1</data>
+</edge>
+<edge source="REDIT" target="Generalitat Valenciana">
+  <data key="d2">5</data>
+</edge>
+<edge source="REDIT" target="Finnova">
+  <data key="d2">3</data>
+</edge>
+<edge source="REDIT" target="Go Hub">
+  <data key="d2">3</data>
+</edge>
+<edge source="REDIT" target="AIJU">
+  <data key="d2">3</data>
+</edge>
+<edge source="REDIT" target="evap/BPW">
+  <data key="d2">3</data>
+</edge>
+<edge source="REDIT" target="EIT Climate-KIC">
+  <data key="d2">3</data>
+</edge>
+<edge source="REDIT" target="CDTI">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITI" target="REDIT">
+  <data key="d2">5</data>
+</edge>
+<edge source="ITI" target="Valencia Startups">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITI" target="CEV">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITI" target="Go Hub">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITI" target="Lanzadera">
+  <data key="d2">2</data>
+</edge>
+<edge source="ITI" target="EDEM">
+  <data key="d2">1</data>
+</edge>
+<edge source="ITI" target="UPV">
+  <data key="d2">5</data>
+</edge>
+<edge source="ITI" target="UV">
+  <data key="d2">4</data>
+</edge>
+<edge source="ITI" target="Universidad Jaime I">
+  <data key="d2">4</data>
+</edge>
+<edge source="ITI" target="AVIA">
+  <data key="d2">4</data>
+</edge>
+<edge source="ITI" target="FEMEVAL">
+  <data key="d2">4</data>
+</edge>
+<edge source="ITI" target="Cámara Valencia">
+  <data key="d2">4</data>
+</edge>
+<edge source="ITI" target="Fundación Valencia Port">
+  <data key="d2">5</data>
+</edge>
+<edge source="ITI" target="INCLIVA">
+  <data key="d2">5</data>
+</edge>
+<edge source="ITI" target="CIICV">
+  <data key="d2">4</data>
+</edge>
+<edge source="ITI" target="COITCV">
+  <data key="d2">4</data>
+</edge>
+<edge source="ITI" target="Data Cycle Hub">
+  <data key="d2">5</data>
+</edge>
+<edge source="ITI" target="UA">
+  <data key="d2">2</data>
+</edge>
+<edge source="ITI" target="TECH4CV">
+  <data key="d2">5</data>
+</edge>
+<edge source="ITI" target="IIS La Fe">
+  <data key="d2">4</data>
+</edge>
+<edge source="Valencia Startups" target="Ideas UPV">
+  <data key="d2">4</data>
+</edge>
+<edge source="Valencia Startups" target="Valencia Activa">
+  <data key="d2">5</data>
+</edge>
+<edge source="Valencia Startups" target="Innsomnia">
+  <data key="d2">4</data>
+</edge>
+<edge source="Valencia Startups" target="UPV">
+  <data key="d2">4</data>
+</edge>
+<edge source="Valencia Startups" target="REDIT">
+  <data key="d2">3</data>
+</edge>
+<edge source="Valencia Startups" target="KM ZERO Food">
+  <data key="d2">4</data>
+</edge>
+<edge source="Valencia Startups" target="IVACE">
+  <data key="d2">3</data>
+</edge>
+<edge source="CEV" target="REDIT">
+  <data key="d2">5</data>
+</edge>
+<edge source="CEV" target="AIDIMME">
+  <data key="d2">2</data>
+</edge>
+<edge source="Go Hub" target="Ideas UPV">
+  <data key="d2">5</data>
+</edge>
+<edge source="FEMEVAL" target="AIDIMME">
+  <data key="d2">3</data>
+</edge>
+<edge source="Cámara Valencia" target="FEVECTA">
+  <data key="d2">2</data>
+</edge>
+<edge source="Cámara Valencia" target="KM ZERO Food">
+  <data key="d2">5</data>
+</edge>
+<edge source="Fundación Valencia Port" target="Valencia Startups">
+  <data key="d2">4</data>
+</edge>
+<edge source="Fundación Valencia Port" target="ITI">
+  <data key="d2">4</data>
+</edge>
+<edge source="Fundación Valencia Port" target="Climate KIC Accelerator">
+  <data key="d2">5</data>
+</edge>
+<edge source="Fundación Valencia Port" target="EIT Climate-KIC">
+  <data key="d2">5</data>
+</edge>
+<edge source="Fundación Valencia Port" target="INNOAVI">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fundación Valencia Port" target="Startup Valencia">
+  <data key="d2">5</data>
+</edge>
+<edge source="Fundación Valencia Port" target="IVACE">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fundación Valencia Port" target="UV">
+  <data key="d2">2</data>
+</edge>
+<edge source="Fundación Valencia Port" target="Las Naves">
+  <data key="d2">3</data>
+</edge>
+<edge source="COITCV" target="IVACE">
+  <data key="d2">5</data>
+</edge>
+<edge source="COITCV" target="Ayuntamiento de Valencia">
+  <data key="d2">2</data>
+</edge>
+<edge source="COITCV" target="INNOAVI">
+  <data key="d2">3</data>
+</edge>
+<edge source="COITCV" target="Cámara Valencia">
+  <data key="d2">3</data>
+</edge>
+<edge source="COITCV" target="CIICV">
+  <data key="d2">3</data>
+</edge>
+<edge source="COITCV" target="Dirección General de Emprendimiento - GVA">
+  <data key="d2">1</data>
+</edge>
+<edge source="COITCV" target="IICV">
+  <data key="d2">3</data>
+</edge>
+<edge source="Las Naves" target="INNOAVI">
+  <data key="d2">4</data>
+</edge>
+<edge source="Las Naves" target="IVF">
+  <data key="d2">4</data>
+</edge>
+<edge source="Las Naves" target="EMV">
+  <data key="d2">4</data>
+</edge>
+<edge source="Las Naves" target="UPV">
+  <data key="d2">3</data>
+</edge>
+<edge source="Las Naves" target="AVAESEN">
+  <data key="d2">3</data>
+</edge>
+<edge source="Las Naves" target="Delegación de Innovación y Gestión del Conocimiento">
+  <data key="d2">5</data>
+</edge>
+<edge source="Las Naves" target="Ayuntamiento de Valencia">
+  <data key="d2">5</data>
+</edge>
+<edge source="Las Naves" target="Conselleria Economía Sostenible">
+  <data key="d2">3</data>
+</edge>
+<edge source="Las Naves" target="Economía 3">
+  <data key="d2">3</data>
+</edge>
+<edge source="Las Naves" target="El Economista">
+  <data key="d2">3</data>
+</edge>
+<edge source="Las Naves" target="El Mundo">
+  <data key="d2">3</data>
+</edge>
+<edge source="Las Naves" target="REDIT">
+  <data key="d2">3</data>
+</edge>
+<edge source="Las Naves" target="UV">
+  <data key="d2">3</data>
+</edge>
+<edge source="Las Naves" target="AVRE">
+  <data key="d2">3</data>
+</edge>
+<edge source="Las Naves" target="FuckUp Nights">
+  <data key="d2">3</data>
+</edge>
+<edge source="Las Naves" target="VIT Emprende">
+  <data key="d2">3</data>
+</edge>
+<edge source="Las Naves" target="Socialnest Foundation">
+  <data key="d2">3</data>
+</edge>
+<edge source="Las Naves" target="Capazia">
+  <data key="d2">3</data>
+</edge>
+<edge source="INNOAVI" target="CEV">
+  <data key="d2">5</data>
+</edge>
+<edge source="INNOAVI" target="REDIT">
+  <data key="d2">5</data>
+</edge>
+<edge source="INNOAVI" target="UPV">
+  <data key="d2">5</data>
+</edge>
+<edge source="INNOAVI" target="UA">
+  <data key="d2">5</data>
+</edge>
+<edge source="INNOAVI" target="UV">
+  <data key="d2">5</data>
+</edge>
+<edge source="INNOAVI" target="Universidad Miguel Hernández">
+  <data key="d2">5</data>
+</edge>
+<edge source="INNOAVI" target="Universidad Jaime I">
+  <data key="d2">5</data>
+</edge>
+<edge source="INNOAVI" target="CSIC Valencia">
+  <data key="d2">5</data>
+</edge>
+<edge source="INNOAVI" target="FISABIO">
+  <data key="d2">5</data>
+</edge>
+<edge source="INNOAVI" target="ADCV">
+  <data key="d2">5</data>
+</edge>
+<edge source="INNOAVI" target="ITI">
+  <data key="d2">1</data>
+</edge>
+<edge source="INNOAVI" target="AIDIMME">
+  <data key="d2">3</data>
+</edge>
+<edge source="INNOAVI" target="OTRI UA">
+  <data key="d2">3</data>
+</edge>
+<edge source="INNOAVI" target="AIJU">
+  <data key="d2">4</data>
+</edge>
+<edge source="INNOAVI" target="TECH4CV">
+  <data key="d2">1</data>
+</edge>
+<edge source="INNOAVI" target="Generalitat Valenciana">
+  <data key="d2">5</data>
+</edge>
+<edge source="FEVECTA" target="Dirección General de Emprendimiento - GVA">
+  <data key="d2">5</data>
+</edge>
+<edge source="FEVECTA" target="LABORA">
+  <data key="d2">5</data>
+</edge>
+<edge source="FEVECTA" target="UV">
+  <data key="d2">4</data>
+</edge>
+<edge source="FEVECTA" target="Caixa Popular">
+  <data key="d2">5</data>
+</edge>
+<edge source="FEVECTA" target="Ideas UPV">
+  <data key="d2">3</data>
+</edge>
+<edge source="FEVECTA" target="Las Provincias">
+  <data key="d2">3</data>
+</edge>
+<edge source="FEVECTA" target="Conselleria Economía Sostenible">
+  <data key="d2">3</data>
+</edge>
+<edge source="FEVECTA" target="Economía 3">
+  <data key="d2">3</data>
+</edge>
+<edge source="Dirección General de Emprendimiento - GVA" target="UPV">
+  <data key="d2">4</data>
+</edge>
+<edge source="Dirección General de Emprendimiento - GVA" target="UV">
+  <data key="d2">4</data>
+</edge>
+<edge source="Dirección General de Emprendimiento - GVA" target="Universidad Jaime I">
+  <data key="d2">4</data>
+</edge>
+<edge source="Dirección General de Emprendimiento - GVA" target="UA">
+  <data key="d2">4</data>
+</edge>
+<edge source="Dirección General de Emprendimiento - GVA" target="Universidad Miguel Hernández">
+  <data key="d2">4</data>
+</edge>
+<edge source="Dirección General de Emprendimiento - GVA" target="Valencia Startups">
+  <data key="d2">4</data>
+</edge>
+<edge source="Dirección General de Emprendimiento - GVA" target="Cámaras CV">
+  <data key="d2">4</data>
+</edge>
+<edge source="Dirección General de Emprendimiento - GVA" target="REDIT">
+  <data key="d2">3</data>
+</edge>
+<edge source="Dirección General de Emprendimiento - GVA" target="PCUV">
+  <data key="d2">4</data>
+</edge>
+<edge source="Dirección General de Emprendimiento - GVA" target="Consejo Valenciano del Emprendedor">
+  <data key="d2">5</data>
+</edge>
+<edge source="Dirección General de Emprendimiento - GVA" target="Conselleria Economía Sostenible">
+  <data key="d2">5</data>
+</edge>
+<edge source="Dirección General de Emprendimiento - GVA" target="CEEI Valencia">
+  <data key="d2">3</data>
+</edge>
+<edge source="Dirección General de Emprendimiento - GVA" target="IVACE">
+  <data key="d2">3</data>
+</edge>
+<edge source="Dirección General de Emprendimiento - GVA" target="FISABIO">
+  <data key="d2">3</data>
+</edge>
+<edge source="Dirección General de Emprendimiento - GVA" target="INCLIVA">
+  <data key="d2">3</data>
+</edge>
+<edge source="Dirección General de Emprendimiento - GVA" target="IIS La Fe">
+  <data key="d2">3</data>
+</edge>
+<edge source="Dirección General de Emprendimiento - GVA" target="IVIA">
+  <data key="d2">3</data>
+</edge>
+<edge source="Dirección General de Emprendimiento - GVA" target="CIPF">
+  <data key="d2">3</data>
+</edge>
+<edge source="Dirección General de Emprendimiento - GVA" target="Socialnest Foundation">
+  <data key="d2">3</data>
+</edge>
+<edge source="Dirección General de Emprendimiento - GVA" target="FEVECTA">
+  <data key="d2">3</data>
+</edge>
+<edge source="Dirección General de Emprendimiento - GVA" target="CEV">
+  <data key="d2">3</data>
+</edge>
+<edge source="ESIC Valencia" target="VIT Emprende">
+  <data key="d2">3</data>
+</edge>
+<edge source="ESIC Valencia" target="Bbooster">
+  <data key="d2">4</data>
+</edge>
+<edge source="ESIC Valencia" target="Demium">
+  <data key="d2">4</data>
+</edge>
+<edge source="ESIC Valencia" target="REDIT">
+  <data key="d2">3</data>
+</edge>
+<edge source="ESIC Valencia" target="Valencia Activa">
+  <data key="d2">2</data>
+</edge>
+<edge source="ESIC Valencia" target="AJEV">
+  <data key="d2">2</data>
+</edge>
+<edge source="ESIC Valencia" target="Big Ban Angels">
+  <data key="d2">5</data>
+</edge>
+<edge source="ESIC Valencia" target="AVAESEN">
+  <data key="d2">4</data>
+</edge>
+<edge source="ESIC Valencia" target="Dirección General de Emprendimiento - GVA">
+  <data key="d2">4</data>
+</edge>
+<edge source="ESIC Valencia" target="Valencia Startups">
+  <data key="d2">3</data>
+</edge>
+<edge source="ESIC Valencia" target="Caixa Popular">
+  <data key="d2">5</data>
+</edge>
+<edge source="ESIC Valencia" target="Universidad Miguel Hernández">
+  <data key="d2">3</data>
+</edge>
+<edge source="ESIC Valencia" target="Innsomnia">
+  <data key="d2">3</data>
+</edge>
+<edge source="ESIC Valencia" target="EIT Climate-KIC">
+  <data key="d2">3</data>
+</edge>
+<edge source="ESIC Valencia" target="Socialnest Foundation">
+  <data key="d2">3</data>
+</edge>
+<edge source="VIT Emprende" target="Innsomnia">
+  <data key="d2">1</data>
+</edge>
+<edge source="VIT Emprende" target="Go Hub">
+  <data key="d2">1</data>
+</edge>
+<edge source="Demium" target="Startup Valencia">
+  <data key="d2">3</data>
+</edge>
+<edge source="Demium" target="Innsomnia">
+  <data key="d2">3</data>
+</edge>
+<edge source="Valencia Activa" target="Generalitat Valenciana">
+  <data key="d2">5</data>
+</edge>
+<edge source="Valencia Activa" target="REDIT">
+  <data key="d2">4</data>
+</edge>
+<edge source="Valencia Activa" target="IVF">
+  <data key="d2">4</data>
+</edge>
+<edge source="Valencia Activa" target="UPV">
+  <data key="d2">5</data>
+</edge>
+<edge source="Valencia Activa" target="UV">
+  <data key="d2">5</data>
+</edge>
+<edge source="Valencia Activa" target="Cámara Valencia">
+  <data key="d2">4</data>
+</edge>
+<edge source="Valencia Activa" target="INNOAVI">
+  <data key="d2">4</data>
+</edge>
+<edge source="Valencia Activa" target="ITI">
+  <data key="d2">3</data>
+</edge>
+<edge source="Valencia Activa" target="FEVECTA">
+  <data key="d2">2</data>
+</edge>
+<edge source="Valencia Activa" target="Dirección General de Emprendimiento - GVA">
+  <data key="d2">4</data>
+</edge>
+<edge source="Valencia Activa" target="Fundación Valencia Port">
+  <data key="d2">3</data>
+</edge>
+<edge source="Valencia Activa" target="Facultat d'Economia UV">
+  <data key="d2">5</data>
+</edge>
+<edge source="Valencia Activa" target="AVAESEN">
+  <data key="d2">3</data>
+</edge>
+<edge source="Valencia Activa" target="IVACE">
+  <data key="d2">4</data>
+</edge>
+<edge source="Valencia Activa" target="CEV">
+  <data key="d2">5</data>
+</edge>
+<edge source="Valencia Activa" target="Big Ban Angels">
+  <data key="d2">3</data>
+</edge>
+<edge source="Valencia Activa" target="CEEI Valencia">
+  <data key="d2">3</data>
+</edge>
+<edge source="Valencia Activa" target="EIT Climate-KIC">
+  <data key="d2">3</data>
+</edge>
+<edge source="Valencia Activa" target="AJEV">
+  <data key="d2">3</data>
+</edge>
+<edge source="Valencia Activa" target="VLC Tech City">
+  <data key="d2">3</data>
+</edge>
+<edge source="Valencia Activa" target="Innsomnia">
+  <data key="d2">3</data>
+</edge>
+<edge source="Valencia Activa" target="Conselleria Economía Sostenible">
+  <data key="d2">3</data>
+</edge>
+<edge source="Valencia Activa" target="Las Naves">
+  <data key="d2">3</data>
+</edge>
+<edge source="Valencia Activa" target="Lanzadera">
+  <data key="d2">3</data>
+</edge>
+<edge source="Valencia Activa" target="ADEIT">
+  <data key="d2">3</data>
+</edge>
+<edge source="Valencia Activa" target="CPI">
+  <data key="d2">3</data>
+</edge>
+<edge source="AJEV" target="CE">
+  <data key="d2">5</data>
+</edge>
+<edge source="AJEV" target="Generalitat Valenciana">
+  <data key="d2">5</data>
+</edge>
+<edge source="AJEV" target="Ayuntamiento de Valencia">
+  <data key="d2">5</data>
+</edge>
+<edge source="AJEV" target="F y G Consultores">
+  <data key="d2">5</data>
+</edge>
+<edge source="AJEV" target="CEV">
+  <data key="d2">5</data>
+</edge>
+<edge source="AJEV" target="FEVECTA">
+  <data key="d2">2</data>
+</edge>
+<edge source="AJEV" target="Ideas UPV">
+  <data key="d2">3</data>
+</edge>
+<edge source="AJEV" target="CEEI Valencia">
+  <data key="d2">3</data>
+</edge>
+<edge source="AJEV" target="Conselleria Economía Sostenible">
+  <data key="d2">4</data>
+</edge>
+<edge source="Big Ban Angels" target="IVF">
+  <data key="d2">5</data>
+</edge>
+<edge source="Big Ban Angels" target="BME">
+  <data key="d2">4</data>
+</edge>
+<edge source="Big Ban Angels" target="Angels Capital">
+  <data key="d2">4</data>
+</edge>
+<edge source="Big Ban Angels" target="Capital Cell">
+  <data key="d2">4</data>
+</edge>
+<edge source="Big Ban Angels" target="Demium">
+  <data key="d2">4</data>
+</edge>
+<edge source="Big Ban Angels" target="Gesdocument">
+  <data key="d2">4</data>
+</edge>
+<edge source="Big Ban Angels" target="IFEDES">
+  <data key="d2">4</data>
+</edge>
+<edge source="Big Ban Angels" target="Lanzadera">
+  <data key="d2">4</data>
+</edge>
+<edge source="Big Ban Angels" target="Aktion Legal">
+  <data key="d2">4</data>
+</edge>
+<edge source="Big Ban Angels" target="Clave capital">
+  <data key="d2">4</data>
+</edge>
+<edge source="Big Ban Angels" target="CEEI Valencia">
+  <data key="d2">3</data>
+</edge>
+<edge source="Big Ban Angels" target="AEBAN">
+  <data key="d2">5</data>
+</edge>
+<edge source="Big Ban Angels" target="Blast of partners">
+  <data key="d2">3</data>
+</edge>
+<edge source="AVAESEN" target="Fundación Valencia Port">
+  <data key="d2">3</data>
+</edge>
+<edge source="AVAESEN" target="INNOAVI">
+  <data key="d2">4</data>
+</edge>
+<edge source="AVAESEN" target="IVACE">
+  <data key="d2">4</data>
+</edge>
+<edge source="AVAESEN" target="UPV">
+  <data key="d2">3</data>
+</edge>
+<edge source="AVAESEN" target="Bbooster">
+  <data key="d2">3</data>
+</edge>
+<edge source="AVAESEN" target="Big Ban Angels">
+  <data key="d2">2</data>
+</edge>
+<edge source="AVAESEN" target="Valencia Startups">
+  <data key="d2">2</data>
+</edge>
+<edge source="AVAESEN" target="KM ZERO Food">
+  <data key="d2">2</data>
+</edge>
+<edge source="AVAESEN" target="Las Naves">
+  <data key="d2">5</data>
+</edge>
+<edge source="AVAESEN" target="ClimateLaunchpad">
+  <data key="d2">5</data>
+</edge>
+<edge source="AVAESEN" target="PARSEC Accelerator">
+  <data key="d2">5</data>
+</edge>
+<edge source="Startup Valencia" target="Valencia Activa">
+  <data key="d2">5</data>
+</edge>
+<edge source="Startup Valencia" target="Dirección General de Emprendimiento - GVA">
+  <data key="d2">5</data>
+</edge>
+<edge source="Startup Valencia" target="INNOAVI">
+  <data key="d2">2</data>
+</edge>
+<edge source="Startup Valencia" target="CEEI Valencia">
+  <data key="d2">5</data>
+</edge>
+<edge source="Startup Valencia" target="Big Ban Angels">
+  <data key="d2">3</data>
+</edge>
+<edge source="Startup Valencia" target="Go Hub">
+  <data key="d2">5</data>
+</edge>
+<edge source="Startup Valencia" target="UV">
+  <data key="d2">2</data>
+</edge>
+<edge source="Startup Valencia" target="Bstartup">
+  <data key="d2">3</data>
+</edge>
+<edge source="Startup Valencia" target="Start UPV">
+  <data key="d2">3</data>
+</edge>
+<edge source="Startup Valencia" target="KM ZERO Food">
+  <data key="d2">3</data>
+</edge>
+<edge source="CEEI Valencia" target="EBN">
+  <data key="d2">5</data>
+</edge>
+<edge source="CEEI Valencia" target="REDIT">
+  <data key="d2">4</data>
+</edge>
+<edge source="CEEI Valencia" target="ENISA">
+  <data key="d2">2</data>
+</edge>
+<edge source="CEEI Valencia" target="CDTI">
+  <data key="d2">3</data>
+</edge>
+<edge source="CEEI Valencia" target="CEV">
+  <data key="d2">4</data>
+</edge>
+<edge source="CEEI Valencia" target="IVF">
+  <data key="d2">3</data>
+</edge>
+<edge source="CEEI Valencia" target="ADLYPSE">
+  <data key="d2">4</data>
+</edge>
+<edge source="CEEI Valencia" target="Las Naves">
+  <data key="d2">5</data>
+</edge>
+<edge source="CEEI Valencia" target="FEVECTA">
+  <data key="d2">3</data>
+</edge>
+<edge source="CEEI Valencia" target="Innsomnia">
+  <data key="d2">3</data>
+</edge>
+<edge source="CEEI Valencia" target="Clave capital">
+  <data key="d2">3</data>
+</edge>
+<edge source="CEEI Valencia" target="COITCV">
+  <data key="d2">1</data>
+</edge>
+<edge source="CEEI Valencia" target="IVACE">
+  <data key="d2">5</data>
+</edge>
+<edge source="CEEI Valencia" target="ATA CV">
+  <data key="d2">3</data>
+</edge>
+<edge source="CEEI Valencia" target="EIT Climate-KIC">
+  <data key="d2">3</data>
+</edge>
+<edge source="CEEI Valencia" target="FLORIDA Universitaria">
+  <data key="d2">3</data>
+</edge>
+<edge source="CEEI Valencia" target="UCV">
+  <data key="d2">3</data>
+</edge>
+<edge source="CEEI Valencia" target="ADEIT">
+  <data key="d2">3</data>
+</edge>
+<edge source="CEEI Valencia" target="Go Hub">
+  <data key="d2">3</data>
+</edge>
+<edge source="CEEI Valencia" target="Ayuntamiento de Valencia">
+  <data key="d2">3</data>
+</edge>
+<edge source="CEEI Valencia" target="Cámaras CV">
+  <data key="d2">3</data>
+</edge>
+<edge source="Innsomnia" target="Marina de empresas">
+  <data key="d2">4</data>
+</edge>
+<edge source="Innsomnia" target="Start UPV">
+  <data key="d2">4</data>
+</edge>
+<edge source="Innsomnia" target="UPV">
+  <data key="d2">5</data>
+</edge>
+<edge source="Innsomnia" target="Tech Transfer UPV">
+  <data key="d2">2</data>
+</edge>
+<edge source="Innsomnia" target="Bankia">
+  <data key="d2">5</data>
+</edge>
+<edge source="Innsomnia" target="Ideas UPV">
+  <data key="d2">3</data>
+</edge>
+<edge source="Innsomnia" target="La Marina">
+  <data key="d2">4</data>
+</edge>
+<edge source="Innsomnia" target="Go Hub">
+  <data key="d2">3</data>
+</edge>
+<edge source="Innsomnia" target="Bbooster">
+  <data key="d2">1</data>
+</edge>
+<edge source="Innsomnia" target="Climate KIC Accelerator">
+  <data key="d2">3</data>
+</edge>
+<edge source="Innsomnia" target="Socialnest Foundation">
+  <data key="d2">3</data>
+</edge>
+<edge source="Innsomnia" target="CSIC Valencia">
+  <data key="d2">3</data>
+</edge>
+<edge source="Innsomnia" target="Valencia Plaza">
+  <data key="d2">3</data>
+</edge>
+<edge source="Innsomnia" target="Legal Hackers">
+  <data key="d2">3</data>
+</edge>
+<edge source="Innsomnia" target="GeeksHubs">
+  <data key="d2">3</data>
+</edge>
+<edge source="Innsomnia" target="Feria de Valencia">
+  <data key="d2">3</data>
+</edge>
+<edge source="Innsomnia" target="ESIC Valencia">
+  <data key="d2">3</data>
+</edge>
+<edge source="Innsomnia" target="Fundación Valencia Port">
+  <data key="d2">3</data>
+</edge>
+<edge source="Innsomnia" target="FEBF">
+  <data key="d2">3</data>
+</edge>
+<edge source="Innsomnia" target="Forbes">
+  <data key="d2">3</data>
+</edge>
+<edge source="Tech Transfer UPV" target="AINIA">
+  <data key="d2">1</data>
+</edge>
+<edge source="Tech Transfer UPV" target="EIT Foood">
+  <data key="d2">1</data>
+</edge>
+<edge source="Ingenio" target="Dirección General de Emprendimiento - GVA">
+  <data key="d2">3</data>
+</edge>
+<edge source="Ingenio" target="Generalitat Valenciana">
+  <data key="d2">2</data>
+</edge>
+<edge source="Ingenio" target="CSIC Valencia">
+  <data key="d2">5</data>
+</edge>
+<edge source="Ingenio" target="AVAESEN">
+  <data key="d2">2</data>
+</edge>
+<edge source="Ingenio" target="Las Naves">
+  <data key="d2">5</data>
+</edge>
+<edge source="RUVID" target="UV">
+  <data key="d2">4</data>
+</edge>
+<edge source="Ideas UPV" target="Climate KIC Accelerator">
+  <data key="d2">4</data>
+</edge>
+<edge source="Ideas UPV" target="EIT Climate-KIC">
+  <data key="d2">5</data>
+</edge>
+<edge source="Ideas UPV" target="Start UPV">
+  <data key="d2">5</data>
+</edge>
+<edge source="Ideas UPV" target="AVAESEN">
+  <data key="d2">5</data>
+</edge>
+<edge source="Ideas UPV" target="PCUV">
+  <data key="d2">4</data>
+</edge>
+<edge source="Ideas UPV" target="Fundación Valencia Port">
+  <data key="d2">5</data>
+</edge>
+<edge source="Ideas UPV" target="Ingenio">
+  <data key="d2">4</data>
+</edge>
+<edge source="Ideas UPV" target="ITI">
+  <data key="d2">2</data>
+</edge>
+<edge source="Ideas UPV" target="KM ZERO Food">
+  <data key="d2">3</data>
+</edge>
+<edge source="Ideas UPV" target="REDIT">
+  <data key="d2">3</data>
+</edge>
+<edge source="Ideas UPV" target="Valencia Activa">
+  <data key="d2">3</data>
+</edge>
+<edge source="Ideas UPV" target="Santander X">
+  <data key="d2">3</data>
+</edge>
+<edge source="Ideas UPV" target="Conselleria Economía Sostenible">
+  <data key="d2">3</data>
+</edge>
+<edge source="Ideas UPV" target="Finnova">
+  <data key="d2">3</data>
+</edge>
+<edge source="Ideas UPV" target="EIT Health">
+  <data key="d2">3</data>
+</edge>
+<edge source="Ideas UPV" target="Demium">
+  <data key="d2">3</data>
+</edge>
+<edge source="Ideas UPV" target="Startup Xplorer">
+  <data key="d2">3</data>
+</edge>
+<edge source="Ideas UPV" target="I2T UPV">
+  <data key="d2">3</data>
+</edge>
+<edge source="Ideas UPV" target="Banco Sabadell">
+  <data key="d2">3</data>
+</edge>
+<edge source="Ideas UPV" target="Santander Universidades">
+  <data key="d2">3</data>
+</edge>
+<edge source="Climate KIC Accelerator" target="Las Naves">
+  <data key="d2">5</data>
+</edge>
+<edge source="EIT Climate-KIC" target="UV">
+  <data key="d2">4</data>
+</edge>
+<edge source="IVACE" target="Conselleria Economía Sostenible">
+  <data key="d2">1</data>
+</edge>
+<edge source="IVACE" target="CEEI Valencia">
+  <data key="d2">1</data>
+</edge>
+<edge source="IVACE" target="REDIT">
+  <data key="d2">5</data>
+</edge>
+<edge source="IVACE" target="rePCV">
+  <data key="d2">3</data>
+</edge>
+<edge source="IVACE" target="ADEIT">
+  <data key="d2">5</data>
+</edge>
+<edge source="IVACE" target="FEBF">
+  <data key="d2">4</data>
+</edge>
+<edge source="IVACE" target="ITI">
+  <data key="d2">3</data>
+</edge>
+<edge source="IVACE" target="Valencia Activa">
+  <data key="d2">5</data>
+</edge>
+<edge source="IVACE" target="La Marina">
+  <data key="d2">4</data>
+</edge>
+<edge source="IVACE" target="AIDIMME">
+  <data key="d2">5</data>
+</edge>
+<edge source="IVACE" target="AIJU">
+  <data key="d2">3</data>
+</edge>
+<edge source="IVACE" target="Generalitat Valenciana">
+  <data key="d2">5</data>
+</edge>
+<edge source="IVACE" target="PCUV">
+  <data key="d2">3</data>
+</edge>
+<edge source="IVACE" target="IVF">
+  <data key="d2">3</data>
+</edge>
+<edge source="IVACE" target="IBV">
+  <data key="d2">3</data>
+</edge>
+<edge source="IVACE" target="FEVECTA">
+  <data key="d2">3</data>
+</edge>
+<edge source="IVACE" target="ATA CV">
+  <data key="d2">3</data>
+</edge>
+<edge source="IVACE" target="AECTA">
+  <data key="d2">3</data>
+</edge>
+<edge source="IVACE" target="Cámaras CV">
+  <data key="d2">3</data>
+</edge>
+<edge source="IVACE" target="CSIC Valencia">
+  <data key="d2">3</data>
+</edge>
+<edge source="IVACE" target="INNOAVI">
+  <data key="d2">3</data>
+</edge>
+<edge source="IVACE" target="Ingenio">
+  <data key="d2">3</data>
+</edge>
+<edge source="IVACE" target="evap/BPW">
+  <data key="d2">3</data>
+</edge>
+<edge source="IVACE" target="RUVID">
+  <data key="d2">3</data>
+</edge>
+<edge source="KM ZERO Food" target="Lanzadera">
+  <data key="d2">5</data>
+</edge>
+<edge source="KM ZERO Food" target="Startup Weekend">
+  <data key="d2">3</data>
+</edge>
+<edge source="KM ZERO Food" target="Valencia Activa">
+  <data key="d2">5</data>
+</edge>
+<edge source="KM ZERO Food" target="Vortex">
+  <data key="d2">4</data>
+</edge>
+<edge source="KM ZERO Food" target="Valencia Plaza">
+  <data key="d2">4</data>
+</edge>
+<edge source="KM ZERO Food" target="VIT Emprende">
+  <data key="d2">5</data>
+</edge>
+<edge source="KM ZERO Food" target="Sabadell Hub Empresa">
+  <data key="d2">4</data>
+</edge>
+<edge source="Valencia Plaza" target="EDEM">
+  <data key="d2">2</data>
+</edge>
+<edge source="Valencia Plaza" target="Las Naves">
+  <data key="d2">5</data>
+</edge>
+<edge source="Internet Freedom Festival" target="Ayuntamiento de Valencia">
+  <data key="d2">2</data>
+</edge>
+<edge source="Internet Freedom Festival" target="Las Naves">
+  <data key="d2">3</data>
+</edge>
+<edge source="Internet Freedom Festival" target="La Marina">
+  <data key="d2">3</data>
+</edge>
+<edge source="Internet Freedom Festival" target="Valencia Plaza">
+  <data key="d2">3</data>
+</edge>
+<edge source="Internet Freedom Festival" target="El Diario">
+  <data key="d2">3</data>
+</edge>
+<edge source="Internet Freedom Festival" target="Delegación de Innovación y Gestión del Conocimiento">
+  <data key="d2">3</data>
+</edge>
+<edge source="Internet Freedom Festival" target="VLC Tech Hub">
+  <data key="d2">3</data>
+</edge>
+<edge source="Internet Freedom Festival" target="Hackers Civics">
+  <data key="d2">3</data>
+</edge>
+<edge source="COEV" target="UV">
+  <data key="d2">5</data>
+</edge>
+<edge source="COEV" target="UPV">
+  <data key="d2">3</data>
+</edge>
+<edge source="COEV" target="VLC Tech City">
+  <data key="d2">5</data>
+</edge>
+<edge source="COEV" target="UCV">
+  <data key="d2">3</data>
+</edge>
+<edge source="COEV" target="UEV">
+  <data key="d2">3</data>
+</edge>
+<edge source="COEV" target="FLORIDA Universitaria">
+  <data key="d2">3</data>
+</edge>
+<edge source="COEV" target="PCUV">
+  <data key="d2">3</data>
+</edge>
+<edge source="COEV" target="FEBF">
+  <data key="d2">3</data>
+</edge>
+<edge source="COEV" target="ADEIT">
+  <data key="d2">3</data>
+</edge>
+<edge source="COEV" target="CEV">
+  <data key="d2">3</data>
+</edge>
+<edge source="COEV" target="Ayuntamiento de Valencia">
+  <data key="d2">3</data>
+</edge>
+<edge source="COEV" target="Bankia">
+  <data key="d2">3</data>
+</edge>
+<edge source="COEV" target="Conselleria Economía Sostenible">
+  <data key="d2">3</data>
+</edge>
+<edge source="I2T UPV" target="UPV">
+  <data key="d2">5</data>
+</edge>
+<edge source="I2T UPV" target="CPI">
+  <data key="d2">5</data>
+</edge>
+<edge source="I2T UPV" target="CEV">
+  <data key="d2">3</data>
+</edge>
+<edge source="I2T UPV" target="AVIA">
+  <data key="d2">3</data>
+</edge>
+<edge source="I2T UPV" target="IIS La Fe">
+  <data key="d2">3</data>
+</edge>
+<edge source="I2T UPV" target="FISABIO">
+  <data key="d2">3</data>
+</edge>
+<edge source="I2T UPV" target="AIMPLAS">
+  <data key="d2">3</data>
+</edge>
+<edge source="I2T UPV" target="Universidad Jaime I">
+  <data key="d2">3</data>
+</edge>
+<edge source="I2T UPV" target="CSIC Valencia">
+  <data key="d2">3</data>
+</edge>
+<edge source="I2T UPV" target="RUVID">
+  <data key="d2">3</data>
+</edge>
+<edge source="I2T UPV" target="INNOAVI">
+  <data key="d2">3</data>
+</edge>
+<edge source="I2T UPV" target="REDIT">
+  <data key="d2">3</data>
+</edge>
+<edge source="Facultat d'Economia UV" target="OTRI UV">
+  <data key="d2">5</data>
+</edge>
+<edge source="Facultat d'Economia UV" target="Ayuntamiento de Valencia">
+  <data key="d2">5</data>
+</edge>
+<edge source="Facultat d'Economia UV" target="Lanzadera">
+  <data key="d2">4</data>
+</edge>
+<edge source="Facultat d'Economia UV" target="CEV">
+  <data key="d2">2</data>
+</edge>
+<edge source="Facultat d'Economia UV" target="Las Naves">
+  <data key="d2">5</data>
+</edge>
+<edge source="Facultat d'Economia UV" target="Generalitat Valenciana">
+  <data key="d2">5</data>
+</edge>
+<edge source="Conselleria Economía Sostenible" target="IVACE">
+  <data key="d2">4</data>
+</edge>
+<edge source="Conselleria Economía Sostenible" target="REDIT">
+  <data key="d2">5</data>
+</edge>
+<edge source="Conselleria Economía Sostenible" target="CIPF">
+  <data key="d2">3</data>
+</edge>
+<edge source="Conselleria Economía Sostenible" target="IVF">
+  <data key="d2">3</data>
+</edge>
+<edge source="Conselleria Economía Sostenible" target="Cámaras CV">
+  <data key="d2">4</data>
+</edge>
+<edge source="Conselleria Economía Sostenible" target="CEEI Valencia">
+  <data key="d2">3</data>
+</edge>
+<edge source="Conselleria Economía Sostenible" target="Ideas UPV">
+  <data key="d2">1</data>
+</edge>
+<edge source="Conselleria Economía Sostenible" target="PCUV">
+  <data key="d2">1</data>
+</edge>
+<edge source="Conselleria Economía Sostenible" target="Fundación Valencia Port">
+  <data key="d2">1</data>
+</edge>
+<edge source="Conselleria Economía Sostenible" target="Consejo Valenciano del Emprendedor">
+  <data key="d2">5</data>
+</edge>
+<edge source="Conselleria Economía Sostenible" target="Startup Valencia">
+  <data key="d2">3</data>
+</edge>
+<edge source="Conselleria Economía Sostenible" target="ADEIT">
+  <data key="d2">3</data>
+</edge>
+<edge source="Conselleria Economía Sostenible" target="Valencia Activa">
+  <data key="d2">3</data>
+</edge>
+<edge source="Conselleria Economía Sostenible" target="CDR">
+  <data key="d2">3</data>
+</edge>
+<edge source="ADEIT" target="REDIT">
+  <data key="d2">3</data>
+</edge>
+<edge source="La Marina" target="Generalitat Valenciana">
+  <data key="d2">4</data>
+</edge>
+<edge source="La Marina" target="Administración General del Estado">
+  <data key="d2">4</data>
+</edge>
+<edge source="La Marina" target="IVF">
+  <data key="d2">4</data>
+</edge>
+<edge source="La Marina" target="DIVAL">
+  <data key="d2">4</data>
+</edge>
+<edge source="La Marina" target="Ayuntamiento de Valencia">
+  <data key="d2">5</data>
+</edge>
+<edge source="La Marina" target="Lanzadera">
+  <data key="d2">5</data>
+</edge>
+<edge source="DIVAL" target="AVAESEN">
+  <data key="d2">4</data>
+</edge>
+<edge source="DIVAL" target="CEEI Valencia">
+  <data key="d2">4</data>
+</edge>
+<edge source="AECTA" target="AJEV">
+  <data key="d2">4</data>
+</edge>
+<edge source="AECTA" target="evap/BPW">
+  <data key="d2">4</data>
+</edge>
+<edge source="AECTA" target="AVALNET">
+  <data key="d2">4</data>
+</edge>
+<edge source="AECTA" target="IICV">
+  <data key="d2">4</data>
+</edge>
+<edge source="AECTA" target="COITCV">
+  <data key="d2">4</data>
+</edge>
+<edge source="AECTA" target="ITI">
+  <data key="d2">4</data>
+</edge>
+<edge source="AECTA" target="IVACE">
+  <data key="d2">4</data>
+</edge>
+<edge source="AECTA" target="El Mundo">
+  <data key="d2">4</data>
+</edge>
+<edge source="AECTA" target="CEEI Valencia">
+  <data key="d2">4</data>
+</edge>
+<edge source="AECTA" target="CEV">
+  <data key="d2">5</data>
+</edge>
+<edge source="AECTA" target="FEMEVAL">
+  <data key="d2">4</data>
+</edge>
+<edge source="AECTA" target="Foros Tecnologías Emergentes">
+  <data key="d2">5</data>
+</edge>
+<edge source="AIDIMME" target="AIMPLAS">
+  <data key="d2">2</data>
+</edge>
+<edge source="AIDIMME" target="CEIT">
+  <data key="d2">4</data>
+</edge>
+<edge source="AIDIMME" target="IVACE">
+  <data key="d2">5</data>
+</edge>
+<edge source="AINIA" target="REDIT">
+  <data key="d2">5</data>
+</edge>
+<edge source="AINIA" target="CDTI">
+  <data key="d2">4</data>
+</edge>
+<edge source="AINIA" target="INNOAVI">
+  <data key="d2">4</data>
+</edge>
+<edge source="AINIA" target="IVACE">
+  <data key="d2">5</data>
+</edge>
+<edge source="AINIA" target="EHEDG">
+  <data key="d2">5</data>
+</edge>
+<edge source="AINIA" target="Valencia Startups">
+  <data key="d2">1</data>
+</edge>
+<edge source="AINIA" target="INCLIVA">
+  <data key="d2">4</data>
+</edge>
+<edge source="AINIA" target="IIS La Fe">
+  <data key="d2">4</data>
+</edge>
+<edge source="AINIA" target="AIDIMME">
+  <data key="d2">2</data>
+</edge>
+<edge source="AINIA" target="RedTransfer">
+  <data key="d2">3</data>
+</edge>
+<edge source="AINIA" target="EIT Foood">
+  <data key="d2">3</data>
+</edge>
+<edge source="AINIA" target="Generalitat Valenciana">
+  <data key="d2">5</data>
+</edge>
+<edge source="IFEDES" target="Clave capital">
+  <data key="d2">5</data>
+</edge>
+<edge source="Aktion Legal" target="Clave capital">
+  <data key="d2">5</data>
+</edge>
+<edge source="OTRI UA" target="Generalitat Valenciana">
+  <data key="d2">5</data>
+</edge>
+<edge source="OTRI UA" target="PCA">
+  <data key="d2">4</data>
+</edge>
+<edge source="OTRI UA" target="SEIMED">
+  <data key="d2">4</data>
+</edge>
+<edge source="OTRI UA" target="UA">
+  <data key="d2">5</data>
+</edge>
+<edge source="OTRI UA" target="evap/BPW">
+  <data key="d2">3</data>
+</edge>
+<edge source="OTRI UA" target="AEI de la Infancia">
+  <data key="d2">3</data>
+</edge>
+<edge source="OTRI UA" target="Caixa Capital Risc">
+  <data key="d2">3</data>
+</edge>
+<edge source="OTRI UA" target="Startup Xplorer">
+  <data key="d2">3</data>
+</edge>
+<edge source="OTRI UA" target="Ayto. Alicante">
+  <data key="d2">3</data>
+</edge>
+<edge source="OTRI UA" target="Diputación de Alicante">
+  <data key="d2">3</data>
+</edge>
+<edge source="OTRI UA" target="Bioval">
+  <data key="d2">3</data>
+</edge>
+<edge source="AIJU" target="MINCOTUR">
+  <data key="d2">2</data>
+</edge>
+<edge source="AIJU" target="UPV">
+  <data key="d2">4</data>
+</edge>
+<edge source="AIJU" target="UA">
+  <data key="d2">3</data>
+</edge>
+<edge source="AIJU" target="LABORA">
+  <data key="d2">4</data>
+</edge>
+<edge source="AIJU" target="REDIT">
+  <data key="d2">5</data>
+</edge>
+<edge source="AIJU" target="FEDIT">
+  <data key="d2">2</data>
+</edge>
+<edge source="AIJU" target="Conselleria Economía Sostenible">
+  <data key="d2">4</data>
+</edge>
+<edge source="AIJU" target="EFFRA">
+  <data key="d2">4</data>
+</edge>
+<edge source="AIJU" target="MINECO">
+  <data key="d2">3</data>
+</edge>
+<edge source="AIJU" target="IVACE">
+  <data key="d2">5</data>
+</edge>
+<edge source="AIJU" target="AEFJ">
+  <data key="d2">3</data>
+</edge>
+<edge source="AIJU" target="IBIAE">
+  <data key="d2">3</data>
+</edge>
+<edge source="AIJU" target="Promoibi">
+  <data key="d2">3</data>
+</edge>
+<edge source="AIJU" target="AVEP">
+  <data key="d2">3</data>
+</edge>
+<edge source="AIJU" target="AVIA">
+  <data key="d2">3</data>
+</edge>
+<edge source="AIJU" target="INESCOP">
+  <data key="d2">3</data>
+</edge>
+<edge source="AIJU" target="AIDIMME">
+  <data key="d2">3</data>
+</edge>
+<edge source="AIJU" target="ITC">
+  <data key="d2">3</data>
+</edge>
+<edge source="AIJU" target="AITEX">
+  <data key="d2">3</data>
+</edge>
+<edge source="PCUV" target="Santander">
+  <data key="d2">4</data>
+</edge>
+<edge source="PCUV" target="CEV">
+  <data key="d2">3</data>
+</edge>
+<edge source="PCUV" target="Cámara Valencia">
+  <data key="d2">3</data>
+</edge>
+<edge source="PCUV" target="INNOAVI">
+  <data key="d2">5</data>
+</edge>
+<edge source="PCUV" target="IVACE">
+  <data key="d2">5</data>
+</edge>
+<edge source="PCUV" target="Startup Valencia">
+  <data key="d2">3</data>
+</edge>
+<edge source="PCUV" target="Ayuntamiento de Valencia">
+  <data key="d2">3</data>
+</edge>
+<edge source="PCUV" target="Big Ban Angels">
+  <data key="d2">3</data>
+</edge>
+<edge source="PCUV" target="Conselleria Economía Sostenible">
+  <data key="d2">3</data>
+</edge>
+<edge source="PCUV" target="UPV">
+  <data key="d2">3</data>
+</edge>
+<edge source="PCUV" target="Facultat d'Economia UV">
+  <data key="d2">5</data>
+</edge>
+<edge source="PCUV" target="UV">
+  <data key="d2">5</data>
+</edge>
+<edge source="PCUV" target="CPI">
+  <data key="d2">3</data>
+</edge>
+<edge source="PCUV" target="CSIC Valencia">
+  <data key="d2">3</data>
+</edge>
+<edge source="PCUV" target="ADEIT">
+  <data key="d2">3</data>
+</edge>
+<edge source="PCUV" target="rePCV">
+  <data key="d2">3</data>
+</edge>
+<edge source="PCUV" target="Generalitat Valenciana">
+  <data key="d2">3</data>
+</edge>
+<edge source="PCUV" target="Ingenio">
+  <data key="d2">3</data>
+</edge>
+<edge source="PCUV" target="Las Naves">
+  <data key="d2">3</data>
+</edge>
+<edge source="PCUV" target="REDIT">
+  <data key="d2">3</data>
+</edge>
+<edge source="PCUV" target="Santander Universidades">
+  <data key="d2">3</data>
+</edge>
+<edge source="PCUV" target="Santander X">
+  <data key="d2">3</data>
+</edge>
+<edge source="Santander" target="Ideas UPV">
+  <data key="d2">4</data>
+</edge>
+<edge source="Junior Achievement" target="EDEM">
+  <data key="d2">3</data>
+</edge>
+<edge source="Club para la Innovación" target="ITI">
+  <data key="d2">4</data>
+</edge>
+<edge source="Bioval" target="ITI">
+  <data key="d2">3</data>
+</edge>
+<edge source="Bioval" target="CEEI Valencia">
+  <data key="d2">5</data>
+</edge>
+<edge source="Delegación de Innovación y Gestión del Conocimiento" target="Las Naves">
+  <data key="d2">5</data>
+</edge>
+<edge source="FLORIDA Universitaria" target="Las Naves">
+  <data key="d2">5</data>
+</edge>
+<edge source="FLORIDA Universitaria" target="FEVECTA">
+  <data key="d2">5</data>
+</edge>
+<edge source="Agile on Board" target="Las Naves">
+  <data key="d2">5</data>
+</edge>
+<edge source="GeeksHubs" target="Startup Valencia">
+  <data key="d2">4</data>
+</edge>
+<edge source="Socialnest Foundation" target="Startup Valencia">
+  <data key="d2">4</data>
+</edge>
+<edge source="Observatori del Canvi Climàtic" target="Ingenio">
+  <data key="d2">4</data>
+</edge>
+<edge source="Biopolo La Fe" target="REDIT">
+  <data key="d2">3</data>
+</edge>
+<edge source="ClimateLaunchpad" target="Ideas UPV">
+  <data key="d2">4</data>
+</edge>
+<edge source="VLC Tech City" target="Ideas UPV">
+  <data key="d2">4</data>
+</edge>
+<edge source="ITE" target="Fundación Valencia Port">
+  <data key="d2">3</data>
+</edge>
+<edge source="UV Empren" target="Facultat d'Economia UV">
+  <data key="d2">5</data>
+</edge>
+<edge source="Santander Universidades" target="Facultat d'Economia UV">
+  <data key="d2">5</data>
+</edge>
+<edge source="Fosbury &amp; Sons" target="La Marina">
+  <data key="d2">4</data>
+</edge>
+<edge source="FEMPA" target="AIDIMME">
+  <data key="d2">4</data>
+</edge>
+<edge source="FEVAMA" target="AIDIMME">
+  <data key="d2">4</data>
+</edge>
+<edge source="IBMV" target="AIDIMME">
+  <data key="d2">2</data>
+</edge>
+<edge source="ASIVALCO" target="AIDIMME">
+  <data key="d2">3</data>
+</edge>
+<edge source="AEFJ" target="AIJU">
+  <data key="d2">3</data>
+</edge>
+<edge source="ANCES" target="CEEI Valencia">
+  <data key="d2">4</data>
+</edge>
+<edge source="SEIMED" target="CEEI Valencia">
+  <data key="d2">5</data>
+</edge>
+<edge source="Fundación Equipo Humano" target="AJEV">
+  <data key="d2">5</data>
+</edge>
+<edge source="Cámara España en Bélgica" target="AJEV">
+  <data key="d2">5</data>
+</edge>
+<edge source="Dublin Chamber of Commerce" target="AJEV">
+  <data key="d2">5</data>
+</edge>
+<edge source="Esmovia" target="AJEV">
+  <data key="d2">5</data>
+</edge>
+<edge source="Tera Technopolis" target="AJEV">
+  <data key="d2">5</data>
+</edge>
+<edge source="DG Industria e I+D+I" target="Conselleria Economía Sostenible">
+  <data key="d2">1</data>
+</edge>
+<edge source="DG Industria e I+D+I" target="Cámaras CV">
+  <data key="d2">1</data>
+</edge>
+</graph></graphml>

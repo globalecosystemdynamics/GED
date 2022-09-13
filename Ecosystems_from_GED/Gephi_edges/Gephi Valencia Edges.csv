@@ -1,0 +1,630 @@
+Source,Target,Type,Id,Label,timeset,Weight,directionality,interactions required,collaboration agreement,budget allocated,hr allocated,result,validation,loop?,response id,bloque
+EDEM,UV,Directed,2389,,,5,Direct,,Yes,300,5,Yes,Analyze,ok,04,2
+EDEM,UPV,Directed,2390,,,4,Direct,20,Yes,300,5,Yes,Analyze,ok,04,3
+EDEM,Lanzadera,Directed,2391,,,5,Direct,1,No,50,2,Yes,Analyze,ok,04,4
+EDEM,Angels Capital,Directed,2392,,,5,Direct,1,No,50,2,Yes,Analyze,ok,04,5
+EDEM,Generalitat Valenciana,Directed,2393,,,2,Direct,,No,50,2,Yes,Analyze,ok,04,6
+EDEM,Ayuntamiento de Valencia,Directed,2394,,,3,Direct,20,Yes,2000,2,Yes,Analyze,ok,04,7
+Clave capital,CPI,Directed,2395,,,5,Direct,5,Yes,2000000,2,Yes,Analyze,ok,05,2
+Clave capital,Start UPV,Directed,2396,,,5,Direct,7,Yes,2000000,2,Yes,Analyze,ok,05,9
+Clave capital,OTRI UV,Directed,2397,,,3,Direct,7,Yes,550000,2,Yes,Analyze,ok,05,10
+Clave capital,REDIT,Directed,2398,,,5,Direct,6,Yes,550000,2,Yes,Analyze,ok,05,11
+ITI,REDIT,Directed,2399,,,5,Direct,1,Yes,550000,8,Yes,Analyze,ok,06,1
+ITI,Valencia Startups,Directed,2400,,,3,Direct,3,Yes,4000,2,Yes,Analyze,ok,06,4
+ITI,CEV,Directed,2401,,,3,Direct,3,No,2000,2,Yes,Analyze,ok,06,5
+ITI,Go Hub,Directed,2402,,,3,Direct,3,Yes,300,2,Yes,Analyze,ok,06,6
+ITI,Lanzadera,Directed,2403,,,2,Direct,5,Yes,750,2,Unachieved,Analyze,ok,06,7
+ITI,EDEM,Directed,2404,,,2,Direct,4,Yes,2000,2,Yes,Analyze,ok,06,8
+ITI,UPV,Directed,2405,,,5,Direct,1,Yes,550000,40,Yes,Analyze,ok,06,9
+ITI,UV,Directed,2406,,,4,Direct,3,Yes,30000,2,Yes,Analyze,ok,06,10
+ITI,Universidad Jaime I,Directed,2407,,,4,Direct,3,Yes,2000,5,Yes,Analyze,ok,06,11
+ITI,AVIA,Directed,2408,,,4,Direct,1,Yes,2000,2,Yes,Analyze,ok,06,12
+ITI,FEMEVAL,Directed,2409,,,4,Direct,1,Yes,2000,2,Yes,Analyze,ok,06,13
+ITI,Cámara Valencia,Directed,2410,,,4,Direct,1,Yes,750,2,Yes,Analyze,ok,06,14
+ITI,Fundación Valencia Port,Directed,2411,,,5,Direct,1,Yes,550000,5,Yes,Analyze,ok,06,15
+ITI,INCLIVA,Directed,2412,,,5,Direct,1,Yes,550000,2,Yes,Analyze,ok,06,16
+ITI,CIICV,Directed,2413,,,4,Direct,1,Yes,7500,2,Yes,Analyze,ok,06,18
+ITI,COITCV,Directed,2414,,,3,Direct,1,Yes,750,2,Yes,Analyze,ok,06,19
+ITI,Data Cycle Hub,Directed,2415,,,5,Direct,1,Yes,550000,8,Yes,Analyze,ok,06,25
+ITI,UA,Directed,2416,,,2,Direct,3,Yes,2000,2,Unachieved,Analyze,ok,06,26
+Las Naves,INNOAVI,Directed,2417,,,4,Direct,3,No,300,2,Yes,Analyze,ok,07,2
+Las Naves,IVF,Directed,2418,,,4,Direct,3,No,750,2,Yes,Analyze,ok,07,3
+Las Naves,EMV,Directed,2419,,,4,Direct,2,No,300,2,Yes,Analyze,ok,07,7
+FEVECTA,Dirección General de Emprendimiento - GVA,Directed,2420,,,5,Direct,1,Yes,550000,8,Yes,Analyze,ok,09,1
+FEVECTA,LABORA,Directed,2421,,,5,Direct,2,Yes,75000,5,Yes,Analyze,ok,09,7
+FEVECTA,UV,Directed,2422,,,4,Direct,1,No,750,2,Yes,Analyze,ok,09,8
+FEVECTA,Caixa Popular,Directed,2423,,,5,Direct,1,Yes,7500,2,Yes,Analyze,ok,09,11
+ESIC Valencia,VIT Emprende,Directed,2424,,,3,Direct,1,No,300,2,Yes,Analyze,ok,10,1
+ESIC Valencia,Bbooster,Directed,2425,,,4,Direct,1,No,300,2,Yes,Analyze,ok,10,2
+ESIC Valencia,Demium,Directed,2426,,,4,Direct,1,No,300,2,Yes,Analyze,ok,10,3
+ESIC Valencia,REDIT,Directed,2427,,,3,Direct,2,No,300,2,Yes,Analyze,ok,10,4
+ESIC Valencia,Valencia Activa,Directed,2428,,,2,Direct,2,No,300,2,No,Analyze,ok,10,5
+ESIC Valencia,AJEV,Directed,2429,,,2,Direct,1,No,300,2,Unachieved,Analyze,ok,10,6
+ESIC Valencia,Big Ban Angels,Directed,2430,,,4,Direct,1,Yes,300,2,Yes,Analyze,ok,10,7
+ESIC Valencia,AVAESEN,Directed,2431,,,4,Direct,2,No,750,2,Yes,Analyze,ok,10,8
+ESIC Valencia,Dirección General de Emprendimiento - GVA,Directed,2432,,,4,Direct,1,No,750,2,Yes,Analyze,ok,10,9
+ESIC Valencia,Valencia Startups,Directed,2433,,,3,Direct,3,Yes,750,2,Yes,Analyze,ok,10,10
+ESIC Valencia,Caixa Popular,Directed,2434,,,5,Direct,4,Yes,4000,15,Yes,Analyze,ok,10,11
+CPI,Ayuntamiento de Valencia,Directed,2435,,,2,Direct,10,No,7500,2,Yes,Analyze,ok,11,3
+CPI,Fundación Valencia Port,Directed,2436,,,2,Direct,5,NA,NA,NA,Yes,Analyze,ok,11,4
+CPI,Generalitat Valenciana,Directed,2437,,,3,Direct,10,No,NA,2,Yes,Analyze,ok,11,5
+Startup Valencia,Valencia Activa,Directed,2438,,,5,Direct,5,Yes,7500,2,Yes,Analyze,ok,12,1
+Startup Valencia,Dirección General de Emprendimiento - GVA,Directed,2439,,,5,Direct,3,Yes,30000,2,Yes,Analyze,ok,12,2
+Startup Valencia,INNOAVI,Directed,2440,,,2,Direct,3,Yes,7500,2,Yes,Analyze,ok,12,3
+Startup Valencia,CEEI Valencia,Directed,2441,,,3,Direct,3,No,7500,2,Yes,Analyze,ok,12,4
+Startup Valencia,Big Ban Angels,Directed,2442,,,3,Direct,3,Yes,7500,2,Yes,Analyze,ok,12,5
+Startup Valencia,Go Hub,Directed,2443,,,5,Direct,5,Yes,7500,2,Yes,Analyze,ok,12,11
+Valencia Activa,Generalitat Valenciana,Directed,2444,,,5,Direct,1,Yes,2000000,15,Yes,Analyze,ok,13,1
+Valencia Activa,REDIT,Directed,2445,,,4,Direct,2,Yes,7500,2,Yes,Analyze,ok,13,3
+Valencia Activa,IVF,Directed,2446,,,4,Direct,2,Yes,7500,2,Yes,Analyze,ok,13,4
+Valencia Activa,UPV,Directed,2447,,,5,Direct,1,Yes,30000,5,Yes,Analyze,ok,13,6
+Valencia Activa,UV,Directed,2448,,,5,Direct,1,Yes,30000,5,Yes,Analyze,ok,13,7
+Valencia Activa,Cámara Valencia,Directed,2449,,,4,Direct,1,Yes,4000,2,Yes,Analyze,ok,13,8
+Valencia Activa,INNOAVI,Directed,2450,,,4,Direct,2,Yes,30000,5,Yes,Analyze,ok,13,11
+Innsomnia,Marina de empresas,Directed,2451,,,4,Direct,2,No,50,2,Yes,Analyze,ok,14,1
+Innsomnia,Start UPV,Directed,2452,,,4,Direct,4,No,50,2,Yes,Analyze,ok,14,7
+Innsomnia,UPV,Directed,2453,,,5,Direct,6,Yes,750,2,Yes,Analyze,ok,14,8
+Innsomnia,Tech Transfer UPV,Directed,2454,,,2,Direct,1,No,50,2,Unachieved,Analyze,ok,14,9
+Innsomnia,Bankia,Directed,2455,,,5,Direct,6,Yes,550000,5,Yes,Analyze,ok,14,11
+Dirección General de Emprendimiento - GVA,UPV,Directed,2456,,,4,Direct,2,Yes,550000,2,Yes,Analyze,ok,17,1
+Dirección General de Emprendimiento - GVA,UV,Directed,2457,,,4,Direct,2,Yes,550000,2,Yes,Analyze,ok,17,2
+Dirección General de Emprendimiento - GVA,Universidad Jaime I,Directed,2458,,,4,Direct,2,Yes,75000,2,Yes,Analyze,ok,17,3
+Dirección General de Emprendimiento - GVA,UA,Directed,2459,,,4,Direct,2,Yes,75000,2,Yes,Analyze,ok,17,4
+Dirección General de Emprendimiento - GVA,Universidad Miguel Hernández,Directed,2460,,,4,Direct,2,Yes,75000,2,Yes,Analyze,ok,17,5
+Dirección General de Emprendimiento - GVA,Valencia Startups,Directed,2461,,,4,Direct,3,Yes,30000,2,Yes,Analyze,ok,17,6
+Dirección General de Emprendimiento - GVA,Cámaras CV,Directed,2462,,,4,Direct,3,Yes,550000,2,Yes,Analyze,ok,17,10
+Dirección General de Emprendimiento - GVA,REDIT,Directed,2463,,,4,Direct,3,Yes,30000,2,Yes,Analyze,ok,17,11
+Ingenio,Dirección General de Emprendimiento - GVA,Directed,2464,,,3,Direct,2,No,NA,2,Yes,Analyze,ok,18,2
+Ingenio,Generalitat Valenciana,Directed,2465,,,2,Direct,5,No,NA,2,Yes,Analyze,ok,18,3
+Ingenio,CSIC Valencia,Directed,2466,,,5,Direct,10,Yes,NA,40,Yes,Analyze,ok,18,6
+Ingenio,AVAESEN,Directed,2467,,,2,Direct,3,No,NA,2,Yes,Analyze,ok,18,7
+Ingenio,Las Naves,Directed,2468,,,5,Direct,3,No,NA,5,Yes,Analyze,ok,18,9
+REDIT,RUVID,Directed,2469,,,3,Direct,3,No,NA,2,Yes,Analyze,ok,19,6
+REDIT,AVAESEN,Directed,2470,,,2,Direct,3,No,NA,2,Yes,Analyze,ok,19,9
+REDIT,Las Naves,Directed,2471,,,3,Direct,2,No,NA,2,Yes,Analyze,ok,19,15
+REDIT,IVF,Directed,2472,,,3,Direct,1,No,NA,2,Yes,Analyze,ok,19,16
+REDIT,Big Ban Angels,Directed,2473,,,3,Direct,1,No,NA,2,Yes,Analyze,ok,19,17
+REDIT,CIPF,Directed,2474,,,2,Direct,6,No,NA,2,Unachieved,Analyze,ok,19,18
+Ideas UPV,Climate KIC Accelerator,Directed,2475,,,4,Direct,1,Yes,550000,5,Yes,Analyze,ok,20,3
+Ideas UPV,EIT Climate-KIC,Directed,2476,,,5,Direct,3,Yes,75000,5,Yes,Analyze,ok,20,8
+Ideas UPV,Start UPV,Directed,2477,,,5,Direct,1,Yes,75000,8,Yes,Analyze,ok,20,10
+Ideas UPV,AVAESEN,Directed,2478,,,5,Direct,1,Yes,30000,NA,Yes,Analyze,ok,20,11
+REDIT,IVACE,Directed,2479,,,5,Direct,10,Yes,75000,5,Yes,Analyze,ok,23,1
+REDIT,INNOAVI,Directed,2480,,,5,Direct,10,Yes,550000,5,Yes,Analyze,ok,23,2
+KM ZERO Food,Lanzadera,Directed,2481,,,5,Direct,2,No,2000,2,Yes,Analyze,ok,24,2
+KM ZERO Food,Startup Weekend,Directed,2482,,,3,Direct,2,No,2000,2,Yes,Analyze,ok,24,4
+KM ZERO Food,Valencia Activa,Directed,2483,,,4,Direct,2,No,50,2,Yes,Analyze,ok,24,5
+KM ZERO Food,Vortex,Directed,2484,,,4,Direct,2,No,50,2,Yes,Analyze,ok,24,6
+KM ZERO Food,Valencia Plaza,Directed,2485,,,4,Direct,4,No,50,2,Yes,Analyze,ok,24,7
+KM ZERO Food,VIT Emprende,Directed,2486,,,5,Direct,2,No,50,2,Yes,Analyze,ok,24,10
+KM ZERO Food,Sabadell Hub Empresa,Directed,2487,,,4,Direct,6,No,750,2,Yes,Analyze,ok,24,11
+Internet Freedom Festival,Ayuntamiento de Valencia,Directed,2488,,,2,Direct,2,No,30000,2,Yes,Analyze,ok,25,1
+Fundación Valencia Port,Valencia Startups,Directed,2489,,,4,Direct,1,No,300,2,Yes,Analyze,ok,26,1
+Fundación Valencia Port,ITI,Directed,2490,,,4,Direct,1,No,50,2,Yes,Analyze,ok,26,5
+Fundación Valencia Port,Climate KIC Accelerator,Directed,2491,,,5,Direct,2,Yes,4000,5,Yes,Analyze,ok,26,6
+Fundación Valencia Port,EIT Climate-KIC,Directed,2492,,,5,Direct,2,Yes,4000,5,Yes,Analyze,ok,26,7
+Fundación Valencia Port,INNOAVI,Directed,2493,,,3,Direct,1,No,50,2,Yes,Analyze,ok,26,11
+COEV,UV,Directed,2494,,,4,Direct,2,Yes,NA,5,Yes,Analyze,ok,N02,1
+COEV,UPV,Directed,2495,,,3,Direct,NA,NA,NA,NA,NA,Analyze,ok,N02,2
+Clave capital,IVF,Directed,2496,,,5,Direct,4,Yes,2000000,2,Yes,Analyze,ok,N03,1
+Clave capital,I2T UPV,Directed,2497,,,5,Direct,10,Yes,7500,2,Yes,Analyze,ok,N03,2
+Clave capital,INNOAVI,Directed,2498,,,5,Direct,3,No,50,2,Unachieved,Analyze,ok,N03,4
+Clave capital,E&Y,Directed,2499,,,3,Direct,2,No,75000,2,Yes,Analyze,ok,N03,6
+Clave capital,CPI,Directed,2500,,,4,Direct,4,Yes,75000,2,Yes,Analyze,ok,N03,7
+Clave capital,Lanzadera,Directed,2501,,,4,Direct,4,No,50,2,Yes,Analyze,ok,N03,9
+Clave capital,CSIC Valencia,Directed,2502,,,4,Direct,5,Yes,50,2,Yes,Analyze,ok,N03,11
+Facultat d'Economia UV,OTRI UV,Directed,2503,,,5,Direct,10,No,50,2,Yes,Analyze,ok,N05,1
+Facultat d'Economia UV,Ayuntamiento de Valencia,Directed,2504,,,5,Direct,5,Yes,2000,2,Yes,Analyze,ok,N05,2
+Facultat d'Economia UV,Lanzadera,Directed,2505,,,4,Direct,5,No,50,2,Yes,Analyze,ok,N05,3
+Facultat d'Economia UV,CEV,Directed,2506,,,2,Direct,3,No,50,2,No,Analyze,ok,N05,8
+Facultat d'Economia UV,Las Naves,Directed,2507,,,5,Direct,10,No,50,2,Yes,Analyze,ok,N05,9
+AVAESEN,Fundación Valencia Port,Directed,2508,,,2,Direct,4,No,50,2,Unachieved,Analyze,ok,N07,3
+AVAESEN,INNOAVI,Directed,2509,,,4,Direct,1,No,30000,2,Yes,Analyze,ok,N07,4
+AVAESEN,IVACE,Directed,2510,,,4,Direct,1,No,7500,2,Yes,Analyze,ok,N07,5
+AVAESEN,UPV,Directed,2511,,,3,Direct,1,No,50,2,Yes,Analyze,ok,N07,6
+AVAESEN,Bbooster,Directed,2512,,,3,Direct,2,Yes,2000,2,Yes,Analyze,ok,N07,7
+AVAESEN,Big Ban Angels,Directed,2513,,,2,Direct,1,No,50,2,Yes,Analyze,ok,N07,8
+AVAESEN,Valencia Startups,Directed,2514,,,2,Direct,1,No,50,2,Yes,Analyze,ok,N07,9
+AVAESEN,KM ZERO Food,Directed,2515,,,2,Direct,1,No,50,2,Yes,Analyze,ok,N07,11
+IVACE,Conselleria Economía Sostenible,Directed,2516,,,5,Direct,1,No,NA,2,Yes,Analyze,ok,N08,2
+IVACE,CEEI Valencia,Directed,2517,,,5,Direct,1,No,NA,8,Yes,Analyze,ok,N08,3
+IVACE,REDIT,Directed,2518,,,5,Direct,1,No,NA,5,Yes,Analyze,ok,N08,4
+IVACE,rePCV,Directed,2519,,,3,Direct,1,No,NA,2,Yes,Analyze,ok,N08,5
+IVACE,ADEIT,Directed,2520,,,5,Direct,1,No,NA,2,Yes,Analyze,ok,N08,9
+IVACE,FEBF,Directed,2521,,,4,Direct,1,No,NA,2,Yes,Analyze,ok,N08,11
+La Marina,Generalitat Valenciana,Directed,2522,,,4,Direct,1,No,50,2,Yes,Analyze,ok,N10,2
+La Marina,Administración General del Estado,Directed,2523,,,4,Direct,1,No,50,2,Yes,Analyze,ok,N10,3
+La Marina,IVF,Directed,2524,,,4,Direct,1,No,50,2,Yes,Analyze,ok,N10,7
+La Marina,DIVAL,Directed,2525,,,4,Direct,1,No,50,2,Yes,Analyze,ok,N10,9
+AECTA,AJEV,Directed,2526,,,4,Direct,1,No,50,2,Yes,Analyze,ok,N14,1
+AECTA,evap/BPW,Directed,2527,,,4,Direct,1,No,50,2,Yes,Analyze,ok,N14,2
+AECTA,AVALNET,Directed,2528,,,4,Direct,1,No,50,2,Yes,Analyze,ok,N14,3
+AECTA,IICV,Directed,2529,,,4,Direct,1,No,50,2,Yes,Analyze,ok,N14,4
+AECTA,COITCV,Directed,2530,,,4,Direct,1,No,50,2,Yes,Analyze,ok,N14,5
+AECTA,ITI,Directed,2531,,,4,Direct,1,No,50,2,Yes,Analyze,ok,N14,6
+AECTA,IVACE,Directed,2532,,,4,Direct,1,Yes,50,2,Yes,Analyze,ok,N14,7
+AECTA,El Mundo,Directed,2533,,,4,Direct,1,No,50,2,Yes,Analyze,ok,N14,8
+AECTA,CEEI Valencia,Directed,2534,,,4,Direct,1,No,50,2,Yes,Analyze,ok,N14,9
+AECTA,CEV,Directed,2535,,,4,Direct,1,No,50,2,Yes,Analyze,ok,N14,10
+AECTA,FEMEVAL,Directed,2536,,,4,Direct,1,No,30000,2,Yes,Analyze,ok,N14,11
+AIDIMME,AIMPLAS,Directed,2537,,,2,Direct,5,No,4000,5,No,Analyze,ok,N19,8
+AIDIMME,CEIT,Directed,2538,,,4,Direct,4,Yes,550000,15,Yes,Analyze,ok,N19,11
+INNOAVI,CEV,Directed,2539,,,5,Direct,1,No,2000000,8,Yes,Analyze,ok,N21,1
+INNOAVI,REDIT,Directed,2540,,,5,Direct,1,Yes,550000,5,Yes,Analyze,ok,N21,2
+INNOAVI,UPV,Directed,2541,,,5,Direct,1,Yes,550000,2,Yes,Analyze,ok,N21,3
+INNOAVI,UA,Directed,2542,,,5,Direct,1,Yes,550000,5,Yes,Analyze,ok,N21,4
+INNOAVI,UV,Directed,2543,,,5,Direct,1,Yes,550000,2,Yes,Analyze,ok,N21,5
+INNOAVI,Universidad Miguel Hernández,Directed,2544,,,5,Direct,1,Yes,550000,2,Yes,Analyze,ok,N21,6
+INNOAVI,Universidad Jaime I,Directed,2545,,,5,Direct,1,Yes,550000,2,Yes,Analyze,ok,N21,7
+INNOAVI,CSIC Valencia,Directed,2546,,,5,Direct,1,Yes,50,2,Yes,Analyze,ok,N21,8
+INNOAVI,FISABIO,Directed,2547,,,5,Direct,1,Yes,550000,5,Yes,Analyze,ok,N21,10
+INNOAVI,ADCV,Directed,2548,,,5,Direct,1,Yes,550000,2,Yes,Analyze,ok,N21,11
+COITCV,IVACE,Directed,2549,,,4,Direct,3,No,50,2,Yes,Analyze,ok,N22,1
+COITCV,Ayuntamiento de Valencia,Directed,2550,,,2,Direct,2,No,50,2,Yes,Analyze,ok,N22,2
+COITCV,INNOAVI,Directed,2551,,,3,Direct,2,No,50,2,Yes,Analyze,ok,N22,6
+COITCV,Cámara Valencia,Directed,2552,,,3,Direct,2,Yes,50,2,Yes,Analyze,ok,N22,9
+COITCV,CIICV,Directed,2553,,,3,Direct,10,No,2000,2,Unachieved,Analyze,ok,N22,11
+AINIA,REDIT,Directed,2554,,,5,Direct,1,Yes,30000,8,Yes,Analyze,ok,N23,1
+AINIA,CDTI,Directed,2555,,,4,Direct,5,Yes,75000,15,Yes,Analyze,ok,N23,2
+AINIA,INNOAVI,Directed,2556,,,4,Direct,5,Yes,75000,5,Yes,Analyze,ok,N23,3
+AINIA,IVACE,Directed,2557,,,5,Direct,5,Yes,550000,25,Yes,Analyze,ok,N23,4
+AINIA,EHEDG,Directed,2558,,,5,Direct,15,Yes,550000,5,Yes,Analyze,ok,N23,5
+AINIA,Valencia Startups,Directed,2559,,,1,Direct,2,No,750,2,Unachieved,Analyze,ok,N23,6
+AINIA,INCLIVA,Directed,2560,,,4,Direct,5,Yes,75000,5,Yes,Analyze,ok,N23,8
+AINIA,IIS La Fe,Directed,2561,,,4,Direct,5,Yes,550000,5,Yes,Analyze,ok,N23,10
+Big Ban Angels,IVF,Directed,2562,,,4,Direct,10,No,50,2,Yes,Analyze,ok,N24,1
+Big Ban Angels,BME,Directed,2563,,,4,Direct,3,Yes,750,2,Yes,Analyze,ok,N24,2
+Big Ban Angels,Angels Capital,Directed,2564,,,4,Direct,5,Yes,NA,2,Yes,Analyze,ok,N24,3
+Big Ban Angels,Capital Cell,Directed,2565,,,4,Direct,3,Yes,750,2,Yes,Analyze,ok,N24,4
+Big Ban Angels,Demium,Directed,2566,,,4,Direct,3,Yes,750,2,Yes,Analyze,ok,N24,5
+Big Ban Angels,Gesdocument,Directed,2567,,,4,Direct,3,Yes,4000,2,Yes,Analyze,ok,N24,6
+Big Ban Angels,IFEDES,Directed,2568,,,4,Direct,3,Yes,750,2,Yes,Analyze,ok,N24,7
+Big Ban Angels,Lanzadera,Directed,2569,,,4,Direct,3,Yes,750,2,Yes,Analyze,ok,N24,9
+Big Ban Angels,Aktion Legal,Directed,2570,,,4,Direct,3,Yes,750,2,Yes,Analyze,ok,N24,11
+OTRI UA,Generalitat Valenciana,Directed,2571,,,5,Direct,,Yes,NA,2,Yes,Analyze,ok,N27,1
+AIJU,MINCOTUR,Directed,2572,,,2,Direct,5,No,50,2,Yes,Analyze,ok,N30,3
+AIJU,UPV,Directed,2573,,,4,Direct,10,Yes,NA,2,Yes,Analyze,ok,N30,5
+AIJU,UA,Directed,2574,,,3,Direct,5,Yes,300,2,Yes,Analyze,ok,N30,6
+AIJU,LABORA,Directed,2575,,,4,Direct,3,Yes,300,2,Yes,Analyze,ok,N30,7
+AIJU,REDIT,Directed,2576,,,5,Direct,5,Yes,2000,2,Yes,Analyze,ok,N30,8
+AIJU,FEDIT,Directed,2577,,,2,Direct,3,Yes,2000,8,Yes,Analyze,ok,N30,9
+AIJU,Conselleria Economía Sostenible,Directed,2578,,,4,Direct,3,No,300,8,Yes,Analyze,ok,N30,10
+AIJU,EFFRA,Directed,2579,,,4,Direct,3,Yes,NA,2,Yes,Analyze,ok,N30,11
+CEEI Valencia,EBN,Directed,2580,,,5,Direct,2,No,2000,2,Yes,Analyze,ok,N35,5
+CEEI Valencia,REDIT,Directed,2581,,,4,Direct,3,No,50,2,Yes,Analyze,ok,N35,9
+CEEI Valencia,ENISA,Directed,2582,,,2,Direct,3,No,50,2,Yes,Analyze,ok,N35,10
+CEEI Valencia,CDTI,Directed,2583,,,3,Direct,3,Yes,2000,2,Yes,Analyze,ok,N35,11
+CEEI Valencia,CEV,Directed,2584,,,4,Direct,1,No,50,2,Yes,Analyze,ok,N35,13
+CEEI Valencia,IVF,Directed,2585,,,3,Direct,3,Yes,2000,2,Yes,Analyze,ok,N35,14
+CEEI Valencia,ADLYPSE,Directed,2586,,,4,Direct,3,Yes,4000,2,Yes,Analyze,ok,N35,15
+Conselleria Economía Sostenible,IVACE,Directed,2587,,,4,Direct,4,No,50,2,Yes,Analyze,ok,N38,5
+Conselleria Economía Sostenible,REDIT,Directed,2588,,,3,Direct,2,Yes,30000,2,Yes,Analyze,ok,N38,7
+Conselleria Economía Sostenible,CIPF,Directed,2589,,,3,Direct,3,Yes,30000,2,Yes,Analyze,ok,N38,8
+Conselleria Economía Sostenible,IVF,Directed,2590,,,3,Direct,2,No,50,2,Yes,Analyze,ok,N38,9
+PCUV,Santander,Directed,2591,,,4,Direct,2,Yes,30000,2,Yes,Analyze,ok,N39,2
+PCUV,CEV,Directed,2592,,,3,Direct,2,Yes,50,2,Yes,Analyze,ok,N39,3
+PCUV,Cámara Valencia,Directed,2593,,,3,Direct,2,Yes,50,2,Yes,Analyze,ok,N39,4
+PCUV,INNOAVI,Directed,2594,,,5,Direct,2,Yes,550000,5,Yes,Analyze,ok,N39,5
+PCUV,IVACE,Directed,2595,,,5,Direct,5,Yes,75000,5,Yes,Analyze,ok,N39,6
+PCUV,Startup Valencia,Directed,2596,,,3,Direct,2,Yes,2000,2,Yes,Analyze,ok,N39,7
+PCUV,Ayuntamiento de Valencia,Directed,2597,,,3,Direct,2,Yes,50,2,Yes,Analyze,ok,N39,8
+PCUV,Big Ban Angels,Directed,2598,,,3,Direct,2,Yes,50,2,Yes,Analyze,ok,N39,9
+PCUV,Conselleria Economía Sostenible,Directed,2599,,,3,Direct,4,No,50,2,Yes,Analyze,ok,N39,10
+AJEV,CE,Directed,2600,,,5,Direct,5,Yes,50,2,Yes,Analyze,ok,N40,2
+AJEV,Generalitat Valenciana,Directed,2601,,,5,Direct,1,Yes,50,2,Yes,Analyze,ok,N40,3
+AJEV,Ayuntamiento de Valencia,Directed,2602,,,5,Direct,1,Yes,50,2,Yes,Analyze,ok,N40,4
+AJEV,F y G Consultores,Directed,2603,,,5,Direct,2,Yes,50,2,Yes,Analyze,ok,N40,8
+AJEV,CEV,Directed,2604,,,5,Direct,5,Yes,7500,2,Yes,Analyze,ok,N40,11
+UV,PCUV,Directed,2605,,,5,Direct,2,Yes,2000000,8,Yes,Analyze,ok,N43,3
+UV,ADEIT,Directed,2606,,,5,Direct,2,Yes,2000000,15,Yes,Analyze,ok,N43,4
+UV,INNOAVI,Directed,2607,,,3,Direct,5,No,2000,15,Yes,Analyze,ok,N43,6
+UV,Santander,Directed,2608,,,4,Direct,5,Yes,4000,2,Yes,Analyze,ok,N43,9
+UV,CEEI Valencia,Directed,2609,,,3,Direct,2,Yes,2000,5,Yes,Analyze,ok,N43,10
+Junior Achievement,EDEM,Directed,2610,,,3,Inverse,10,Yes,50,2,Yes,Analyze,ok,04,9
+Valencia Plaza,EDEM,Directed,2611,,,2,Inverse,10,No,50,2,Yes,Analyze,ok,04,10
+ITI,EDEM,Directed,2612,,,1,Inverse,5,No,50,2,Unachieved,Analyze,ok,04,11
+Aktion Legal,Clave capital,Directed,2613,,,5,Inverse,4,No,30000,2,Yes,Analyze,ok,05,8
+IVACE,ITI,Directed,2614,,,5,Inverse,1,Yes,2000000,75,Yes,Analyze,ok,06,2
+INNOAVI,ITI,Directed,2615,,,5,Inverse,1,Yes,550000,15,Yes,Analyze,ok,06,3
+Club para la Innovación,ITI,Directed,2616,,,4,Inverse,2,No,300,5,Yes,Analyze,ok,06,21
+Valencia Activa,ITI,Directed,2617,,,3,Inverse,3,No,2000,2,Yes,Analyze,ok,06,22
+Bioval,ITI,Directed,2618,,,3,Inverse,1,No,750,2,Yes,Analyze,ok,06,23
+Delegación de Innovación y Gestión del Conocimiento,Las Naves,Directed,2619,,,5,Inverse,2,No,2000,2,Yes,Analyze,ok,07,1
+CEEI Valencia,Las Naves,Directed,2620,,,5,Inverse,4,No,300,2,Yes,Analyze,ok,07,4
+FLORIDA Universitaria,Las Naves,Directed,2621,,,5,Inverse,3,Yes,2000,5,Yes,Analyze,ok,07,5
+Valencia Plaza,Las Naves,Directed,2622,,,5,Inverse,1,No,50,2,Yes,Analyze,ok,07,6
+Climate KIC Accelerator,Las Naves,Directed,2623,,,5,Inverse,4,No,7500,2,Yes,Analyze,ok,07,8
+AVAESEN,Las Naves,Directed,2624,,,5,Inverse,2,Yes,4000,2,Yes,Analyze,ok,07,9
+Agile on Board,Las Naves,Directed,2625,,,5,Inverse,3,No,750,2,Yes,Analyze,ok,07,10
+Valencia Startups,Ideas UPV,Directed,2626,,,4,Inverse,3,No,NA,2,Yes,Analyze,ok,08,1
+EDEM,Ideas UPV,Directed,2627,,,5,Inverse,5,Yes,4000,5,Yes,Analyze,ok,08,4
+FEVECTA,Ideas UPV,Directed,2628,,,3,Inverse,5,No,2000,2,Yes,Analyze,ok,08,5
+Go Hub,Ideas UPV,Directed,2629,,,5,Inverse,2,No,2000,2,Yes,Analyze,ok,08,8
+Innsomnia,Ideas UPV,Directed,2630,,,3,Inverse,5,No,750,2,Yes,Analyze,ok,08,9
+UPV,FEVECTA,Directed,2631,,,4,Inverse,1,No,750,2,Yes,Analyze,ok,09,2
+Valencia Activa,FEVECTA,Directed,2632,,,2,Inverse,1,No,300,2,No,Analyze,ok,09,3
+CEEI Valencia,FEVECTA,Directed,2633,,,4,Inverse,1,No,750,5,Yes,Analyze,ok,09,4
+FLORIDA Universitaria,FEVECTA,Directed,2634,,,5,Inverse,1,No,750,2,Yes,Analyze,ok,09,5
+AJEV,FEVECTA,Directed,2635,,,2,Inverse,4,No,750,2,Unachieved,Analyze,ok,09,6
+Cámara Valencia,FEVECTA,Directed,2636,,,2,Inverse,3,No,4000,2,Yes,Analyze,ok,09,10
+UPV,CPI,Directed,2637,,,5,Inverse,1,Yes,550000,8,Yes,Analyze,ok,11,1
+Fundación Valencia Port,Startup Valencia,Directed,2638,,,4,Inverse,3,No,50,2,Yes,Analyze,ok,12,6
+Demium,Startup Valencia,Directed,2639,,,3,Inverse,3,No,50,2,Yes,Analyze,ok,12,7
+GeeksHubs,Startup Valencia,Directed,2640,,,4,Inverse,3,No,50,2,Yes,Analyze,ok,12,8
+Lanzadera,Startup Valencia,Directed,2641,,,4,Inverse,3,No,50,2,Yes,Analyze,ok,12,9
+Socialnest Foundation,Startup Valencia,Directed,2642,,,4,Inverse,3,No,7500,2,Yes,Analyze,ok,12,10
+Ayuntamiento de Valencia,Valencia Activa,Directed,2643,,,5,Inverse,1,Yes,2000000,75,Yes,Analyze,ok,13,2
+IVACE,Valencia Activa,Directed,2644,,,5,Inverse,2,Yes,7500,2,Yes,Analyze,ok,13,5
+Valencia Startups,Valencia Activa,Directed,2645,,,5,Inverse,1,Yes,30000,2,Yes,Analyze,ok,13,9
+Demium,Innsomnia,Directed,2646,,,3,Inverse,2,No,50,2,Yes,Analyze,ok,14,2
+Valencia Startups,Innsomnia,Directed,2647,,,4,Inverse,2,Yes,50,2,Yes,Analyze,ok,14,3
+VIT Emprende,Innsomnia,Directed,2648,,,4,Inverse,2,No,300,2,Yes,Analyze,ok,14,4
+CEEI Valencia,Innsomnia,Directed,2649,,,3,Inverse,2,No,50,2,Yes,Analyze,ok,14,10
+Valencia Startups,UPV,Directed,2650,,,4,Inverse,2,No,50,8,Yes,Analyze,ok,15,1
+PCUV,UPV,Directed,2651,,,5,Inverse,3,No,50,2,Yes,Analyze,ok,15,2
+REDIT,UPV,Directed,2652,,,5,Inverse,3,No,7500,2,Yes,Analyze,ok,15,4
+Las Naves,UPV,Directed,2653,,,5,Inverse,NA,No,50,2,Unachieved,Analyze,ok,15,5
+Valencia Activa,Dirección General de Emprendimiento - GVA,Directed,2654,,,4,Inverse,2,No,50,2,Yes,Analyze,ok,17,9
+Ayuntamiento de Valencia,Ingenio,Directed,2655,,,4,Inverse,3,Yes,NA,5,Yes,Analyze,ok,18,1
+UV,Ingenio,Directed,2656,,,4,Inverse,5,No,NA,2,Yes,Analyze,ok,18,4
+UPV,Ingenio,Directed,2657,,,5,Inverse,5,Yes,NA,40,Yes,Analyze,ok,18,5
+Observatori del Canvi Climàtic,Ingenio,Directed,2658,,,4,Inverse,5,Yes,NA,2,Yes,Analyze,ok,18,8
+CPI,Ingenio,Directed,2659,,,5,Inverse,10,Yes,NA,25,Yes,Analyze,ok,18,10
+Conselleria Economía Sostenible,REDIT,Directed,2660,,,5,Inverse,1,Yes,NA,8,Yes,Analyze,ok,19,3
+Valencia Startups,REDIT,Directed,2661,,,3,Inverse,2,No,NA,2,Yes,Analyze,ok,19,7
+Ayuntamiento de Valencia,REDIT,Directed,2662,,,4,Inverse,4,Yes,NA,2,Yes,Analyze,ok,19,11
+ADEIT,REDIT,Directed,2663,,,3,Inverse,3,No,NA,2,Yes,Analyze,ok,19,14
+Biopolo La Fe,REDIT,Directed,2664,,,3,Inverse,2,No,NA,2,Yes,Analyze,ok,19,20
+Generalitat Valenciana,Ideas UPV,Directed,2665,,,4,Inverse,1,Yes,550000,5,Yes,Analyze,ok,20,1
+Ayuntamiento de Valencia,Ideas UPV,Directed,2666,,,4,Inverse,1,Yes,30000,5,Yes,Analyze,ok,20,2
+ClimateLaunchpad,Ideas UPV,Directed,2667,,,4,Inverse,2,Yes,75000,2,Yes,Analyze,ok,20,4
+CPI,Ideas UPV,Directed,2668,,,5,Inverse,1,No,75000,8,Yes,Analyze,ok,20,5
+AJEV,Ideas UPV,Directed,2669,,,3,Inverse,1,No,7500,2,Yes,Analyze,ok,20,6
+VLC Tech City,Ideas UPV,Directed,2670,,,4,Inverse,1,No,NA,5,Yes,Analyze,ok,20,7
+Santander,Ideas UPV,Directed,2671,,,4,Inverse,1,Yes,550000,8,Yes,Analyze,ok,20,9
+CEV,REDIT,Directed,2672,,,5,Inverse,5,Yes,NA,2,Yes,Analyze,ok,23,3
+Valencia Activa,REDIT,Directed,2673,,,4,Inverse,2,Yes,NA,2,Yes,Analyze,ok,23,5
+Cámara Valencia,KM ZERO Food,Directed,2674,,,5,Inverse,8,Yes,2000,5,Yes,Analyze,ok,24,1
+Valencia Startups,KM ZERO Food,Directed,2675,,,4,Inverse,2,No,50,2,Yes,Analyze,ok,24,3
+UPV,KM ZERO Food,Directed,2676,,,4,Inverse,4,No,50,2,Yes,Analyze,ok,24,8
+AVAESEN,Fundación Valencia Port,Directed,2677,,,3,Inverse,2,No,50,2,Yes,Analyze,ok,26,2
+UPV,Fundación Valencia Port,Directed,2678,,,4,Inverse,2,No,50,2,Yes,Analyze,ok,26,3
+UV,Fundación Valencia Port,Directed,2679,,,3,Inverse,1,No,50,2,Yes,Analyze,ok,26,4
+ITE,Fundación Valencia Port,Directed,2680,,,3,Inverse,2,Yes,50,2,Yes,Analyze,ok,26,8
+Valencia Activa,Fundación Valencia Port,Directed,2681,,,3,Inverse,2,No,50,2,Yes,Analyze,ok,26,9
+IFEDES,Clave capital,Directed,2682,,,5,Inverse,5,No,30000,5,Yes,Analyze,ok,N03,3
+Big Ban Angels,Clave capital,Directed,2683,,,4,Inverse,2,Yes,2000,2,Yes,Analyze,ok,N03,5
+Angels Capital,Clave capital,Directed,2684,,,4,Inverse,2,Yes,2000,2,Yes,Analyze,ok,N03,8
+CEEI Valencia,Clave capital,Directed,2685,,,3,Inverse,2,No,2000,5,Yes,Analyze,ok,N03,10
+Valencia Activa,Facultat d'Economia UV,Directed,2686,,,5,Inverse,2,No,50,2,Yes,Analyze,ok,N05,4
+PCUV,Facultat d'Economia UV,Directed,2687,,,5,Inverse,2,No,50,2,Yes,Analyze,ok,N05,5
+UV Empren,Facultat d'Economia UV,Directed,2688,,,5,Inverse,5,No,50,2,Yes,Analyze,ok,N05,7
+Santander Universidades,Facultat d'Economia UV,Directed,2689,,,5,Inverse,5,Yes,50,2,Yes,Analyze,ok,N05,10
+Valencia Activa,AVAESEN,Directed,2690,,,3,Inverse,3,No,50,2,Yes,Analyze,ok,N07,1
+DIVAL,AVAESEN,Directed,2691,,,4,Inverse,3,Yes,30000,2,Yes,Analyze,ok,N07,2
+Las Naves,AVAESEN,Directed,2692,,,3,Inverse,1,No,50,2,Yes,Analyze,ok,N07,10
+Valencia Activa,IVACE,Directed,2693,,,4,Inverse,1,No,NA,2,Yes,Analyze,ok,N08,6
+Valencia Startups,IVACE,Directed,2694,,,3,Inverse,1,No,NA,2,Yes,Analyze,ok,N08,7
+Ayuntamiento de Valencia,IVACE,Directed,2695,,,4,Inverse,1,No,NA,2,Yes,Analyze,ok,N08,8
+Fundación Valencia Port,IVACE,Directed,2696,,,3,Inverse,1,No,NA,2,Yes,Analyze,ok,N08,10
+Ayuntamiento de Valencia,La Marina,Directed,2697,,,4,Inverse,1,No,50,2,Yes,Analyze,ok,N10,1
+Lanzadera,La Marina,Directed,2698,,,4,Inverse,1,Yes,50,2,Yes,Analyze,ok,N10,4
+Innsomnia,La Marina,Directed,2699,,,4,Inverse,1,Yes,50,2,Yes,Analyze,ok,N10,5
+IVACE,La Marina,Directed,2700,,,4,Inverse,1,No,50,2,Yes,Analyze,ok,N10,6
+Fosbury & Sons,La Marina,Directed,2701,,,4,Inverse,1,Yes,50,2,Yes,Analyze,ok,N10,8
+FEMEVAL,AIDIMME,Directed,2702,,,3,Inverse,3,Yes,7500,8,Yes,Analyze,ok,N19,1
+FEMPA,AIDIMME,Directed,2703,,,4,Inverse,5,Yes,2000,8,No,Analyze,ok,N19,2
+FEVAMA,AIDIMME,Directed,2704,,,4,Inverse,3,Yes,4000,8,Yes,Analyze,ok,N19,3
+IVACE,AIDIMME,Directed,2705,,,5,Inverse,3,Yes,550000,25,Yes,Analyze,ok,N19,4
+INNOAVI,AIDIMME,Directed,2706,,,3,Inverse,2,No,2000,5,No,Analyze,ok,N19,5
+AINIA,AIDIMME,Directed,2707,,,2,Inverse,3,Yes,30000,15,Yes,Analyze,ok,N19,6
+IBMV,AIDIMME,Directed,2708,,,2,Inverse,5,Yes,550000,15,No,Analyze,ok,N19,7
+CEV,AIDIMME,Directed,2709,,,2,Inverse,4,No,4000,5,No,Analyze,ok,N19,9
+ASIVALCO,AIDIMME,Directed,2710,,,3,Inverse,6,No,7500,8,No,Analyze,ok,N19,10
+CEEI Valencia,COITCV,Directed,2711,,,1,Inverse,5,Yes,50,2,Unachieved,Analyze,ok,N22,4
+REDIT,COITCV,Directed,2712,,,3,Inverse,3,No,50,2,Yes,Analyze,ok,N22,7
+ITI,COITCV,Directed,2713,,,4,Inverse,4,Yes,750,2,Yes,Analyze,ok,N22,8
+INNOAVI,OTRI UA,Directed,2714,,,3,Inverse,4,Yes,30000,5,Yes,Analyze,ok,N27,2
+IVACE,AIJU,Directed,2715,,,5,Inverse,5,Yes,750,2,Yes,Analyze,ok,N30,1
+INNOAVI,AIJU,Directed,2716,,,4,Inverse,5,No,NA,2,Yes,Analyze,ok,N30,2
+AEFJ,AIJU,Directed,2717,,,3,Inverse,3,Yes,2000,2,Yes,Analyze,ok,N30,12
+IVACE,CEEI Valencia,Directed,2718,,,5,Inverse,3,Yes,550000,15,Yes,Analyze,ok,N35,1
+Startup Valencia,CEEI Valencia,Directed,2719,,,5,Inverse,2,No,4000,2,Yes,Analyze,ok,N35,2
+Bioval,CEEI Valencia,Directed,2720,,,5,Inverse,2,No,2000,2,Yes,Analyze,ok,N35,3
+ANCES,CEEI Valencia,Directed,2721,,,4,Inverse,2,No,2000,2,Yes,Analyze,ok,N35,4
+SEIMED,CEEI Valencia,Directed,2722,,,5,Inverse,1,Yes,75000,2,Yes,Analyze,ok,N35,6
+AJEV,CEEI Valencia,Directed,2723,,,3,Inverse,2,No,50,2,Yes,Analyze,ok,N35,7
+DIVAL,CEEI Valencia,Directed,2724,,,4,Inverse,5,Yes,30000,2,Yes,Analyze,ok,N35,8
+Big Ban Angels,CEEI Valencia,Directed,2725,,,3,Inverse,1,No,50,2,Yes,Analyze,ok,N35,12
+AJEV,Conselleria Economía Sostenible,Directed,2726,,,4,Inverse,3,Yes,30000,2,Yes,Analyze,ok,N38,2
+UV,PCUV,Directed,2727,,,5,Inverse,1,Yes,550000,8,Yes,Analyze,ok,N39,1
+Dirección General de Emprendimiento - GVA,PCUV,Directed,2728,,,4,Inverse,1,Yes,50,2,Yes,Analyze,ok,N39,11
+Fundación Equipo Humano,AJEV,Directed,2729,,,5,Inverse,2,Yes,50,2,Yes,Analyze,ok,N40,1
+Cámara España en Bélgica,AJEV,Directed,2730,,,5,Inverse,1,Yes,50,2,Yes,Analyze,ok,N40,5
+Dublin Chamber of Commerce,AJEV,Directed,2731,,,5,Inverse,1,Yes,50,2,Yes,Analyze,ok,N40,6
+Esmovia,AJEV,Directed,2732,,,5,Inverse,2,Yes,50,2,Yes,Analyze,ok,N40,7
+Tera Technopolis,AJEV,Directed,2733,,,5,Inverse,3,Yes,50,2,Yes,Analyze,ok,N40,10
+Generalitat Valenciana,UV,Directed,2734,,,4,Inverse,2,Yes,2000,8,Yes,Analyze,ok,N43,1
+Ayuntamiento de Valencia,UV,Directed,2735,,,4,Inverse,2,Yes,2000,8,Yes,Analyze,ok,N43,2
+Fundación Valencia Port,UV,Directed,2736,,,2,Inverse,2,Yes,2000,8,Yes,Analyze,ok,N43,5
+RUVID,UV,Directed,2737,,,4,Inverse,5,Yes,7500,8,Yes,Analyze,ok,N43,7
+Startup Valencia,UV,Directed,2738,,,2,Inverse,3,No,750,2,No,Analyze,ok,N43,8
+EIT Climate-KIC,UV,Directed,2739,,,4,Inverse,5,Yes,7500,5,Yes,Analyze,ok,N43,11
+CPI,rePCV,Directed,2740,,,2,NA,3,No,,,Yes,Analyze,ok,11,2
+ITI,TECH4CV,Directed,2741,,,5,Third party,1,Yes,,,Yes,Analyze,ok,06,17
+ITI,IIS La Fe,Directed,2742,,,4,Third party,1,Yes,,,Yes,Analyze,ok,06,24
+Ideas UPV,PCUV,Directed,2743,,,4,Third party,5,Yes,,,Yes,Analyze,ok,08,6
+Ideas UPV,Fundación Valencia Port,Directed,2744,,,5,Third party,3,Yes,,,Yes,Analyze,ok,08,7
+Ideas UPV,Ingenio,Directed,2745,,,4,Third party,2,No,,,Yes,Analyze,ok,08,10
+Ideas UPV,ITI,Directed,2746,,,2,Third party,2,No,,,Yes,Analyze,ok,08,11
+FEVECTA,Las Provincias,Directed,2747,,,3,Third party,1,No,,,Yes,Analyze,ok,09,12
+Valencia Activa,CEV,Directed,2748,,,5,Third party,1,Yes,,,Yes,Analyze,ok,13,10
+Innsomnia,Go Hub,Directed,2749,,,3,Third party,1,No,,,Yes,Analyze,ok,14,5
+Innsomnia,Bbooster,Directed,2750,,,1,Third party,1,No,,,Unachieved,Analyze,ok,14,6
+REDIT,CEEI Valencia,Directed,2751,,,4,Third party,3,No,,,Yes,Analyze,ok,23,4
+REDIT,Cámara Valencia,Directed,2752,,,3,Third party,3,Yes,,,Yes,Analyze,ok,23,6
+REDIT,Cámaras CV,Directed,2753,,,4,Third party,3,Yes,,,Yes,Analyze,ok,23,7
+REDIT,CSIC Valencia,Directed,2754,,,4,Third party,3,No,,,Yes,Analyze,ok,23,8
+COITCV,Dirección General de Emprendimiento - GVA,Directed,2755,,,1,Third party,8,No,,,Unachieved,Analyze,ok,N22,5
+AINIA,RedTransfer,Directed,2756,,,3,Third party,2,No,,,Yes,Analyze,ok,N23,7
+AINIA,EIT Foood,Directed,2757,,,3,Third party,2,No,,,Yes,Analyze,ok,N23,11
+OTRI UA,PCA,Directed,2758,,,4,Third party,1,No,,,Yes,Analyze,ok,N27,3
+OTRI UA,SEIMED,Directed,2759,,,4,Third party,1,No,,,Yes,Analyze,ok,N27,4
+AIJU,MINECO,Directed,2760,,,3,Third party,5,No,,,Yes,Analyze,ok,N30,4
+Conselleria Economía Sostenible,Cámaras CV,Directed,2761,,,4,Third party,3,Yes,,,Yes,Analyze,ok,N38,3
+Conselleria Economía Sostenible,CEEI Valencia,Directed,2762,,,3,Third party,5,Yes,,,Yes,Analyze,ok,N38,4
+INNOAVI,ITI,Directed,2763,,,1,,,,,,,Include,ok,06,17
+INNOAVI,TECH4CV,Directed,2764,,,1,,,,,,,Include,ok,06,17
+REDIT,ITI,Directed,2765,,,1,,,,,,,Include,ok,06,24
+REDIT,IIS La Fe,Directed,2766,,,1,,,,,,,Include,ok,06,24
+Conselleria Economía Sostenible,Ideas UPV,Directed,2767,,,1,,,,,,,Include,ok,08,6
+Conselleria Economía Sostenible,PCUV,Directed,2768,,,1,,,,,,,Include,ok,08,6
+Conselleria Economía Sostenible,Ideas UPV,Directed,2769,,,1,,,,,,,Include,ok,08,7
+Conselleria Economía Sostenible,Fundación Valencia Port,Directed,2770,,,1,,,,,,,Include,ok,08,7
+UPV,Ideas UPV,Directed,2771,,,1,,,,,,,Include,ok,08,10
+UPV,Ingenio,Directed,2772,,,1,,,,,,,Include,ok,08,10
+UPV,Ideas UPV,Directed,2773,,,1,,,,,,,Include,ok,08,11
+UPV,ITI,Directed,2774,,,1,,,,,,,Include,ok,08,11
+Ayuntamiento de Valencia,Valencia Activa,Directed,2775,,,1,,,,,,,Include,ok,13,10
+Ayuntamiento de Valencia,CEV,Directed,2776,,,1,,,,,,,Include,ok,13,10
+VIT Emprende,Innsomnia,Directed,2777,,,1,,,,,,,Include,ok,14,5
+VIT Emprende,Go Hub,Directed,2778,,,1,,,,,,,Include,ok,14,5
+Ayuntamiento de Valencia,COITCV,Directed,2779,,,1,,,,,,,Include,ok,N22,5
+Ayuntamiento de Valencia,Dirección General de Emprendimiento - GVA,Directed,2780,,,1,,,,,,,Include,ok,N22,5
+REDIT,AINIA,Directed,2781,,,1,,,,,,,Include,ok,N23,7
+REDIT,RedTransfer,Directed,2782,,,1,,,,,,,Include,ok,N23,7
+Tech Transfer UPV,AINIA,Directed,2783,,,1,,,,,,,Include,ok,N23,11
+Tech Transfer UPV,EIT Foood,Directed,2784,,,1,,,,,,,Include,ok,N23,11
+DG Industria e I+D+I,Conselleria Economía Sostenible,Directed,2785,,,1,,,,,,,Include,ok,N38,3
+DG Industria e I+D+I,Cámaras CV,Directed,2786,,,1,,,,,,,Include,ok,N38,3
+IVACE,Conselleria Economía Sostenible,Directed,2787,,,1,,,,,,,Include,ok,N38,4
+IVACE,CEEI Valencia,Directed,2788,,,1,,,,,,,Include,ok,N38,4
+EDEM,Lanzadera,Directed,2789,,,5,,,,,,,Include,ok,P04,04
+ITI,Data Cycle Hub,Directed,2790,,,5,,,,,,,Include,ok,P06,06
+Las Naves,Delegación de Innovación y Gestión del Conocimiento,Directed,2791,,,5,,,,,,,Include,ok,P07,07
+Las Naves,Ayuntamiento de Valencia,Directed,2792,,,5,,,,,,,Include,ok,P07,07
+ESIC Valencia,Big Ban Angels,Directed,2793,,,5,,,,,,,Include,ok,P10,10
+Dirección General de Emprendimiento - GVA,Consejo Valenciano del Emprendedor,Directed,2794,,,5,,,,,,,Include,ok,P17,17
+Dirección General de Emprendimiento - GVA,Conselleria Economía Sostenible,Directed,2795,,,5,,,,,,,Include,ok,P17,17
+REDIT,Generalitat Valenciana,Directed,2796,,,5,,,,,,,Include,ok,P19,19
+KM ZERO Food,Valencia Activa,Directed,2797,,,5,,,,,,,Include,ok,P24,24
+Fundación Valencia Port,Startup Valencia,Directed,2798,,,5,,,,,,,Include,ok,P26,26
+Fundación Valencia Port,EIT Climate-KIC,Directed,2799,,,5,,,,,,,Include,ok,P26,26
+COEV,VLC Tech City,Directed,2800,,,5,,,,,,,Include,ok,PN02,N02
+COEV,UV,Directed,2801,,,5,,,,,,,Include,ok,PN02,N02
+Clave capital,UPV,Directed,2802,,,5,,,,,,,Include,ok,PN03,N03
+Clave capital,IVF,Directed,2803,,,5,,,,,,,Include,ok,PN03,N03
+Facultat d'Economia UV,Ayuntamiento de Valencia,Directed,2804,,,5,,,,,,,Include,ok,PN05,N05
+Facultat d'Economia UV,Generalitat Valenciana,Directed,2805,,,5,,,,,,,Include,ok,PN05,N05
+AVAESEN,ClimateLaunchpad,Directed,2806,,,5,,,,,,,Include,ok,PN07,N07
+AVAESEN,PARSEC Accelerator,Directed,2807,,,5,,,,,,,Include,ok,PN07,N07
+IVACE,Generalitat Valenciana,Directed,2808,,,5,,,,,,,Include,ok,PN08,N08
+La Marina,Ayuntamiento de Valencia,Directed,2809,,,5,,,,,,,Include,ok,PN10,N10
+La Marina,Lanzadera,Directed,2810,,,5,,,,,,,Include,ok,PN10,N10
+AECTA,Foros Tecnologías Emergentes,Directed,2811,,,5,,,,,,,Include,ok,PN14,N14
+AECTA,CEV,Directed,2812,,,5,,,,,,,Include,ok,PN14,N14
+AIDIMME,IVACE,Directed,2813,,,5,,,,,,,Include,ok,PN19,N19
+AIDIMME,IVACE,Directed,2814,,,5,,,,,,,Include,ok,PN19,N19
+INNOAVI,Generalitat Valenciana,Directed,2815,,,5,,,,,,,Include,ok,PN21,N21
+COITCV,IVACE,Directed,2816,,,5,,,,,,,Include,ok,PN22,N22
+AINIA,REDIT,Directed,2817,,,5,,,,,,,Include,ok,PN23,N23
+AINIA,Generalitat Valenciana,Directed,2818,,,5,,,,,,,Include,ok,PN23,N23
+Big Ban Angels,AEBAN,Directed,2819,,,5,,,,,,,Include,ok,PN24,N24
+Big Ban Angels,IVF,Directed,2820,,,5,,,,,,,Include,ok,PN24,N24
+OTRI UA,UA,Directed,2821,,,5,,,,,,,Include,ok,PN25,N25
+OTRI UA,UA,Directed,2822,,,5,,,,,,,Include,ok,PN25,N25
+AIJU,IVACE,Directed,2823,,,5,,,,,,,Include,ok,PN30,N30
+AIJU,IVACE,Directed,2824,,,5,,,,,,,Include,ok,PN30,N30
+CEEI Valencia,IVACE,Directed,2825,,,5,,,,,,,Include,ok,PN35,N35
+CEEI Valencia,IVACE,Directed,2826,,,5,,,,,,,Include,ok,PN35,N35
+Conselleria Economía Sostenible,Consejo Valenciano del Emprendedor,Directed,2827,,,5,,,,,,,Include,ok,PN38,N38
+PCUV,UV,Directed,2828,,,5,,,,,,,Include,ok,PN39,N39
+PCUV,UV,Directed,2829,,,5,,,,,,,Include,ok,PN39,N39
+AJEV,Generalitat Valenciana,Directed,2830,,,5,,,,,,,Include,ok,PN40,N40
+I2T UPV,UPV,Directed,2831,,,5,,,,,,,Include,ok,PN41,N41
+I2T UPV,CPI,Directed,2832,,,5,,,,,,,Include,ok,PN41,N41
+UV,Generalitat Valenciana,Directed,2833,,,5,,,,,,,Include,ok,PN43,N43
+UV,ADEIT,Directed,2834,,,5,,,,,,,Include,ok,PN43,N43
+Clave capital,Caixa Popular,Directed,2835,,,3,NA,NA,NA,,,NA,No data,ok,05,12
+Las Naves,Conselleria Economía Sostenible,Directed,2836,,,3,NA,NA,NA,,,NA,No data,ok,07,12
+Las Naves,Economía 3,Directed,2837,,,3,NA,NA,NA,,,NA,No data,ok,07,13
+Las Naves,El Economista,Directed,2838,,,3,NA,NA,NA,,,NA,No data,ok,07,14
+Las Naves,El Mundo,Directed,2839,,,3,NA,NA,NA,,,NA,No data,ok,07,15
+Las Naves,REDIT,Directed,2840,,,3,NA,NA,NA,,,NA,No data,ok,07,16
+Las Naves,UPV,Directed,2841,,,3,NA,NA,NA,,,NA,No data,ok,07,18
+Las Naves,UV,Directed,2842,,,3,NA,NA,NA,,,NA,No data,ok,07,19
+Las Naves,AVRE,Directed,2843,,,3,NA,NA,NA,,,NA,No data,ok,07,20
+Las Naves,FuckUp Nights,Directed,2844,,,3,NA,NA,NA,,,NA,No data,ok,07,21
+Las Naves,VIT Emprende,Directed,2845,,,3,NA,NA,NA,,,NA,No data,ok,07,22
+Las Naves,Socialnest Foundation,Directed,2846,,,3,NA,NA,NA,,,NA,No data,ok,07,23
+Las Naves,Capazia,Directed,2847,,,3,NA,NA,NA,,,NA,No data,ok,07,24
+Ideas UPV,KM ZERO Food,Directed,2848,,,3,NA,NA,NA,,,NA,No data,ok,08,12
+Ideas UPV,REDIT,Directed,2849,,,3,NA,NA,NA,,,NA,No data,ok,08,13
+Ideas UPV,Valencia Activa,Directed,2850,,,3,NA,NA,NA,,,NA,No data,ok,08,14
+Ideas UPV,Santander X,Directed,2851,,,3,NA,NA,NA,,,NA,No data,ok,08,17
+Ideas UPV,Conselleria Economía Sostenible,Directed,2852,,,3,NA,NA,NA,,,NA,No data,ok,08,18
+Ideas UPV,Finnova,Directed,2853,,,3,NA,NA,NA,,,NA,No data,ok,08,19
+Ideas UPV,EIT Health,Directed,2854,,,3,NA,NA,NA,,,NA,No data,ok,08,23
+Ideas UPV,Demium,Directed,2855,,,3,NA,NA,NA,,,NA,No data,ok,08,24
+Ideas UPV,Startup Xplorer,Directed,2856,,,3,NA,NA,NA,,,NA,No data,ok,08,25
+FEVECTA,Conselleria Economía Sostenible,Directed,2857,,,3,NA,NA,NA,,,NA,No data,ok,09,14
+FEVECTA,Economía 3,Directed,2858,,,3,NA,NA,NA,,,NA,No data,ok,09,15
+ESIC Valencia,Universidad Miguel Hernández,Directed,2859,,,3,NA,NA,NA,,,NA,No data,ok,10,14
+ESIC Valencia,Innsomnia,Directed,2860,,,3,NA,NA,NA,,,NA,No data,ok,10,15
+ESIC Valencia,EIT Climate-KIC,Directed,2861,,,3,NA,NA,NA,,,NA,No data,ok,10,16
+ESIC Valencia,Socialnest Foundation,Directed,2862,,,3,NA,NA,NA,,,NA,No data,ok,10,18
+CPI,Ideas UPV,Directed,2863,,,3,NA,NA,NA,,,NA,No data,ok,11,6
+CPI,ITI,Directed,2864,,,3,NA,NA,NA,,,NA,No data,ok,11,7
+CPI,CEV,Directed,2865,,,3,NA,NA,NA,,,NA,No data,ok,11,8
+CPI,EDEM,Directed,2866,,,3,NA,NA,NA,,,NA,No data,ok,11,9
+CPI,Lanzadera,Directed,2867,,,3,NA,NA,NA,,,NA,No data,ok,11,10
+Startup Valencia,Bstartup,Directed,2868,,,3,NA,NA,NA,,,NA,No data,ok,12,12
+Startup Valencia,Start UPV,Directed,2869,,,3,NA,NA,NA,,,NA,No data,ok,12,13
+Startup Valencia,KM ZERO Food,Directed,2870,,,3,NA,NA,NA,,,NA,No data,ok,12,14
+Valencia Activa,ITI,Directed,2871,,,3,NA,NA,NA,,,NA,No data,ok,13,12
+Valencia Activa,Big Ban Angels,Directed,2872,,,3,NA,NA,NA,,,NA,No data,ok,13,13
+Valencia Activa,CEEI Valencia,Directed,2873,,,3,NA,NA,NA,,,NA,No data,ok,13,14
+Valencia Activa,EIT Climate-KIC,Directed,2874,,,3,NA,NA,NA,,,NA,No data,ok,13,15
+Valencia Activa,AVAESEN,Directed,2875,,,3,NA,NA,NA,,,NA,No data,ok,13,16
+Valencia Activa,AJEV,Directed,2876,,,3,NA,NA,NA,,,NA,No data,ok,13,17
+Valencia Activa,VLC Tech City,Directed,2877,,,3,NA,NA,NA,,,NA,No data,ok,13,18
+Valencia Activa,Innsomnia,Directed,2878,,,3,NA,NA,NA,,,NA,No data,ok,13,19
+Valencia Activa,Conselleria Economía Sostenible,Directed,2879,,,3,NA,NA,NA,,,NA,No data,ok,13,20
+Valencia Activa,Las Naves,Directed,2880,,,3,NA,NA,NA,,,NA,No data,ok,13,22
+Valencia Activa,Lanzadera,Directed,2881,,,3,NA,NA,NA,,,NA,No data,ok,13,23
+Valencia Activa,ADEIT,Directed,2882,,,3,NA,NA,NA,,,NA,No data,ok,13,24
+Valencia Activa,CPI,Directed,2883,,,3,NA,NA,NA,,,NA,No data,ok,13,25
+Innsomnia,Climate KIC Accelerator,Directed,2884,,,3,NA,NA,NA,,,NA,No data,ok,14,12
+Innsomnia,Socialnest Foundation,Directed,2885,,,3,NA,NA,NA,,,NA,No data,ok,14,13
+Innsomnia,CSIC Valencia,Directed,2886,,,3,NA,NA,NA,,,NA,No data,ok,14,14
+Innsomnia,Valencia Plaza,Directed,2887,,,3,NA,NA,NA,,,NA,No data,ok,14,15
+Innsomnia,Legal Hackers,Directed,2888,,,3,NA,NA,NA,,,NA,No data,ok,14,16
+Innsomnia,GeeksHubs,Directed,2889,,,3,NA,NA,NA,,,NA,No data,ok,14,17
+Innsomnia,Feria de Valencia,Directed,2890,,,3,NA,NA,NA,,,NA,No data,ok,14,18
+Innsomnia,ESIC Valencia,Directed,2891,,,3,NA,NA,NA,,,NA,No data,ok,14,19
+Innsomnia,Fundación Valencia Port,Directed,2892,,,3,NA,NA,NA,,,NA,No data,ok,14,20
+Innsomnia,FEBF,Directed,2893,,,3,NA,NA,NA,,,NA,No data,ok,14,21
+Innsomnia,Forbes,Directed,2894,,,3,NA,NA,NA,,,NA,No data,ok,14,23
+UPV,CEV,Directed,2895,,,3,NA,NA,NA,,,NA,No data,ok,15,6
+UPV,IVF,Directed,2896,,,3,NA,NA,NA,,,NA,No data,ok,15,7
+UPV,Conselleria Economía Sostenible,Directed,2897,,,3,NA,NA,NA,,,NA,No data,ok,15,8
+UPV,INNOAVI,Directed,2898,,,3,NA,NA,NA,,,NA,No data,ok,15,9
+UPV,Ayuntamiento de Valencia,Directed,2899,,,3,NA,NA,NA,,,NA,No data,ok,15,10
+Dirección General de Emprendimiento - GVA,REDIT,Directed,2900,,,3,NA,NA,NA,,,NA,No data,ok,17,12
+Dirección General de Emprendimiento - GVA,CEEI Valencia,Directed,2901,,,3,NA,NA,NA,,,NA,No data,ok,17,13
+Dirección General de Emprendimiento - GVA,IVACE,Directed,2902,,,3,NA,NA,NA,,,NA,No data,ok,17,14
+Dirección General de Emprendimiento - GVA,FISABIO,Directed,2903,,,3,NA,NA,NA,,,NA,No data,ok,17,15
+Dirección General de Emprendimiento - GVA,INCLIVA,Directed,2904,,,3,NA,NA,NA,,,NA,No data,ok,17,16
+Dirección General de Emprendimiento - GVA,IIS La Fe,Directed,2905,,,3,NA,NA,NA,,,NA,No data,ok,17,17
+Dirección General de Emprendimiento - GVA,IVIA,Directed,2906,,,3,NA,NA,NA,,,NA,No data,ok,17,18
+Dirección General de Emprendimiento - GVA,CIPF,Directed,2907,,,3,NA,NA,NA,,,NA,No data,ok,17,19
+Dirección General de Emprendimiento - GVA,Socialnest Foundation,Directed,2908,,,3,NA,NA,NA,,,NA,No data,ok,17,20
+Dirección General de Emprendimiento - GVA,FEVECTA,Directed,2909,,,3,NA,NA,NA,,,NA,No data,ok,17,21
+Dirección General de Emprendimiento - GVA,CEV,Directed,2910,,,3,NA,NA,NA,,,NA,No data,ok,17,22
+REDIT,Finnova,Directed,2911,,,3,NA,NA,NA,,,NA,No data,ok,19,21
+REDIT,Go Hub,Directed,2912,,,3,NA,NA,NA,,,NA,No data,ok,19,22
+REDIT,AIJU,Directed,2913,,,3,NA,NA,NA,,,NA,No data,ok,19,23
+REDIT,evap/BPW,Directed,2914,,,3,NA,NA,NA,,,NA,No data,ok,19,24
+Ideas UPV,I2T UPV,Directed,2915,,,3,NA,NA,NA,,,NA,No data,ok,20,12
+Ideas UPV,Banco Sabadell,Directed,2916,,,3,NA,NA,NA,,,NA,No data,ok,20,17
+Ideas UPV,Santander Universidades,Directed,2917,,,3,NA,NA,NA,,,NA,No data,ok,20,18
+REDIT,EIT Climate-KIC,Directed,2918,,,3,NA,NA,NA,,,NA,No data,ok,23,9
+REDIT,CDTI,Directed,2919,,,3,NA,NA,NA,,,NA,No data,ok,23,10
+Internet Freedom Festival,Las Naves,Directed,2920,,,3,NA,NA,NA,,,NA,No data,ok,25,2
+Internet Freedom Festival,La Marina,Directed,2921,,,3,NA,NA,NA,,,NA,No data,ok,25,4
+Internet Freedom Festival,Valencia Plaza,Directed,2922,,,3,NA,NA,NA,,,NA,No data,ok,25,5
+Internet Freedom Festival,El Diario,Directed,2923,,,3,NA,NA,NA,,,NA,No data,ok,25,6
+Internet Freedom Festival,Delegación de Innovación y Gestión del Conocimiento,Directed,2924,,,3,NA,NA,NA,,,NA,No data,ok,25,7
+Internet Freedom Festival,VLC Tech Hub,Directed,2925,,,3,NA,NA,NA,,,NA,No data,ok,25,8
+Internet Freedom Festival,Hackers Civics,Directed,2926,,,3,NA,NA,NA,,,NA,No data,ok,25,10
+Fundación Valencia Port,Las Naves,Directed,2927,,,3,NA,NA,NA,,,NA,No data,ok,26,12
+COEV,UCV,Directed,2928,,,3,NA,NA,NA,,,NA,No data,ok,N02,3
+COEV,UEV,Directed,2929,,,3,NA,NA,NA,,,NA,No data,ok,N02,4
+COEV,FLORIDA Universitaria,Directed,2930,,,3,NA,NA,NA,,,NA,No data,ok,N02,5
+COEV,PCUV,Directed,2931,,,3,NA,NA,NA,,,NA,No data,ok,N02,6
+COEV,FEBF,Directed,2932,,,3,NA,NA,NA,,,NA,No data,ok,N02,7
+COEV,ADEIT,Directed,2933,,,3,NA,NA,NA,,,NA,No data,ok,N02,8
+COEV,CEV,Directed,2934,,,3,NA,NA,NA,,,NA,No data,ok,N02,9
+COEV,Ayuntamiento de Valencia,Directed,2935,,,3,NA,NA,NA,,,NA,No data,ok,N02,10
+COEV,Bankia,Directed,2936,,,3,NA,NA,NA,,,NA,No data,ok,N02,11
+COEV,Conselleria Economía Sostenible,Directed,2937,,,3,NA,NA,NA,,,NA,No data,ok,N02,12
+IVACE,PCUV,Directed,2938,,,3,NA,NA,NA,,,NA,No data,ok,N08,12
+IVACE,IVF,Directed,2939,,,3,NA,NA,NA,,,NA,No data,ok,N08,13
+IVACE,IBV,Directed,2940,,,3,NA,NA,NA,,,NA,No data,ok,N08,14
+IVACE,ITI,Directed,2941,,,3,NA,NA,NA,,,NA,No data,ok,N08,15
+IVACE,AIJU,Directed,2942,,,3,NA,NA,NA,,,NA,No data,ok,N08,16
+IVACE,FEVECTA,Directed,2943,,,3,NA,NA,NA,,,NA,No data,ok,N08,17
+IVACE,ATA CV,Directed,2944,,,3,NA,NA,NA,,,NA,No data,ok,N08,18
+IVACE,AECTA,Directed,2945,,,3,NA,NA,NA,,,NA,No data,ok,N08,19
+IVACE,Cámaras CV,Directed,2946,,,3,NA,NA,NA,,,NA,No data,ok,N08,20
+IVACE,CSIC Valencia,Directed,2947,,,3,NA,NA,NA,,,NA,No data,ok,N08,21
+IVACE,INNOAVI,Directed,2948,,,3,NA,NA,NA,,,NA,No data,ok,N08,22
+IVACE,Ingenio,Directed,2949,,,3,NA,NA,NA,,,NA,No data,ok,N08,23
+IVACE,evap/BPW,Directed,2950,,,3,NA,NA,NA,,,NA,No data,ok,N08,24
+IVACE,RUVID,Directed,2951,,,3,NA,NA,NA,,,NA,No data,ok,N08,25
+COITCV,IICV,Directed,2952,,,3,NA,NA,NA,,,NA,No data,ok,N22,12
+Big Ban Angels,Blast of partners,Directed,2953,,,3,NA,NA,NA,,,NA,No data,ok,N24,14
+OTRI UA,evap/BPW,Directed,2954,,,3,NA,NA,NA,,,NA,No data,ok,N25,3
+OTRI UA,AEI de la Infancia,Directed,2955,,,3,NA,NA,NA,,,NA,No data,ok,N25,4
+OTRI UA,Caixa Capital Risc,Directed,2956,,,3,NA,NA,NA,,,NA,No data,ok,N25,6
+OTRI UA,Startup Xplorer,Directed,2957,,,3,NA,NA,NA,,,NA,No data,ok,N25,7
+OTRI UA,Ayto. Alicante,Directed,2958,,,3,NA,NA,NA,,,NA,No data,ok,N25,8
+OTRI UA,Diputación de Alicante,Directed,2959,,,3,NA,NA,NA,,,NA,No data,ok,N25,9
+OTRI UA,Bioval,Directed,2960,,,3,NA,NA,NA,,,NA,No data,ok,N25,10
+AIJU,AEFJ,Directed,2961,,,3,NA,NA,NA,,,NA,No data,ok,N30,13
+AIJU,IBIAE,Directed,2962,,,3,NA,NA,NA,,,NA,No data,ok,N30,15
+AIJU,Promoibi,Directed,2963,,,3,NA,NA,NA,,,NA,No data,ok,N30,16
+AIJU,AVEP,Directed,2964,,,3,NA,NA,NA,,,NA,No data,ok,N30,20
+AIJU,AVIA,Directed,2965,,,3,NA,NA,NA,,,NA,No data,ok,N30,21
+AIJU,INESCOP,Directed,2966,,,3,NA,NA,NA,,,NA,No data,ok,N30,22
+AIJU,AIDIMME,Directed,2967,,,3,NA,NA,NA,,,NA,No data,ok,N30,23
+AIJU,ITC,Directed,2968,,,3,NA,NA,NA,,,NA,No data,ok,N30,24
+AIJU,AITEX,Directed,2969,,,3,NA,NA,NA,,,NA,No data,ok,N30,25
+CEEI Valencia,ATA CV,Directed,2970,,,3,NA,NA,NA,,,NA,No data,ok,N35,16
+CEEI Valencia,EIT Climate-KIC,Directed,2971,,,3,NA,NA,NA,,,NA,No data,ok,N35,17
+CEEI Valencia,FLORIDA Universitaria,Directed,2972,,,3,NA,NA,NA,,,NA,No data,ok,N35,18
+CEEI Valencia,UCV,Directed,2973,,,3,NA,NA,NA,,,NA,No data,ok,N35,19
+CEEI Valencia,ADEIT,Directed,2974,,,3,NA,NA,NA,,,NA,No data,ok,N35,20
+CEEI Valencia,Innsomnia,Directed,2975,,,3,NA,NA,NA,,,NA,No data,ok,N35,21
+CEEI Valencia,Go Hub,Directed,2976,,,3,NA,NA,NA,,,NA,No data,ok,N35,22
+CEEI Valencia,Ayuntamiento de Valencia,Directed,2977,,,3,NA,NA,NA,,,NA,No data,ok,N35,23
+CEEI Valencia,FEVECTA,Directed,2978,,,3,NA,NA,NA,,,NA,No data,ok,N35,24
+CEEI Valencia,Cámaras CV,Directed,2979,,,3,NA,NA,NA,,,NA,No data,ok,N35,25
+Conselleria Economía Sostenible,Startup Valencia,Directed,2980,,,3,NA,NA,NA,,,NA,No data,ok,N38,12
+Conselleria Economía Sostenible,ADEIT,Directed,2981,,,3,NA,NA,NA,,,NA,No data,ok,N38,13
+Conselleria Economía Sostenible,Valencia Activa,Directed,2982,,,3,NA,NA,NA,,,NA,No data,ok,N38,14
+Conselleria Economía Sostenible,CDR,Directed,2983,,,3,NA,NA,NA,,,NA,No data,ok,N38,15
+PCUV,CPI,Directed,2984,,,3,NA,NA,NA,,,NA,No data,ok,N39,12
+PCUV,CSIC Valencia,Directed,2985,,,3,NA,NA,NA,,,NA,No data,ok,N39,13
+PCUV,ADEIT,Directed,2986,,,3,NA,NA,NA,,,NA,No data,ok,N39,16
+PCUV,rePCV,Directed,2987,,,3,NA,NA,NA,,,NA,No data,ok,N39,17
+PCUV,Generalitat Valenciana,Directed,2988,,,3,NA,NA,NA,,,NA,No data,ok,N39,18
+PCUV,Ingenio,Directed,2989,,,3,NA,NA,NA,,,NA,No data,ok,N39,19
+PCUV,Las Naves,Directed,2990,,,3,NA,NA,NA,,,NA,No data,ok,N39,20
+PCUV,REDIT,Directed,2991,,,3,NA,NA,NA,,,NA,No data,ok,N39,22
+PCUV,Santander Universidades,Directed,2992,,,3,NA,NA,NA,,,NA,No data,ok,N39,23
+PCUV,Santander X,Directed,2993,,,3,NA,NA,NA,,,NA,No data,ok,N39,24
+PCUV,UPV,Directed,2994,,,3,NA,NA,NA,,,NA,No data,ok,N39,25
+I2T UPV,CEV,Directed,2995,,,3,NA,NA,NA,,,NA,No data,ok,N41,1
+I2T UPV,AVIA,Directed,2996,,,3,NA,NA,NA,,,NA,No data,ok,N41,2
+I2T UPV,IIS La Fe,Directed,2997,,,3,NA,NA,NA,,,NA,No data,ok,N41,3
+I2T UPV,FISABIO,Directed,2998,,,3,NA,NA,NA,,,NA,No data,ok,N41,4
+I2T UPV,AIMPLAS,Directed,2999,,,3,NA,NA,NA,,,NA,No data,ok,N41,5
+I2T UPV,Universidad Jaime I,Directed,3000,,,3,NA,NA,NA,,,NA,No data,ok,N41,6
+I2T UPV,CSIC Valencia,Directed,3001,,,3,NA,NA,NA,,,NA,No data,ok,N41,7
+I2T UPV,RUVID,Directed,3002,,,3,NA,NA,NA,,,NA,No data,ok,N41,8
+I2T UPV,INNOAVI,Directed,3003,,,3,NA,NA,NA,,,NA,No data,ok,N41,9
+I2T UPV,REDIT,Directed,3004,,,3,NA,NA,NA,,,NA,No data,ok,N41,10
+UV,Cámaras CV,Directed,3005,,,3,NA,NA,NA,,,NA,No data,ok,N43,12
+UV,CSIC Valencia,Directed,3006,,,3,NA,NA,NA,,,NA,No data,ok,N43,13
+UV,Conselleria Economía Sostenible,Directed,3007,,,3,NA,NA,NA,,,NA,No data,ok,N43,14
+UV,Dirección General de Emprendimiento - GVA,Directed,3008,,,3,NA,NA,NA,,,NA,No data,ok,N43,15
+UV,IVF,Directed,3009,,,3,NA,NA,NA,,,NA,No data,ok,N43,16
+UV,IVACE,Directed,3010,,,3,NA,NA,NA,,,NA,No data,ok,N43,17
+UV,REDIT,Directed,3011,,,3,NA,NA,NA,,,NA,No data,ok,N43,18
+UV,Cámara Valencia,Directed,3012,,,3,NA,NA,NA,,,NA,No data,ok,N43,19
+UV,CEV,Directed,3013,,,3,NA,NA,NA,,,NA,No data,ok,N43,20
+UV,Las Naves,Directed,3014,,,3,NA,NA,NA,,,NA,No data,ok,N43,21
+UV,OTRI UV,Directed,3015,,,3,NA,NA,NA,,,NA,No data,ok,N43,22
+UV,rePCV,Directed,3016,,,3,NA,NA,NA,,,NA,No data,ok,N43,23
+UV,Secretaría Autonómica de Innovación y Transformación Digital,Directed,3017,,,3,NA,NA,NA,,,NA,No data,ok,N43,24

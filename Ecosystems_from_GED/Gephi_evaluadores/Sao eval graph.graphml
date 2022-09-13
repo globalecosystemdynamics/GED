@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="Weight" attr.type="long"/>
+<key id="d1" for="node" attr.name="weight" attr.type="float"/>
+<key id="d0" for="node" attr.name="rol" attr.type="string"/>
+<graph edgedefault="directed"><node id="WeWork Labs">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="InvestSP">
+  <data key="d0">Articulador</data>
+  <data key="d1">2.4</data>
+</node>
+<node id="BrazilLAB">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Astella Investimentos">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="Nós Innovators">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Central 9">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="WTT">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="ParqTec">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="ABstartups">
+  <data key="d0">Vinculador</data>
+  <data key="d1">3.6</data>
+</node>
+<node id="AMCHAM Brasil">
+  <data key="d0">Vinculador</data>
+  <data key="d1">2.8</data>
+</node>
+<node id="Kyvo Design">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="Rise Ventures">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Nexus">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Amani Institute">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CPqD">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="CIETEC">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="SP Ventures">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Techno Park">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Parabolt">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Instituto Butantan">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Din4mo">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Oracle for Startups">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="The Brazilian Report">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Inova Unicamp">
+  <data key="d0">Habilitador</data>
+  <data key="d1">4.0</data>
+</node>
+<node id="Aliança Empreendedora">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="IndicatorCapital">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="WeWork">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="Parquetecsorocaba">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<edge source="WeWork Labs" target="ABstartups">
+  <data key="d2">3</data>
+</edge>
+<edge source="WeWork Labs" target="Astella Investimentos">
+  <data key="d2">3</data>
+</edge>
+<edge source="WeWork Labs" target="WeWork">
+  <data key="d2">5</data>
+</edge>
+<edge source="InvestSP" target="ABstartups">
+  <data key="d2">3</data>
+</edge>
+<edge source="InvestSP" target="CIETEC">
+  <data key="d2">3</data>
+</edge>
+<edge source="BrazilLAB" target="ABstartups">
+  <data key="d2">3</data>
+</edge>
+<edge source="Nós Innovators" target="CIETEC">
+  <data key="d2">3</data>
+</edge>
+<edge source="ABstartups" target="Nexus">
+  <data key="d2">3</data>
+</edge>
+<edge source="AMCHAM Brasil" target="Inova Unicamp">
+  <data key="d2">4</data>
+</edge>
+<edge source="Kyvo Design" target="BrazilLAB">
+  <data key="d2">2</data>
+</edge>
+<edge source="Nexus" target="ABstartups">
+  <data key="d2">3</data>
+</edge>
+<edge source="CPqD" target="Inova Unicamp">
+  <data key="d2">4</data>
+</edge>
+<edge source="Techno Park" target="InvestSP">
+  <data key="d2">5</data>
+</edge>
+<edge source="Techno Park" target="Inova Unicamp">
+  <data key="d2">5</data>
+</edge>
+<edge source="Techno Park" target="AMCHAM Brasil">
+  <data key="d2">1</data>
+</edge>
+<edge source="Parabolt" target="AMCHAM Brasil">
+  <data key="d2">3</data>
+</edge>
+<edge source="Inova Unicamp" target="CPqD">
+  <data key="d2">3</data>
+</edge>
+<edge source="Inova Unicamp" target="Techno Park">
+  <data key="d2">1</data>
+</edge>
+<edge source="WeWork" target="WeWork Labs">
+  <data key="d2">5</data>
+</edge>
+<edge source="WeWork" target="ABstartups">
+  <data key="d2">3</data>
+</edge>
+<edge source="WeWork" target="Astella Investimentos">
+  <data key="d2">5</data>
+</edge>
+<edge source="WeWork" target="Kyvo Design">
+  <data key="d2">5</data>
+</edge>
+</graph></graphml>

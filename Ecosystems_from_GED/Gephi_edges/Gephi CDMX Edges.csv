@@ -1,0 +1,548 @@
+Source,Target,Type,Id,Label,timeset,Weight,directionality,interactions required,collaboration agreement,budget allocated,hr allocated,result
+ASEM,ITESM,Directed,1100,,,5,Alguien más nos conectó,3,No,NA,01_03,"Sí, la colaboración fue exitosa"
+FONDESO,UVM,Directed,1101,,,1,Ellos nos buscaron,1,Sí,0_99,11_20,"No, la colaboración no fue exitosa"
+Hult Prize,Universidad La Salle,Directed,1102,,,3,Ellos nos buscaron,3,No,100_499,01_03,"Sí, la colaboración fue exitosa"
+Universia,Universidad La Salle,Directed,1103,,,3,Ellos nos buscaron,3,No,500_999,01_03,"Sí, la colaboración fue exitosa"
+Global Shapers,Seedstars,Directed,1104,,,4,Ellos nos buscaron,1,No,100_499,01_03,"Sí, la colaboración fue exitosa"
+Le Wagon,EPIC LAB,Directed,1105,,,5,Ellos nos buscaron,3,No,"5,000_9,999",01_03,"Sí, la colaboración fue exitosa"
+Posible,Universidad La Salle,Directed,1106,,,5,Ellos nos buscaron,3,No,100_499,04_06,"Sí, la colaboración fue exitosa"
+ALEB Investments,LAVCA,Directed,1107,,,1,Nosotros los buscamos,5,No,"1,000_2,999",07_10,"No, la colaboración no fue exitosa"
+ALEB Investments,UNAM,Directed,1108,,,1,Nosotros los buscamos,10,No,"1,000_2,999",01_03,"No, la colaboración no fue exitosa"
+WeWork Labs,Dila Capital,Directed,1109,,,2,Nosotros los buscamos,10,Sí,0_99,01_03,"No, la colaboración no fue exitosa"
+ALEB Investments,AEM,Directed,1110,,,3,Nosotros los buscamos,5,No,"3,000_4,999",07_10,"Sí, la colaboración fue exitosa"
+ALEB Investments,COPARMEX,Directed,1111,,,3,Nosotros los buscamos,[100],No,"5,000_9,999",01_03,"Sí, la colaboración fue exitosa"
+ALEB Investments,U. Anáhuac,Directed,1112,,,3,Nosotros los buscamos,10,No,"3,000_4,999",01_03,"Sí, la colaboración fue exitosa"
+BlueBox,Startup Chile,Directed,1113,,,3,Nosotros los buscamos,4,No,NA,01_03,"Sí, la colaboración fue exitosa"
+BlueBox,UDD,Directed,1114,,,3,Nosotros los buscamos,2,No,NA,01_03,"Sí, la colaboración fue exitosa"
+Epic Queen,Co-Madre,Directed,1115,,,3,Nosotros los buscamos,1,Sí,100_499,01_03,"Sí, la colaboración fue exitosa"
+Startup México,COLATAM,Directed,1116,,,3,Nosotros los buscamos,2,Sí,100_499,01_03,"Sí, la colaboración fue exitosa"
+Universidad La Salle,COW,Directed,1117,,,3,Nosotros los buscamos,1,No,0_99,01_03,"Sí, la colaboración fue exitosa"
+BlueBox,AMEXCAP,Directed,1118,,,4,Nosotros los buscamos,10,No,NA,04_06,"Sí, la colaboración fue exitosa"
+BlueBox,Magical Startups,Directed,1119,,,4,Nosotros los buscamos,3,No,NA,01_03,"Sí, la colaboración fue exitosa"
+BlueBox,Wayra,Directed,1120,,,4,Nosotros los buscamos,5,No,NA,04_06,"Sí, la colaboración fue exitosa"
+Homework,Enlace+,Directed,1121,,,4,Nosotros los buscamos,3,Sí,0_99,01_03,"Sí, la colaboración fue exitosa"
+ALEB Investments,AMEXCAP,Directed,1122,,,5,Nosotros los buscamos,20,No,"10,000_49,999",07_10,"Sí, la colaboración fue exitosa"
+Comunidad IoTinkerers,ASEM,Directed,1123,,,5,Nosotros los buscamos,1,No,0_99,01_03,"Sí, la colaboración fue exitosa"
+Comunidad IoTinkerers,Fablab CDMX,Directed,1124,,,5,Nosotros los buscamos,1,No,0_99,01_03,"Sí, la colaboración fue exitosa"
+Comunidad IoTinkerers,Startup Weekend,Directed,1125,,,5,Nosotros los buscamos,1,No,0_99,01_03,"Sí, la colaboración fue exitosa"
+Comunidad IoTinkerers,Talent Land,Directed,1126,,,5,Nosotros los buscamos,1,No,0_99,01_03,"Sí, la colaboración fue exitosa"
+ASEM,Ronin PR Mexico,Directed,1127,,,1,Ellos nos buscaron,2,No,100_499,01_03,"No, la colaboración no fue exitosa"
+Accenture,Finnovista,Directed,1128,,,2,Ellos nos buscaron,2,Sí,NA,01_03,"Sí, la colaboración fue exitosa"
+SEDECO CDMX,Startup México,Directed,1129,,,3,Ellos nos buscaron,3,Sí,100_499,01_03,"Sí, la colaboración fue exitosa"
+FCCyT,UAM Cuajimalpa,Directed,1130,,,3,Ellos nos buscaron,3,No,0,1,"Sí, la colaboración fue exitosa"
+Intel,Fortune,Directed,1131,,,4,Ellos nos buscaron,4,No,0_99,01_03,"Sí, la colaboración fue exitosa"
+Revista Investigación y Desarrollo,UAM,Directed,1132,,,4,Ellos nos buscaron,10,No,0,2,"Sí, la colaboración fue exitosa"
+Comunicación social CDMX,FONDESO,Directed,1133,,,5,Ellos nos buscaron,3,No,0,3,"Sí, la colaboración fue exitosa"
+Nuance,Ronin PR Mexico,Directed,1134,,,5,Ellos nos buscaron,3,Sí,"100,000_999,999",04_06,"Sí, la colaboración fue exitosa"
+Wizeline,Ronin PR Mexico,Directed,1135,,,5,Ellos nos buscaron,1,Sí,"100,000_999,999",04_06,"Sí, la colaboración fue exitosa"
+Fortune,IBM,Directed,1136,,,2,Nosotros los buscamos,3,No,0_99,01_03,"Sí, la colaboración fue exitosa"
+Fortune,Oracle,Directed,1137,,,2,Nosotros los buscamos,3,No,0_99,01_03,"Sí, la colaboración fue exitosa"
+Fortune,Mercado Libre,Directed,1138,,,3,Nosotros los buscamos,4,No,"1,000_2,999",04_06,"Sí, la colaboración fue exitosa"
+Fortune,Uber,Directed,1139,,,3,Nosotros los buscamos,4,No,"1,000_2,999",01_03,"Sí, la colaboración fue exitosa"
+Fortune,YouTube,Directed,1140,,,3,Nosotros los buscamos,2,No,0_99,01_03,"Sí, la colaboración fue exitosa"
+Homework,INADEM,Directed,1141,,,3,Nosotros los buscamos,2,No,500_999,04_06,"Sí, la colaboración fue exitosa"
+Seedstars,AWS,Directed,1142,,,3,Nosotros los buscamos,6,No,0_99,01_03,"Sí, la colaboración fue exitosa"
+FONDESO,Canal 21,Directed,1143,,,4,Nosotros los buscamos,3,No,0,3,"Sí, la colaboración fue exitosa"
+FONDESO,El Economista,Directed,1144,,,4,Nosotros los buscamos,3,No,0,3,"Sí, la colaboración fue exitosa"
+Fortune,Adobe Capital,Directed,1145,,,4,Nosotros los buscamos,3,No,0_99,01_03,"Sí, la colaboración fue exitosa"
+Fortune,Amazon,Directed,1146,,,4,Nosotros los buscamos,3,No,"1,000_2,999",04_06,"Sí, la colaboración fue exitosa"
+Homework,Disruptivo TV,Directed,1147,,,4,Nosotros los buscamos,2,No,0_99,01_03,"Sí, la colaboración fue exitosa"
+Ronin PR Mexico,El Economista,Directed,1148,,,4,Nosotros los buscamos,1,No,"10,000_49,999",07_10,"Sí, la colaboración fue exitosa"
+Ronin PR Mexico,El Financiero,Directed,1149,,,4,Nosotros los buscamos,1,No,"10,000_49,999",07_10,"Sí, la colaboración fue exitosa"
+Laboratoria,Victoria147,Directed,1150,,,1,Alguien más nos conectó,1,No,0_99,01_03,"Sí, la colaboración fue exitosa"
+SDSN México,Makesense,Directed,1151,,,3,Alguien más nos conectó,2,No,300,1,"Sí, la colaboración fue exitosa"
+ASEM,FLDM,Directed,1152,,,4,Alguien más nos conectó,5,Sí,NA,01_03,"Sí, la colaboración fue exitosa"
+MITEF México,IODEMC,Directed,1153,,,4,Alguien más nos conectó,3,Sí,NA,NA,"Sí, la colaboración fue exitosa"
+TechnoPoli,Gob Qro,Directed,1154,,,5,Alguien más nos conectó,10,Sí,"100,000_999,999",51_100,"Sí, la colaboración fue exitosa"
+TechnoPoli,Gob Tam,Directed,1155,,,5,Alguien más nos conectó,10,Sí,"100,000_999,999",51_100,"Sí, la colaboración fue exitosa"
+UAM,Impulsa,Directed,1156,,,5,Alguien más nos conectó,12,No,100_499,01_03,"Sí, la colaboración fue exitosa"
+UAM,TrepCamp,Directed,1157,,,5,Alguien más nos conectó,15,No,500_999,01_03,"Sí, la colaboración fue exitosa"
+Dila Capital,Angel Ventures,Directed,1158,,,2,Ellos nos buscaron,15,Sí,0_99,04_06,"Sí, la colaboración fue exitosa"
+Haz La Lucha,SDSN México,Directed,1159,,,2,Ellos nos buscaron,2,No,0,3,No se logró colaborar
+C2 Montréal,ALEB Investments,Directed,1160,,,3,Ellos nos buscaron,10,No,"10,000_49,999",01_03,"Sí, la colaboración fue exitosa"
+Mountain Nazca,Angel Ventures,Directed,1161,,,3,Ellos nos buscaron,4,Sí,100_499,07_10,"Sí, la colaboración fue exitosa"
+Santander Universidades,CIEBT-IPN,Directed,1162,,,3,Ellos nos buscaron,20,Sí,0_99,07_10,"Sí, la colaboración fue exitosa"
+EY,Finnovista,Directed,1163,,,3,Ellos nos buscaron,3,Sí,NA,04_06,"Sí, la colaboración fue exitosa"
+LabCDMX,Ronin PR Mexico,Directed,1164,,,3,Ellos nos buscaron,4,Sí,100_499,01_03,"Sí, la colaboración fue exitosa"
+iLab,Santander Universidades,Directed,1165,,,3,Ellos nos buscaron,NA,Sí,"50,000_99,999",01_03,"Sí, la colaboración fue exitosa"
+GIZ,SDSN México,Directed,1166,,,3,Ellos nos buscaron,5,No,5000,4,"Sí, la colaboración fue exitosa"
+Microsoft,TechnoPoli,Directed,1167,,,3,Ellos nos buscaron,2,No,0_99,04_06,No se logró colaborar
+Talent Land,Epic Queen,Directed,1168,,,4,Ellos nos buscaron,2,Sí,500_999,04_06,"Sí, la colaboración fue exitosa"
+Gob. México,SDSN México,Directed,1169,,,4,Ellos nos buscaron,2,No,15000,2,"Sí, la colaboración fue exitosa"
+U. Anáhuac,Startup México,Directed,1170,,,4,Ellos nos buscaron,6,Sí,"3,000_4,999",01_03,"Sí, la colaboración fue exitosa"
+UMA,Startup México,Directed,1171,,,4,Ellos nos buscaron,5,Sí,"3,000_4,999",01_03,"Sí, la colaboración fue exitosa"
+Angel Ventures,WeWork Labs,Directed,1172,,,4,Ellos nos buscaron,5,No,500_999,01_03,"Sí, la colaboración fue exitosa"
+ASELA,ASEM,Directed,1173,,,5,Ellos nos buscaron,3,Sí,NA,01_03,"Sí, la colaboración fue exitosa"
+BID,ASEM,Directed,1174,,,5,Ellos nos buscaron,5,Sí,NA,01_03,"Sí, la colaboración fue exitosa"
+Facebook,ASEM,Directed,1175,,,5,Ellos nos buscaron,5,Sí,NA,01_03,"Sí, la colaboración fue exitosa"
+Startup Weekend,Catapulta,Directed,1176,,,5,Ellos nos buscaron,No estuve presente durante la colaboración,No,NA,01_03,"Sí, la colaboración fue exitosa"
+PwC,EPIC LAB,Directed,1177,,,5,Ellos nos buscaron,5,Sí,"10,000_49,999",04_06,"Sí, la colaboración fue exitosa"
+BID,Finnovista,Directed,1178,,,5,Ellos nos buscaron,2,Sí,NA,01_03,"Sí, la colaboración fue exitosa"
+Visa,Finnovista,Directed,1179,,,5,Ellos nos buscaron,4,Sí,NA,04_06,"Sí, la colaboración fue exitosa"
+CCMX,InnovaUNAM,Directed,1180,,,5,Ellos nos buscaron,[100],No,"10,000_49,999",07_10,"Sí, la colaboración fue exitosa"
+Gob Nuevo Laredo,Startup México,Directed,1181,,,5,Ellos nos buscaron,5,Sí,"50,000_99,999",04_06,"Sí, la colaboración fue exitosa"
+SCT,TechnoPoli,Directed,1182,,,5,Ellos nos buscaron,15,No,"100,000_999,999",11_20,"Sí, la colaboración fue exitosa"
+FONDESO,UAM,Directed,1183,,,5,Ellos nos buscaron,15,Sí,100_499,01_03,"Sí, la colaboración fue exitosa"
+G2,WeWork Labs,Directed,1184,,,5,Ellos nos buscaron,5,Sí,0_99,01_03,"Sí, la colaboración fue exitosa"
+Scotiabank,ITESM,Directed,1185,,,3,Ellos nos buscaron,NA,Sí,NA,04_06,"Sí, la colaboración fue exitosa"
+InnovaUNAM,TecNM,Directed,1186,,,2,Nosotros los buscamos,10,Sí,0_99,01_03,"Sí, la colaboración fue exitosa"
+UAM,Startup México,Directed,1187,,,2,Nosotros los buscamos,12,Sí,100_499,01_03,No se logró colaborar
+WeWork Labs,Google for Startups,Directed,1188,,,2,Nosotros los buscamos,20,No,500_999,01_03,"Sí, la colaboración fue exitosa"
+WeWork Labs,Startup Weekend,Directed,1189,,,2,Nosotros los buscamos,5,No,0_99,01_03,"Sí, la colaboración fue exitosa"
+Homework,U. Anáhuac,Directed,1190,,,3,Nosotros los buscamos,2,No,0_99,01_03,No se logró colaborar
+MITEF México,SICyT Jalisco,Directed,1191,,,3,Nosotros los buscamos,4,Sí,70000,3,"Sí, la colaboración fue exitosa"
+UAM,ALTEC,Directed,1192,,,3,Nosotros los buscamos,20,No,0,4,"Sí, la colaboración fue exitosa"
+UAM,Jefatura GCDMX,Directed,1193,,,3,Nosotros los buscamos,15,Sí,100_499,01_03,"Sí, la colaboración fue exitosa"
+Finnovista,Banregio,Directed,1194,,,4,Nosotros los buscamos,2,Sí,NA,04_06,"Sí, la colaboración fue exitosa"
+InnovaUNAM,U. Anáhuac,Directed,1195,,,4,Nosotros los buscamos,10,Sí,0_99,01_03,"Sí, la colaboración fue exitosa"
+Startup México,UNAM,Directed,1196,,,4,Nosotros los buscamos,10,Sí,"3,000_4,999",01_03,"Sí, la colaboración fue exitosa"
+UAM,CONACYT,Directed,1197,,,4,Nosotros los buscamos,10,Sí,0,3,"Sí, la colaboración fue exitosa"
+WeWork Labs,500 Startups,Directed,1198,,,4,Nosotros los buscamos,5,No,100_499,01_03,"Sí, la colaboración fue exitosa"
+ASEM,Senado,Directed,1199,,,5,Nosotros los buscamos,10,No,NA,01_03,"Sí, la colaboración fue exitosa"
+Comunidad IoTinkerers,WND,Directed,1200,,,5,Nosotros los buscamos,1,No,0_99,01_03,"Sí, la colaboración fue exitosa"
+EPIC LAB,Distrito Emprendedor,Directed,1201,,,5,Nosotros los buscamos,3,Sí,"3,000_4,999",01_03,"Sí, la colaboración fue exitosa"
+EPIC LAB,UNAM Facultad de Química,Directed,1202,,,5,Nosotros los buscamos,3,No,"10,000_49,999",04_06,"Sí, la colaboración fue exitosa"
+FONDESO,Distrito Emprendedor,Directed,1203,,,5,Nosotros los buscamos,5,Sí,500000,6,"Sí, la colaboración fue exitosa"
+Laboratoria,SAP,Directed,1204,,,5,Nosotros los buscamos,1,Sí,0_99,04_06,"Sí, la colaboración fue exitosa"
+Seedstars,H/F,Directed,1205,,,5,Nosotros los buscamos,3,No,100_499,01_03,"Sí, la colaboración fue exitosa"
+Seedstars,RAMPA,Directed,1206,,,5,Nosotros los buscamos,1,No,100_499,01_03,"Sí, la colaboración fue exitosa"
+Startup México,Gob Gto,Directed,1207,,,5,Nosotros los buscamos,10,Sí,"50,000_99,999",07_10,"Sí, la colaboración fue exitosa"
+Startup México,Gob Qro,Directed,1208,,,5,Nosotros los buscamos,10,Sí,"100,000_999,999",07_10,"Sí, la colaboración fue exitosa"
+UAM Cuajimalpa,IBT UNAM,Directed,1209,,,5,Nosotros los buscamos,10,No,5000,3,"Sí, la colaboración fue exitosa"
+UP,iLab,Directed,1210,,,5,Nosotros los buscamos,34,Sí,"100,000_999,999",01_03,"Sí, la colaboración fue exitosa"
+MITEF México,MassChallenge,Directed,1211,,,2,Alguien más nos conectó,2,No,0,1,"Sí, la colaboración fue exitosa"
+CIEBT-IPN,UAM,Directed,1212,,,3,Alguien más nos conectó,3,No,0_99,01_03,"Sí, la colaboración fue exitosa"
+Universidad La Salle,SDSN México,Directed,1213,,,4,Alguien más nos conectó,2,No,0_99,01_03,No se logró colaborar
+ASEM,CCMX,Directed,1214,,,5,Alguien más nos conectó,3,No,NA,01_03,"Sí, la colaboración fue exitosa"
+TechnoPoli,MSICT,Directed,1215,,,5,Alguien más nos conectó,5,Sí,0_99,07_10,"Sí, la colaboración fue exitosa"
+SEP,Epic Queen,Directed,1216,,,2,Ellos nos buscaron,4,No,0_99,04_06,"Sí, la colaboración fue exitosa"
+INADEM,CIEBT-IPN,Directed,1217,,,3,Ellos nos buscaron,20,No,0_99,01_03,"Sí, la colaboración fue exitosa"
+InnovaUNAM,CIEBT-IPN,Directed,1218,,,3,Ellos nos buscaron,20,Sí,0_99,04_06,"No, la colaboración no fue exitosa"
+ASEM,Homework,Directed,1219,,,3,Ellos nos buscaron,2,Sí,0_99,01_03,"Sí, la colaboración fue exitosa"
+Wild,Homework,Directed,1220,,,3,Ellos nos buscaron,2,No,100_499,01_03,"Sí, la colaboración fue exitosa"
+ITAM,Angel Ventures,Directed,1221,,,4,Ellos nos buscaron,6,Sí,100_499,01_03,"Sí, la colaboración fue exitosa"
+Fiinlab,Finnovista,Directed,1222,,,4,Ellos nos buscaron,2,Sí,NA,04_06,"Sí, la colaboración fue exitosa"
+CORFO,Seedstars,Directed,1223,,,4,Ellos nos buscaron,5,Sí,500_999,01_03,"Sí, la colaboración fue exitosa"
+AMEXCAP,EPIC LAB,Directed,1224,,,5,Ellos nos buscaron,4,Sí,"10,000_49,999",01_03,"Sí, la colaboración fue exitosa"
+WEF,Global Shapers,Directed,1225,,,5,Ellos nos buscaron,1,Sí,0_99,31_50,"Sí, la colaboración fue exitosa"
+Impulsa,Santander Universidades,Directed,1226,,,5,Ellos nos buscaron,NA,No,"100,000_999,999",01_03,"Sí, la colaboración fue exitosa"
+EBC,Seedstars,Directed,1227,,,5,Ellos nos buscaron,1,No,100_499,01_03,"Sí, la colaboración fue exitosa"
+Santander,UVM,Directed,1228,,,5,Ellos nos buscaron,4,No,0,1,"Sí, la colaboración fue exitosa"
+InnovaUNAM,ANUIES,Directed,1229,,,1,Nosotros los buscamos,[100],No,"10,000_49,999",07_10,"No, la colaboración no fue exitosa"
+WeWork Labs,Dalus,Directed,1230,,,1,Nosotros los buscamos,10,No,0_99,01_03,"No, la colaboración no fue exitosa"
+WeWork Labs,Facebook,Directed,1231,,,1,Nosotros los buscamos,10,No,0_99,01_03,"Sí, la colaboración fue exitosa"
+InnovaUNAM,AMCDPE,Directed,1232,,,2,Nosotros los buscamos,5,No,0_99,01_03,"Sí, la colaboración fue exitosa"
+InnovaUNAM,Startup México,Directed,1233,,,2,Nosotros los buscamos,10,Sí,0_99,01_03,"No, la colaboración no fue exitosa"
+WeWork Labs,Variv Capital,Directed,1234,,,2,Nosotros los buscamos,10,No,0_99,01_03,"Sí, la colaboración fue exitosa"
+ALEB Investments,Startup México,Directed,1235,,,3,Nosotros los buscamos,10,No,"1,000_2,999",01_03,"Sí, la colaboración fue exitosa"
+BlueBox,LAVCA,Directed,1236,,,3,Nosotros los buscamos,3,Sí,NA,01_03,"Sí, la colaboración fue exitosa"
+Universidad La Salle,ITESM,Directed,1237,,,3,Nosotros los buscamos,1,No,0_99,01_03,"Sí, la colaboración fue exitosa"
+BlueBox,Imagine Lab,Directed,1238,,,4,Nosotros los buscamos,4,No,NA,01_03,"Sí, la colaboración fue exitosa"
+BlueBox,ITAM,Directed,1239,,,4,Nosotros los buscamos,10,Sí,NA,04_06,"Sí, la colaboración fue exitosa"
+Fortune,Deloitte,Directed,1240,,,4,Nosotros los buscamos,3,No,0_99,01_03,"Sí, la colaboración fue exitosa"
+Homework,Posible,Directed,1241,,,4,Nosotros los buscamos,3,No,0_99,01_03,"Sí, la colaboración fue exitosa"
+InnovaUNAM,InBIA,Directed,1242,,,4,Nosotros los buscamos,20,No,"10,000_49,999",07_10,"Sí, la colaboración fue exitosa"
+UAM,IMP,Directed,1243,,,4,Nosotros los buscamos,15,Sí,0,3,"Sí, la colaboración fue exitosa"
+Comunidad IoTinkerers,Konedtitud,Directed,1244,,,5,Nosotros los buscamos,1,No,0_99,01_03,"Sí, la colaboración fue exitosa"
+EPIC LAB,ALLVP,Directed,1245,,,5,Nosotros los buscamos,3,Sí,"10,000_49,999",01_03,"Sí, la colaboración fue exitosa"
+EPIC LAB,Angel Ventures,Directed,1246,,,5,Nosotros los buscamos,3,No,"5,000_9,999",01_03,"Sí, la colaboración fue exitosa"
+EPIC LAB,BBVA Open Innovation,Directed,1247,,,5,Nosotros los buscamos,3,Sí,"5,000_9,999",01_03,"Sí, la colaboración fue exitosa"
+EPIC LAB,Martin Trust MIT,Directed,1248,,,5,Nosotros los buscamos,3,Sí,"10,000_49,999",01_03,"Sí, la colaboración fue exitosa"
+EPIC LAB,Venture Well,Directed,1249,,,5,Nosotros los buscamos,3,Sí,"5,000_9,999",01_03,"Sí, la colaboración fue exitosa"
+TechnoPoli,FUNIBER,Directed,1250,,,5,Nosotros los buscamos,3,Sí,"1,000_2,999",11_20,"Sí, la colaboración fue exitosa"
+TechnoPoli,UNINI,Directed,1251,,,5,Nosotros los buscamos,3,Sí,"10,000_49,999",11_20,"Sí, la colaboración fue exitosa"
+Universidad La Salle,Entrepreneur,Directed,1252,,,5,Nosotros los buscamos,1,No,0_99,01_03,"Sí, la colaboración fue exitosa"
+UP,EMPATITIS,Directed,1253,,,5,Nosotros los buscamos,2,No,"10,000_49,999",01_03,"Sí, la colaboración fue exitosa"
+UVM,NAFIN,Directed,1254,,,5,Nosotros los buscamos,4,No,0,1,"Sí, la colaboración fue exitosa"
+Adobe Capital,BID Invest,Directed,1255,,,3,NA,NA,NA,NA,NA,NA
+Adobe Capital,BID Lab,Directed,1256,,,3,NA,NA,NA,NA,NA,NA
+Adobe Capital,CAF,Directed,1257,,,3,NA,NA,NA,NA,NA,NA
+Adobe Capital,Capria,Directed,1258,,,3,NA,NA,NA,NA,NA,NA
+Adobe Capital,DEG,Directed,1259,,,3,NA,NA,NA,NA,NA,NA
+Adobe Capital,FDF,Directed,1260,,,3,NA,NA,NA,NA,NA,NA
+Adobe Capital,Mexico Ventures,Directed,1261,,,3,NA,NA,NA,NA,NA,NA
+Adobe Capital,NAFIN,Directed,1262,,,3,NA,NA,NA,NA,NA,NA
+Adobe Capital,PROPARCO,Directed,1263,,,3,NA,NA,NA,NA,NA,NA
+Angel Ventures,Variv Capital,Directed,1264,,,3,NA,NA,NA,NA,NA,NA
+BlueBox,Chrysalis,Directed,1265,,,3,NA,NA,NA,NA,NA,NA
+Catapulta,AWS,Directed,1266,,,3,NA,NA,NA,NA,NA,NA
+Catapulta,Distrito Emprendedor,Directed,1267,,,3,NA,NA,NA,NA,NA,NA
+Catapulta,ESMEX,Directed,1268,,,3,NA,NA,NA,NA,NA,NA
+Catapulta,Fiinlab,Directed,1269,,,3,NA,NA,NA,NA,NA,NA
+Catapulta,Hult Prize,Directed,1270,,,3,NA,NA,NA,NA,NA,NA
+Catapulta,MassChallenge,Directed,1271,,,3,NA,NA,NA,NA,NA,NA
+Catapulta,Posible,Directed,1272,,,3,NA,NA,NA,NA,NA,NA
+Catapulta,Startup Grind,Directed,1273,,,3,NA,NA,NA,NA,NA,NA
+Catapulta,TrepCamp,Directed,1274,,,3,NA,NA,NA,NA,NA,NA
+Catapulta,Universia,Directed,1275,,,3,NA,NA,NA,NA,NA,NA
+CIC UNAM,BANCOMEXT,Directed,1276,,,3,NA,NA,NA,NA,NA,NA
+CIC UNAM,BID,Directed,1277,,,3,NA,NA,NA,NA,NA,NA
+CIC UNAM,Jefatura GCDMX,Directed,1278,,,3,NA,NA,NA,NA,NA,NA
+CIC UNAM,NAFIN,Directed,1279,,,3,NA,NA,NA,NA,NA,NA
+CIC UNAM,SE,Directed,1280,,,3,NA,NA,NA,NA,NA,NA
+CIEBT-IPN,AMEXCID,Directed,1281,,,3,NA,NA,NA,NA,NA,NA
+CIEBT-IPN,Banco Bienestar,Directed,1282,,,3,NA,NA,NA,NA,NA,NA
+CIEBT-IPN,Bimbo,Directed,1283,,,3,NA,NA,NA,NA,NA,NA
+CIEBT-IPN,CANACINTRA,Directed,1284,,,3,NA,NA,NA,NA,NA,NA
+CIEBT-IPN,CICE-BUAP,Directed,1285,,,3,NA,NA,NA,NA,NA,NA
+CIEBT-IPN,Dharma,Directed,1286,,,3,NA,NA,NA,NA,NA,NA
+CIEBT-IPN,Distrito Emprendedor,Directed,1287,,,3,NA,NA,NA,NA,NA,NA
+CIEBT-IPN,Everis,Directed,1288,,,3,NA,NA,NA,NA,NA,NA
+CIEBT-IPN,KDI,Directed,1289,,,3,NA,NA,NA,NA,NA,NA
+CIEBT-IPN,Micochinito,Directed,1290,,,3,NA,NA,NA,NA,NA,NA
+CIEBT-IPN,Microsoft,Directed,1291,,,3,NA,NA,NA,NA,NA,NA
+CIEBT-IPN,RedEmprendia,Directed,1292,,,3,NA,NA,NA,NA,NA,NA
+CIEBT-IPN,Samsung,Directed,1293,,,3,NA,NA,NA,NA,NA,NA
+EPIC LAB,Bain & Co,Directed,1294,,,3,NA,NA,NA,NA,NA,NA
+EPIC LAB,Capital Invent,Directed,1295,,,3,NA,NA,NA,NA,NA,NA
+EPIC LAB,CENTRO,Directed,1296,,,3,NA,NA,NA,NA,NA,NA
+EPIC LAB,Endeavor,Directed,1297,,,3,NA,NA,NA,NA,NA,NA
+EPIC LAB,Everis,Directed,1298,,,3,NA,NA,NA,NA,NA,NA
+EPIC LAB,GBM,Directed,1299,,,3,NA,NA,NA,NA,NA,NA
+EPIC LAB,ICEM,Directed,1300,,,3,NA,NA,NA,NA,NA,NA
+EPIC LAB,INADEM,Directed,1301,,,3,NA,NA,NA,NA,NA,NA
+EPIC LAB,MassChallenge,Directed,1302,,,3,NA,NA,NA,NA,NA,NA
+EPIC LAB,Posible,Directed,1303,,,3,NA,NA,NA,NA,NA,NA
+EPIC LAB,Sperentia,Directed,1304,,,3,NA,NA,NA,NA,NA,NA
+EPIC LAB,UAM Cuajimalpa,Directed,1305,,,3,NA,NA,NA,NA,NA,NA
+Epic Queen,500 Startups,Directed,1306,,,3,NA,NA,NA,NA,NA,NA
+Epic Queen,Amazon,Directed,1307,,,3,NA,NA,NA,NA,NA,NA
+Epic Queen,BBVA Open Innovation,Directed,1308,,,3,NA,NA,NA,NA,NA,NA
+Epic Queen,Citibanamex,Directed,1309,,,3,NA,NA,NA,NA,NA,NA
+Epic Queen,EGADE,Directed,1310,,,3,NA,NA,NA,NA,NA,NA
+Epic Queen,Fundación Televisa,Directed,1311,,,3,NA,NA,NA,NA,NA,NA
+Epic Queen,ITESM,Directed,1312,,,3,NA,NA,NA,NA,NA,NA
+Epic Queen,Martin Trust MIT,Directed,1313,,,3,NA,NA,NA,NA,NA,NA
+Epic Queen,MIA,Directed,1314,,,3,NA,NA,NA,NA,NA,NA
+Epic Queen,Posible,Directed,1315,,,3,NA,NA,NA,NA,NA,NA
+Epic Queen,Televisa,Directed,1316,,,3,NA,NA,NA,NA,NA,NA
+Epic Queen,Uber,Directed,1317,,,3,NA,NA,NA,NA,NA,NA
+Fortune,Bimbo,Directed,1318,,,3,NA,NA,NA,NA,NA,NA
+Global Shapers,C Minds,Directed,1319,,,3,NA,NA,NA,NA,NA,NA
+Global Shapers,CCE,Directed,1320,,,3,NA,NA,NA,NA,NA,NA
+Global Shapers,MIA,Directed,1321,,,3,NA,NA,NA,NA,NA,NA
+Global Shapers,Nexos,Directed,1322,,,3,NA,NA,NA,NA,NA,NA
+Global Shapers,Radio Fórmula,Directed,1323,,,3,NA,NA,NA,NA,NA,NA
+Global Shapers,Seedstars,Directed,1324,,,3,NA,NA,NA,NA,NA,NA
+Global Shapers,Senado,Directed,1325,,,3,NA,NA,NA,NA,NA,NA
+Global Shapers,WeWork,Directed,1326,,,3,NA,NA,NA,NA,NA,NA
+InnovaUNAM,Ashoka,Directed,1327,,,3,NA,NA,NA,NA,NA,NA
+ITESM,500 Startups,Directed,1328,,,3,NA,NA,NA,NA,NA,NA
+ITESM,AMEXCAP,Directed,1329,,,3,NA,NA,NA,NA,NA,NA
+ITESM,ASEM,Directed,1330,,,3,NA,NA,NA,NA,NA,NA
+ITESM,Ashoka,Directed,1331,,,3,NA,NA,NA,NA,NA,NA
+ITESM,AWS,Directed,1332,,,3,NA,NA,NA,NA,NA,NA
+ITESM,BID,Directed,1333,,,3,NA,NA,NA,NA,NA,NA
+ITESM,Cinépolis,Directed,1334,,,3,NA,NA,NA,NA,NA,NA
+ITESM,Continental,Directed,1335,,,3,NA,NA,NA,NA,NA,NA
+ITESM,COW,Directed,1336,,,3,NA,NA,NA,NA,NA,NA
+ITESM,eMerge Americas,Directed,1337,,,3,NA,NA,NA,NA,NA,NA
+ITESM,Endeavor,Directed,1338,,,3,NA,NA,NA,NA,NA,NA
+ITESM,FEMSA,Directed,1339,,,3,NA,NA,NA,NA,NA,NA
+ITESM,Fintech México,Directed,1340,,,3,NA,NA,NA,NA,NA,NA
+ITESM,FuckUp Nights,Directed,1341,,,3,NA,NA,NA,NA,NA,NA
+ITESM,Google for Startups,Directed,1342,,,3,NA,NA,NA,NA,NA,NA
+ITESM,Google México,Directed,1343,,,3,NA,NA,NA,NA,NA,NA
+ITESM,Hacking Health,Directed,1344,,,3,NA,NA,NA,NA,NA,NA
+ITESM,Heineken,Directed,1345,,,3,NA,NA,NA,NA,NA,NA
+ITESM,IBM,Directed,1346,,,3,NA,NA,NA,NA,NA,NA
+ITESM,INADEM,Directed,1347,,,3,NA,NA,NA,NA,NA,NA
+ITESM,INCmty,Directed,1348,,,3,NA,NA,NA,NA,NA,NA
+ITESM,Play Business,Directed,1349,,,3,NA,NA,NA,NA,NA,NA
+ITESM,Seedstars,Directed,1350,,,3,NA,NA,NA,NA,NA,NA
+ITESM,Sistema B,Directed,1351,,,3,NA,NA,NA,NA,NA,NA
+ITESM,Startup Essentials,Directed,1352,,,3,NA,NA,NA,NA,NA,NA
+ITESM,StartupBus,Directed,1353,,,3,NA,NA,NA,NA,NA,NA
+ITESM,Supter,Directed,1354,,,3,NA,NA,NA,NA,NA,NA
+ITESM,TrepCamp,Directed,1355,,,3,NA,NA,NA,NA,NA,NA
+ITESM,Variv Capital,Directed,1356,,,3,NA,NA,NA,NA,NA,NA
+ITESM,Zona Ei ITESM,Directed,1357,,,3,NA,NA,NA,NA,NA,NA
+Ronin PR Mexico,ALLVP,Directed,1358,,,3,NA,NA,NA,NA,NA,NA
+Ronin PR Mexico,Dynatrace,Directed,1359,,,3,NA,NA,NA,NA,NA,NA
+Ronin PR Mexico,Endeavor,Directed,1360,,,3,NA,NA,NA,NA,NA,NA
+Ronin PR Mexico,Entrepreneur,Directed,1361,,,3,NA,NA,NA,NA,NA,NA
+Ronin PR Mexico,Failure Institute,Directed,1362,,,3,NA,NA,NA,NA,NA,NA
+Ronin PR Mexico,Forbes México,Directed,1363,,,3,NA,NA,NA,NA,NA,NA
+Ronin PR Mexico,Grupo Expansión,Directed,1364,,,3,NA,NA,NA,NA,NA,NA
+Ronin PR Mexico,Open Sandbox,Directed,1365,,,3,NA,NA,NA,NA,NA,NA
+Ronin PR Mexico,Social Media Week,Directed,1366,,,3,NA,NA,NA,NA,NA,NA
+Ronin PR Mexico,Talent Land,Directed,1367,,,3,NA,NA,NA,NA,NA,NA
+Ronin PR Mexico,WeXchange,Directed,1368,,,3,NA,NA,NA,NA,NA,NA
+Santander,Banxico,Directed,1369,,,3,NA,NA,NA,NA,NA,NA
+Santander Universidades,ANUIES,Directed,1370,,,3,NA,NA,NA,NA,NA,NA
+Santander Universidades,Failure Institute,Directed,1371,,,3,NA,NA,NA,NA,NA,NA
+Santander Universidades,FIMPES,Directed,1372,,,3,NA,NA,NA,NA,NA,NA
+Santander Universidades,Fomento Geek,Directed,1373,,,3,NA,NA,NA,NA,NA,NA
+Santander Universidades,FuckUp Nights,Directed,1374,,,3,NA,NA,NA,NA,NA,NA
+Santander Universidades,IFTF,Directed,1375,,,3,NA,NA,NA,NA,NA,NA
+Santander Universidades,ITESM,Directed,1376,,,3,NA,NA,NA,NA,NA,NA
+Startup México,Amazon,Directed,1377,,,3,NA,NA,NA,NA,NA,NA
+Startup México,AMEXCAP,Directed,1378,,,3,NA,NA,NA,NA,NA,NA
+Startup México,Angel Ventures,Directed,1379,,,3,NA,NA,NA,NA,NA,NA
+Startup México,Bimbo,Directed,1380,,,3,NA,NA,NA,NA,NA,NA
+Startup México,Chivas Venture,Directed,1381,,,3,NA,NA,NA,NA,NA,NA
+Startup México,DB Academy,Directed,1382,,,3,NA,NA,NA,NA,NA,NA
+Startup México,Facebook,Directed,1383,,,3,NA,NA,NA,NA,NA,NA
+Startup México,FLIX,Directed,1384,,,3,NA,NA,NA,NA,NA,NA
+Startup México,GEN,Directed,1385,,,3,NA,NA,NA,NA,NA,NA
+Startup México,Genome,Directed,1386,,,3,NA,NA,NA,NA,NA,NA
+Startup México,Google México,Directed,1387,,,3,NA,NA,NA,NA,NA,NA
+Startup México,IME,Directed,1388,,,3,NA,NA,NA,NA,NA,NA
+Startup México,INADEM,Directed,1389,,,3,NA,NA,NA,NA,NA,NA
+Startup México,IODEMC,Directed,1390,,,3,NA,NA,NA,NA,NA,NA
+Startup México,IOS Offices,Directed,1391,,,3,NA,NA,NA,NA,NA,NA
+Startup México,IPADE,Directed,1392,,,3,NA,NA,NA,NA,NA,NA
+Startup México,Oracle,Directed,1393,,,3,NA,NA,NA,NA,NA,NA
+Startup México,SEDECO GTO,Directed,1394,,,3,NA,NA,NA,NA,NA,NA
+Startup México,SEDECO QRO,Directed,1395,,,3,NA,NA,NA,NA,NA,NA
+Startup México,Shark Tank,Directed,1396,,,3,NA,NA,NA,NA,NA,NA
+Startup México,South Summit,Directed,1397,,,3,NA,NA,NA,NA,NA,NA
+Startup México,Talent Land,Directed,1398,,,3,NA,NA,NA,NA,NA,NA
+Startup México,Wayra,Directed,1399,,,3,NA,NA,NA,NA,NA,NA
+SVX,Agora,Directed,1400,,,3,NA,NA,NA,NA,NA,NA
+SVX,AIIMX,Directed,1401,,,3,NA,NA,NA,NA,NA,NA
+SVX,AMEXCAP,Directed,1402,,,3,NA,NA,NA,NA,NA,NA
+SVX,ANDE,Directed,1403,,,3,NA,NA,NA,NA,NA,NA
+SVX,ASEM,Directed,1404,,,3,NA,NA,NA,NA,NA,NA
+SVX,Ashoka,Directed,1405,,,3,NA,NA,NA,NA,NA,NA
+SVX,Biofin,Directed,1406,,,3,NA,NA,NA,NA,NA,NA
+SVX,Capital Institute,Directed,1407,,,3,NA,NA,NA,NA,NA,NA
+SVX,Catapulta,Directed,1408,,,3,NA,NA,NA,NA,NA,NA
+SVX,Co Capital,Directed,1409,,,3,NA,NA,NA,NA,NA,NA
+SVX,Disruptivo TV,Directed,1410,,,3,NA,NA,NA,NA,NA,NA
+SVX,El Buen Socio,Directed,1411,,,3,NA,NA,NA,NA,NA,NA
+SVX,Global Shapers,Directed,1412,,,3,NA,NA,NA,NA,NA,NA
+SVX,Grupo Paisano,Directed,1413,,,3,NA,NA,NA,NA,NA,NA
+SVX,GSG,Directed,1414,,,3,NA,NA,NA,NA,NA,NA
+SVX,Impact Hub,Directed,1415,,,3,NA,NA,NA,NA,NA,NA
+SVX,INADEM,Directed,1416,,,3,NA,NA,NA,NA,NA,NA
+SVX,Makesense,Directed,1417,,,3,NA,NA,NA,NA,NA,NA
+SVX,Pomona Impact,Directed,1418,,,3,NA,NA,NA,NA,NA,NA
+SVX,PSM,Directed,1419,,,3,NA,NA,NA,NA,NA,NA
+SVX,SICyT Jalisco,Directed,1420,,,3,NA,NA,NA,NA,NA,NA
+SVX,Sistema B,Directed,1421,,,3,NA,NA,NA,NA,NA,NA
+SVX,Unreasonable México,Directed,1422,,,3,NA,NA,NA,NA,NA,NA
+TechnoPoli,Gob BajaCalifornia,Directed,1423,,,3,NA,NA,NA,NA,NA,NA
+TechnoPoli,Gob BajaCaliforniaSur,Directed,1424,,,3,NA,NA,NA,NA,NA,NA
+TechnoPoli,Gob Chihuahua,Directed,1425,,,3,NA,NA,NA,NA,NA,NA
+TechnoPoli,Gob Coahuila,Directed,1426,,,3,NA,NA,NA,NA,NA,NA
+TechnoPoli,Gob Guerrero,Directed,1427,,,3,NA,NA,NA,NA,NA,NA
+TechnoPoli,Gob Jalisco,Directed,1428,,,3,NA,NA,NA,NA,NA,NA
+TechnoPoli,Gob Nayarit,Directed,1429,,,3,NA,NA,NA,NA,NA,NA
+TechnoPoli,Gob Sonora,Directed,1430,,,3,NA,NA,NA,NA,NA,NA
+Universidad La Salle,Seedstars,Directed,1431,,,3,NA,NA,NA,NA,NA,NA
+Universidad La Salle,Startup México,Directed,1432,,,3,NA,NA,NA,NA,NA,NA
+UP,Ashoka,Directed,1433,,,3,NA,NA,NA,NA,NA,NA
+UP,BBVA,Directed,1434,,,3,NA,NA,NA,NA,NA,NA
+UP,INADEM,Directed,1435,,,3,NA,NA,NA,NA,NA,NA
+UP,MITEF México,Directed,1436,,,3,NA,NA,NA,NA,NA,NA
+UP,South Summit,Directed,1437,,,3,NA,NA,NA,NA,NA,NA
+UP,Startup México,Directed,1438,,,3,NA,NA,NA,NA,NA,NA
+UAM,Cleantech Labs CDMX,Directed,1439,,,4,Alguien más nos conectó,20,Sí,100_499,01_03,"Sí, la colaboración fue exitosa"
+Epic Queen,Google México,Directed,1440,,,5,Alguien más nos conectó,1,No,100_499,01_03,"Sí, la colaboración fue exitosa"
+Cenapyme,UVM,Directed,1441,,,1,Ellos nos buscaron,1,No,0_99,07_10,"No, la colaboración no fue exitosa"
+Fundación Telefónica,Epic Queen,Directed,1442,,,3,Ellos nos buscaron,1,Sí,"3,000_4,999",04_06,"No, la colaboración no fue exitosa"
+BEDU,Homework,Directed,1443,,,3,Ellos nos buscaron,2,No,100_499,01_03,"Sí, la colaboración fue exitosa"
+MassChallenge,Homework,Directed,1444,,,3,Ellos nos buscaron,2,No,100_499,01_03,"Sí, la colaboración fue exitosa"
+Talent Land,UAM,Directed,1445,,,3,Ellos nos buscaron,10,No,"1,000_2,999",01_03,"Sí, la colaboración fue exitosa"
+CCEMx,Epic Queen,Directed,1446,,,4,Ellos nos buscaron,1,Sí,"1,000_2,999",04_06,"Sí, la colaboración fue exitosa"
+Santander X,Universidad La Salle,Directed,1447,,,4,Ellos nos buscaron,3,Sí,100_499,01_03,"Sí, la colaboración fue exitosa"
+AngelHack,WeWork Labs,Directed,1448,,,4,Ellos nos buscaron,5,No,0_99,01_03,"Sí, la colaboración fue exitosa"
+Startup Grind,WeWork Labs,Directed,1449,,,4,Ellos nos buscaron,2,No,0_99,01_03,"Sí, la colaboración fue exitosa"
+Apolo25,ASEM,Directed,1450,,,5,Ellos nos buscaron,2,No,NA,01_03,"Sí, la colaboración fue exitosa"
+Santander,Universidad La Salle,Directed,1451,,,5,Ellos nos buscaron,1,Sí,0,2,"Sí, la colaboración fue exitosa"
+Epic Queen,Wayra,Directed,1452,,,2,Nosotros los buscamos,2,No,0_99,01_03,"Sí, la colaboración fue exitosa"
+InnovaUNAM,SDSN México,Directed,1453,,,2,Nosotros los buscamos,5,No,0_99,01_03,"Sí, la colaboración fue exitosa"
+CIEBT-IPN,U. Anáhuac,Directed,1454,,,3,Nosotros los buscamos,3,No,0_99,01_03,"Sí, la colaboración fue exitosa"
+InnovaUNAM,ITESM,Directed,1455,,,3,Nosotros los buscamos,5,No,0_99,01_03,"Sí, la colaboración fue exitosa"
+Mountain Nazca,NAFIN,Directed,1456,,,3,Nosotros los buscamos,15,Sí,10000,3,"Sí, la colaboración fue exitosa"
+Seedstars,BBVA,Directed,1457,,,3,Nosotros los buscamos,10,No,0_99,01_03,"Sí, la colaboración fue exitosa"
+Seedstars,Startup Gdl,Directed,1458,,,3,Nosotros los buscamos,3,No,100_499,01_03,"Sí, la colaboración fue exitosa"
+ASEM,CENTRO,Directed,1459,,,4,Nosotros los buscamos,5,No,NA,01_03,"Sí, la colaboración fue exitosa"
+CIEBT-IPN,FONDESO,Directed,1460,,,4,Nosotros los buscamos,5,Sí,0_99,01_03,"Sí, la colaboración fue exitosa"
+Startup México,MCM,Directed,1461,,,4,Nosotros los buscamos,10,Sí,"3,000_4,999",01_03,"Sí, la colaboración fue exitosa"
+ASEM,Cervantes Sainz,Directed,1462,,,5,Nosotros los buscamos,1,Sí,NA,01_03,"Sí, la colaboración fue exitosa"
+Comunidad IoTinkerers,EBC,Directed,1463,,,5,Nosotros los buscamos,1,No,100_499,04_06,"Sí, la colaboración fue exitosa"
+Comunidad IoTinkerers,Seedstars,Directed,1464,,,5,Nosotros los buscamos,1,No,0_99,01_03,"Sí, la colaboración fue exitosa"
+Mountain Nazca,INADEM,Directed,1465,,,5,Nosotros los buscamos,15,Sí,10000,3,"Sí, la colaboración fue exitosa"
+Compartamos Banco,UVM,Directed,1466,,,1,Ellos nos buscaron,1,No,0_99,01_03,"No, la colaboración no fue exitosa"
+IFT,Epic Queen,Directed,1467,,,3,Ellos nos buscaron,2,No,500_999,01_03,"Sí, la colaboración fue exitosa"
+SEDECO CDMX,UAM,Directed,1468,,,3,Ellos nos buscaron,12,No,100_499,01_03,"Sí, la colaboración fue exitosa"
+Exitus Capital,Universidad La Salle,Directed,1469,,,3,Ellos nos buscaron,3,No,100_499,01_03,"Sí, la colaboración fue exitosa"
+UNAM,Santander Universidades,Directed,1470,,,4,Ellos nos buscaron,NA,Sí,"50,000_99,999",01_03,"Sí, la colaboración fue exitosa"
+Grupo Salinas,Seedstars,Directed,1471,,,4,Ellos nos buscaron,10,Sí,"1,000_2,999",01_03,"Sí, la colaboración fue exitosa"
+Santander,UP,Directed,1472,,,4,Ellos nos buscaron,3,Sí,"50,000_99,999",01_03,"Sí, la colaboración fue exitosa"
+FUNIBER,CIEBT-IPN,Directed,1473,,,5,Ellos nos buscaron,10,Sí,0_99,07_10,"Sí, la colaboración fue exitosa"
+Catapulta,Seedstars,Directed,1474,,,5,Ellos nos buscaron,3,No,100_499,01_03,"Sí, la colaboración fue exitosa"
+Alacrity,Universidad La Salle,Directed,1475,,,5,Ellos nos buscaron,10,No,100_499,01_03,"No, la colaboración no fue exitosa"
+Santander Universidades,Universidad La Salle,Directed,1476,,,5,Ellos nos buscaron,3,Sí,100_499,01_03,"Sí, la colaboración fue exitosa"
+IME,UVM,Directed,1477,,,5,Ellos nos buscaron,1,Sí,0,1,"Sí, la colaboración fue exitosa"
+InnovaUNAM,Jefatura GCDMX,Directed,1478,,,1,Nosotros los buscamos,[100],No,"10,000_49,999",07_10,"No, la colaboración no fue exitosa"
+InnovaUNAM,NAFIN,Directed,1479,,,1,Nosotros los buscamos,10,No,0_99,01_03,"No, la colaboración no fue exitosa"
+InnovaUNAM,SE,Directed,1480,,,1,Nosotros los buscamos,15,No,"10,000_49,999",07_10,"No, la colaboración no fue exitosa"
+InnovaUNAM,SECTEI,Directed,1481,,,1,Nosotros los buscamos,[100],No,"10,000_49,999",07_10,"No, la colaboración no fue exitosa"
+UAM Cuajimalpa,Santander,Directed,1482,,,1,Nosotros los buscamos,3,No,0,2,No se logró colaborar
+Ignia,BID,Directed,1483,,,2,Nosotros los buscamos,5,Sí,"1,000_2,999",04_06,"Sí, la colaboración fue exitosa"
+CIEBT-IPN,CONACYT,Directed,1484,,,3,Nosotros los buscamos,30,No,0_99,01_03,"No, la colaboración no fue exitosa"
+Finnovista,HSBC,Directed,1485,,,3,Nosotros los buscamos,2,Sí,NA,04_06,"Sí, la colaboración fue exitosa"
+Finnovista,Scotiabank,Directed,1486,,,3,Nosotros los buscamos,3,Sí,NA,04_06,"Sí, la colaboración fue exitosa"
+Ignia,CFI,Directed,1487,,,3,Nosotros los buscamos,10,Sí,"1,000_2,999",04_06,"Sí, la colaboración fue exitosa"
+Ignia,FOMIN,Directed,1488,,,3,Nosotros los buscamos,5,Sí,"1,000_2,999",04_06,"Sí, la colaboración fue exitosa"
+Ignia,FRockefeller,Directed,1489,,,3,Nosotros los buscamos,5,Sí,"1,000_2,999",04_06,"Sí, la colaboración fue exitosa"
+Ignia,JP Morgan,Directed,1490,,,3,Nosotros los buscamos,5,Sí,"1,000_2,999",04_06,"Sí, la colaboración fue exitosa"
+Ignia,Omidyar,Directed,1491,,,3,Nosotros los buscamos,5,Sí,"1,000_2,999",04_06,"Sí, la colaboración fue exitosa"
+Ignia,Soros,Directed,1492,,,3,Nosotros los buscamos,5,Sí,"1,000_2,999",04_06,"Sí, la colaboración fue exitosa"
+InnovaUNAM,FONDESO,Directed,1493,,,3,Nosotros los buscamos,10,Sí,0_99,01_03,"No, la colaboración no fue exitosa"
+InnovaUNAM,SEDECO CDMX,Directed,1494,,,3,Nosotros los buscamos,10,Sí,"10,000_49,999",07_10,"Sí, la colaboración fue exitosa"
+Angel Ventures,CFI,Directed,1495,,,4,Nosotros los buscamos,7,Sí,"5,000_9,999",04_06,"Sí, la colaboración fue exitosa"
+Angel Ventures,KVIC,Directed,1496,,,4,Nosotros los buscamos,4,Sí,"10,000_49,999",04_06,"Sí, la colaboración fue exitosa"
+Angel Ventures,Mexico Ventures,Directed,1497,,,4,Nosotros los buscamos,5,Sí,500_999,04_06,"Sí, la colaboración fue exitosa"
+Angel Ventures,NAFIN,Directed,1498,,,4,Nosotros los buscamos,6,Sí,100_499,04_06,"Sí, la colaboración fue exitosa"
+Angel Ventures,SE,Directed,1499,,,4,Nosotros los buscamos,15,Sí,100_499,07_10,"Sí, la colaboración fue exitosa"
+Comunidad IoTinkerers,INADEM,Directed,1500,,,4,Nosotros los buscamos,1,No,0_99,01_03,"Sí, la colaboración fue exitosa"
+Finnovista,Ignia,Directed,1501,,,4,Nosotros los buscamos,3,Sí,NA,04_06,"Sí, la colaboración fue exitosa"
+Finnovista,Latinia,Directed,1502,,,4,Nosotros los buscamos,2,Sí,NA,04_06,"Sí, la colaboración fue exitosa"
+InnovaUNAM,INADEM,Directed,1503,,,4,Nosotros los buscamos,[100],Sí,"10,000_49,999",07_10,"Sí, la colaboración fue exitosa"
+InnovaUNAM,INADEM,Directed,1504,,,4,Nosotros los buscamos,20,Sí,0_99,01_03,"Sí, la colaboración fue exitosa"
+Laboratoria,AT&T,Directed,1505,,,4,Nosotros los buscamos,1,Sí,0_99,04_06,"Sí, la colaboración fue exitosa"
+Laboratoria,CISCO,Directed,1506,,,4,Nosotros los buscamos,1,Sí,0_99,01_03,"Sí, la colaboración fue exitosa"
+MITEF México,INADEM,Directed,1507,,,4,Nosotros los buscamos,8,Sí,400000,8,"Sí, la colaboración fue exitosa"
+Startup México,Dux Capital,Directed,1508,,,4,Nosotros los buscamos,5,Sí,500_999,01_03,"Sí, la colaboración fue exitosa"
+UAM Cuajimalpa,CONACYT,Directed,1509,,,4,Nosotros los buscamos,10,Sí,2500,2,"No, la colaboración no fue exitosa"
+ALEB Investments,INADEM,Directed,1510,,,5,Nosotros los buscamos,[100],Sí,"100,000_999,999",07_10,"Sí, la colaboración fue exitosa"
+ALEB Investments,NAFIN,Directed,1511,,,5,Nosotros los buscamos,[100],Sí,"100,000_999,999",07_10,"Sí, la colaboración fue exitosa"
+Angel Ventures,Bancoldex,Directed,1512,,,5,Nosotros los buscamos,10,Sí,"5,000_9,999",04_06,"Sí, la colaboración fue exitosa"
+Angel Ventures,BID,Directed,1513,,,5,Nosotros los buscamos,10,Sí,"3,000_4,999",04_06,"Sí, la colaboración fue exitosa"
+ASEM,Santander,Directed,1514,,,5,Nosotros los buscamos,10,Sí,NA,01_03,"Sí, la colaboración fue exitosa"
+BlueBox,CORFO,Directed,1515,,,5,Nosotros los buscamos,10,Sí,NA,04_06,"Sí, la colaboración fue exitosa"
+BlueBox,INADEM,Directed,1516,,,5,Nosotros los buscamos,2,Sí,NA,04_06,"Sí, la colaboración fue exitosa"
+BlueBox,NAFIN,Directed,1517,,,5,Nosotros los buscamos,4,Sí,NA,04_06,"Sí, la colaboración fue exitosa"
+CIEBT-IPN,FIDBAN,Directed,1518,,,5,Nosotros los buscamos,10,Sí,0_99,01_03,"No, la colaboración no fue exitosa"
+CIEBT-IPN,Universidad de Salamanca,Directed,1519,,,5,Nosotros los buscamos,20,Sí,"1,000_2,999",11_20,"Sí, la colaboración fue exitosa"
+Finnovista,BBVA,Directed,1520,,,5,Nosotros los buscamos,2,Sí,NA,04_06,"Sí, la colaboración fue exitosa"
+Ignia,PSM,Directed,1521,,,5,Nosotros los buscamos,6,Sí,"1,000_2,999",04_06,"Sí, la colaboración fue exitosa"
+InnovaUNAM,CONACYT,Directed,1522,,,5,Nosotros los buscamos,[100],Sí,"100,000_999,999",07_10,"Sí, la colaboración fue exitosa"
+InnovaUNAM,RedEmprendia,Directed,1523,,,5,Nosotros los buscamos,[100],Sí,"10,000_49,999",07_10,"Sí, la colaboración fue exitosa"
+InnovaUNAM,Santander,Directed,1524,,,5,Nosotros los buscamos,[100],Sí,"1,000,000_",07_10,"Sí, la colaboración fue exitosa"
+InnovaUNAM,SEP,Directed,1525,,,5,Nosotros los buscamos,[100],Sí,"1,000,000_",07_10,"Sí, la colaboración fue exitosa"
+Laboratoria,Fundación Citi,Directed,1526,,,5,Nosotros los buscamos,1,Sí,0_99,04_06,"Sí, la colaboración fue exitosa"
+Laboratoria,Google México,Directed,1527,,,5,Nosotros los buscamos,1,Sí,0_99,04_06,"Sí, la colaboración fue exitosa"
+UAM,Santander,Directed,1528,,,5,Nosotros los buscamos,15,Sí,500_999,01_03,"Sí, la colaboración fue exitosa"
+UAM,Santander Universidades,Directed,1529,,,5,Nosotros los buscamos,15,Sí,100_499,01_03,"Sí, la colaboración fue exitosa"
+UVM,INADEM,Directed,1530,,,5,Nosotros los buscamos,3,No,0,1,"Sí, la colaboración fue exitosa"
+FONDESO,FINANZAS CDMX,Directed,1531,,,5,Alguien más nos conectó,5,Sí,20000000,120,"Sí, la colaboración fue exitosa"
+FONDESO,SEDECO CDMX,Directed,1532,,,5,Alguien más nos conectó,4,Sí,20000000,120,"Sí, la colaboración fue exitosa"
+Universidad La Salle,Impulsa,Directed,1533,,,5,Alguien más nos conectó,3,Sí,100_499,01_03,"Sí, la colaboración fue exitosa"
+CONCAMIN,Universidad La Salle,Directed,1534,,,5,Ellos nos buscaron,3,Sí,100_499,01_03,"Sí, la colaboración fue exitosa"
+Universidad La Salle,Google México,Directed,1535,,,2,Nosotros los buscamos,1,No,0_99,01_03,"Sí, la colaboración fue exitosa"
+Universidad La Salle,WeWork,Directed,1536,,,2,Nosotros los buscamos,1,No,0_99,01_03,"Sí, la colaboración fue exitosa"
+FONDESO,IPN,Directed,1537,,,4,Nosotros los buscamos,5,Sí,500000,20,"Sí, la colaboración fue exitosa"
+FONDESO,UAM,Directed,1538,,,4,Nosotros los buscamos,5,Sí,50000,20,"Sí, la colaboración fue exitosa"
+FONDESO,UNAM,Directed,1539,,,4,Nosotros los buscamos,5,Sí,5000000,20,"Sí, la colaboración fue exitosa"
+FONDESO,ProEmpleo,Directed,1540,,,5,Nosotros los buscamos,5,Sí,50000,5,"Sí, la colaboración fue exitosa"
+Universidad La Salle,Facebook,Directed,1541,,,5,Nosotros los buscamos,1,No,0_99,01_03,"Sí, la colaboración fue exitosa"
+Universidad La Salle,INADEM,Directed,1542,,,5,Nosotros los buscamos,10,No,100_499,01_03,"Sí, la colaboración fue exitosa"
+UP,New Ventures,Directed,1543,,,5,Nosotros los buscamos,25,Sí,"5,000_9,999",01_03,"Sí, la colaboración fue exitosa"
+Santander Universidades,Impulsa,Directed,1544,,,1,,,,,,
+Santander Universidades,Universidad La Salle,Directed,1545,,,1,,,,,,
+FONDESO,TrepCamp,Directed,1546,,,1,,,,,,
+FONDESO,UAM,Directed,1547,,,1,,,,,,
+FONDESO,Impulsa,Directed,1548,,,1,,,,,,
+FONDESO,UAM,Directed,1549,,,1,,,,,,
+FONDESO,Cleantech Labs CDMX,Directed,1550,,,1,,,,,,
+FONDESO,UAM,Directed,1551,,,1,,,,,,
+Santander Universidades,CIEBT-IPN,Directed,1552,,,1,,,,,,
+Santander Universidades,UAM,Directed,1553,,,1,,,,,,
+500 Startups,Epic Queen,Directed,1554,,,1,,,,,,
+500 Startups,Google México,Directed,1555,,,1,,,,,,
+AMEXCID,MSICT,Directed,1556,,,1,,,,,,
+AMEXCID,TechnoPoli,Directed,1557,,,1,,,,,,
+ASELA,ASEM,Directed,1558,,,1,,,,,,
+ASELA,ITESM,Directed,1559,,,1,,,,,,
+Dalus,ASEM,Directed,1560,,,1,,,,,,
+Dalus,FLDM,Directed,1561,,,1,,,,,,
+ITESM,ASEM,Directed,1562,,,1,,,,,,
+ITESM,CCMX,Directed,1563,,,1,,,,,,
+Jefatura GCDMX,FONDESO,Directed,1564,,,1,,,,,,
+Jefatura GCDMX,SEDECO CDMX,Directed,1565,,,1,,,,,,
+Jefatura GCDMX,FINANZAS CDMX,Directed,1566,,,1,,,,,,
+Jefatura GCDMX,FONDESO,Directed,1567,,,1,,,,,,
+INADEM,IODEMC,Directed,1568,,,1,,,,,,
+INADEM,MITEF México,Directed,1569,,,1,,,,,,
+INADEM,MassChallenge,Directed,1570,,,1,,,,,,
+INADEM,MITEF México,Directed,1571,,,1,,,,,,
+Gob. México,Makesense,Directed,1572,,,1,,,,,,
+Gob. México,SDSN México,Directed,1573,,,1,,,,,,
+CIEBT-IPN,SEP,Directed,1574,,,5,,,,,,
+FONDESO,Jefatura GCDMX,Directed,1575,,,5,,,,,,
+MITEF México,SICyT Jalisco,Directed,1576,,,5,,,,,,
+SDSN México,Gob. México,Directed,1577,,,5,,,,,,
+TechnoPoli,Gob. México,Directed,1578,,,5,,,,,,
+UVM,SE,Directed,1579,,,5,,,,,,
+Santander,SE,Directed,1580,,,5,,,,,,
+Catapulta,Startup Weekend,Directed,1581,,,5,,,,,,
+Comunidad IoTinkerers,Startup Weekend,Directed,1582,,,5,,,,,,
+ASEM,ITESM,Directed,1583,,,5,,,,,,
+Dila Capital,FDF,Directed,1584,,,5,,,,,,
+Startup México,DB Academy,Directed,1585,,,5,,,,,,
+U. Anáhuac,BID,Directed,1586,,,5,,,,,,
+UNAM,Santander,Directed,1587,,,5,,,,,,
+Ronin PR Mexico,Santander,Directed,1588,,,5,,,,,,
+AcelerA,U. Anáhuac,Directed,1589,,,5,,,,,,
+Adobe Capital,New Ventures,Directed,1590,,,5,,,,,,
+Aliat Universidades,Unboxed,Directed,1591,,,5,,,,,,
+Angel Ventures,Banorte,Directed,1592,,,5,,,,,,
+EPIC LAB,ITAM,Directed,1593,,,5,,,,,,
+Finnovista,Rainmaking,Directed,1594,,,5,,,,,,
+Laboratoria,SAP,Directed,1595,,,5,,,,,,
+Posible,Fundación Televisa,Directed,1596,,,5,,,,,,
+Santander Universidades,Santander,Directed,1597,,,5,,,,,,
+Seedstars,Colony,Directed,1598,,,5,,,,,,
+WeWork Labs,WeWork,Directed,1599,,,5,,,,,,
+Startup Grind,Google for Startups,Directed,1600,,,5,,,,,,
+CIC UNAM,BID,Directed,1601,,,5,,,,,,
+Universidad La Salle,Santander Universidades,Directed,1602,,,5,,,,,,
+UP,Santander,Directed,1603,,,5,,,,,,
+Fortune,Televisa,Directed,1604,,,5,,,,,,
+Mountain Nazca,AMEXCAP,Directed,1605,,,5,,,,,,
+SVX,AMEXCAP,Directed,1606,,,5,,,,,,
+ALEB Investments,INADEM,Directed,1607,,,5,,,,,,
+BlueBox,INADEM,Directed,1608,,,5,,,,,,
+CIEBT-IPN,SE,Directed,1609,,,5,,,,,,
+Dila Capital,INADEM,Directed,1610,,,5,,,,,,
+FONDESO,Jefatura GCDMX,Directed,1611,,,5,,,,,,
+InnovaUNAM,SEP,Directed,1612,,,5,,,,,,
+MITEF México,INADEM,Directed,1613,,,5,,,,,,
+Mountain Nazca,INADEM,Directed,1614,,,5,,,,,,
+SDSN México,Gob. México,Directed,1615,,,5,,,,,,
+Startup México,INADEM,Directed,1616,,,5,,,,,,
+TechnoPoli,SE,Directed,1617,,,5,,,,,,
+U. Anáhuac,INADEM,Directed,1618,,,5,,,,,,
+UNAM,INADEM,Directed,1619,,,5,,,,,,
+UVM,SE,Directed,1620,,,5,,,,,,
+Catapulta,Startup Weekend,Directed,1621,,,5,,,,,,
+Ronin PR Mexico,Startup Weekend,Directed,1622,,,5,,,,,,
+Techstars,Startup Weekend,Directed,1623,,,5,,,,,,
+ASEM,ITESM,Directed,1624,,,5,,,,,,
+IEEGL ITESM,ITESM,Directed,1625,,,5,,,,,,
+New Ventures,World Resources Institute,Directed,1626,,,5,,,,,,
+AcelerA,FOMIN,Directed,1627,,,5,,,,,,
+Adobe Capital,New Ventures,Directed,1628,,,5,,,,,,
+Aliat Universidades,Ashoka,Directed,1629,,,5,,,,,,
+ANDE,New Ventures,Directed,1630,,,5,,,,,,
+Angel Ventures,BID,Directed,1631,,,5,,,,,,
+Comunidad IoTinkerers,WND,Directed,1632,,,5,,,,,,
+EPIC LAB,ITAM,Directed,1633,,,5,,,,,,
+Epic Queen,Google México,Directed,1634,,,5,,,,,,
+Finnovista,BID,Directed,1635,,,5,,,,,,
+Ignia,Omidyar,Directed,1636,,,5,,,,,,
+Laboratoria,Citibanamex,Directed,1637,,,5,,,,,,
+Posible,Fundación Televisa,Directed,1638,,,5,,,,,,
+Santander Universidades,Santander,Directed,1639,,,5,,,,,,
+Seedstars,BBVA,Directed,1640,,,5,,,,,,
+UAM,Santander Universidades,Directed,1641,,,5,,,,,,
+WeWork Labs,WeWork,Directed,1642,,,5,,,,,,
+Fortune,Televisa,Directed,1643,,,5,,,,,,
+Global Shapers,WEF,Directed,1644,,,5,,,,,,
+SVX,ANDE,Directed,1645,,,5,,,,,,
+UP,iLab,Directed,1646,,,5,,,,,,

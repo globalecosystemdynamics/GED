@@ -1,0 +1,1286 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="Weight" attr.type="long"/>
+<key id="d1" for="node" attr.name="weight" attr.type="float"/>
+<key id="d0" for="node" attr.name="rol" attr.type="string"/>
+<graph edgedefault="directed"><node id="Fábrica de Fabricantes">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Centro Empresas UPM">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="UAX">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="Santander">
+  <data key="d0">Habilitador</data>
+  <data key="d1">9.2</data>
+</node>
+<node id="LST UPM">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="South Summit">
+  <data key="d0">Habilitador</data>
+  <data key="d1">6.0</data>
+</node>
+<node id="Unlimiteck">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.8</data>
+</node>
+<node id="FUAM">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Tetuan Valley">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="UCJC">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Endeavor">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Makespace Madrid">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="EASME">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Madri+d">
+  <data key="d0">Articulador</data>
+  <data key="d1">8.2</data>
+</node>
+<node id="MICINN">
+  <data key="d0">Articulador</data>
+  <data key="d1">6.4</data>
+</node>
+<node id="ESIC">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.8</data>
+</node>
+<node id="Consejería de Educación e Investigación">
+  <data key="d0">Articulador</data>
+  <data key="d1">4.4</data>
+</node>
+<node id="Spanish Startups">
+  <data key="d0">Comunidad</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="Startup Olé">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="CES UCM - Santander">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="ASEBIO">
+  <data key="d0">Vinculador</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="INIA">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="FECYT">
+  <data key="d0">Articulador</data>
+  <data key="d1">2.4</data>
+</node>
+<node id="Comunidad de Madrid">
+  <data key="d0">Articulador</data>
+  <data key="d1">14.0</data>
+</node>
+<node id="FabLab Madrid CEU">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Conector Madrid">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="ICO">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="UPC ITT">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Google Campus Madrid">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="Getafe Iniciativas">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="INDRA">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.6</data>
+</node>
+<node id="Centro empresas Alcobendas">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Mioti">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="UPC">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="Madrid Network">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="UFV, Innovación">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="ASCRI">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="ESA BIC Comunidad de Madrid">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.8</data>
+</node>
+<node id="CIEMAT">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Santander Universidades">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="Airbus">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="Impact Hub Madrid">
+  <data key="d0">Habilitador</data>
+  <data key="d1">3.0</data>
+</node>
+<node id="The Cube">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Esc. Secot de Emprendedores">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="El País">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="IBM">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Emprendedores">
+  <data key="d0">Promotor</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Compluemprende">
+  <data key="d0">Habilitador</data>
+  <data key="d1">3.2</data>
+</node>
+<node id="Fundación Universidad-Empresa">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Ayto. Leganés">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="MIDE">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.6</data>
+</node>
+<node id="FEDIT">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Spaces">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="UCM">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">4.8</data>
+</node>
+<node id="Consejería de Sanidad">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="BioMad">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="Airbus Bizlab">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="El Referente">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="UAH">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="AJE">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="Aso. Esp. Startups">
+  <data key="d0">Vinculador</data>
+  <data key="d1">3.0</data>
+</node>
+<node id="ENISA">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Business Angels IESE">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="Startup Programme">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Institución Educativa SEK">
+  <data key="d0">Habilitador</data>
+  <data key="d1">3.0</data>
+</node>
+<node id="ASALMA">
+  <data key="d0">Vinculador</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="UFV, Centro de Emprendimiento">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="Fundación Cibervoluntarios">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="Consejería de Ciencia, Universidades e Innovación">
+  <data key="d0">Articulador</data>
+  <data key="d1">2.8</data>
+</node>
+<node id="UCJC SEK LAB">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="FPCM">
+  <data key="d0">Habilitador</data>
+  <data key="d1">4.6</data>
+</node>
+<node id="COAM">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="ITEMAS">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="Fundación UAX">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="AEI">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="Bridge for Billions">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Imaguru">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Alastria">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="CSIC">
+  <data key="d0">Articulador</data>
+  <data key="d1">3.6</data>
+</node>
+<node id="BID">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="Parque Científico UC3M">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.8</data>
+</node>
+<node id="Demium">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="Cámara Madrid">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="Ágora News">
+  <data key="d0">Promotor</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="InNorMadrid">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Transfiere">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="CDTI">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">5.2</data>
+</node>
+<node id="CE">
+  <data key="d0">Articulador</data>
+  <data key="d1">3.8</data>
+</node>
+<node id="UC3M">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">3.6</data>
+</node>
+<node id="UPM">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">2.6</data>
+</node>
+<node id="IMDEA Energía">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="BBVA Open Innovation">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="WB">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="UAM">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">4.0</data>
+</node>
+<node id="Innovaspain">
+  <data key="d0">Promotor</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="CE HORIZON 2020s">
+  <data key="d0">Articulador</data>
+  <data key="d1">3.8</data>
+</node>
+<node id="Deloitte">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="Fundación COTEC">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.6</data>
+</node>
+<node id="Ayto. Madrid">
+  <data key="d0">Articulador</data>
+  <data key="d1">7.6</data>
+</node>
+<node id="ICEX">
+  <data key="d0">Articulador</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="Startupxplore">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="BAN madri+d">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="USPCEU">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">3.0</data>
+</node>
+<node id="Fundación Bankinter">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="UFV">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<edge source="Fábrica de Fabricantes" target="Startup Olé">
+  <data key="d2">3</data>
+</edge>
+<edge source="UAX" target="Fundación UAX">
+  <data key="d2">5</data>
+</edge>
+<edge source="Santander" target="FUAM">
+  <data key="d2">3</data>
+</edge>
+<edge source="Santander" target="Fundación UAX">
+  <data key="d2">1</data>
+</edge>
+<edge source="Santander" target="MICINN">
+  <data key="d2">2</data>
+</edge>
+<edge source="Santander" target="CES UCM - Santander">
+  <data key="d2">5</data>
+</edge>
+<edge source="Santander" target="Compluemprende">
+  <data key="d2">5</data>
+</edge>
+<edge source="Santander" target="Esc. Secot de Emprendedores">
+  <data key="d2">1</data>
+</edge>
+<edge source="LST UPM" target="Consejería de Educación e Investigación">
+  <data key="d2">4</data>
+</edge>
+<edge source="LST UPM" target="Impact Hub Madrid">
+  <data key="d2">3</data>
+</edge>
+<edge source="South Summit" target="Madri+d">
+  <data key="d2">5</data>
+</edge>
+<edge source="South Summit" target="Spanish Startups">
+  <data key="d2">3</data>
+</edge>
+<edge source="Unlimiteck" target="The Cube">
+  <data key="d2">1</data>
+</edge>
+<edge source="Unlimiteck" target="Mioti">
+  <data key="d2">1</data>
+</edge>
+<edge source="FUAM" target="Ayto. Madrid">
+  <data key="d2">1</data>
+</edge>
+<edge source="FUAM" target="Consejería de Educación e Investigación">
+  <data key="d2">3</data>
+</edge>
+<edge source="FUAM" target="Tetuan Valley">
+  <data key="d2">2</data>
+</edge>
+<edge source="FUAM" target="Demium">
+  <data key="d2">2</data>
+</edge>
+<edge source="FUAM" target="Conector Madrid">
+  <data key="d2">2</data>
+</edge>
+<edge source="FUAM" target="Comunidad de Madrid">
+  <data key="d2">3</data>
+</edge>
+<edge source="Tetuan Valley" target="Startupxplore">
+  <data key="d2">1</data>
+</edge>
+<edge source="Tetuan Valley" target="Aso. Esp. Startups">
+  <data key="d2">1</data>
+</edge>
+<edge source="UCJC" target="Madri+d">
+  <data key="d2">3</data>
+</edge>
+<edge source="UCJC" target="South Summit">
+  <data key="d2">3</data>
+</edge>
+<edge source="UCJC" target="Fundación COTEC">
+  <data key="d2">3</data>
+</edge>
+<edge source="UCJC" target="Ágora News">
+  <data key="d2">4</data>
+</edge>
+<edge source="UCJC" target="Fundación Cibervoluntarios">
+  <data key="d2">5</data>
+</edge>
+<edge source="UCJC" target="Institución Educativa SEK">
+  <data key="d2">5</data>
+</edge>
+<edge source="UCJC" target="Impact Hub Madrid">
+  <data key="d2">3</data>
+</edge>
+<edge source="UCJC" target="BBVA Open Innovation">
+  <data key="d2">5</data>
+</edge>
+<edge source="UCJC" target="Consejería de Educación e Investigación">
+  <data key="d2">2</data>
+</edge>
+<edge source="UCJC" target="Santander">
+  <data key="d2">4</data>
+</edge>
+<edge source="UCJC" target="Ayto. Madrid">
+  <data key="d2">3</data>
+</edge>
+<edge source="UCJC" target="Comunidad de Madrid">
+  <data key="d2">3</data>
+</edge>
+<edge source="Endeavor" target="Emprendedores">
+  <data key="d2">2</data>
+</edge>
+<edge source="Endeavor" target="BBVA Open Innovation">
+  <data key="d2">4</data>
+</edge>
+<edge source="Endeavor" target="South Summit">
+  <data key="d2">5</data>
+</edge>
+<edge source="Makespace Madrid" target="Ayto. Madrid">
+  <data key="d2">4</data>
+</edge>
+<edge source="Madri+d" target="BAN madri+d">
+  <data key="d2">1</data>
+</edge>
+<edge source="Madri+d" target="Cámara Madrid">
+  <data key="d2">1</data>
+</edge>
+<edge source="Madri+d" target="FPCM">
+  <data key="d2">1</data>
+</edge>
+<edge source="Madri+d" target="CIEMAT">
+  <data key="d2">2</data>
+</edge>
+<edge source="Madri+d" target="CDTI">
+  <data key="d2">3</data>
+</edge>
+<edge source="Madri+d" target="Consejería de Sanidad">
+  <data key="d2">2</data>
+</edge>
+<edge source="Madri+d" target="Centro Empresas UPM">
+  <data key="d2">3</data>
+</edge>
+<edge source="Madri+d" target="Comunidad de Madrid">
+  <data key="d2">5</data>
+</edge>
+<edge source="Madri+d" target="Consejería de Educación e Investigación">
+  <data key="d2">1</data>
+</edge>
+<edge source="Madri+d" target="ESA BIC Comunidad de Madrid">
+  <data key="d2">1</data>
+</edge>
+<edge source="Madri+d" target="Madrid Network">
+  <data key="d2">1</data>
+</edge>
+<edge source="Madri+d" target="EASME">
+  <data key="d2">1</data>
+</edge>
+<edge source="MICINN" target="UC3M">
+  <data key="d2">1</data>
+</edge>
+<edge source="MICINN" target="ASCRI">
+  <data key="d2">2</data>
+</edge>
+<edge source="MICINN" target="Alastria">
+  <data key="d2">2</data>
+</edge>
+<edge source="MICINN" target="Madri+d">
+  <data key="d2">5</data>
+</edge>
+<edge source="MICINN" target="CDTI">
+  <data key="d2">5</data>
+</edge>
+<edge source="MICINN" target="Comunidad de Madrid">
+  <data key="d2">1</data>
+</edge>
+<edge source="MICINN" target="AEI">
+  <data key="d2">5</data>
+</edge>
+<edge source="ESIC" target="Spanish Startups">
+  <data key="d2">5</data>
+</edge>
+<edge source="ESIC" target="Makespace Madrid">
+  <data key="d2">5</data>
+</edge>
+<edge source="ESIC" target="Santander Universidades">
+  <data key="d2">4</data>
+</edge>
+<edge source="Consejería de Educación e Investigación" target="BAN madri+d">
+  <data key="d2">2</data>
+</edge>
+<edge source="Consejería de Educación e Investigación" target="Compluemprende">
+  <data key="d2">3</data>
+</edge>
+<edge source="Consejería de Educación e Investigación" target="Ayto. Madrid">
+  <data key="d2">3</data>
+</edge>
+<edge source="Consejería de Educación e Investigación" target="ASEBIO">
+  <data key="d2">3</data>
+</edge>
+<edge source="Consejería de Educación e Investigación" target="Parque Científico UC3M">
+  <data key="d2">4</data>
+</edge>
+<edge source="Consejería de Educación e Investigación" target="ESA BIC Comunidad de Madrid">
+  <data key="d2">5</data>
+</edge>
+<edge source="Consejería de Educación e Investigación" target="FPCM">
+  <data key="d2">5</data>
+</edge>
+<edge source="Consejería de Educación e Investigación" target="Madri+d">
+  <data key="d2">5</data>
+</edge>
+<edge source="Consejería de Educación e Investigación" target="Comunidad de Madrid">
+  <data key="d2">5</data>
+</edge>
+<edge source="Consejería de Educación e Investigación" target="CSIC">
+  <data key="d2">3</data>
+</edge>
+<edge source="Consejería de Educación e Investigación" target="Alastria">
+  <data key="d2">3</data>
+</edge>
+<edge source="Consejería de Educación e Investigación" target="Centro Empresas UPM">
+  <data key="d2">3</data>
+</edge>
+<edge source="Consejería de Educación e Investigación" target="BioMad">
+  <data key="d2">3</data>
+</edge>
+<edge source="Consejería de Educación e Investigación" target="CIEMAT">
+  <data key="d2">3</data>
+</edge>
+<edge source="Consejería de Educación e Investigación" target="Centro empresas Alcobendas">
+  <data key="d2">3</data>
+</edge>
+<edge source="Consejería de Educación e Investigación" target="Fundación COTEC">
+  <data key="d2">3</data>
+</edge>
+<edge source="Consejería de Educación e Investigación" target="Fundación Universidad-Empresa">
+  <data key="d2">3</data>
+</edge>
+<edge source="Spanish Startups" target="Madri+d">
+  <data key="d2">1</data>
+</edge>
+<edge source="Spanish Startups" target="Ágora News">
+  <data key="d2">1</data>
+</edge>
+<edge source="Spanish Startups" target="El País">
+  <data key="d2">1</data>
+</edge>
+<edge source="Spanish Startups" target="Demium">
+  <data key="d2">3</data>
+</edge>
+<edge source="Spanish Startups" target="Airbus Bizlab">
+  <data key="d2">5</data>
+</edge>
+<edge source="Spanish Startups" target="Google Campus Madrid">
+  <data key="d2">5</data>
+</edge>
+<edge source="Spanish Startups" target="Spaces">
+  <data key="d2">5</data>
+</edge>
+<edge source="Startup Olé" target="ASCRI">
+  <data key="d2">4</data>
+</edge>
+<edge source="CES UCM - Santander" target="Compluemprende">
+  <data key="d2">5</data>
+</edge>
+<edge source="CES UCM - Santander" target="ASALMA">
+  <data key="d2">5</data>
+</edge>
+<edge source="CES UCM - Santander" target="Santander">
+  <data key="d2">5</data>
+</edge>
+<edge source="CES UCM - Santander" target="UCM">
+  <data key="d2">5</data>
+</edge>
+<edge source="ASEBIO" target="FPCM">
+  <data key="d2">4</data>
+</edge>
+<edge source="INIA" target="CSIC">
+  <data key="d2">3</data>
+</edge>
+<edge source="INIA" target="FECYT">
+  <data key="d2">3</data>
+</edge>
+<edge source="INIA" target="CDTI">
+  <data key="d2">4</data>
+</edge>
+<edge source="INIA" target="MICINN">
+  <data key="d2">5</data>
+</edge>
+<edge source="INIA" target="CE">
+  <data key="d2">5</data>
+</edge>
+<edge source="INIA" target="Consejería de Educación e Investigación">
+  <data key="d2">5</data>
+</edge>
+<edge source="FECYT" target="CIEMAT">
+  <data key="d2">2</data>
+</edge>
+<edge source="FECYT" target="Madri+d">
+  <data key="d2">5</data>
+</edge>
+<edge source="Comunidad de Madrid" target="The Cube">
+  <data key="d2">3</data>
+</edge>
+<edge source="Comunidad de Madrid" target="FPCM">
+  <data key="d2">4</data>
+</edge>
+<edge source="Comunidad de Madrid" target="UC3M">
+  <data key="d2">1</data>
+</edge>
+<edge source="Comunidad de Madrid" target="Ayto. Leganés">
+  <data key="d2">1</data>
+</edge>
+<edge source="FabLab Madrid CEU" target="USPCEU">
+  <data key="d2">5</data>
+</edge>
+<edge source="FabLab Madrid CEU" target="Santander">
+  <data key="d2">4</data>
+</edge>
+<edge source="FabLab Madrid CEU" target="Consejería de Educación e Investigación">
+  <data key="d2">5</data>
+</edge>
+<edge source="FabLab Madrid CEU" target="CE HORIZON 2020s">
+  <data key="d2">5</data>
+</edge>
+<edge source="UPC ITT" target="WB">
+  <data key="d2">4</data>
+</edge>
+<edge source="UPC ITT" target="CE">
+  <data key="d2">4</data>
+</edge>
+<edge source="UPC ITT" target="MICINN">
+  <data key="d2">4</data>
+</edge>
+<edge source="UPC ITT" target="UPC">
+  <data key="d2">5</data>
+</edge>
+<edge source="UPC ITT" target="UAH">
+  <data key="d2">3</data>
+</edge>
+<edge source="Getafe Iniciativas" target="Parque Científico UC3M">
+  <data key="d2">4</data>
+</edge>
+<edge source="INDRA" target="Parque Científico UC3M">
+  <data key="d2">4</data>
+</edge>
+<edge source="UPC" target="ICO">
+  <data key="d2">3</data>
+</edge>
+<edge source="UPC" target="Alastria">
+  <data key="d2">4</data>
+</edge>
+<edge source="UPC" target="El Referente">
+  <data key="d2">1</data>
+</edge>
+<edge source="UPC" target="ASCRI">
+  <data key="d2">2</data>
+</edge>
+<edge source="UPC" target="Bridge for Billions">
+  <data key="d2">3</data>
+</edge>
+<edge source="Madrid Network" target="Comunidad de Madrid">
+  <data key="d2">5</data>
+</edge>
+<edge source="UFV, Innovación" target="UFV, Centro de Emprendimiento">
+  <data key="d2">5</data>
+</edge>
+<edge source="ASCRI" target="ASEBIO">
+  <data key="d2">4</data>
+</edge>
+<edge source="ASCRI" target="ICO">
+  <data key="d2">5</data>
+</edge>
+<edge source="ASCRI" target="Aso. Esp. Startups">
+  <data key="d2">5</data>
+</edge>
+<edge source="ASCRI" target="South Summit">
+  <data key="d2">5</data>
+</edge>
+<edge source="ASCRI" target="Transfiere">
+  <data key="d2">5</data>
+</edge>
+<edge source="CIEMAT" target="Parque Científico UC3M">
+  <data key="d2">3</data>
+</edge>
+<edge source="CIEMAT" target="Consejería de Educación e Investigación">
+  <data key="d2">3</data>
+</edge>
+<edge source="CIEMAT" target="CE HORIZON 2020s">
+  <data key="d2">5</data>
+</edge>
+<edge source="Santander Universidades" target="UCJC">
+  <data key="d2">4</data>
+</edge>
+<edge source="Santander Universidades" target="UAH">
+  <data key="d2">4</data>
+</edge>
+<edge source="Santander Universidades" target="Compluemprende">
+  <data key="d2">5</data>
+</edge>
+<edge source="Santander Universidades" target="UC3M">
+  <data key="d2">5</data>
+</edge>
+<edge source="Santander Universidades" target="CES UCM - Santander">
+  <data key="d2">3</data>
+</edge>
+<edge source="Santander Universidades" target="USPCEU">
+  <data key="d2">3</data>
+</edge>
+<edge source="Santander Universidades" target="Emprendedores">
+  <data key="d2">3</data>
+</edge>
+<edge source="Santander Universidades" target="AJE">
+  <data key="d2">3</data>
+</edge>
+<edge source="Santander Universidades" target="CSIC">
+  <data key="d2">3</data>
+</edge>
+<edge source="Santander Universidades" target="Centro Empresas UPM">
+  <data key="d2">3</data>
+</edge>
+<edge source="Airbus" target="Imaguru">
+  <data key="d2">4</data>
+</edge>
+<edge source="Airbus" target="Madri+d">
+  <data key="d2">2</data>
+</edge>
+<edge source="Impact Hub Madrid" target="South Summit">
+  <data key="d2">3</data>
+</edge>
+<edge source="Impact Hub Madrid" target="Aso. Esp. Startups">
+  <data key="d2">3</data>
+</edge>
+<edge source="Impact Hub Madrid" target="Ayto. Madrid">
+  <data key="d2">3</data>
+</edge>
+<edge source="Impact Hub Madrid" target="Bridge for Billions">
+  <data key="d2">3</data>
+</edge>
+<edge source="The Cube" target="UPM">
+  <data key="d2">3</data>
+</edge>
+<edge source="The Cube" target="Mioti">
+  <data key="d2">5</data>
+</edge>
+<edge source="The Cube" target="MIDE">
+  <data key="d2">5</data>
+</edge>
+<edge source="The Cube" target="Unlimiteck">
+  <data key="d2">5</data>
+</edge>
+<edge source="El País" target="Makespace Madrid">
+  <data key="d2">2</data>
+</edge>
+<edge source="IBM" target="Parque Científico UC3M">
+  <data key="d2">2</data>
+</edge>
+<edge source="Compluemprende" target="UCM">
+  <data key="d2">5</data>
+</edge>
+<edge source="Compluemprende" target="Comunidad de Madrid">
+  <data key="d2">5</data>
+</edge>
+<edge source="Compluemprende" target="Ayto. Madrid">
+  <data key="d2">5</data>
+</edge>
+<edge source="MIDE" target="Consejería de Educación e Investigación">
+  <data key="d2">4</data>
+</edge>
+<edge source="MIDE" target="The Cube">
+  <data key="d2">1</data>
+</edge>
+<edge source="MIDE" target="UPM">
+  <data key="d2">3</data>
+</edge>
+<edge source="MIDE" target="IBM">
+  <data key="d2">3</data>
+</edge>
+<edge source="MIDE" target="Tetuan Valley">
+  <data key="d2">3</data>
+</edge>
+<edge source="MIDE" target="Unlimiteck">
+  <data key="d2">3</data>
+</edge>
+<edge source="MIDE" target="Comunidad de Madrid">
+  <data key="d2">3</data>
+</edge>
+<edge source="MIDE" target="Impact Hub Madrid">
+  <data key="d2">3</data>
+</edge>
+<edge source="FEDIT" target="Fundación COTEC">
+  <data key="d2">3</data>
+</edge>
+<edge source="FEDIT" target="MICINN">
+  <data key="d2">5</data>
+</edge>
+<edge source="FEDIT" target="ICEX">
+  <data key="d2">2</data>
+</edge>
+<edge source="FEDIT" target="FECYT">
+  <data key="d2">2</data>
+</edge>
+<edge source="FEDIT" target="AEI">
+  <data key="d2">4</data>
+</edge>
+<edge source="FEDIT" target="CDTI">
+  <data key="d2">5</data>
+</edge>
+<edge source="Spaces" target="Spanish Startups">
+  <data key="d2">1</data>
+</edge>
+<edge source="Spaces" target="Airbus Bizlab">
+  <data key="d2">1</data>
+</edge>
+<edge source="UCM" target="FUAM">
+  <data key="d2">2</data>
+</edge>
+<edge source="UCM" target="FPCM">
+  <data key="d2">5</data>
+</edge>
+<edge source="BioMad" target="FPCM">
+  <data key="d2">4</data>
+</edge>
+<edge source="El Referente" target="Startupxplore">
+  <data key="d2">3</data>
+</edge>
+<edge source="UAH" target="Comunidad de Madrid">
+  <data key="d2">5</data>
+</edge>
+<edge source="UAH" target="Madri+d">
+  <data key="d2">5</data>
+</edge>
+<edge source="AJE" target="Getafe Iniciativas">
+  <data key="d2">5</data>
+</edge>
+<edge source="AJE" target="Business Angels IESE">
+  <data key="d2">1</data>
+</edge>
+<edge source="Aso. Esp. Startups" target="The Cube">
+  <data key="d2">5</data>
+</edge>
+<edge source="ENISA" target="UPC">
+  <data key="d2">1</data>
+</edge>
+<edge source="ENISA" target="UFV, Centro de Emprendimiento">
+  <data key="d2">3</data>
+</edge>
+<edge source="Business Angels IESE" target="WB">
+  <data key="d2">1</data>
+</edge>
+<edge source="Business Angels IESE" target="ICEX">
+  <data key="d2">2</data>
+</edge>
+<edge source="Business Angels IESE" target="Santander Universidades">
+  <data key="d2">3</data>
+</edge>
+<edge source="Business Angels IESE" target="BID">
+  <data key="d2">4</data>
+</edge>
+<edge source="Business Angels IESE" target="CE">
+  <data key="d2">3</data>
+</edge>
+<edge source="Startup Programme" target="Fundación UAX">
+  <data key="d2">1</data>
+</edge>
+<edge source="Startup Programme" target="UFV, Centro de Emprendimiento">
+  <data key="d2">1</data>
+</edge>
+<edge source="Startup Programme" target="FPCM">
+  <data key="d2">1</data>
+</edge>
+<edge source="ASALMA" target="Getafe Iniciativas">
+  <data key="d2">5</data>
+</edge>
+<edge source="UFV, Centro de Emprendimiento" target="Conector Madrid">
+  <data key="d2">4</data>
+</edge>
+<edge source="UFV, Centro de Emprendimiento" target="Madri+d">
+  <data key="d2">3</data>
+</edge>
+<edge source="UFV, Centro de Emprendimiento" target="Startup Programme">
+  <data key="d2">4</data>
+</edge>
+<edge source="UFV, Centro de Emprendimiento" target="UCM">
+  <data key="d2">4</data>
+</edge>
+<edge source="UFV, Centro de Emprendimiento" target="Ayto. Madrid">
+  <data key="d2">3</data>
+</edge>
+<edge source="UFV, Centro de Emprendimiento" target="FPCM">
+  <data key="d2">4</data>
+</edge>
+<edge source="Fundación Cibervoluntarios" target="Makespace Madrid">
+  <data key="d2">2</data>
+</edge>
+<edge source="Consejería de Ciencia, Universidades e Innovación" target="Madri+d">
+  <data key="d2">1</data>
+</edge>
+<edge source="Consejería de Ciencia, Universidades e Innovación" target="Consejería de Educación e Investigación">
+  <data key="d2">4</data>
+</edge>
+<edge source="Consejería de Ciencia, Universidades e Innovación" target="Consejería de Sanidad">
+  <data key="d2">1</data>
+</edge>
+<edge source="UCJC SEK LAB" target="UCJC">
+  <data key="d2">1</data>
+</edge>
+<edge source="UCJC SEK LAB" target="Institución Educativa SEK">
+  <data key="d2">1</data>
+</edge>
+<edge source="FPCM" target="Madrid Network">
+  <data key="d2">2</data>
+</edge>
+<edge source="FPCM" target="Cámara Madrid">
+  <data key="d2">3</data>
+</edge>
+<edge source="FPCM" target="InNorMadrid">
+  <data key="d2">4</data>
+</edge>
+<edge source="FPCM" target="CSIC">
+  <data key="d2">4</data>
+</edge>
+<edge source="FPCM" target="South Summit">
+  <data key="d2">4</data>
+</edge>
+<edge source="FPCM" target="EASME">
+  <data key="d2">5</data>
+</edge>
+<edge source="FPCM" target="ITEMAS">
+  <data key="d2">3</data>
+</edge>
+<edge source="FPCM" target="MICINN">
+  <data key="d2">4</data>
+</edge>
+<edge source="FPCM" target="Consejería de Ciencia, Universidades e Innovación">
+  <data key="d2">4</data>
+</edge>
+<edge source="FPCM" target="CIEMAT">
+  <data key="d2">3</data>
+</edge>
+<edge source="FPCM" target="Ayto. Madrid">
+  <data key="d2">5</data>
+</edge>
+<edge source="FPCM" target="UAM">
+  <data key="d2">5</data>
+</edge>
+<edge source="COAM" target="FabLab Madrid CEU">
+  <data key="d2">4</data>
+</edge>
+<edge source="COAM" target="Fábrica de Fabricantes">
+  <data key="d2">1</data>
+</edge>
+<edge source="Fundación UAX" target="INDRA">
+  <data key="d2">2</data>
+</edge>
+<edge source="Fundación UAX" target="Esc. Secot de Emprendedores">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fundación UAX" target="Fundación Universidad-Empresa">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fundación UAX" target="UAM">
+  <data key="d2">5</data>
+</edge>
+<edge source="Fundación UAX" target="UAX">
+  <data key="d2">5</data>
+</edge>
+<edge source="Fundación UAX" target="Santander">
+  <data key="d2">5</data>
+</edge>
+<edge source="Imaguru" target="South Summit">
+  <data key="d2">2</data>
+</edge>
+<edge source="Imaguru" target="Spanish Startups">
+  <data key="d2">4</data>
+</edge>
+<edge source="Alastria" target="UPC">
+  <data key="d2">1</data>
+</edge>
+<edge source="CSIC" target="FEDIT">
+  <data key="d2">2</data>
+</edge>
+<edge source="BID" target="UPC ITT">
+  <data key="d2">4</data>
+</edge>
+<edge source="Parque Científico UC3M" target="ITEMAS">
+  <data key="d2">4</data>
+</edge>
+<edge source="Parque Científico UC3M" target="ESA BIC Comunidad de Madrid">
+  <data key="d2">5</data>
+</edge>
+<edge source="Parque Científico UC3M" target="Madri+d">
+  <data key="d2">3</data>
+</edge>
+<edge source="Parque Científico UC3M" target="Santander">
+  <data key="d2">4</data>
+</edge>
+<edge source="Parque Científico UC3M" target="Airbus">
+  <data key="d2">5</data>
+</edge>
+<edge source="Parque Científico UC3M" target="UC3M">
+  <data key="d2">5</data>
+</edge>
+<edge source="Demium" target="Imaguru">
+  <data key="d2">2</data>
+</edge>
+<edge source="Transfiere" target="CIEMAT">
+  <data key="d2">2</data>
+</edge>
+<edge source="Transfiere" target="FEDIT">
+  <data key="d2">3</data>
+</edge>
+<edge source="CDTI" target="Business Angels IESE">
+  <data key="d2">4</data>
+</edge>
+<edge source="CDTI" target="Consejería de Educación e Investigación">
+  <data key="d2">2</data>
+</edge>
+<edge source="CE" target="Consejería de Educación e Investigación">
+  <data key="d2">2</data>
+</edge>
+<edge source="CE" target="MICINN">
+  <data key="d2">5</data>
+</edge>
+<edge source="UC3M" target="CIEMAT">
+  <data key="d2">5</data>
+</edge>
+<edge source="UC3M" target="Getafe Iniciativas">
+  <data key="d2">5</data>
+</edge>
+<edge source="UC3M" target="Comunidad de Madrid">
+  <data key="d2">5</data>
+</edge>
+<edge source="UC3M" target="Ayto. Leganés">
+  <data key="d2">5</data>
+</edge>
+<edge source="UC3M" target="CE HORIZON 2020s">
+  <data key="d2">5</data>
+</edge>
+<edge source="UPM" target="Business Angels IESE">
+  <data key="d2">3</data>
+</edge>
+<edge source="UPM" target="INDRA">
+  <data key="d2">4</data>
+</edge>
+<edge source="UPM" target="Madri+d">
+  <data key="d2">3</data>
+</edge>
+<edge source="UPM" target="LST UPM">
+  <data key="d2">1</data>
+</edge>
+<edge source="UPM" target="Impact Hub Madrid">
+  <data key="d2">1</data>
+</edge>
+<edge source="IMDEA Energía" target="UPC ITT">
+  <data key="d2">4</data>
+</edge>
+<edge source="IMDEA Energía" target="CIEMAT">
+  <data key="d2">4</data>
+</edge>
+<edge source="BBVA Open Innovation" target="Consejería de Educación e Investigación">
+  <data key="d2">2</data>
+</edge>
+<edge source="UAM" target="FPCM">
+  <data key="d2">3</data>
+</edge>
+<edge source="UAM" target="InNorMadrid">
+  <data key="d2">1</data>
+</edge>
+<edge source="UAM" target="CSIC">
+  <data key="d2">3</data>
+</edge>
+<edge source="UAM" target="CDTI">
+  <data key="d2">3</data>
+</edge>
+<edge source="UAM" target="Santander">
+  <data key="d2">3</data>
+</edge>
+<edge source="UAM" target="INDRA">
+  <data key="d2">3</data>
+</edge>
+<edge source="UAM" target="Tetuan Valley">
+  <data key="d2">3</data>
+</edge>
+<edge source="UAM" target="UCM">
+  <data key="d2">3</data>
+</edge>
+<edge source="UAM" target="Comunidad de Madrid">
+  <data key="d2">3</data>
+</edge>
+<edge source="UAM" target="Madri+d">
+  <data key="d2">3</data>
+</edge>
+<edge source="UAM" target="Fundación COTEC">
+  <data key="d2">3</data>
+</edge>
+<edge source="UAM" target="Impact Hub Madrid">
+  <data key="d2">3</data>
+</edge>
+<edge source="UAM" target="Ayto. Madrid">
+  <data key="d2">3</data>
+</edge>
+<edge source="UAM" target="Centro empresas Alcobendas">
+  <data key="d2">3</data>
+</edge>
+<edge source="Innovaspain" target="FPCM">
+  <data key="d2">4</data>
+</edge>
+<edge source="Innovaspain" target="Madri+d">
+  <data key="d2">5</data>
+</edge>
+<edge source="Deloitte" target="UCJC">
+  <data key="d2">1</data>
+</edge>
+<edge source="Deloitte" target="Fundación COTEC">
+  <data key="d2">1</data>
+</edge>
+<edge source="Fundación COTEC" target="Makespace Madrid">
+  <data key="d2">1</data>
+</edge>
+<edge source="Ayto. Madrid" target="The Cube">
+  <data key="d2">2</data>
+</edge>
+<edge source="Ayto. Madrid" target="CIEMAT">
+  <data key="d2">2</data>
+</edge>
+<edge source="Ayto. Madrid" target="UPM">
+  <data key="d2">4</data>
+</edge>
+<edge source="ICEX" target="ASCRI">
+  <data key="d2">5</data>
+</edge>
+<edge source="ICEX" target="Endeavor">
+  <data key="d2">1</data>
+</edge>
+<edge source="Startupxplore" target="Google Campus Madrid">
+  <data key="d2">3</data>
+</edge>
+<edge source="Startupxplore" target="Business Angels IESE">
+  <data key="d2">1</data>
+</edge>
+<edge source="Startupxplore" target="Aso. Esp. Startups">
+  <data key="d2">2</data>
+</edge>
+<edge source="USPCEU" target="FabLab Madrid CEU">
+  <data key="d2">1</data>
+</edge>
+<edge source="USPCEU" target="Consejería de Educación e Investigación">
+  <data key="d2">1</data>
+</edge>
+<edge source="USPCEU" target="Santander">
+  <data key="d2">1</data>
+</edge>
+<edge source="Fundación Bankinter" target="UFV, Centro de Emprendimiento">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fundación Bankinter" target="Startupxplore">
+  <data key="d2">4</data>
+</edge>
+<edge source="UFV" target="Fábrica de Fabricantes">
+  <data key="d2">4</data>
+</edge>
+<edge source="UFV" target="UFV, Innovación">
+  <data key="d2">1</data>
+</edge>
+<edge source="UFV" target="UFV, Centro de Emprendimiento">
+  <data key="d2">1</data>
+</edge>
+</graph></graphml>

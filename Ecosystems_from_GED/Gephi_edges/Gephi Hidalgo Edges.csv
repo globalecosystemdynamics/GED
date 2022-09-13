@@ -1,0 +1,255 @@
+Source,Target,Type,Id,Label,timeset,Weight,directionality,"# inter",formal agreement,success
+AMMJE,ProMéxico,Directed,0,,,5,Ellos nos buscaron,1,No,Sí
+Calpulli,UPMH,Directed,1,,,5,Ellos nos buscaron,1,Sí,Sí
+BNI,PROCAHU,Directed,2,,,4,Ellos nos buscaron,3,Sí,Sí
+CANACINTRA Pachuca,PROCAHU,Directed,3,,,1,,,,
+CANACINTRA Pachuca,UPP (AI),Directed,4,,,1,Ellos nos buscaron,,,
+CANACINTRA Pachuca,UTEC TGO,Directed,5,,,1,,,,
+CCEH,CANACO Pachuca,Directed,6,,,4,Nosotros los buscamos,2,No,Sí
+CCEH,El Sol de Hidalgo,Directed,7,,,4,Nosotros los buscamos,1,No,Sí
+CCEH,IHCE,Directed,8,,,5,Nosotros los buscamos,8,No,Sí
+CCEH,IHCE,Directed,9,,,5,Ellos nos buscaron,7,Sí,Sí
+CCEH,IHCE,Directed,10,,,5,,,,
+CCEH,Periódico Criterio,Directed,11,,,4,Nosotros los buscamos,1,No,Sí
+CCEH,SEDECO HGO,Directed,12,,,5,,,,
+CCEH,SEPH,Directed,13,,,1,Nosotros los buscamos,10,Sí,No
+CCEH,UPIIH,Directed,14,,,1,Nosotros los buscamos,10,Sí,No
+CECyTE HGO,CCEH,Directed,15,,,5,Nosotros los buscamos,4,Sí,Sí
+CECyTE HGO,CCEH,Directed,16,,,5,,,,
+CECyTE HGO,CITNOVA,Directed,17,,,5,,,,
+CECyTE HGO,Dpto. Vinculación CECyTE HGO,Directed,18,,,5,,,,
+CECyTE HGO,IHCE,Directed,19,,,5,,,,
+CECyTE HGO,MIT EF México,Directed,20,,,5,Nosotros los buscamos,1,No,Sí
+CECyTE HGO,Nivea YBT,Directed,21,,,5,Nosotros los buscamos,2,Sí,Sí
+CECyTE HGO,Radio y Televisión HGO,Directed,22,,,4,Nosotros los buscamos,2,No,Sí
+CECyTE HGO,Revista Mentes QUO,Directed,23,,,5,Nosotros los buscamos,2,No,Sí
+CECyTE HGO,UAEH (AI),Directed,24,,,5,Nosotros los buscamos,3,No,Sí
+CECyTE HGO,UPP,Directed,25,,,4,Nosotros los buscamos,2,Sí,Sí
+CECyTE HGO,UTEC TGO,Directed,26,,,5,Nosotros los buscamos,3,Sí,Sí
+CGUTYP,UPP,Directed,27,,,5,Ellos nos buscaron,10,No,Sí
+CICAINTE,CITNOVA,Directed,28,,,1,Nosotros los buscamos,,,
+CICAINTE,CONACYT,Directed,29,,,1,Nosotros los buscamos,,,
+CICAINTE,FPNT,Directed,30,,,1,Nosotros los buscamos,,,
+CICAINTE,Grupo Educare,Directed,31,,,1,Nosotros los buscamos,,,
+CICAINTE,INADEM,Directed,32,,,1,Nosotros los buscamos,,,
+CICAINTE,Startup HGO,Directed,33,,,1,Nosotros los buscamos,,,
+CITNOVA,CECyTE HGO,Directed,34,,,5,Ellos nos buscaron,3,Sí,Sí
+CITNOVA,SICIPAED,Directed,35,,,4,Ellos nos buscaron,1,No,Sí
+COPARMEX HGO,UPP (AI),Directed,36,,,1,Ellos nos buscaron,,,
+DEC del IPN,ITPachuca (AI),Directed,37,,,3,Ellos nos buscaron,5,Sí,Sí
+DigiPlastic Industries,ITPachuca (AI),Directed,38,,,3,Ellos nos buscaron,3,Sí,Sí
+Doppler Email MKT,Networking Hidalgo,Directed,39,,,5,Ellos nos buscaron,2,Sí,Sí
+El Sol de Hidalgo,UIEBTH,Directed,40,,,1,Ellos nos buscaron,1,No,Sí
+FRACTAL TV,Incubadora ITESM,Directed,41,,,3,Ellos nos buscaron,2,No,Sí
+Fundación Persiste,CECyTE HGO,Directed,42,,,5,Ellos nos buscaron,3,Sí,Sí
+Gaceta Politécnica,UIEBTH,Directed,43,,,1,Ellos nos buscaron,1,No,Sí
+Kuman,CCEH,Directed,44,,,5,Ellos nos buscaron,3,No,Sí
+Hub Incubasi,Networking Hidalgo,Directed,45,,,4,Ellos nos buscaron,2,No,Sí
+IHCE,CANACINTRA Pachuca,Directed,46,,,1,Nosotros los buscamos,2,No,No
+IHCE,CANACO Pachuca,Directed,47,,,4,Nosotros los buscamos,5,No,Sí
+IHCE,CCEH,Directed,48,,,4,Nosotros los buscamos,5,No,Sí
+IHCE,Centro Emprendimiento COBAEH,Directed,49,,,1,Nosotros los buscamos,,,
+IHCE,CIAJ,Directed,50,,,4,Nosotros los buscamos,4,No,Sí
+IHCE,CIATEQ HGO,Directed,51,,,2,Nosotros los buscamos,2,No,No se logró colaborar
+IHCE,CIIMMATH,Directed,52,,,2,Nosotros los buscamos,4,No,No se logró colaborar
+IHCE,CITNOVA,Directed,53,,,1,Nosotros los buscamos,,,
+IHCE,CMIC,Directed,54,,,1,Alguien más nos conectó,,,
+IHCE,COPARMEX HGO,Directed,55,,,4,Nosotros los buscamos,6,No,Sí
+IHCE,Gob. HGO,Directed,56,,,5,,,,
+IHCE,ICATHI,Directed,57,,,5,Nosotros los buscamos,1,Sí,Sí
+IHCE,INADEM,Directed,58,,,4,Nosotros los buscamos,1,Sí,Sí
+IHCE,INADEM,Directed,59,,,4,Nosotros los buscamos,5,Sí,Sí
+IHCE,INADEM,Directed,60,,,5,,,,
+IHCE,Incubadora UTEC TGO,Directed,61,,,2,Nosotros los buscamos,2,No,No
+IHCE,NAFIN,Directed,62,,,1,Nosotros los buscamos,,,
+IHCE,SEDECO Pachuca,Directed,63,,,1,Nosotros los buscamos,,,
+IHCE,UAEH Tizayuca (AI),Directed,64,,,2,Nosotros los buscamos,2,No,Sí
+IHCE,UIEBTH,Directed,65,,,5,Nosotros los buscamos,3,Sí,Sí
+IHCE,UPMH,Directed,66,,,3,Nosotros los buscamos,1,Sí,Sí
+IHCE,UPP (AI),Directed,67,,,1,Ellos nos buscaron,,,
+IHCE,UTVM,Directed,68,,,3,Nosotros los buscamos,1,Sí,No
+IHCE,Networking Hidalgo,Directed,69,,,5,Ellos nos buscaron,2,No,Sí
+IMNC,ITPachuca (AI),Directed,70,,,3,Ellos nos buscaron,3,No,Sí
+Impulso Rosa,ProMéxico,Directed,71,,,5,Ellos nos buscaron,1,No,Sí
+Incubadora ITESM,Business As Unusual,Directed,72,,,3,Nosotros los buscamos,3,No,Sí
+Incubadora ITESM,CANACINTRA Pachuca,Directed,73,,,1,Nosotros los buscamos,2,No,Sí
+Incubadora ITESM,Casa México,Directed,74,,,1,Nosotros los buscamos,2,No,No se logró colaborar
+Incubadora ITESM,COPARMEX HGO,Directed,75,,,1,Nosotros los buscamos,2,No,Sí
+Incubadora ITESM,Play Business,Directed,76,,,2,Nosotros los buscamos,3,No,Sí
+Incubadora ITESM,SEDECO HGO,Directed,77,,,3,Nosotros los buscamos,3,No,Sí
+Incubadora ITESM,IEEGL,Directed,78,,,5,,,,
+Incubadora ITESM,IHCE,Directed,79,,,1,Ellos nos buscaron,,,
+Incubadora ITESM,Sistema Tecnológico de Monterrey,Directed,80,,,5,,,,
+Incubadora ITSOEH,CCEH,Directed,81,,,3,Nosotros los buscamos,3,No,Sí
+Incubadora ITSOEH,CONACYT,Directed,82,,,1,Nosotros los buscamos,2,No,No
+Incubadora ITSOEH,El Sol de Hidalgo,Directed,83,,,3,Nosotros los buscamos,2,No,Sí
+Incubadora ITSOEH,IHCE,Directed,84,,,2,Nosotros los buscamos,3,No,Sí
+Incubadora ITSOEH,INADEM,Directed,85,,,4,Nosotros los buscamos,3,No,Sí
+Incubadora ITSOEH,Radio y Televisión HGO,Directed,86,,,2,Nosotros los buscamos,2,No,Sí
+Incubadora ITSOEH,SAGARPA,Directed,87,,,3,Nosotros los buscamos,3,No,Sí
+Incubadora ITSOEH,SE,Directed,88,,,5,,,,
+Incubadora ITSOEH,TecNM,Directed,89,,,5,Nosotros los buscamos,5,Sí,Sí
+Incubadora ITSOEH,Televisión Regional del Valle del Mezquital,Directed,90,,,3,Nosotros los buscamos,2,No,Sí
+Incubadora ITSOEH,UAEH (AI),Directed,91,,,2,Nosotros los buscamos,2,No,Sí
+Incubadora ITSOEH,UPFIM (AI),Directed,92,,,2,Alguien más nos conectó,2,No,Sí
+Incubadora Social UAEH,IHCE,Directed,93,,,1,Ellos nos buscaron,,,
+Incubadora UPP,IHCE,Directed,94,,,1,Ellos nos buscaron,,,
+INECUH,CANACINTRA Pachuca,Directed,95,,,2,Alguien más nos conectó,1,No,No
+INECUH,CIATEQ HGO,Directed,96,,,1,Nosotros los buscamos,10,Sí,No
+INECUH,CONACYT,Directed,97,,,3,Nosotros los buscamos,5,Sí,Sí
+INECUH,CONACYT,Directed,98,,,5,,,,
+INECUH,Gob. HGO,Directed,99,,,1,Nosotros los buscamos,10,Sí,No
+INECUH,IPN,Directed,100,,,1,Nosotros los buscamos,10,No,No se logró colaborar
+INECUH,Radio y Televisión HGO,Directed,101,,,3,Alguien más nos conectó,2,No,Sí
+ITESA,IHCE,Directed,102,,,2,Ellos nos buscaron,1,Sí,Sí
+ITPachuca (AI),CANACINTRA Pachuca,Directed,103,,,4,Nosotros los buscamos,3,Sí,Sí
+ITPachuca (AI),CCEH,Directed,104,,,3,Nosotros los buscamos,3,Sí,Sí
+ITPachuca (AI),CIATEQ HGO,Directed,105,,,3,Nosotros los buscamos,2,Sí,Sí
+ITPachuca (AI),CITNOVA,Directed,106,,,3,Nosotros los buscamos,3,No,Sí
+ITPachuca (AI),CITNOVA,Directed,107,,,5,,,,
+ITPachuca (AI),CMIC,Directed,108,,,3,Nosotros los buscamos,3,No,Sí
+ITPachuca (AI),CONACYT,Directed,109,,,4,Nosotros los buscamos,2,Sí,Sí
+ITPachuca (AI),IHCE,Directed,110,,,3,Nosotros los buscamos,3,No,Sí
+ITPachuca (AI),Radio y Televisión HGO,Directed,111,,,2,Nosotros los buscamos,3,No,Sí
+ITPachuca (AI),TecNM,Directed,112,,,5,,,,
+ITPachuca (AI),TecNM,Directed,113,,,5,,,,
+ITPachuca (AI),TecNM,Directed,114,,,5,,,,
+ITSOEH (AI),CANACO Pachuca,Directed,115,,,1,Nosotros los buscamos,3,No,No
+ITSOEH (AI),CITNOVA,Directed,116,,,1,Nosotros los buscamos,3,Sí,Sí
+ITSOEH (AI),Embajada US,Directed,117,,,5,Nosotros los buscamos,3,Sí,Sí
+ITSOEH (AI),INADEM,Directed,118,,,5,Nosotros los buscamos,3,Sí,Sí
+ITSOEH (AI),SE,Directed,119,,,5,Nosotros los buscamos,3,Sí,Sí
+ITSOEH (AI),SEPH,Directed,120,,,5,,,,
+ITSOEH (AI),SEPH,Directed,121,,,5,,,,
+Jóvenes Emprendedores HGO,IHCE,Directed,122,,,1,Ellos nos buscaron,,,
+Mercoco,CITNOVA,Directed,123,,,1,Nosotros los buscamos,6,No,No se logró colaborar
+Mercoco,CITNOVA,Directed,124,,,5,,,,
+Mercoco,Incubadora Social UAEH,Directed,125,,,5,,,,
+Mercoco,Incubadora Social UAEH,Directed,126,,,5,Nosotros los buscamos,1,No,Sí
+Mercoco,Marketiin Revista,Directed,127,,,4,Nosotros los buscamos,3,No,Sí
+Mercoco,UAEH,Directed,128,,,5,,,,
+Mercoco,UAEH (AI),Directed,129,,,5,Nosotros los buscamos,1,No,Sí
+Networking Hidalgo,CCEH,Directed,130,,,3,Nosotros los buscamos,6,Sí,Sí
+Networking Hidalgo,Epic Queen HGO,Directed,131,,,2,Nosotros los buscamos,3,No,No
+Networking Hidalgo,Fixter,Directed,132,,,1,Nosotros los buscamos,4,No,No se logró colaborar
+Networking Hidalgo,IHCE,Directed,133,,,2,Ellos nos buscaron,2,No,Sí
+Networking Hidalgo,IHCE,Directed,134,,,5,,,,
+Networking Hidalgo,Incrementa CRM,Directed,135,,,5,Alguien más nos conectó,2,Sí,Sí
+Networking Hidalgo,Incubadora UAEH,Directed,136,,,5,Alguien más nos conectó,3,No,Sí
+Networking Hidalgo,Startup HGO,Directed,137,,,2,Nosotros los buscamos,3,No,No
+OBSUPP,RedOTT,Directed,138,,,1,,,,
+OBSUPP,UPP,Directed,139,,,4,Ellos nos buscaron,2,No,Sí
+OBSUPP,UPP,Directed,140,,,1,,,,
+Gob. Chilcuatla,Incubadora ITSOEH,Directed,141,,,4,Ellos nos buscaron,2,Sí,Sí
+Gob. Mineral de la Reforma,UPP,Directed,142,,,5,Ellos nos buscaron,4,No,Sí
+Gob. Pachuca,Incubadora ITSOEH,Directed,143,,,4,Ellos nos buscaron,4,Sí,Sí
+Gob. Tlahuelilpan,Incubadora ITSOEH,Directed,144,,,5,Ellos nos buscaron,3,Sí,Sí
+Gob. Zempoala,UPP,Directed,145,,,5,Ellos nos buscaron,8,No,Sí
+PROCAHU,CANACINTRA Pachuca,Directed,146,,,3,Nosotros los buscamos,4,Sí,Sí
+PROCAHU,CANACINTRA Pachuca,Directed,147,,,3,Nosotros los buscamos,4,Sí,Sí
+PROCAHU,COPARMEX HGO,Directed,148,,,2,Nosotros los buscamos,3,Sí,Sí
+PROCAHU,COPARMEX HGO,Directed,149,,,3,Nosotros los buscamos,3,Sí,Sí
+PROCAHU,Impulso Joven,Directed,150,,,5,,,,
+PROCAHU,Impulso Joven,Directed,151,,,5,,,,
+PROCAHU,ZAGA,Directed,152,,,1,Nosotros los buscamos,3,Sí,Sí
+PROCAHU,UTEC TGO,Directed,153,,,1,Alguien más nos conectó,1,No,No se logró colaborar
+ProMéxico,CANACINTRA Pachuca,Directed,154,,,5,Nosotros los buscamos,2,No,Sí
+ProMéxico,CANACINTRA Pachuca,Directed,155,,,4,Nosotros los buscamos,2,No,Sí
+ProMéxico,CANIRAC,Directed,156,,,4,Nosotros los buscamos,1,No,Sí
+ProMéxico,CCEH,Directed,157,,,4,Nosotros los buscamos,2,No,Sí
+ProMéxico,Ciudad del Conocimiento,Directed,158,,,4,Nosotros los buscamos,2,No,Sí
+ProMéxico,CNITV,Directed,159,,,1,Nosotros los buscamos,1,No,Sí
+ProMéxico,COPARMEX HGO,Directed,160,,,4,Nosotros los buscamos,2,No,Sí
+ProMéxico,COPARMEX HGO,Directed,161,,,5,Nosotros los buscamos,2,No,Sí
+ProMéxico,IHCE,Directed,162,,,3,Nosotros los buscamos,2,No,Sí
+ProMéxico,SEDECO HGO,Directed,163,,,5,Nosotros los buscamos,3,No,Sí
+ProMéxico,UPMH,Directed,164,,,4,Nosotros los buscamos,1,No,Sí
+ProMéxico,SE,Directed,165,,,5,,,,
+ProMéxico,SE,Directed,166,,,5,,,,
+Quadratin,Incubadora ITSOEH,Directed,167,,,3,Ellos nos buscaron,2,No,Sí
+Radio y Televisión HGO,UIEBTH,Directed,168,,,1,Ellos nos buscaron,1,No,Sí
+Reinventa,UPMH,Directed,169,,,4,Ellos nos buscaron,1,Sí,Sí
+Revista Núcleo CTI,CECyTE HGO,Directed,170,,,5,Ellos nos buscaron,2,No,Sí
+Revo 300,IHCE,Directed,171,,,3,Ellos nos buscaron,11,No,No se logró colaborar
+Revo 300,SICIPAED,Directed,172,,,4,Ellos nos buscaron,1,No,Sí
+RISUTyP,CGUTYP,Directed,173,,,1,,,,
+RISUTyP,UPP,Directed,174,,,1,,,,
+SE,CCEH,Directed,175,,,5,Ellos nos buscaron,2,No,Sí
+SE,CITNOVA,Directed,176,,,1,,,,
+SE,UIEBTH,Directed,177,,,3,Ellos nos buscaron,2,No,Sí
+SE,UPP,Directed,178,,,1,,,,
+SEDECO HGO,ITPachuca (AI),Directed,179,,,3,Ellos nos buscaron,3,No,Sí
+SEDECO Pachuca,Incubadora ITESM,Directed,180,,,2,Ellos nos buscaron,10,No,No
+SEDECO Pachuca,Networking Hidalgo,Directed,181,,,5,Ellos nos buscaron,2,Sí,Sí
+SEPH,IHCE,Directed,182,,,3,Ellos nos buscaron,3,Sí,Sí
+SEPH,ITSOEH (AI),Directed,183,,,5,Ellos nos buscaron,1,Sí,Sí
+SICIPAED,CICAINTE,Directed,184,,,4,Nosotros los buscamos,1,Sí,Sí
+SICIPAED,CITNOVA,Directed,185,,,4,Nosotros los buscamos,1,Sí,Sí
+SICIPAED,CITNOVA,Directed,186,,,5,,,,
+SICIPAED,CONACYT,Directed,187,,,4,Nosotros los buscamos,1,Sí,Sí
+SICIPAED,OBSUPP,Directed,188,,,4,Nosotros los buscamos,1,Sí,Sí
+SICIPAED,TEDNOVA Group,Directed,189,,,5,Nosotros los buscamos,1,Sí,Sí
+SICIPAED,UPP,Directed,190,,,4,Nosotros los buscamos,1,Sí,Sí
+SICIPAED,UPP (AI),Directed,191,,,4,Nosotros los buscamos,1,Sí,Sí
+Startup HGO,IHCE,Directed,192,,,2,Ellos nos buscaron,5,No,No
+Startup HGO,IHCE,Directed,193,,,2,Ellos nos buscaron,2,No,Sí
+Startup HGO,SICIPAED,Directed,194,,,4,Ellos nos buscaron,1,Sí,Sí
+Startup HGO,UPMH,Directed,195,,,5,Ellos nos buscaron,1,No,Sí
+Startup HGO,UPP,Directed,196,,,4,Ellos nos buscaron,6,Sí,Sí
+Subsecretaría de Innovación y Emprendimiento Cultural,IHCE,Directed,197,,,2,Nosotros los buscamos,1,No,No
+Subsecretaría de Innovación y Emprendimiento Cultural,INADEM,Directed,198,,,5,Nosotros los buscamos,5,No,No se logró colaborar
+Subsecretaría de Innovación y Emprendimiento Cultural,Maker Space Huichapan,Directed,199,,,5,Nosotros los buscamos,4,Sí,Sí
+Subsecretaría de Innovación y Emprendimiento Cultural,Plan Alfa,Directed,200,,,5,Nosotros los buscamos,1,Sí,Sí
+Subsecretaría de Innovación y Emprendimiento Cultural,Quimera,Directed,201,,,3,Nosotros los buscamos,1,No,Sí
+Subsecretaría de Innovación y Emprendimiento Cultural,Gob. HGO,Directed,202,,,5,,,,
+Tapai Coworking,Networking Hidalgo,Directed,203,,,4,Ellos nos buscaron,2,Sí,Sí
+TV Azteca,CECyTE HGO,Directed,204,,,5,Ellos nos buscaron,2,No,Sí
+UAEH (AI),ITPachuca (AI),Directed,205,,,3,Ellos nos buscaron,3,Sí,Sí
+UIEBTH,CCEH,Directed,206,,,2,Nosotros los buscamos,1,No,Sí
+UIEBTH,CINVESTAV,Directed,207,,,4,Nosotros los buscamos,3,No,Sí
+UIEBTH,CITNOVA,Directed,208,,,5,Nosotros los buscamos,3,Sí,No
+UIEBTH,CMPL,Directed,209,,,4,Nosotros los buscamos,3,No,Sí
+UIEBTH,ENCB,Directed,210,,,4,Nosotros los buscamos,2,No,Sí
+UIEBTH,Gob. HGO,Directed,211,,,5,,,,
+UIEBTH,IHCE,Directed,212,,,3,Nosotros los buscamos,2,Sí,Sí
+UIEBTH,INADEM,Directed,213,,,5,Nosotros los buscamos,3,No,Sí
+UIEBTH,Radio Universidad UAEH,Directed,214,,,5,Nosotros los buscamos,1,No,Sí
+UIEBTH,SEDECO HGO,Directed,215,,,3,Nosotros los buscamos,5,Sí,Sí
+UIEBTH,SEDECO HGO,Directed,216,,,5,,,,
+UIEBTH,UAEH,Directed,217,,,3,Nosotros los buscamos,3,No,Sí
+UIEBTH,UPIBI del IPN,Directed,218,,,4,Nosotros los buscamos,3,No,Sí
+UPIIH,CITNOVA,Directed,219,,,3,Nosotros los buscamos,2,No,Sí
+UPIIH,Gob. HGO,Directed,220,,,5,,,,
+UPIIH,GOB.MX,Directed,221,,,5,,,,
+UPMH,CCEH,Directed,222,,,4,Nosotros los buscamos,4,No,No se logró colaborar
+UPMH,CITNOVA,Directed,223,,,4,Nosotros los buscamos,1,No,Sí
+UPMH,Comunicación Social SEPH,Directed,224,,,4,Nosotros los buscamos,2,No,No se logró colaborar
+UPMH,IHCE,Directed,225,,,3,Nosotros los buscamos,2,No,Sí
+UPMH,Impact Hub,Directed,226,,,3,Nosotros los buscamos,1,Sí,No
+UPMH,INADEM,Directed,227,,,5,Nosotros los buscamos,2,Sí,Sí
+UPMH,Networking Hidalgo,Directed,228,,,2,Nosotros los buscamos,1,No,Sí
+UPMH,Plan Alfa,Directed,229,,,5,Nosotros los buscamos,1,Sí,Sí
+UPMH,SEDECO HGO,Directed,230,,,5,,,,
+UPMH,SEPH,Directed,231,,,4,Nosotros los buscamos,10,No,No
+UPMH,SEPH,Directed,232,,,5,,,,
+UPMH,SUM,Directed,233,,,3,Nosotros los buscamos,1,Sí,Sí
+UPP,CANACINTRA Pachuca,Directed,234,,,5,Nosotros los buscamos,5,Sí,Sí
+UPP,CGUTYP,Directed,235,,,5,Alguien más nos conectó,10,No,Sí
+UPP,CITNOVA,Directed,236,,,5,Nosotros los buscamos,10,No,Sí
+UPP,CITNOVA,Directed,237,,,4,Alguien más nos conectó,2,No,Sí
+UPP,CONACYT,Directed,238,,,4,Nosotros los buscamos,10,No,Sí
+UPP,Cuerpos Académicos UPP,Directed,239,,,4,Nosotros los buscamos,15,No,Sí
+UPP,Dir. Innovación y Posgrado UPP,Directed,240,,,5,Nosotros los buscamos,6,No,Sí
+UPP,INADEM,Directed,241,,,5,Nosotros los buscamos,10,No,Sí
+UPP,INADEM,Directed,242,,,5,,,,
+UPP,INADEM,Directed,243,,,5,,,,
+UPP,OTT UPP,Directed,244,,,5,Nosotros los buscamos,6,No,Sí
+UPP,RedOTT,Directed,245,,,4,Alguien más nos conectó,10,No,Sí
+UPP,SEDECO HGO,Directed,246,,,3,Nosotros los buscamos,10,Sí,Sí
+UPP (AI),AGARED,Directed,247,,,1,Alguien más nos conectó,,,
+UPP (AI),CCEH,Directed,248,,,5,Ellos nos buscaron,5,Sí,Sí
+UPP (AI),CGUTYP,Directed,249,,,1,Alguien más nos conectó,,,
+UPP (AI),CIATEJ,Directed,250,,,1,Alguien más nos conectó,,,
+UPP (AI),CIATEQ HGO,Directed,251,,,1,Alguien más nos conectó,,,
+UPP (AI),CINVESTAV,Directed,252,,,1,Alguien más nos conectó,,,
+UTEC TGO,CCEH,Directed,253,,,5,Ellos nos buscaron,8,Sí,Sí

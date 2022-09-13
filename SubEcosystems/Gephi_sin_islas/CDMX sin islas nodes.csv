@@ -1,0 +1,127 @@
+Id,Label,timeset,d1,d0,indegree,outdegree,Degree,weighted indegree,weighted outdegree,Weighted Degree,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,modularity_class,clustering,eigencentrality
+SEDECO CDMX,SEDECO CDMX,,2.8,Articulador,3,2,5,9,6,15,6,0.28125,0.321759,113.552597,7,0.4,0.177252
+AMEXCID,AMEXCID,,0.8,Articulador,1,2,3,3,2,5,10,0.166924,0.198111,130.084957,5,0.166667,0.144224
+Epic Queen,Epic Queen,,0.6,Comunidad,3,13,16,7,40,47,7,0.294278,0.383884,723.946429,0,0.019048,0.191559
+Senado,Senado,,1.6,Articulador,2,0,2,8,0,8,0,0,0,0,1,0,0.138797
+Variv Capital,Variv Capital,,1.6,Habilitador,3,0,3,8,0,8,0,0,0,0,3,0.166667,0.263722
+WeWork Labs,WeWork Labs,,0.6,Habilitador,2,8,10,8,19,27,6,0.272727,0.334259,575.845635,3,0.033333,0.087912
+Televisa,Televisa,,2.6,Promotor,2,0,2,8,0,8,0,0,0,0,2,0,0.064215
+Scotiabank,Scotiabank,,1.2,Habilitador,1,1,2,3,3,6,7,0.258373,0.293144,113.75,4,0,0.045893
+PSM,PSM,,2.2,Habilitador,2,0,2,8,0,8,0,0,0,0,4,0,0.021197
+Uber,Uber,,1.2,Habilitador,2,0,2,6,0,6,0,0,0,0,2,0,0.064215
+Oracle,Oracle,,1,Habilitador,2,0,2,5,0,5,0,0,0,0,2,0,0.151165
+CORFO,CORFO,,1.8,Articulador,1,1,2,5,4,9,2,0.6,0.666667,3,3,0,0.003063
+UVM,UVM,,0.6,Habilitador,3,3,6,11,15,26,9,0.2,0.239477,152.953571,7,0.033333,0.303417
+Cleantech Labs CDMX,Cleantech Labs CDMX,,0.8,Habilitador,2,0,2,5,0,5,0,0,0,0,7,0.5,0.214746
+Failure Institute,Failure Institute,,1.2,Generador de conocimiento,2,0,2,6,0,6,0,0,0,0,0,0,0.183651
+Gob. México,Gob. México,,4,Articulador,2,2,4,10,2,12,1,1,1,17.152381,5,0.166667,0.088497
+EBC,EBC,,2,Habilitador,1,1,2,5,5,10,2,0.6,0.666667,0,1,0.5,0.003063
+ANUIES,ANUIES,,0.8,Vinculador,2,0,2,4,0,4,0,0,0,0,7,0,0.169865
+BBVA,BBVA,,3.2,Habilitador,3,0,3,13,0,13,0,0,0,0,4,0,0.212397
+ALEB Investments,ALEB Investments,,0.6,Habilitador,0,7,7,0,23,23,6,0.303867,0.360758,0,3,0.142857,0
+ALLVP,ALLVP,,1.6,Habilitador,2,0,2,8,0,8,0,0,0,0,0,0,0.075026
+FuckUp Nights,FuckUp Nights,,1.2,Comunidad,2,0,2,6,0,6,0,0,0,0,7,0.5,0.297401
+Google for Startups,Google for Startups,,2,Habilitador,3,0,3,10,0,10,0,0,0,0,3,0.166667,0.201312
+Comunidad IoTinkerers,Comunidad IoTinkerers,,0.6,Comunidad,0,6,6,0,29,29,6,0.3125,0.362424,0,1,0.033333,0
+Fortune,Fortune,,0.6,Promotor,0,7,7,0,23,23,2,0.733333,0.818182,0,2,0,0
+MSICT,MSICT,,1,Articulador,2,0,2,6,0,6,0,0,0,0,5,0.5,0.070763
+NAFIN,NAFIN,,5.8,Habilitador,8,0,8,29,0,29,0,0,0,0,3,0.017857,0.210266
+LAVCA,LAVCA,,0.8,Vinculador,2,0,2,4,0,4,0,0,0,0,3,0,0.006126
+Sistema B,Sistema B,,1.2,Habilitador,2,0,2,6,0,6,0,0,0,0,6,0,0.157634
+BBVA Open Innovation,BBVA Open Innovation,,1.6,Habilitador,2,0,2,8,0,8,0,0,0,0,0,0,0.095356
+Amazon,Amazon,,2,Habilitador,3,0,3,10,0,10,0,0,0,0,2,0,0.212317
+EPIC LAB,EPIC LAB,,0.6,Habilitador,1,13,14,5,51,56,5,0.313043,0.392593,386.484524,0,0.010989,0.101839
+AWS,AWS,,1.8,Habilitador,3,0,3,9,0,9,0,0,0,0,1,0.333333,0.289062
+Startup México,Startup México,,3.2,Habilitador,7,15,22,20,50,70,5,0.340694,0.424074,1178.98961,2,0.036797,0.488374
+Dila Capital,Dila Capital,,1.4,Habilitador,1,3,4,2,12,14,7,0.248848,0.289065,156.519048,3,0.083333,0.03399
+BlueBox,BlueBox,,0.6,Habilitador,0,7,7,0,30,30,6,0.254587,0.311261,0,3,0,0
+ASEM,ASEM,,3.6,Vinculador,7,8,15,21,32,53,7,0.321429,0.390057,1316.106494,4,0.027473,0.394741
+CIEBT-IPN,CIEBT-IPN,,0.6,Habilitador,4,12,16,12,41,53,7,0.305085,0.388779,1527.594131,7,0.054167,0.489552
+SICyT Jalisco,SICyT Jalisco,,2.2,Articulador,2,0,2,8,0,8,0,0,0,0,6,0,0.10836
+BID,BID,,8.6,Habilitador,6,2,8,25,10,35,8,0.255924,0.293397,826.11627,4,0.071429,0.377028
+Martin Trust MIT,Martin Trust MIT,,1.6,Habilitador,2,0,2,8,0,8,0,0,0,0,0,0,0.095356
+Universia,Universia,,1.2,Vinculador,1,1,2,3,3,6,7,0.261501,0.293783,46.690024,1,0,0.021983
+Mountain Nazca,Mountain Nazca,,1.2,Habilitador,0,4,4,0,16,16,6,0.265854,0.308716,0,3,0.083333,0
+Ignia,Ignia,,1.4,Habilitador,1,4,5,4,13,17,9,0.208092,0.246983,127,4,0.1,0.045893
+UAM Cuajimalpa,UAM Cuajimalpa,,1.2,Generador de conocimiento,1,2,3,3,5,8,8,0.218623,0.25183,18.166667,0,0,0.034205
+Posible,Posible,,4.2,Habilitador,4,2,6,13,10,23,7,0.262774,0.300661,266.472167,0,0.033333,0.196421
+CCMX,CCMX,,2,Habilitador,2,1,3,6,5,11,7,0.282723,0.3181,266.173876,4,0.5,0.28117
+Finnovista,Finnovista,,0.6,Habilitador,2,4,6,9,17,26,8,0.229787,0.272718,363.313889,4,0.05,0.13445
+South Summit,South Summit,,1.2,Habilitador,2,0,2,6,0,6,0,0,0,0,6,0.5,0.202098
+RedEmprendia,RedEmprendia,,1.6,Vinculador,2,0,2,8,0,8,0,0,0,0,7,0.5,0.171259
+Ashoka,Ashoka,,4,Habilitador,4,0,4,12,0,12,0,0,0,0,6,0.083333,0.238666
+COW,COW,,1.2,Habilitador,2,0,2,6,0,6,0,0,0,0,1,0.5,0.281372
+Santander Universidades,Santander Universidades,,5.6,Habilitador,5,9,14,22,21,43,6,0.343949,0.416667,685.240718,7,0.072727,0.494003
+Bimbo,Bimbo,,1.8,Habilitador,3,0,3,9,0,9,0,0,0,0,2,0,0.295388
+SDSN México,SDSN México,,1.8,Vinculador,3,2,5,7,8,15,1,1,1,93.147619,5,0.083333,0.186101
+Mexico Ventures,Mexico Ventures,,1.4,Habilitador,2,0,2,7,0,7,0,0,0,0,3,0,0.081381
+Hult Prize,Hult Prize,,1.2,Habilitador,1,1,2,3,3,6,7,0.261501,0.293783,46.690024,1,0,0.021983
+AcelerA,AcelerA,,0.6,Habilitador,0,2,2,0,10,10,7,0.228992,0.255636,0,4,0,0
+Dalus,Dalus,,0.4,Habilitador,1,2,3,1,2,3,8,0.24714,0.280346,42.430556,4,0.166667,0.03399
+Ronin PR Mexico,Ronin PR Mexico,,0.6,Habilitador,1,8,9,1,29,30,7,0.277635,0.337897,323.641667,0,0.013889,0.126599
+Universidad La Salle,Universidad La Salle,,0.6,Habilitador,5,12,17,17,45,62,6,0.347267,0.430556,1040.651565,1,0.045833,0.417516
+New Ventures,New Ventures,,4.6,Habilitador,3,0,3,15,0,15,0,0,0,0,3,0,0.066436
+IODEMC,IODEMC,,1.4,Articulador,3,0,3,8,0,8,0,0,0,0,6,0.5,0.559697
+Fundación Televisa,Fundación Televisa,,2.6,Habilitador,2,0,2,8,0,8,0,0,0,0,0,0.5,0.126686
+SVX,SVX,,0.6,Habilitador,0,12,12,0,40,40,5,0.337349,0.413542,0,6,0,0
+FLDM,FLDM,,0.8,Habilitador,2,0,2,5,0,5,0,0,0,0,4,0.5,0.142158
+Angel Ventures,Angel Ventures,,3,Habilitador,5,7,12,17,28,45,7,0.254118,0.311817,773.032143,3,0.030303,0.218629
+WeWork,WeWork,,3,Habilitador,3,0,3,10,0,10,0,0,0,0,1,0,0.172989
+Makesense,Makesense,,1.2,Habilitador,3,0,3,7,0,7,0,0,0,0,5,0.333333,0.095429
+UAM,UAM,,2,Generador de conocimiento,5,8,13,11,33,44,6,0.320475,0.387654,594.280261,7,0.113636,0.479997
+U. Anáhuac,U. Anáhuac,,5,Habilitador,5,3,8,18,14,32,6,0.291105,0.331636,530.565152,7,0.142857,0.256467
+UP,UP,,0.6,Habilitador,1,9,10,4,33,37,6,0.305949,0.374537,249.961147,6,0.055556,0.18365
+MIA,MIA,,1.2,Habilitador,2,0,2,6,0,6,0,0,0,0,1,0,0.07335
+Santander,Santander,,11.6,Habilitador,8,4,12,36,19,55,7,0.273418,0.327668,617.62132,7,0.072727,0.616282
+Adobe Capital,Adobe Capital,,1.4,Habilitador,1,4,5,4,14,18,1,1,1,4,3,0,0.003063
+FOMIN,FOMIN,,1.6,Habilitador,2,0,2,8,0,8,0,0,0,0,4,0,0.021197
+Startup Grind,Startup Grind,,2,Comunidad,1,2,3,3,9,12,7,0.216,0.248567,51.137302,3,0.166667,0.021983
+INADEM,INADEM,,20.799999,Articulador,17,4,21,73,6,79,8,0.244898,0.298016,1122.740926,6,0.052632,1
+AMEXCAP,AMEXCAP,,6.6,Vinculador,6,1,7,25,5,30,6,0.240535,0.272222,338.484524,3,0.02381,0.314925
+Laboratoria,Laboratoria,,0.6,Habilitador,0,2,2,0,10,10,1,1,1,0,0,0,0
+Homework,Homework,,0.6,Habilitador,2,4,6,6,14,20,7,0.265356,0.307606,297.961422,6,0.066667,0.266074
+SEP,SEP,,3.4,Articulador,2,1,3,10,2,12,8,0.229299,0.266127,193.833333,7,0.166667,0.171259
+El Economista,El Economista,,1.6,Promotor,2,0,2,8,0,8,0,0,0,0,0,0,0.115343
+MITEF México,MITEF México,,1.2,Habilitador,2,4,6,4,16,20,9,0.202247,0.244569,62.892857,6,0.15,0.360294
+Google México,Google México,,4.6,Habilitador,6,0,6,19,0,19,0,0,0,0,0,0.2,0.572249
+IBM,IBM,,1,Habilitador,2,0,2,5,0,5,0,0,0,0,2,0,0.157634
+Microsoft,Microsoft,,1.2,Habilitador,1,1,2,3,3,6,10,0.166667,0.193482,72.084957,5,0,0.144224
+Gob Qro,Gob Qro,,2,Articulador,2,0,2,10,0,10,0,0,0,0,5,0,0.176497
+FDF,FDF,,1.6,Habilitador,2,0,2,8,0,8,0,0,0,0,3,0,0.021779
+CONACYT,CONACYT,,3.2,Articulador,4,0,4,16,0,16,0,0,0,0,7,0.166667,0.326027
+CENTRO,CENTRO,,1.4,Habilitador,2,0,2,7,0,7,0,0,0,0,0,0,0.160803
+FINANZAS CDMX,FINANZAS CDMX,,1,Articulador,2,0,2,6,0,6,0,0,0,0,7,1,0.150217
+MassChallenge,MassChallenge,,2.2,Habilitador,4,1,5,9,3,12,8,0.210526,0.23276,101.952656,6,0.2,0.467783
+Impulsa,Impulsa,,3,Habilitador,4,1,5,12,5,17,7,0.256532,0.285935,17.968398,7,0.416667,0.484376
+500 Startups,500 Startups,,2.2,Habilitador,3,2,5,10,2,12,8,0.22833,0.267978,181.55119,0,0.25,0.249712
+Seedstars,Seedstars,,3.4,Habilitador,7,2,9,28,8,36,1,1,1,39.5,1,0.055556,0.331056
+InnovaUNAM,InnovaUNAM,,1.2,Habilitador,1,17,18,5,51,56,6,0.391304,0.488117,314.173876,7,0.062092,0.084788
+Distrito Emprendedor,Distrito Emprendedor,,3.2,Habilitador,4,0,4,16,0,16,0,0,0,0,1,0.083333,0.274933
+iLab,iLab,,3.2,Vinculador,1,1,2,5,3,8,7,0.257757,0.28825,9.083333,6,0,0.053996
+Disruptivo TV,Disruptivo TV,,1.4,Promotor,2,0,2,7,0,7,0,0,0,0,6,0,0.082145
+Endeavor,Endeavor,,1.8,Habilitador,3,0,3,9,0,9,0,0,0,0,0,0,0.229597
+Talent Land,Talent Land,,3.6,Habilitador,3,2,5,11,7,18,7,0.279793,0.324427,204.721429,0,0.05,0.191986
+Wayra,Wayra,,1.8,Habilitador,3,0,3,9,0,9,0,0,0,0,3,0,0.212317
+ASELA,ASELA,,1.2,Vinculador,0,2,2,0,2,2,7,0.279487,0.321341,0,4,1,0
+Startup Weekend,Startup Weekend,,7.4,Comunidad,4,1,5,17,5,22,8,0.207294,0.239076,345.534524,1,0,0.099857
+UNAM,UNAM,,3.2,Generador de conocimiento,3,3,6,9,14,23,7,0.27204,0.317416,92.495455,7,0.133333,0.225686
+FUNIBER,FUNIBER,,2,Habilitador,1,1,2,5,5,10,8,0.235294,0.270084,301,5,0,0.028396
+Global Shapers,Global Shapers,,2,Comunidad,2,5,7,8,17,25,2,0.777778,0.857143,10.5,1,0,0.013279
+Everis,Everis,,1.2,Habilitador,2,0,2,6,0,6,0,0,0,0,0,0,0.178428
+Facebook,Facebook,,2.8,Habilitador,3,1,4,9,5,14,8,0.244898,0.274724,106.636508,1,0.083333,0.308892
+Fiinlab,Fiinlab,,1.4,Habilitador,1,1,2,3,4,7,9,0.188811,0.212614,31.647222,4,0,0.021983
+Citibanamex,Citibanamex,,1.6,Habilitador,2,0,2,8,0,8,0,0,0,0,0,0,0.064215
+IME,IME,,1.6,Habilitador,1,1,2,3,5,8,10,0.167963,0.19217,8,2,0,0.148102
+SE,SE,,6.6,Articulador,7,0,7,28,0,28,0,0,0,0,7,0.071429,0.551127
+FONDESO,FONDESO,,3.8,Habilitador,3,11,14,8,33,41,7,0.259615,0.338183,253.53623,7,0.076923,0.246954
+TrepCamp,TrepCamp,,2.2,Habilitador,4,0,4,12,0,12,0,0,0,0,7,0.083333,0.3913
+Jefatura GCDMX,Jefatura GCDMX,,3.8,Articulador,4,3,7,12,3,15,7,0.229787,0.271759,74.244872,7,0.2,0.244844
+TechnoPoli,TechnoPoli,,0.6,Habilitador,2,5,7,4,25,29,9,0.198895,0.24759,299.169913,5,0.02381,0.084734
+ANDE,ANDE,,2.2,Vinculador,1,1,2,5,5,10,1,1,1,1,6,0,0.003063
+CFI,CFI,,1.4,Habilitador,2,0,2,7,0,7,0,0,0,0,4,0,0.093295
+Catapulta,Catapulta,,2.2,Habilitador,2,11,13,8,37,45,7,0.26087,0.33728,419.985823,1,0.007576,0.04444
+WEF,WEF,,2,Vinculador,1,1,2,5,5,10,3,0.466667,0.52381,0,1,0,0.012198
+Entrepreneur,Entrepreneur,,2.2,Promotor,2,0,2,8,0,8,0,0,0,0,0,0,0.167622
+CIC UNAM,CIC UNAM,,0.6,Generador de conocimiento,0,4,4,0,14,14,8,0.235421,0.277556,0,3,0,0
+ITESM,ITESM,,7.2,Habilitador,7,18,25,21,50,71,6,0.345048,0.43966,1389.372145,4,0.032609,0.505613
+ITAM,ITAM,,3.6,Habilitador,2,1,3,9,4,13,8,0.204934,0.232374,31.616667,3,0.166667,0.037267

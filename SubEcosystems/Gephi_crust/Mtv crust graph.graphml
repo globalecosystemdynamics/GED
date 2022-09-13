@@ -1,0 +1,510 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="Weight" attr.type="long"/>
+<key id="d1" for="node" attr.name="weight" attr.type="float"/>
+<key id="d0" for="node" attr.name="rol" attr.type="string"/>
+<graph edgedefault="directed"><node id="BVM">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="CCUU">
+  <data key="d0">Linker</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="Espacio Serratosa">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="MGAP">
+  <data key="d0">Articulator</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="Proyecto Kanban">
+  <data key="d0">Community</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Comunidad Odoo">
+  <data key="d0">Community</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="Campus Party">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="GlobalizeU">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="IPTP">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Confederación Empresarial">
+  <data key="d0">Linker</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="Comunidad Wordpress">
+  <data key="d0">Community</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="Santander Universidades">
+  <data key="d0">Enabler</data>
+  <data key="d1">2.4</data>
+</node>
+<node id="CUDIM">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="CTC">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="YouHub">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Piso 40">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Enperspectiva">
+  <data key="d0">Promoter</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="MIEM-DNPI">
+  <data key="d0">Enabler</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="FCPU">
+  <data key="d0">Linker</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="Cikato">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="Sistema B">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Desarrollo Sostenible e Inteligente">
+  <data key="d0">Articulator</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="Centro de Competitividad de Rivera">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="Centro de Competitividad de Tacuarembó">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="Meetup Agile">
+  <data key="d0">Community</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="Meetup Sales Force">
+  <data key="d0">Community</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="IPRU">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="GRIDX">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="IDTT">
+  <data key="d0">Articulator</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="RED PI">
+  <data key="d0">Linker</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="EUCD">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="Intendencia de Rocha">
+  <data key="d0">Articulator</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CTAgua">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="MRREE">
+  <data key="d0">Articulator</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Radio Universal">
+  <data key="d0">Promoter</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Intendencia de Canelones">
+  <data key="d0">Articulator</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Cowork Enlace">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="NahualUY">
+  <data key="d0">Community</data>
+  <data key="d1">3.4</data>
+</node>
+<node id="BIDLab">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Ashoka Uruguay">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="FUCREA">
+  <data key="d0">Linker</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="ClusterUY">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="Brou">
+  <data key="d0">Enabler</data>
+  <data key="d1">2.4</data>
+</node>
+<node id="Product Hunt Montevideo">
+  <data key="d0">Community</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CCI Durazno">
+  <data key="d0">Linker</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CLUSTERPACK">
+  <data key="d0">Linker</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Ferrere">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Cowork Melo">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Del Plata Office">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Oportunidades Circulares">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="DESEM">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="El Espectador">
+  <data key="d0">Promoter</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="ADM">
+  <data key="d0">Linker</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="CCEAU">
+  <data key="d0">Linker</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Instituto 3IE">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="UNQ">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Fundación SES">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="FUNDAQUIM">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Portal Uruguay Emprendedor">
+  <data key="d0">Promoter</data>
+  <data key="d1">3.4</data>
+</node>
+<node id="Genexus">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="UPV">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="UP">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="C-Emprendedor">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Mujeres IT">
+  <data key="d0">Community</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="Facultad de Ciencias UDELAR">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="AUGM">
+  <data key="d0">Linker</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="INACAL">
+  <data key="d0">Articulator</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="YABT Uruguay">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Co-lavora">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="FADU UDELAR">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Cámara de Representantes">
+  <data key="d0">Articulator</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="CUDECOOP">
+  <data key="d0">Linker</data>
+  <data key="d1">4.0</data>
+</node>
+<node id="PTC">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="FIJE">
+  <data key="d0">Linker</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="MEC">
+  <data key="d0">Articulator</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="ADPUGH">
+  <data key="d0">Linker</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Anong">
+  <data key="d0">Linker</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="INTI">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="CAIME">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="ITESO">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="UVITT">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Pro Empresa">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="FOCO Comunicacion Visual">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Gobierno Nacional">
+  <data key="d0">Articulator</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="FOMIN">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="MEF">
+  <data key="d0">Articulator</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="MIT">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Erasmus">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Fundación BROU">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Santander">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Stanford d.school">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="JWEL MIT">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="FAGRO UDELAR">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Devops Day">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="WTC">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="GUYER">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="500 Startups">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="CAF">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Intendencia de Flores">
+  <data key="d0">Articulator</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Intendencia de San José">
+  <data key="d0">Articulator</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Cámara Inmobiliaria">
+  <data key="d0">Linker</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="FES">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="InnoVal">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="ANEP">
+  <data key="d0">Articulator</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CODICEN">
+  <data key="d0">Articulator</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="IILA">
+  <data key="d0">Linker</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Mobile Day">
+  <data key="d0">Promoter</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Swift Montevideo">
+  <data key="d0">Community</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="AGESIC">
+  <data key="d0">Articulator</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="ICCA">
+  <data key="d0">Linker</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="TNU">
+  <data key="d0">Promoter</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Radio Uruguay">
+  <data key="d0">Promoter</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Radio Sarandí">
+  <data key="d0">Promoter</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Crónicas Económicas">
+  <data key="d0">Promoter</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CCI Salto">
+  <data key="d0">Linker</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="OMEU">
+  <data key="d0">Linker</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="ADP">
+  <data key="d0">Articulator</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="El Empresario">
+  <data key="d0">Promoter</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="UCU Business School">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CUAM">
+  <data key="d0">Linker</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="AD Cerro Largo">
+  <data key="d0">Articulator</data>
+  <data key="d1">0.6</data>
+</node>
+<edge source="Proyecto Kanban" target="Comunidad Odoo">
+  <data key="d2">1</data>
+</edge>
+<edge source="Proyecto Kanban" target="Comunidad Wordpress">
+  <data key="d2">1</data>
+</edge>
+<edge source="Proyecto Kanban" target="NahualUY">
+  <data key="d2">5</data>
+</edge>
+<edge source="Proyecto Kanban" target="Mujeres IT">
+  <data key="d2">4</data>
+</edge>
+<edge source="NahualUY" target="Proyecto Kanban">
+  <data key="d2">1</data>
+</edge>
+<edge source="NahualUY" target="Comunidad Wordpress">
+  <data key="d2">1</data>
+</edge>
+<edge source="INACAL" target="CLUSTERPACK">
+  <data key="d2">1</data>
+</edge>
+</graph></graphml>

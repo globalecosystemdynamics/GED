@@ -1,0 +1,1441 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="Weight" attr.type="long"/>
+<key id="d1" for="node" attr.name="weight" attr.type="float"/>
+<key id="d0" for="node" attr.name="rol" attr.type="string"/>
+<graph edgedefault="directed"><node id="Instituto UNIVITA">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CGEMSYS">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="ProMéxico">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="COCITEI">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="UTVCO">
+  <data key="d0">Habilitador</data>
+  <data key="d1">9.4</data>
+</node>
+<node id="CONACYT">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Dir. de Economía del Mpio. de Oaxaca de Juárez">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Coord. de las Culturas, Turismo y Economía del Mpio. de Oaxaca">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="COPLADE">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="UABJO">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.6</data>
+</node>
+<node id="Gob. de OAX">
+  <data key="d0">Articulador</data>
+  <data key="d1">8.8</data>
+</node>
+<node id="COGNITIVO">
+  <data key="d0">Habilitador</data>
+  <data key="d1">6.2</data>
+</node>
+<node id="Dir. Clústers de la SE OAX">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="INADEM">
+  <data key="d0">Articulador</data>
+  <data key="d1">13.6</data>
+</node>
+<node id="IODEMC">
+  <data key="d0">Articulador</data>
+  <data key="d1">34.8</data>
+</node>
+<node id="FabLab Oax">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="Oaxaca Activa">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.6</data>
+</node>
+<node id="SICADEM">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="UTSSO">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="Disruptech IT">
+  <data key="d0">Vinculador</data>
+  <data key="d1">3.2</data>
+</node>
+<node id="Enactus UTM">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CIDES">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CIIE ITP">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CIIE ITVE">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="CIIE UNCA">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="INITED">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="ITISTMO">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="ITSAL">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="ITVO">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="PEDADI">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Primero Por Ti">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="SUM OAX">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="TV por Internet">
+  <data key="d0">Promotor</data>
+  <data key="d1">3.6</data>
+</node>
+<node id="Jóvenes COPARMEX">
+  <data key="d0">Comunidad</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Mpio. de Oaxaca de Juárez">
+  <data key="d0">Articulador</data>
+  <data key="d1">2.4</data>
+</node>
+<node id="ITESM OAX">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Mpio. de Santa Cruz Xoxocotlán">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="Mpio. de Villa Sola de Vega">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="SAGARPA">
+  <data key="d0">Articulador</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="SE">
+  <data key="d0">Articulador</data>
+  <data key="d1">12.6</data>
+</node>
+<node id="SEAC">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="SEDATU">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="CEC-IPN Oaxaca">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="SE OAX">
+  <data key="d0">Articulador</data>
+  <data key="d1">4.2</data>
+</node>
+<node id="Comunidad Arduino">
+  <data key="d0">Comunidad</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Comunidad de Software Libre">
+  <data key="d0">Comunidad</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="FUN">
+  <data key="d0">Comunidad</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="IDEADORES">
+  <data key="d0">Comunidad</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Inviértete">
+  <data key="d0">Comunidad</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="LoopTalks">
+  <data key="d0">Comunidad</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="oaxaca.rb">
+  <data key="d0">Comunidad</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="CIIDIR">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="CIITEC-IPN">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="IPN">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="IQH">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Soutech">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="UNAM">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="CBTIS 123">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="CIDEH-Impulsa">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="CIEBT-IPN">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="CIIE ITT">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="CIIE ITTL">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="CIIE TEC-ISTMO">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="COBAO">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CONOCER">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="DDPR">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Distrito Emprendedor Mx">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="EULER">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="UCEPCO">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="FICEPCO">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="FIRA">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.4</data>
+</node>
+<node id="FND">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="Fundación Coca-Cola">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="Fundación Produce">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="FundaciónTelevisa">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="GreenMomentum">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Impact Hub OAX">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="IMPI">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="INEDEO">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="IT Valle Etla">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="ITCP">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="ITO">
+  <data key="d0">Habilitador</data>
+  <data key="d1">3.0</data>
+</node>
+<node id="ITS Teposcolula">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="ITT">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="ITTUX">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Kernel Technologies">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="MR Consultores">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="NAFIN">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="Oikocredit">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="PSM">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="Red de Incubadoras TecNM">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="SEReS University">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="SUM">
+  <data key="d0">Habilitador</data>
+  <data key="d1">3.0</data>
+</node>
+<node id="TECNM">
+  <data key="d0">Habilitador</data>
+  <data key="d1">5.0</data>
+</node>
+<node id="UAO">
+  <data key="d0">Habilitador</data>
+  <data key="d1">5.6</data>
+</node>
+<node id="El Imparcial">
+  <data key="d0">Promotor</data>
+  <data key="d1">3.0</data>
+</node>
+<node id="ULSA Oaxaca">
+  <data key="d0">Habilitador</data>
+  <data key="d1">3.0</data>
+</node>
+<node id="UNCA">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="UNI INADEM">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="UNID">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="UNISAN">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="UNIVAS">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="UNPA">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="UP">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="UPN">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="UTM">
+  <data key="d0">Habilitador</data>
+  <data key="d1">5.6</data>
+</node>
+<node id="IINOVACAFÉ">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Canal 10 TV">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CORTV">
+  <data key="d0">Promotor</data>
+  <data key="d1">3.8</data>
+</node>
+<node id="ForoTV">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="Gaceta Politécnica">
+  <data key="d0">Promotor</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="La Grandiosa Huajuapan">
+  <data key="d0">Promotor</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Milenio TV">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Noticias">
+  <data key="d0">Promotor</data>
+  <data key="d1">2.6</data>
+</node>
+<node id="ORP">
+  <data key="d0">Promotor</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="PrensaDigital">
+  <data key="d0">Promotor</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Quadratín">
+  <data key="d0">Promotor</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="RedNoticias">
+  <data key="d0">Promotor</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Sucedió en Oax">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="CANACINTRA">
+  <data key="d0">Vinculador</data>
+  <data key="d1">5.0</data>
+</node>
+<node id="CANACO">
+  <data key="d0">Vinculador</data>
+  <data key="d1">2.6</data>
+</node>
+<node id="CANACO Huajuapan">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="CANACO Salina Cruz">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="CANACO Tuxtepec">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="CANACOPE SERVYTUR OAXACA">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="CANIRAC">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="CEIT">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="CEPCO">
+  <data key="d0">Vinculador</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="CGUTyP">
+  <data key="d0">Vinculador</data>
+  <data key="d1">3.0</data>
+</node>
+<node id="Clúster Café">
+  <data key="d0">Vinculador</data>
+  <data key="d1">2.4</data>
+</node>
+<node id="Clúster de Energía">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="Clúster ZEE">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="CONCAMIN">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Consejo de Agroindustriales">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="COPARMEX">
+  <data key="d0">Vinculador</data>
+  <data key="d1">4.8</data>
+</node>
+<node id="CRM">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="EEO">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Enactus México">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="Enactus Worldwide">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="MIT EF México">
+  <data key="d0">Vinculador</data>
+  <data key="d1">3.8</data>
+</node>
+<node id="mxTI">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="REDIPE">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="UAG">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="GOB.MX">
+  <data key="d0">Articulador</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="SEP">
+  <data key="d0">Articulador</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="UPCDE">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="UNISTMO">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="FINDECA">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Cursolab">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.2</data>
+</node>
+<edge source="Instituto UNIVITA" target="CGEMSYS">
+  <data key="d2">5</data>
+</edge>
+<edge source="Instituto UNIVITA" target="CORTV">
+  <data key="d2">1</data>
+</edge>
+<edge source="Instituto UNIVITA" target="IODEMC">
+  <data key="d2">5</data>
+</edge>
+<edge source="ProMéxico" target="COCITEI">
+  <data key="d2">1</data>
+</edge>
+<edge source="ProMéxico" target="SE OAX">
+  <data key="d2">4</data>
+</edge>
+<edge source="ProMéxico" target="FIRA">
+  <data key="d2">2</data>
+</edge>
+<edge source="ProMéxico" target="Fundación Produce">
+  <data key="d2">1</data>
+</edge>
+<edge source="ProMéxico" target="ULSA Oaxaca">
+  <data key="d2">4</data>
+</edge>
+<edge source="ProMéxico" target="CRM">
+  <data key="d2">4</data>
+</edge>
+<edge source="UTVCO" target="CONACYT">
+  <data key="d2">4</data>
+</edge>
+<edge source="UTVCO" target="INADEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="UTVCO" target="IODEMC">
+  <data key="d2">5</data>
+</edge>
+<edge source="UTVCO" target="SAGARPA">
+  <data key="d2">4</data>
+</edge>
+<edge source="UTVCO" target="SE OAX">
+  <data key="d2">4</data>
+</edge>
+<edge source="UTVCO" target="CONOCER">
+  <data key="d2">5</data>
+</edge>
+<edge source="UTVCO" target="IINOVACAFÉ">
+  <data key="d2">4</data>
+</edge>
+<edge source="UTVCO" target="ProMéxico">
+  <data key="d2">3</data>
+</edge>
+<edge source="UTVCO" target="CANACINTRA">
+  <data key="d2">4</data>
+</edge>
+<edge source="UTVCO" target="CANIRAC">
+  <data key="d2">5</data>
+</edge>
+<edge source="UTVCO" target="Clúster Café">
+  <data key="d2">4</data>
+</edge>
+<edge source="UTVCO" target="EEO">
+  <data key="d2">3</data>
+</edge>
+<edge source="UTVCO" target="SEP">
+  <data key="d2">5</data>
+</edge>
+<edge source="UTVCO" target="CGUTyP">
+  <data key="d2">5</data>
+</edge>
+<edge source="Dir. de Economía del Mpio. de Oaxaca de Juárez" target="Coord. de las Culturas, Turismo y Economía del Mpio. de Oaxaca">
+  <data key="d2">5</data>
+</edge>
+<edge source="Dir. de Economía del Mpio. de Oaxaca de Juárez" target="IODEMC">
+  <data key="d2">2</data>
+</edge>
+<edge source="Dir. de Economía del Mpio. de Oaxaca de Juárez" target="UTVCO">
+  <data key="d2">5</data>
+</edge>
+<edge source="COPLADE" target="UABJO">
+  <data key="d2">3</data>
+</edge>
+<edge source="UABJO" target="SE">
+  <data key="d2">3</data>
+</edge>
+<edge source="UABJO" target="SEDATU">
+  <data key="d2">4</data>
+</edge>
+<edge source="UABJO" target="UNAM">
+  <data key="d2">4</data>
+</edge>
+<edge source="UABJO" target="CANACINTRA">
+  <data key="d2">4</data>
+</edge>
+<edge source="UABJO" target="COPARMEX">
+  <data key="d2">2</data>
+</edge>
+<edge source="UABJO" target="Gob. de OAX">
+  <data key="d2">5</data>
+</edge>
+<edge source="UABJO" target="GOB.MX">
+  <data key="d2">5</data>
+</edge>
+<edge source="UABJO" target="SEP">
+  <data key="d2">5</data>
+</edge>
+<edge source="Gob. de OAX" target="COGNITIVO">
+  <data key="d2">5</data>
+</edge>
+<edge source="Gob. de OAX" target="UABJO">
+  <data key="d2">3</data>
+</edge>
+<edge source="Gob. de OAX" target="UTVCO">
+  <data key="d2">5</data>
+</edge>
+<edge source="Gob. de OAX" target="ProMéxico">
+  <data key="d2">1</data>
+</edge>
+<edge source="Gob. de OAX" target="COCITEI">
+  <data key="d2">1</data>
+</edge>
+<edge source="COGNITIVO" target="INADEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="COGNITIVO" target="IODEMC">
+  <data key="d2">5</data>
+</edge>
+<edge source="COGNITIVO" target="SE">
+  <data key="d2">5</data>
+</edge>
+<edge source="COGNITIVO" target="IDEADORES">
+  <data key="d2">3</data>
+</edge>
+<edge source="COGNITIVO" target="NAFIN">
+  <data key="d2">4</data>
+</edge>
+<edge source="COGNITIVO" target="Oaxaca Activa">
+  <data key="d2">5</data>
+</edge>
+<edge source="COGNITIVO" target="UNISAN">
+  <data key="d2">4</data>
+</edge>
+<edge source="COGNITIVO" target="UTVCO">
+  <data key="d2">5</data>
+</edge>
+<edge source="COGNITIVO" target="CORTV">
+  <data key="d2">5</data>
+</edge>
+<edge source="COGNITIVO" target="Noticias">
+  <data key="d2">5</data>
+</edge>
+<edge source="COGNITIVO" target="RedNoticias">
+  <data key="d2">5</data>
+</edge>
+<edge source="COGNITIVO" target="Sucedió en Oax">
+  <data key="d2">4</data>
+</edge>
+<edge source="COGNITIVO" target="CANACO">
+  <data key="d2">5</data>
+</edge>
+<edge source="COGNITIVO" target="COPARMEX">
+  <data key="d2">5</data>
+</edge>
+<edge source="COGNITIVO" target="CGUTyP">
+  <data key="d2">5</data>
+</edge>
+<edge source="Dir. Clústers de la SE OAX" target="INADEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="Dir. Clústers de la SE OAX" target="Clúster Café">
+  <data key="d2">5</data>
+</edge>
+<edge source="Dir. Clústers de la SE OAX" target="Clúster de Energía">
+  <data key="d2">5</data>
+</edge>
+<edge source="Dir. Clústers de la SE OAX" target="Disruptech IT">
+  <data key="d2">5</data>
+</edge>
+<edge source="Dir. Clústers de la SE OAX" target="Gob. de OAX">
+  <data key="d2">5</data>
+</edge>
+<edge source="INADEM" target="Enactus UTM">
+  <data key="d2">1</data>
+</edge>
+<edge source="INADEM" target="IODEMC">
+  <data key="d2">1</data>
+</edge>
+<edge source="INADEM" target="FundaciónTelevisa">
+  <data key="d2">1</data>
+</edge>
+<edge source="INADEM" target="MIT EF México">
+  <data key="d2">1</data>
+</edge>
+<edge source="IODEMC" target="INADEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="IODEMC" target="CIIE ITP">
+  <data key="d2">2</data>
+</edge>
+<edge source="IODEMC" target="CIIE UNCA">
+  <data key="d2">5</data>
+</edge>
+<edge source="IODEMC" target="FabLab Oax">
+  <data key="d2">3</data>
+</edge>
+<edge source="IODEMC" target="ITISTMO">
+  <data key="d2">4</data>
+</edge>
+<edge source="IODEMC" target="ITSAL">
+  <data key="d2">4</data>
+</edge>
+<edge source="IODEMC" target="ProMéxico">
+  <data key="d2">3</data>
+</edge>
+<edge source="IODEMC" target="TV por Internet">
+  <data key="d2">4</data>
+</edge>
+<edge source="IODEMC" target="COGNITIVO">
+  <data key="d2">5</data>
+</edge>
+<edge source="IODEMC" target="FundaciónTelevisa">
+  <data key="d2">5</data>
+</edge>
+<edge source="IODEMC" target="PSM">
+  <data key="d2">5</data>
+</edge>
+<edge source="IODEMC" target="UAO">
+  <data key="d2">1</data>
+</edge>
+<edge source="IODEMC" target="Gob. de OAX">
+  <data key="d2">5</data>
+</edge>
+<edge source="IODEMC" target="MIT EF México">
+  <data key="d2">5</data>
+</edge>
+<edge source="IODEMC" target="SUM OAX">
+  <data key="d2">1</data>
+</edge>
+<edge source="FabLab Oax" target="INADEM">
+  <data key="d2">1</data>
+</edge>
+<edge source="FabLab Oax" target="Enactus UTM">
+  <data key="d2">4</data>
+</edge>
+<edge source="FabLab Oax" target="COPARMEX">
+  <data key="d2">1</data>
+</edge>
+<edge source="FabLab Oax" target="IODEMC">
+  <data key="d2">5</data>
+</edge>
+<edge source="Oaxaca Activa" target="INADEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="Oaxaca Activa" target="IODEMC">
+  <data key="d2">5</data>
+</edge>
+<edge source="Oaxaca Activa" target="Mpio. de Santa Cruz Xoxocotlán">
+  <data key="d2">2</data>
+</edge>
+<edge source="Oaxaca Activa" target="SE">
+  <data key="d2">2</data>
+</edge>
+<edge source="Oaxaca Activa" target="CIIE ITTL">
+  <data key="d2">2</data>
+</edge>
+<edge source="Oaxaca Activa" target="COGNITIVO">
+  <data key="d2">4</data>
+</edge>
+<edge source="Oaxaca Activa" target="DDPR">
+  <data key="d2">5</data>
+</edge>
+<edge source="Oaxaca Activa" target="IMPI">
+  <data key="d2">2</data>
+</edge>
+<edge source="Oaxaca Activa" target="IT Valle Etla">
+  <data key="d2">3</data>
+</edge>
+<edge source="Oaxaca Activa" target="ITO">
+  <data key="d2">3</data>
+</edge>
+<edge source="Oaxaca Activa" target="ITT">
+  <data key="d2">4</data>
+</edge>
+<edge source="Oaxaca Activa" target="NAFIN">
+  <data key="d2">3</data>
+</edge>
+<edge source="Oaxaca Activa" target="TV por Internet">
+  <data key="d2">3</data>
+</edge>
+<edge source="SICADEM" target="INADEM">
+  <data key="d2">3</data>
+</edge>
+<edge source="SICADEM" target="IODEMC">
+  <data key="d2">5</data>
+</edge>
+<edge source="SICADEM" target="UNID">
+  <data key="d2">4</data>
+</edge>
+<edge source="SICADEM" target="UTM">
+  <data key="d2">5</data>
+</edge>
+<edge source="SICADEM" target="La Grandiosa Huajuapan">
+  <data key="d2">5</data>
+</edge>
+<edge source="UTSSO" target="INADEM">
+  <data key="d2">2</data>
+</edge>
+<edge source="UTSSO" target="IODEMC">
+  <data key="d2">4</data>
+</edge>
+<edge source="UTSSO" target="SAGARPA">
+  <data key="d2">2</data>
+</edge>
+<edge source="UTSSO" target="SE">
+  <data key="d2">2</data>
+</edge>
+<edge source="UTSSO" target="COGNITIVO">
+  <data key="d2">4</data>
+</edge>
+<edge source="UTSSO" target="UTSSO">
+  <data key="d2">5</data>
+</edge>
+<edge source="Disruptech IT" target="INADEM">
+  <data key="d2">3</data>
+</edge>
+<edge source="Disruptech IT" target="SE OAX">
+  <data key="d2">3</data>
+</edge>
+<edge source="Disruptech IT" target="Kernel Technologies">
+  <data key="d2">4</data>
+</edge>
+<edge source="Disruptech IT" target="mxTI">
+  <data key="d2">5</data>
+</edge>
+<edge source="Disruptech IT" target="Gob. de OAX">
+  <data key="d2">5</data>
+</edge>
+<edge source="Disruptech IT" target="SE">
+  <data key="d2">5</data>
+</edge>
+<edge source="Enactus UTM" target="IODEMC">
+  <data key="d2">2</data>
+</edge>
+<edge source="Enactus UTM" target="UTM">
+  <data key="d2">5</data>
+</edge>
+<edge source="Enactus UTM" target="MIT EF México">
+  <data key="d2">4</data>
+</edge>
+<edge source="Enactus UTM" target="Enactus México">
+  <data key="d2">5</data>
+</edge>
+<edge source="CIDES" target="IODEMC">
+  <data key="d2">5</data>
+</edge>
+<edge source="CIIE ITP" target="IODEMC">
+  <data key="d2">5</data>
+</edge>
+<edge source="CIIE ITP" target="IPN">
+  <data key="d2">3</data>
+</edge>
+<edge source="CIIE ITP" target="CIIE ITT">
+  <data key="d2">5</data>
+</edge>
+<edge source="CIIE ITP" target="CIIE ITTL">
+  <data key="d2">5</data>
+</edge>
+<edge source="CIIE ITP" target="CIIE ITVE">
+  <data key="d2">5</data>
+</edge>
+<edge source="CIIE ITP" target="CIIE TEC-ISTMO">
+  <data key="d2">5</data>
+</edge>
+<edge source="CIIE ITP" target="Fundación Coca-Cola">
+  <data key="d2">3</data>
+</edge>
+<edge source="CIIE ITP" target="CONCAMIN">
+  <data key="d2">4</data>
+</edge>
+<edge source="CIIE ITP" target="TECNM">
+  <data key="d2">5</data>
+</edge>
+<edge source="CIIE ITVE" target="IODEMC">
+  <data key="d2">5</data>
+</edge>
+<edge source="CIIE ITVE" target="UTVCO">
+  <data key="d2">4</data>
+</edge>
+<edge source="CIIE ITVE" target="COPARMEX">
+  <data key="d2">3</data>
+</edge>
+<edge source="CIIE ITVE" target="TECNM">
+  <data key="d2">5</data>
+</edge>
+<edge source="CIIE UNCA" target="UNCA">
+  <data key="d2">5</data>
+</edge>
+<edge source="CIIE UNCA" target="IODEMC">
+  <data key="d2">5</data>
+</edge>
+<edge source="INITED" target="IODEMC">
+  <data key="d2">3</data>
+</edge>
+<edge source="INITED" target="CIDEH-Impulsa">
+  <data key="d2">5</data>
+</edge>
+<edge source="INITED" target="ITO">
+  <data key="d2">5</data>
+</edge>
+<edge source="INITED" target="UNI INADEM">
+  <data key="d2">4</data>
+</edge>
+<edge source="INITED" target="REDIPE">
+  <data key="d2">4</data>
+</edge>
+<edge source="ITISTMO" target="SE">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITISTMO" target="IQH">
+  <data key="d2">5</data>
+</edge>
+<edge source="ITISTMO" target="TECNM">
+  <data key="d2">5</data>
+</edge>
+<edge source="ITISTMO" target="Canal 10 TV">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITISTMO" target="CANACINTRA">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITSAL" target="IODEMC">
+  <data key="d2">5</data>
+</edge>
+<edge source="ITSAL" target="CIIE TEC-ISTMO">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITSAL" target="ITS Teposcolula">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITSAL" target="Clúster ZEE">
+  <data key="d2">4</data>
+</edge>
+<edge source="ITVO" target="IODEMC">
+  <data key="d2">5</data>
+</edge>
+<edge source="ITVO" target="SAGARPA">
+  <data key="d2">5</data>
+</edge>
+<edge source="ITVO" target="SE">
+  <data key="d2">5</data>
+</edge>
+<edge source="ITVO" target="SE OAX">
+  <data key="d2">4</data>
+</edge>
+<edge source="ITVO" target="CIIDIR">
+  <data key="d2">5</data>
+</edge>
+<edge source="PEDADI" target="IODEMC">
+  <data key="d2">5</data>
+</edge>
+<edge source="PEDADI" target="Mpio. de Oaxaca de Juárez">
+  <data key="d2">5</data>
+</edge>
+<edge source="PEDADI" target="COGNITIVO">
+  <data key="d2">1</data>
+</edge>
+<edge source="PEDADI" target="RedNoticias">
+  <data key="d2">1</data>
+</edge>
+<edge source="Primero Por Ti" target="IODEMC">
+  <data key="d2">4</data>
+</edge>
+<edge source="Primero Por Ti" target="Impact Hub OAX">
+  <data key="d2">2</data>
+</edge>
+<edge source="Primero Por Ti" target="UP">
+  <data key="d2">4</data>
+</edge>
+<edge source="Primero Por Ti" target="CORTV">
+  <data key="d2">4</data>
+</edge>
+<edge source="Primero Por Ti" target="El Imparcial">
+  <data key="d2">4</data>
+</edge>
+<edge source="Primero Por Ti" target="Noticias">
+  <data key="d2">4</data>
+</edge>
+<edge source="SUM OAX" target="IODEMC">
+  <data key="d2">3</data>
+</edge>
+<edge source="SUM OAX" target="FUN">
+  <data key="d2">5</data>
+</edge>
+<edge source="SUM OAX" target="SUM">
+  <data key="d2">5</data>
+</edge>
+<edge source="SUM OAX" target="UAO">
+  <data key="d2">5</data>
+</edge>
+<edge source="SUM OAX" target="El Imparcial">
+  <data key="d2">5</data>
+</edge>
+<edge source="SUM OAX" target="Impact Hub OAX">
+  <data key="d2">5</data>
+</edge>
+<edge source="TV por Internet" target="SE">
+  <data key="d2">1</data>
+</edge>
+<edge source="TV por Internet" target="SEReS University">
+  <data key="d2">5</data>
+</edge>
+<edge source="TV por Internet" target="TV por Internet">
+  <data key="d2">5</data>
+</edge>
+<edge source="TV por Internet" target="Disruptech IT">
+  <data key="d2">1</data>
+</edge>
+<edge source="TV por Internet" target="SEAC">
+  <data key="d2">1</data>
+</edge>
+<edge source="Jóvenes COPARMEX" target="Mpio. de Oaxaca de Juárez">
+  <data key="d2">3</data>
+</edge>
+<edge source="Jóvenes COPARMEX" target="COPARMEX">
+  <data key="d2">5</data>
+</edge>
+<edge source="ITESM OAX" target="Mpio. de Oaxaca de Juárez">
+  <data key="d2">4</data>
+</edge>
+<edge source="ITESM OAX" target="COBAO">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITESM OAX" target="El Imparcial">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITESM OAX" target="Gob. de OAX">
+  <data key="d2">5</data>
+</edge>
+<edge source="Mpio. de Villa Sola de Vega" target="UTSSO">
+  <data key="d2">2</data>
+</edge>
+<edge source="SE" target="CIIE ITP">
+  <data key="d2">2</data>
+</edge>
+<edge source="SEAC" target="SE">
+  <data key="d2">5</data>
+</edge>
+<edge source="SEAC" target="Impact Hub OAX">
+  <data key="d2">3</data>
+</edge>
+<edge source="SEAC" target="UAO">
+  <data key="d2">2</data>
+</edge>
+<edge source="SEAC" target="Disruptech IT">
+  <data key="d2">2</data>
+</edge>
+<edge source="SEAC" target="TV por Internet">
+  <data key="d2">5</data>
+</edge>
+<edge source="CEC-IPN Oaxaca" target="SE OAX">
+  <data key="d2">3</data>
+</edge>
+<edge source="CEC-IPN Oaxaca" target="CIIDIR">
+  <data key="d2">4</data>
+</edge>
+<edge source="CEC-IPN Oaxaca" target="CIEBT-IPN">
+  <data key="d2">4</data>
+</edge>
+<edge source="CEC-IPN Oaxaca" target="ITO">
+  <data key="d2">5</data>
+</edge>
+<edge source="CEC-IPN Oaxaca" target="CORTV">
+  <data key="d2">4</data>
+</edge>
+<edge source="CEC-IPN Oaxaca" target="Gaceta Politécnica">
+  <data key="d2">5</data>
+</edge>
+<edge source="CEC-IPN Oaxaca" target="Quadratín">
+  <data key="d2">5</data>
+</edge>
+<edge source="CEC-IPN Oaxaca" target="CANACINTRA">
+  <data key="d2">4</data>
+</edge>
+<edge source="CEC-IPN Oaxaca" target="CANACO">
+  <data key="d2">4</data>
+</edge>
+<edge source="CEC-IPN Oaxaca" target="UTVCO">
+  <data key="d2">5</data>
+</edge>
+<edge source="CEC-IPN Oaxaca" target="UPCDE">
+  <data key="d2">5</data>
+</edge>
+<edge source="Comunidad Arduino" target="FabLab Oax">
+  <data key="d2">4</data>
+</edge>
+<edge source="Comunidad de Software Libre" target="FabLab Oax">
+  <data key="d2">5</data>
+</edge>
+<edge source="Inviértete" target="ITESM OAX">
+  <data key="d2">3</data>
+</edge>
+<edge source="LoopTalks" target="oaxaca.rb">
+  <data key="d2">5</data>
+</edge>
+<edge source="LoopTalks" target="ULSA Oaxaca">
+  <data key="d2">5</data>
+</edge>
+<edge source="LoopTalks" target="UTVCO">
+  <data key="d2">5</data>
+</edge>
+<edge source="LoopTalks" target="Disruptech IT">
+  <data key="d2">1</data>
+</edge>
+<edge source="LoopTalks" target="UAG">
+  <data key="d2">5</data>
+</edge>
+<edge source="LoopTalks" target="UABJO">
+  <data key="d2">5</data>
+</edge>
+<edge source="CIITEC-IPN" target="CEC-IPN Oaxaca">
+  <data key="d2">4</data>
+</edge>
+<edge source="Soutech" target="COGNITIVO">
+  <data key="d2">5</data>
+</edge>
+<edge source="UNAM" target="SICADEM">
+  <data key="d2">4</data>
+</edge>
+<edge source="CBTIS 123" target="CIDEH-Impulsa">
+  <data key="d2">5</data>
+</edge>
+<edge source="CIDEH-Impulsa" target="ITO">
+  <data key="d2">2</data>
+</edge>
+<edge source="CIDEH-Impulsa" target="UAO">
+  <data key="d2">3</data>
+</edge>
+<edge source="CIDEH-Impulsa" target="UNIVAS">
+  <data key="d2">2</data>
+</edge>
+<edge source="CIDEH-Impulsa" target="UPN">
+  <data key="d2">4</data>
+</edge>
+<edge source="CIDEH-Impulsa" target="UTSSO">
+  <data key="d2">2</data>
+</edge>
+<edge source="CIDEH-Impulsa" target="IODEMC">
+  <data key="d2">5</data>
+</edge>
+<edge source="CIIE ITTL" target="SE">
+  <data key="d2">5</data>
+</edge>
+<edge source="CIIE ITTL" target="TECNM">
+  <data key="d2">5</data>
+</edge>
+<edge source="CIIE ITTL" target="IODEMC">
+  <data key="d2">5</data>
+</edge>
+<edge source="CIIE TEC-ISTMO" target="IODEMC">
+  <data key="d2">5</data>
+</edge>
+<edge source="CIIE TEC-ISTMO" target="Red de Incubadoras TecNM">
+  <data key="d2">5</data>
+</edge>
+<edge source="CIIE TEC-ISTMO" target="SE">
+  <data key="d2">5</data>
+</edge>
+<edge source="DDPR" target="ITCP">
+  <data key="d2">5</data>
+</edge>
+<edge source="DDPR" target="ITTUX">
+  <data key="d2">5</data>
+</edge>
+<edge source="DDPR" target="ORP">
+  <data key="d2">5</data>
+</edge>
+<edge source="DDPR" target="CANACO Tuxtepec">
+  <data key="d2">5</data>
+</edge>
+<edge source="DDPR" target="INADEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="DDPR" target="IODEMC">
+  <data key="d2">5</data>
+</edge>
+<edge source="Distrito Emprendedor Mx" target="COGNITIVO">
+  <data key="d2">5</data>
+</edge>
+<edge source="EULER" target="UCEPCO">
+  <data key="d2">5</data>
+</edge>
+<edge source="UCEPCO" target="EULER">
+  <data key="d2">5</data>
+</edge>
+<edge source="UCEPCO" target="FIRA">
+  <data key="d2">5</data>
+</edge>
+<edge source="UCEPCO" target="FND">
+  <data key="d2">4</data>
+</edge>
+<edge source="UCEPCO" target="Oikocredit">
+  <data key="d2">5</data>
+</edge>
+<edge source="UCEPCO" target="UABJO">
+  <data key="d2">5</data>
+</edge>
+<edge source="UCEPCO" target="UAO">
+  <data key="d2">5</data>
+</edge>
+<edge source="UCEPCO" target="CANACINTRA">
+  <data key="d2">1</data>
+</edge>
+<edge source="UCEPCO" target="CEPCO">
+  <data key="d2">5</data>
+</edge>
+<edge source="FICEPCO" target="UCEPCO">
+  <data key="d2">5</data>
+</edge>
+<edge source="FND" target="UTVCO">
+  <data key="d2">5</data>
+</edge>
+<edge source="FND" target="FINDECA">
+  <data key="d2">5</data>
+</edge>
+<edge source="Fundación Coca-Cola" target="ITSAL">
+  <data key="d2">5</data>
+</edge>
+<edge source="GreenMomentum" target="UTVCO">
+  <data key="d2">5</data>
+</edge>
+<edge source="INEDEO" target="Primero Por Ti">
+  <data key="d2">2</data>
+</edge>
+<edge source="ITT" target="COGNITIVO">
+  <data key="d2">3</data>
+</edge>
+<edge source="MR Consultores" target="UCEPCO">
+  <data key="d2">1</data>
+</edge>
+<edge source="Red de Incubadoras TecNM" target="ITISTMO">
+  <data key="d2">4</data>
+</edge>
+<edge source="SUM" target="IODEMC">
+  <data key="d2">5</data>
+</edge>
+<edge source="UAO" target="Primero Por Ti">
+  <data key="d2">3</data>
+</edge>
+<edge source="UAO" target="El Imparcial">
+  <data key="d2">4</data>
+</edge>
+<edge source="ULSA Oaxaca" target="Oaxaca Activa">
+  <data key="d2">3</data>
+</edge>
+<edge source="UNID" target="SICADEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="UNPA" target="DDPR">
+  <data key="d2">5</data>
+</edge>
+<edge source="UTM" target="FabLab Oax">
+  <data key="d2">3</data>
+</edge>
+<edge source="CORTV" target="UTVCO">
+  <data key="d2">5</data>
+</edge>
+<edge source="ForoTV" target="Enactus UTM">
+  <data key="d2">2</data>
+</edge>
+<edge source="Milenio TV" target="Enactus UTM">
+  <data key="d2">3</data>
+</edge>
+<edge source="Noticias" target="UABJO">
+  <data key="d2">4</data>
+</edge>
+<edge source="PrensaDigital" target="IINOVACAFÉ">
+  <data key="d2">5</data>
+</edge>
+<edge source="CANACINTRA" target="COGNITIVO">
+  <data key="d2">5</data>
+</edge>
+<edge source="CANACINTRA" target="ProMéxico">
+  <data key="d2">4</data>
+</edge>
+<edge source="CANACO" target="SICADEM">
+  <data key="d2">4</data>
+</edge>
+<edge source="CANACO Huajuapan" target="DDPR">
+  <data key="d2">5</data>
+</edge>
+<edge source="CANACO Salina Cruz" target="ITSAL">
+  <data key="d2">4</data>
+</edge>
+<edge source="CANACOPE SERVYTUR OAXACA" target="COGNITIVO">
+  <data key="d2">4</data>
+</edge>
+<edge source="CANIRAC" target="Enactus UTM">
+  <data key="d2">4</data>
+</edge>
+<edge source="CEIT" target="ITISTMO">
+  <data key="d2">1</data>
+</edge>
+<edge source="CGUTyP" target="UTVCO">
+  <data key="d2">5</data>
+</edge>
+<edge source="Clúster Café" target="IINOVACAFÉ">
+  <data key="d2">3</data>
+</edge>
+<edge source="Clúster de Energía" target="SE">
+  <data key="d2">5</data>
+</edge>
+<edge source="Clúster de Energía" target="UNISTMO">
+  <data key="d2">5</data>
+</edge>
+<edge source="Clúster de Energía" target="UTVCO">
+  <data key="d2">5</data>
+</edge>
+<edge source="Consejo de Agroindustriales" target="COGNITIVO">
+  <data key="d2">3</data>
+</edge>
+<edge source="COPARMEX" target="UTVCO">
+  <data key="d2">4</data>
+</edge>
+<edge source="Enactus México" target="Enactus UTM">
+  <data key="d2">4</data>
+</edge>
+<edge source="Enactus Worldwide" target="Enactus UTM">
+  <data key="d2">5</data>
+</edge>
+<edge source="MIT EF México" target="COGNITIVO">
+  <data key="d2">5</data>
+</edge>
+<edge source="MIT EF México" target="UTVCO">
+  <data key="d2">5</data>
+</edge>
+<edge source="Cursolab" target="COGNITIVO">
+  <data key="d2">1</data>
+</edge>
+<edge source="Cursolab" target="IDEADORES">
+  <data key="d2">1</data>
+</edge>
+</graph></graphml>

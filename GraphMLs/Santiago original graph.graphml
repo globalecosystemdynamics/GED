@@ -1,0 +1,1856 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="Weight" attr.type="long"/>
+<key id="d1" for="node" attr.name="weight" attr.type="float"/>
+<key id="d0" for="node" attr.name="rol" attr.type="string"/>
+<graph edgedefault="directed"><node id="Acción Emprendedora">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="Universidad Mayor">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Acerca Redes">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="CoLab UC">
+  <data key="d0">Habilitador</data>
+  <data key="d1">3.0</data>
+</node>
+<node id="ACVC">
+  <data key="d0">Vinculador</data>
+  <data key="d1">2.4</data>
+</node>
+<node id="3IE UTFSM">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Acafi">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Hub APTA">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="Asociación de Empresas Familiares">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="BID">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="CMF">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CORFO">
+  <data key="d0">Articulador</data>
+  <data key="d1">32.6</data>
+</node>
+<node id="Endeavor">
+  <data key="d0">Habilitador</data>
+  <data key="d1">3.0</data>
+</node>
+<node id="Founder List">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="Hubtec">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.4</data>
+</node>
+<node id="Incuba UC">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.6</data>
+</node>
+<node id="INCUBATEC UFRO">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Invest Chile">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Know Hub Chile">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Ministerio de Ciencia, Tecnología, Conocimiento e Innovación">
+  <data key="d0">Articulador</data>
+  <data key="d1">3.8</data>
+</node>
+<node id="Ministerio de Economía, Fomento y Turismo">
+  <data key="d0">Articulador</data>
+  <data key="d1">5.4</data>
+</node>
+<node id="Prochile">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Sofofa">
+  <data key="d0">Vinculador</data>
+  <data key="d1">3.0</data>
+</node>
+<node id="Start-Up Chile">
+  <data key="d0">Habilitador</data>
+  <data key="d1">5.6</data>
+</node>
+<node id="UDD Ventures">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="Universidad Adolfo Ibañez">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="ADN Mentores">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="INNOVO-USACH">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="Alster Legal">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Startup Weekend">
+  <data key="d0">Comunidad</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="AMUCH">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="ASECH">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="Girls in Tech Chile">
+  <data key="d0">Comunidad</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="ASEXMA">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Asociacion de Generadoras de Chile">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="RT Electronics">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Asociación Nacional de Investigadores en Posgrado">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="Fundación Más Ciencia">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Babson College">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Balloon Latam">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="UAutónoma">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Universidad de Concepción">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="USM">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="UFT">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="UST">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Laboratorio de Gobierno">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="PUCC">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">11.6</data>
+</node>
+<node id="Sistema B">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="BCI">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.6</data>
+</node>
+<node id="Caja Los Andes">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="Innova UTEM">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Socialab">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.4</data>
+</node>
+<node id="Cámara Chilena de la Construcción">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="CCS">
+  <data key="d0">Vinculador</data>
+  <data key="d1">2.8</data>
+</node>
+<node id="CHILETEC">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Fundación Chile">
+  <data key="d0">Habilitador</data>
+  <data key="d1">3.2</data>
+</node>
+<node id="Fundación País Digital">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="Imagine Lab">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="Magical Startups">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Mujeres del Pacífico">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Santiago Innova">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="CDN Estación Central">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="CDT">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Club de Innovación">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.8</data>
+</node>
+<node id="Observatorio tecnológico de la construcción">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Open beaucheff">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Centro de Energía UC">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="Centro de Innovación UC Anacleto Angelini">
+  <data key="d0">Habilitador</data>
+  <data key="d1">7.8</data>
+</node>
+<node id="Charly.io">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="ChileCowork">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="CNN Chile">
+  <data key="d0">Promotor</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Simón de Cirene">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="Agora Partnerships">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="Desafío Levantemos Chile">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Doble Impacto">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Fis Ameris">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Revista Capital">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="ADN Angels">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Alaya">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Broota">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Dadneo">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="Diario Financiero">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Fondo Alerce">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="Fondo Clin">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Fondo Vulcano">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Fundación Telefónica Chile">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Gobierno Regional Metropolitano de Santiago">
+  <data key="d0">Articulador</data>
+  <data key="d1">2.6</data>
+</node>
+<node id="INACAP">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="La Tercera">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Latam Ventures Club">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Mujeres Empresarias Aceleradora">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Pulso Social">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Santander Universidades">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.8</data>
+</node>
+<node id="Duoc UC">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="Educación 2020">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="El Mercurio">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Equitas Capital">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Banco security">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Santander">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="Fablabs.io">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="FIA">
+  <data key="d0">Articulador</data>
+  <data key="d1">2.4</data>
+</node>
+<node id="CIREN">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="INIA">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="SERCOTEC">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.8</data>
+</node>
+<node id="CONICYT">
+  <data key="d0">Articulador</data>
+  <data key="d1">4.4</data>
+</node>
+<node id="CNID">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="DIPRES">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="GORE">
+  <data key="d0">Articulador</data>
+  <data key="d1">3.4</data>
+</node>
+<node id="Fondo Esperanza">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Cámara de Diputados del Congreso Nacional">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="Senado del Congreso Nacional">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="Explora Chile">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="UC">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">2.6</data>
+</node>
+<node id="Ganesha Lab">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="ChileGlobal">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Centro Nace">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="UCD Venture Catalyst">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Global Shapers">
+  <data key="d0">Comunidad</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Ilustre Municipalidad de Renca">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="munistgo">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="CasaCo">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Co-Work Latam">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.4</data>
+</node>
+<node id="WEF">
+  <data key="d0">Vinculador</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="USACH">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">2.8</data>
+</node>
+<node id="Aurus Capital">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Manutara Ventures">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="AUTM">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Innspiral">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="iF Chile">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Ilustre Municipiladidad de Estación Central">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Ilustre Municipiladidad de Las Condes">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Austral Capital">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Sura Asset Management">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="CYPICS">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Lo Barnechea Emprende">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Magma Partners">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="NXTP Labs">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Wayra">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Ministerio de Agricultura">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="Iniciativa Milenio">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CAMCHAL">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Congreso Futuro">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Fundación Ciencia y Vida">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Noches Nerd">
+  <data key="d0">Comunidad</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Radio Pauta">
+  <data key="d0">Promotor</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="WeWork">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="ProteinLab UTEM">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="ASIPLA">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Everis">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Innovación Chilena">
+  <data key="d0">Promotor</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="FONDEF-CONICYT">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Banco del Estado de Chile">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="OTL UC">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="PUCV">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="ASIVA">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Cámara Regional de Comercio de Valparaiso">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Innovación Chile">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="La Quinta Emprende">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Red GT">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="ChileMass">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Agencia de Sostenibilidad">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Greentown Labs">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CNS Colina">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CNS Santiago">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Gob. Zapopan">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="UDD">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.4</data>
+</node>
+<node id="We Americas">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="We Angels">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="JPAL">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="SENCE">
+  <data key="d0">Articulador</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="Radio zeta">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="YouNoodle">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="Fen">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Fuck Up Nights">
+  <data key="d0">Comunidad</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Techstars">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="Hub Providencia">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.6</data>
+</node>
+<node id="AMCHAM">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Cámara Franco Chilena para el Comercio y la Industria">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="UANDES">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="Fraunhofer de Chile">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Ministerio de Educación">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="UFRO">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="UNAB">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="HPI Deutschland">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.6</data>
+</node>
+<node id="Networker">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="UTEM">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="Wadhwani Foundation">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="ANID">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="AIA">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CEA Liten">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CIPTEMIN">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CSIC">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="MISTI-MIT">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="UCN">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="UV">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<edge source="Acción Emprendedora" target="Universidad Mayor">
+  <data key="d2">4</data>
+</edge>
+<edge source="Universidad Mayor" target="CORFO">
+  <data key="d2">3</data>
+</edge>
+<edge source="Universidad Mayor" target="Girls in Tech Chile">
+  <data key="d2">4</data>
+</edge>
+<edge source="Universidad Mayor" target="HPI Deutschland">
+  <data key="d2">3</data>
+</edge>
+<edge source="Universidad Mayor" target="Hub Providencia">
+  <data key="d2">3</data>
+</edge>
+<edge source="Universidad Mayor" target="ASECH">
+  <data key="d2">3</data>
+</edge>
+<edge source="Universidad Mayor" target="Balloon Latam">
+  <data key="d2">3</data>
+</edge>
+<edge source="Universidad Mayor" target="BCI">
+  <data key="d2">3</data>
+</edge>
+<edge source="Universidad Mayor" target="CCS">
+  <data key="d2">3</data>
+</edge>
+<edge source="Universidad Mayor" target="Centro de Innovación UC Anacleto Angelini">
+  <data key="d2">3</data>
+</edge>
+<edge source="Universidad Mayor" target="Club de Innovación">
+  <data key="d2">3</data>
+</edge>
+<edge source="Universidad Mayor" target="Co-Work Latam">
+  <data key="d2">3</data>
+</edge>
+<edge source="Universidad Mayor" target="Endeavor">
+  <data key="d2">3</data>
+</edge>
+<edge source="Universidad Mayor" target="Fablabs.io">
+  <data key="d2">3</data>
+</edge>
+<edge source="Universidad Mayor" target="Founder List">
+  <data key="d2">3</data>
+</edge>
+<edge source="Universidad Mayor" target="Ganesha Lab">
+  <data key="d2">3</data>
+</edge>
+<edge source="Universidad Mayor" target="Hubtec">
+  <data key="d2">3</data>
+</edge>
+<edge source="Universidad Mayor" target="INNOVO-USACH">
+  <data key="d2">3</data>
+</edge>
+<edge source="Universidad Mayor" target="Networker">
+  <data key="d2">3</data>
+</edge>
+<edge source="Universidad Mayor" target="Santander Universidades">
+  <data key="d2">3</data>
+</edge>
+<edge source="Universidad Mayor" target="Sofofa">
+  <data key="d2">3</data>
+</edge>
+<edge source="Universidad Mayor" target="Start-Up Chile">
+  <data key="d2">3</data>
+</edge>
+<edge source="Universidad Mayor" target="UTEM">
+  <data key="d2">3</data>
+</edge>
+<edge source="Universidad Mayor" target="Wadhwani Foundation">
+  <data key="d2">3</data>
+</edge>
+<edge source="Universidad Mayor" target="WeWork">
+  <data key="d2">3</data>
+</edge>
+<edge source="Acerca Redes" target="CoLab UC">
+  <data key="d2">4</data>
+</edge>
+<edge source="CoLab UC" target="Sistema B">
+  <data key="d2">2</data>
+</edge>
+<edge source="CoLab UC" target="Simón de Cirene">
+  <data key="d2">5</data>
+</edge>
+<edge source="CoLab UC" target="Agora Partnerships">
+  <data key="d2">4</data>
+</edge>
+<edge source="CoLab UC" target="CORFO">
+  <data key="d2">5</data>
+</edge>
+<edge source="CoLab UC" target="Centro de Innovación UC Anacleto Angelini">
+  <data key="d2">5</data>
+</edge>
+<edge source="CoLab UC" target="PUCC">
+  <data key="d2">5</data>
+</edge>
+<edge source="CoLab UC" target="Acafi">
+  <data key="d2">3</data>
+</edge>
+<edge source="CoLab UC" target="Desafío Levantemos Chile">
+  <data key="d2">3</data>
+</edge>
+<edge source="CoLab UC" target="Doble Impacto">
+  <data key="d2">3</data>
+</edge>
+<edge source="CoLab UC" target="Fis Ameris">
+  <data key="d2">3</data>
+</edge>
+<edge source="ACVC" target="3IE UTFSM">
+  <data key="d2">3</data>
+</edge>
+<edge source="ACVC" target="Acafi">
+  <data key="d2">3</data>
+</edge>
+<edge source="ACVC" target="Hub APTA">
+  <data key="d2">3</data>
+</edge>
+<edge source="ACVC" target="Asociación de Empresas Familiares">
+  <data key="d2">3</data>
+</edge>
+<edge source="ACVC" target="BID">
+  <data key="d2">3</data>
+</edge>
+<edge source="ACVC" target="CMF">
+  <data key="d2">3</data>
+</edge>
+<edge source="ACVC" target="CORFO">
+  <data key="d2">3</data>
+</edge>
+<edge source="ACVC" target="Endeavor">
+  <data key="d2">3</data>
+</edge>
+<edge source="ACVC" target="Founder List">
+  <data key="d2">3</data>
+</edge>
+<edge source="ACVC" target="Hubtec">
+  <data key="d2">3</data>
+</edge>
+<edge source="ACVC" target="Incuba UC">
+  <data key="d2">3</data>
+</edge>
+<edge source="ACVC" target="INCUBATEC UFRO">
+  <data key="d2">3</data>
+</edge>
+<edge source="ACVC" target="Invest Chile">
+  <data key="d2">3</data>
+</edge>
+<edge source="ACVC" target="Know Hub Chile">
+  <data key="d2">3</data>
+</edge>
+<edge source="ACVC" target="Ministerio de Ciencia, Tecnología, Conocimiento e Innovación">
+  <data key="d2">3</data>
+</edge>
+<edge source="ACVC" target="Ministerio de Economía, Fomento y Turismo">
+  <data key="d2">3</data>
+</edge>
+<edge source="ACVC" target="Prochile">
+  <data key="d2">3</data>
+</edge>
+<edge source="ACVC" target="Sofofa">
+  <data key="d2">3</data>
+</edge>
+<edge source="ACVC" target="Start-Up Chile">
+  <data key="d2">3</data>
+</edge>
+<edge source="ACVC" target="UDD Ventures">
+  <data key="d2">3</data>
+</edge>
+<edge source="ACVC" target="Universidad Adolfo Ibañez">
+  <data key="d2">3</data>
+</edge>
+<edge source="Hub APTA" target="USACH">
+  <data key="d2">4</data>
+</edge>
+<edge source="CORFO" target="Revista Capital">
+  <data key="d2">3</data>
+</edge>
+<edge source="CORFO" target="Ministerio de Economía, Fomento y Turismo">
+  <data key="d2">5</data>
+</edge>
+<edge source="CORFO" target="ADN Angels">
+  <data key="d2">3</data>
+</edge>
+<edge source="CORFO" target="Alaya">
+  <data key="d2">3</data>
+</edge>
+<edge source="CORFO" target="Broota">
+  <data key="d2">3</data>
+</edge>
+<edge source="CORFO" target="Centro de Innovación UC Anacleto Angelini">
+  <data key="d2">3</data>
+</edge>
+<edge source="CORFO" target="CoLab UC">
+  <data key="d2">3</data>
+</edge>
+<edge source="CORFO" target="Dadneo">
+  <data key="d2">3</data>
+</edge>
+<edge source="CORFO" target="Diario Financiero">
+  <data key="d2">3</data>
+</edge>
+<edge source="CORFO" target="Doble Impacto">
+  <data key="d2">3</data>
+</edge>
+<edge source="CORFO" target="Fondo Alerce">
+  <data key="d2">3</data>
+</edge>
+<edge source="CORFO" target="Fondo Clin">
+  <data key="d2">3</data>
+</edge>
+<edge source="CORFO" target="Fondo Vulcano">
+  <data key="d2">3</data>
+</edge>
+<edge source="CORFO" target="Fundación Chile">
+  <data key="d2">3</data>
+</edge>
+<edge source="CORFO" target="Fundación Telefónica Chile">
+  <data key="d2">3</data>
+</edge>
+<edge source="CORFO" target="Gobierno Regional Metropolitano de Santiago">
+  <data key="d2">3</data>
+</edge>
+<edge source="CORFO" target="INACAP">
+  <data key="d2">3</data>
+</edge>
+<edge source="CORFO" target="Incuba UC">
+  <data key="d2">3</data>
+</edge>
+<edge source="CORFO" target="INNOVO-USACH">
+  <data key="d2">3</data>
+</edge>
+<edge source="CORFO" target="La Tercera">
+  <data key="d2">3</data>
+</edge>
+<edge source="CORFO" target="Laboratorio de Gobierno">
+  <data key="d2">3</data>
+</edge>
+<edge source="CORFO" target="Latam Ventures Club">
+  <data key="d2">3</data>
+</edge>
+<edge source="CORFO" target="Mujeres Empresarias Aceleradora">
+  <data key="d2">3</data>
+</edge>
+<edge source="CORFO" target="Pulso Social">
+  <data key="d2">3</data>
+</edge>
+<edge source="CORFO" target="Santander Universidades">
+  <data key="d2">3</data>
+</edge>
+<edge source="Endeavor" target="Start-Up Chile">
+  <data key="d2">4</data>
+</edge>
+<edge source="Hubtec" target="Aurus Capital">
+  <data key="d2">3</data>
+</edge>
+<edge source="Hubtec" target="Manutara Ventures">
+  <data key="d2">3</data>
+</edge>
+<edge source="Hubtec" target="ACVC">
+  <data key="d2">4</data>
+</edge>
+<edge source="Hubtec" target="AUTM">
+  <data key="d2">4</data>
+</edge>
+<edge source="Hubtec" target="Ministerio de Ciencia, Tecnología, Conocimiento e Innovación">
+  <data key="d2">5</data>
+</edge>
+<edge source="Hubtec" target="CORFO">
+  <data key="d2">5</data>
+</edge>
+<edge source="Hubtec" target="Club de Innovación">
+  <data key="d2">3</data>
+</edge>
+<edge source="Hubtec" target="Innspiral">
+  <data key="d2">3</data>
+</edge>
+<edge source="Hubtec" target="Sofofa">
+  <data key="d2">3</data>
+</edge>
+<edge source="Incuba UC" target="Ministerio de Ciencia, Tecnología, Conocimiento e Innovación">
+  <data key="d2">2</data>
+</edge>
+<edge source="Incuba UC" target="ACVC">
+  <data key="d2">3</data>
+</edge>
+<edge source="Incuba UC" target="CoLab UC">
+  <data key="d2">3</data>
+</edge>
+<edge source="Incuba UC" target="Centro de Innovación UC Anacleto Angelini">
+  <data key="d2">5</data>
+</edge>
+<edge source="Incuba UC" target="Austral Capital">
+  <data key="d2">5</data>
+</edge>
+<edge source="Incuba UC" target="Santander Universidades">
+  <data key="d2">5</data>
+</edge>
+<edge source="Incuba UC" target="Sura Asset Management">
+  <data key="d2">5</data>
+</edge>
+<edge source="Incuba UC" target="PUCC">
+  <data key="d2">5</data>
+</edge>
+<edge source="Incuba UC" target="CORFO">
+  <data key="d2">5</data>
+</edge>
+<edge source="Incuba UC" target="Fondo Alerce">
+  <data key="d2">5</data>
+</edge>
+<edge source="Incuba UC" target="Acción Emprendedora">
+  <data key="d2">3</data>
+</edge>
+<edge source="Incuba UC" target="Agora Partnerships">
+  <data key="d2">3</data>
+</edge>
+<edge source="Incuba UC" target="CYPICS">
+  <data key="d2">3</data>
+</edge>
+<edge source="Incuba UC" target="FIA">
+  <data key="d2">3</data>
+</edge>
+<edge source="Incuba UC" target="Imagine Lab">
+  <data key="d2">3</data>
+</edge>
+<edge source="Incuba UC" target="Lo Barnechea Emprende">
+  <data key="d2">3</data>
+</edge>
+<edge source="Incuba UC" target="Magma Partners">
+  <data key="d2">3</data>
+</edge>
+<edge source="Incuba UC" target="Manutara Ventures">
+  <data key="d2">3</data>
+</edge>
+<edge source="Incuba UC" target="NXTP Labs">
+  <data key="d2">3</data>
+</edge>
+<edge source="Incuba UC" target="Start-Up Chile">
+  <data key="d2">3</data>
+</edge>
+<edge source="Incuba UC" target="Wayra">
+  <data key="d2">3</data>
+</edge>
+<edge source="Start-Up Chile" target="YouNoodle">
+  <data key="d2">1</data>
+</edge>
+<edge source="Start-Up Chile" target="Ministerio de Economía, Fomento y Turismo">
+  <data key="d2">5</data>
+</edge>
+<edge source="Start-Up Chile" target="CORFO">
+  <data key="d2">5</data>
+</edge>
+<edge source="Start-Up Chile" target="Co-Work Latam">
+  <data key="d2">5</data>
+</edge>
+<edge source="Start-Up Chile" target="Alaya">
+  <data key="d2">3</data>
+</edge>
+<edge source="Start-Up Chile" target="Fen">
+  <data key="d2">3</data>
+</edge>
+<edge source="Start-Up Chile" target="Fundación Chile">
+  <data key="d2">3</data>
+</edge>
+<edge source="UDD Ventures" target="Universidad Mayor">
+  <data key="d2">4</data>
+</edge>
+<edge source="Universidad Adolfo Ibañez" target="CORFO">
+  <data key="d2">4</data>
+</edge>
+<edge source="ADN Mentores" target="INNOVO-USACH">
+  <data key="d2">5</data>
+</edge>
+<edge source="INNOVO-USACH" target="ASECH">
+  <data key="d2">2</data>
+</edge>
+<edge source="INNOVO-USACH" target="Dadneo">
+  <data key="d2">4</data>
+</edge>
+<edge source="INNOVO-USACH" target="Incuba UC">
+  <data key="d2">4</data>
+</edge>
+<edge source="INNOVO-USACH" target="CORFO">
+  <data key="d2">5</data>
+</edge>
+<edge source="INNOVO-USACH" target="USACH">
+  <data key="d2">5</data>
+</edge>
+<edge source="INNOVO-USACH" target="FONDEF-CONICYT">
+  <data key="d2">5</data>
+</edge>
+<edge source="INNOVO-USACH" target="Banco del Estado de Chile">
+  <data key="d2">3</data>
+</edge>
+<edge source="INNOVO-USACH" target="BCI">
+  <data key="d2">3</data>
+</edge>
+<edge source="INNOVO-USACH" target="Founder List">
+  <data key="d2">3</data>
+</edge>
+<edge source="INNOVO-USACH" target="Santander Universidades">
+  <data key="d2">3</data>
+</edge>
+<edge source="Alster Legal" target="Startup Weekend">
+  <data key="d2">4</data>
+</edge>
+<edge source="Startup Weekend" target="PUCC">
+  <data key="d2">1</data>
+</edge>
+<edge source="Startup Weekend" target="CORFO">
+  <data key="d2">3</data>
+</edge>
+<edge source="Startup Weekend" target="Santander">
+  <data key="d2">4</data>
+</edge>
+<edge source="Startup Weekend" target="SERCOTEC">
+  <data key="d2">4</data>
+</edge>
+<edge source="Startup Weekend" target="Fuck Up Nights">
+  <data key="d2">5</data>
+</edge>
+<edge source="Startup Weekend" target="Start-Up Chile">
+  <data key="d2">5</data>
+</edge>
+<edge source="Startup Weekend" target="Techstars">
+  <data key="d2">5</data>
+</edge>
+<edge source="Startup Weekend" target="Hub Providencia">
+  <data key="d2">5</data>
+</edge>
+<edge source="Startup Weekend" target="Duoc UC">
+  <data key="d2">5</data>
+</edge>
+<edge source="Startup Weekend" target="AMCHAM">
+  <data key="d2">3</data>
+</edge>
+<edge source="Startup Weekend" target="Cámara Franco Chilena para el Comercio y la Industria">
+  <data key="d2">3</data>
+</edge>
+<edge source="AMUCH" target="Universidad Mayor">
+  <data key="d2">3</data>
+</edge>
+<edge source="ASECH" target="Girls in Tech Chile">
+  <data key="d2">1</data>
+</edge>
+<edge source="ASECH" target="Universidad Mayor">
+  <data key="d2">1</data>
+</edge>
+<edge source="ASEXMA" target="INNOVO-USACH">
+  <data key="d2">4</data>
+</edge>
+<edge source="Asociacion de Generadoras de Chile" target="RT Electronics">
+  <data key="d2">3</data>
+</edge>
+<edge source="RT Electronics" target="ChileMass">
+  <data key="d2">4</data>
+</edge>
+<edge source="RT Electronics" target="CORFO">
+  <data key="d2">4</data>
+</edge>
+<edge source="RT Electronics" target="PUCC">
+  <data key="d2">5</data>
+</edge>
+<edge source="RT Electronics" target="Agencia de Sostenibilidad">
+  <data key="d2">3</data>
+</edge>
+<edge source="RT Electronics" target="Centro de Innovación UC Anacleto Angelini">
+  <data key="d2">3</data>
+</edge>
+<edge source="RT Electronics" target="Greentown Labs">
+  <data key="d2">3</data>
+</edge>
+<edge source="Asociación Nacional de Investigadores en Posgrado" target="Fundación Más Ciencia">
+  <data key="d2">2</data>
+</edge>
+<edge source="Fundación Más Ciencia" target="Cámara de Diputados del Congreso Nacional">
+  <data key="d2">2</data>
+</edge>
+<edge source="Fundación Más Ciencia" target="Senado del Congreso Nacional">
+  <data key="d2">2</data>
+</edge>
+<edge source="Fundación Más Ciencia" target="Universidad de Concepción">
+  <data key="d2">2</data>
+</edge>
+<edge source="Fundación Más Ciencia" target="CONICYT">
+  <data key="d2">2</data>
+</edge>
+<edge source="Fundación Más Ciencia" target="Explora Chile">
+  <data key="d2">4</data>
+</edge>
+<edge source="Fundación Más Ciencia" target="PUCC">
+  <data key="d2">4</data>
+</edge>
+<edge source="Fundación Más Ciencia" target="UC">
+  <data key="d2">4</data>
+</edge>
+<edge source="Babson College" target="Universidad Mayor">
+  <data key="d2">5</data>
+</edge>
+<edge source="Balloon Latam" target="UAutónoma">
+  <data key="d2">3</data>
+</edge>
+<edge source="Balloon Latam" target="Universidad Adolfo Ibañez">
+  <data key="d2">3</data>
+</edge>
+<edge source="Balloon Latam" target="Universidad de Concepción">
+  <data key="d2">3</data>
+</edge>
+<edge source="Balloon Latam" target="Universidad Mayor">
+  <data key="d2">3</data>
+</edge>
+<edge source="Balloon Latam" target="USM">
+  <data key="d2">3</data>
+</edge>
+<edge source="Balloon Latam" target="UFT">
+  <data key="d2">4</data>
+</edge>
+<edge source="Balloon Latam" target="UST">
+  <data key="d2">4</data>
+</edge>
+<edge source="Balloon Latam" target="Laboratorio de Gobierno">
+  <data key="d2">4</data>
+</edge>
+<edge source="Balloon Latam" target="PUCC">
+  <data key="d2">5</data>
+</edge>
+<edge source="Balloon Latam" target="CORFO">
+  <data key="d2">5</data>
+</edge>
+<edge source="Balloon Latam" target="Sistema B">
+  <data key="d2">3</data>
+</edge>
+<edge source="Laboratorio de Gobierno" target="CoLab UC">
+  <data key="d2">3</data>
+</edge>
+<edge source="PUCC" target="CoLab UC">
+  <data key="d2">1</data>
+</edge>
+<edge source="PUCC" target="Fondo Alerce">
+  <data key="d2">1</data>
+</edge>
+<edge source="PUCC" target="Incuba UC">
+  <data key="d2">1</data>
+</edge>
+<edge source="PUCC" target="Start-Up Chile">
+  <data key="d2">4</data>
+</edge>
+<edge source="PUCC" target="CORFO">
+  <data key="d2">4</data>
+</edge>
+<edge source="PUCC" target="Balloon Latam">
+  <data key="d2">5</data>
+</edge>
+<edge source="BCI" target="Startup Weekend">
+  <data key="d2">3</data>
+</edge>
+<edge source="BCI" target="Start-Up Chile">
+  <data key="d2">4</data>
+</edge>
+<edge source="Caja Los Andes" target="Innova UTEM">
+  <data key="d2">1</data>
+</edge>
+<edge source="Caja Los Andes" target="Socialab">
+  <data key="d2">1</data>
+</edge>
+<edge source="Innova UTEM" target="Socialab">
+  <data key="d2">3</data>
+</edge>
+<edge source="Innova UTEM" target="Club de Innovación">
+  <data key="d2">5</data>
+</edge>
+<edge source="Innova UTEM" target="iF Chile">
+  <data key="d2">5</data>
+</edge>
+<edge source="Innova UTEM" target="Caja Los Andes">
+  <data key="d2">5</data>
+</edge>
+<edge source="Innova UTEM" target="CORFO">
+  <data key="d2">5</data>
+</edge>
+<edge source="Innova UTEM" target="ProteinLab UTEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="Innova UTEM" target="ASIPLA">
+  <data key="d2">5</data>
+</edge>
+<edge source="Innova UTEM" target="Everis">
+  <data key="d2">3</data>
+</edge>
+<edge source="Socialab" target="Broota">
+  <data key="d2">3</data>
+</edge>
+<edge source="Socialab" target="CCS">
+  <data key="d2">3</data>
+</edge>
+<edge source="Socialab" target="CORFO">
+  <data key="d2">3</data>
+</edge>
+<edge source="Socialab" target="Radio zeta">
+  <data key="d2">3</data>
+</edge>
+<edge source="Socialab" target="USM">
+  <data key="d2">3</data>
+</edge>
+<edge source="Socialab" target="Caja Los Andes">
+  <data key="d2">5</data>
+</edge>
+<edge source="Socialab" target="BID">
+  <data key="d2">5</data>
+</edge>
+<edge source="Cámara Chilena de la Construcción" target="Incuba UC">
+  <data key="d2">4</data>
+</edge>
+<edge source="CCS" target="Start-Up Chile">
+  <data key="d2">2</data>
+</edge>
+<edge source="CCS" target="CHILETEC">
+  <data key="d2">3</data>
+</edge>
+<edge source="CCS" target="CoLab UC">
+  <data key="d2">3</data>
+</edge>
+<edge source="CCS" target="CORFO">
+  <data key="d2">3</data>
+</edge>
+<edge source="CCS" target="Endeavor">
+  <data key="d2">3</data>
+</edge>
+<edge source="CCS" target="Fundación Chile">
+  <data key="d2">3</data>
+</edge>
+<edge source="CCS" target="Fundación País Digital">
+  <data key="d2">3</data>
+</edge>
+<edge source="CCS" target="Imagine Lab">
+  <data key="d2">3</data>
+</edge>
+<edge source="CCS" target="Magical Startups">
+  <data key="d2">3</data>
+</edge>
+<edge source="CCS" target="Mujeres del Pacífico">
+  <data key="d2">3</data>
+</edge>
+<edge source="CCS" target="Santiago Innova">
+  <data key="d2">3</data>
+</edge>
+<edge source="CCS" target="Socialab">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fundación País Digital" target="CORFO">
+  <data key="d2">4</data>
+</edge>
+<edge source="Imagine Lab" target="CORFO">
+  <data key="d2">5</data>
+</edge>
+<edge source="Santiago Innova" target="CORFO">
+  <data key="d2">5</data>
+</edge>
+<edge source="Santiago Innova" target="CCS">
+  <data key="d2">3</data>
+</edge>
+<edge source="Santiago Innova" target="CNS Colina">
+  <data key="d2">3</data>
+</edge>
+<edge source="Santiago Innova" target="CNS Santiago">
+  <data key="d2">3</data>
+</edge>
+<edge source="Santiago Innova" target="Duoc UC">
+  <data key="d2">3</data>
+</edge>
+<edge source="Santiago Innova" target="Gob. Zapopan">
+  <data key="d2">3</data>
+</edge>
+<edge source="Santiago Innova" target="Ilustre Municipalidad de Renca">
+  <data key="d2">3</data>
+</edge>
+<edge source="Santiago Innova" target="SERCOTEC">
+  <data key="d2">3</data>
+</edge>
+<edge source="Santiago Innova" target="Socialab">
+  <data key="d2">3</data>
+</edge>
+<edge source="Santiago Innova" target="UDD">
+  <data key="d2">3</data>
+</edge>
+<edge source="Santiago Innova" target="We Americas">
+  <data key="d2">3</data>
+</edge>
+<edge source="Santiago Innova" target="We Angels">
+  <data key="d2">3</data>
+</edge>
+<edge source="CDN Estación Central" target="INNOVO-USACH">
+  <data key="d2">5</data>
+</edge>
+<edge source="CDT" target="Cámara Chilena de la Construcción">
+  <data key="d2">3</data>
+</edge>
+<edge source="CDT" target="Club de Innovación">
+  <data key="d2">3</data>
+</edge>
+<edge source="CDT" target="CORFO">
+  <data key="d2">5</data>
+</edge>
+<edge source="CDT" target="Observatorio tecnológico de la construcción">
+  <data key="d2">3</data>
+</edge>
+<edge source="CDT" target="Open beaucheff">
+  <data key="d2">3</data>
+</edge>
+<edge source="Centro de Energía UC" target="RT Electronics">
+  <data key="d2">2</data>
+</edge>
+<edge source="Centro de Innovación UC Anacleto Angelini" target="Start-Up Chile">
+  <data key="d2">4</data>
+</edge>
+<edge source="Charly.io" target="Start-Up Chile">
+  <data key="d2">5</data>
+</edge>
+<edge source="ChileCowork" target="CORFO">
+  <data key="d2">5</data>
+</edge>
+<edge source="CNN Chile" target="RT Electronics">
+  <data key="d2">5</data>
+</edge>
+<edge source="Simón de Cirene" target="ASECH">
+  <data key="d2">1</data>
+</edge>
+<edge source="Simón de Cirene" target="SERCOTEC">
+  <data key="d2">2</data>
+</edge>
+<edge source="Simón de Cirene" target="CORFO">
+  <data key="d2">5</data>
+</edge>
+<edge source="Simón de Cirene" target="JPAL">
+  <data key="d2">5</data>
+</edge>
+<edge source="Simón de Cirene" target="SENCE">
+  <data key="d2">5</data>
+</edge>
+<edge source="Gobierno Regional Metropolitano de Santiago" target="INNOVO-USACH">
+  <data key="d2">2</data>
+</edge>
+<edge source="Gobierno Regional Metropolitano de Santiago" target="Innova UTEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="Duoc UC" target="RT Electronics">
+  <data key="d2">3</data>
+</edge>
+<edge source="Educación 2020" target="CoLab UC">
+  <data key="d2">5</data>
+</edge>
+<edge source="El Mercurio" target="CORFO">
+  <data key="d2">4</data>
+</edge>
+<edge source="Equitas Capital" target="CORFO">
+  <data key="d2">3</data>
+</edge>
+<edge source="Equitas Capital" target="Banco security">
+  <data key="d2">3</data>
+</edge>
+<edge source="Equitas Capital" target="Santander">
+  <data key="d2">3</data>
+</edge>
+<edge source="Equitas Capital" target="Start-Up Chile">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fablabs.io" target="Innova UTEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="FIA" target="CIREN">
+  <data key="d2">2</data>
+</edge>
+<edge source="FIA" target="INIA">
+  <data key="d2">2</data>
+</edge>
+<edge source="FIA" target="SERCOTEC">
+  <data key="d2">2</data>
+</edge>
+<edge source="FIA" target="CONICYT">
+  <data key="d2">3</data>
+</edge>
+<edge source="FIA" target="Ministerio de Ciencia, Tecnología, Conocimiento e Innovación">
+  <data key="d2">3</data>
+</edge>
+<edge source="FIA" target="Prochile">
+  <data key="d2">3</data>
+</edge>
+<edge source="FIA" target="CNID">
+  <data key="d2">4</data>
+</edge>
+<edge source="FIA" target="CORFO">
+  <data key="d2">5</data>
+</edge>
+<edge source="FIA" target="DIPRES">
+  <data key="d2">5</data>
+</edge>
+<edge source="FIA" target="GORE">
+  <data key="d2">5</data>
+</edge>
+<edge source="INIA" target="GORE">
+  <data key="d2">3</data>
+</edge>
+<edge source="INIA" target="Ministerio de Agricultura">
+  <data key="d2">3</data>
+</edge>
+<edge source="INIA" target="CONICYT">
+  <data key="d2">3</data>
+</edge>
+<edge source="INIA" target="CORFO">
+  <data key="d2">3</data>
+</edge>
+<edge source="INIA" target="FIA">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fondo Esperanza" target="Simón de Cirene">
+  <data key="d2">3</data>
+</edge>
+<edge source="UC" target="CONICYT">
+  <data key="d2">3</data>
+</edge>
+<edge source="UC" target="CORFO">
+  <data key="d2">3</data>
+</edge>
+<edge source="UC" target="Fraunhofer de Chile">
+  <data key="d2">3</data>
+</edge>
+<edge source="UC" target="Know Hub Chile">
+  <data key="d2">3</data>
+</edge>
+<edge source="UC" target="Ministerio de Economía, Fomento y Turismo">
+  <data key="d2">3</data>
+</edge>
+<edge source="UC" target="Ministerio de Educación">
+  <data key="d2">3</data>
+</edge>
+<edge source="UC" target="OTL UC">
+  <data key="d2">3</data>
+</edge>
+<edge source="Ganesha Lab" target="ACVC">
+  <data key="d2">2</data>
+</edge>
+<edge source="Ganesha Lab" target="Endeavor">
+  <data key="d2">2</data>
+</edge>
+<edge source="Ganesha Lab" target="Fondo Alerce">
+  <data key="d2">2</data>
+</edge>
+<edge source="Ganesha Lab" target="Hubtec">
+  <data key="d2">3</data>
+</edge>
+<edge source="Ganesha Lab" target="Ministerio de Ciencia, Tecnología, Conocimiento e Innovación">
+  <data key="d2">3</data>
+</edge>
+<edge source="Ganesha Lab" target="ChileGlobal">
+  <data key="d2">3</data>
+</edge>
+<edge source="Ganesha Lab" target="Sofofa">
+  <data key="d2">3</data>
+</edge>
+<edge source="Ganesha Lab" target="Centro Nace">
+  <data key="d2">4</data>
+</edge>
+<edge source="Ganesha Lab" target="Fundación Chile">
+  <data key="d2">4</data>
+</edge>
+<edge source="Ganesha Lab" target="UCD Venture Catalyst">
+  <data key="d2">5</data>
+</edge>
+<edge source="Ganesha Lab" target="CORFO">
+  <data key="d2">5</data>
+</edge>
+<edge source="Global Shapers" target="Ilustre Municipalidad de Renca">
+  <data key="d2">4</data>
+</edge>
+<edge source="Global Shapers" target="munistgo">
+  <data key="d2">4</data>
+</edge>
+<edge source="Global Shapers" target="CasaCo">
+  <data key="d2">4</data>
+</edge>
+<edge source="Global Shapers" target="Co-Work Latam">
+  <data key="d2">4</data>
+</edge>
+<edge source="Global Shapers" target="WEF">
+  <data key="d2">5</data>
+</edge>
+<edge source="USACH" target="Fundación Más Ciencia">
+  <data key="d2">3</data>
+</edge>
+<edge source="USACH" target="GORE">
+  <data key="d2">4</data>
+</edge>
+<edge source="USACH" target="Centro de Innovación UC Anacleto Angelini">
+  <data key="d2">5</data>
+</edge>
+<edge source="USACH" target="CORFO">
+  <data key="d2">5</data>
+</edge>
+<edge source="USACH" target="ANID">
+  <data key="d2">5</data>
+</edge>
+<edge source="USACH" target="CONICYT">
+  <data key="d2">5</data>
+</edge>
+<edge source="USACH" target="AIA">
+  <data key="d2">3</data>
+</edge>
+<edge source="USACH" target="CEA Liten">
+  <data key="d2">3</data>
+</edge>
+<edge source="USACH" target="CIPTEMIN">
+  <data key="d2">3</data>
+</edge>
+<edge source="USACH" target="CSIC">
+  <data key="d2">3</data>
+</edge>
+<edge source="USACH" target="Ministerio de Ciencia, Tecnología, Conocimiento e Innovación">
+  <data key="d2">3</data>
+</edge>
+<edge source="USACH" target="Ministerio de Economía, Fomento y Turismo">
+  <data key="d2">3</data>
+</edge>
+<edge source="USACH" target="Ministerio de Educación">
+  <data key="d2">3</data>
+</edge>
+<edge source="USACH" target="MISTI-MIT">
+  <data key="d2">3</data>
+</edge>
+<edge source="USACH" target="PUCC">
+  <data key="d2">3</data>
+</edge>
+<edge source="USACH" target="Sofofa">
+  <data key="d2">3</data>
+</edge>
+<edge source="USACH" target="UC">
+  <data key="d2">3</data>
+</edge>
+<edge source="USACH" target="UCN">
+  <data key="d2">3</data>
+</edge>
+<edge source="USACH" target="Universidad de Concepción">
+  <data key="d2">3</data>
+</edge>
+<edge source="iF Chile" target="Caja Los Andes">
+  <data key="d2">1</data>
+</edge>
+<edge source="iF Chile" target="Innova UTEM">
+  <data key="d2">1</data>
+</edge>
+<edge source="Ilustre Municipiladidad de Estación Central" target="INNOVO-USACH">
+  <data key="d2">4</data>
+</edge>
+<edge source="Ilustre Municipiladidad de Las Condes" target="INNOVO-USACH">
+  <data key="d2">4</data>
+</edge>
+<edge source="Iniciativa Milenio" target="UC">
+  <data key="d2">3</data>
+</edge>
+<edge source="Iniciativa Milenio" target="CAMCHAL">
+  <data key="d2">3</data>
+</edge>
+<edge source="Iniciativa Milenio" target="Centro de Innovación UC Anacleto Angelini">
+  <data key="d2">3</data>
+</edge>
+<edge source="Iniciativa Milenio" target="Congreso Futuro">
+  <data key="d2">3</data>
+</edge>
+<edge source="Iniciativa Milenio" target="CONICYT">
+  <data key="d2">3</data>
+</edge>
+<edge source="Iniciativa Milenio" target="CORFO">
+  <data key="d2">3</data>
+</edge>
+<edge source="Iniciativa Milenio" target="FIA">
+  <data key="d2">3</data>
+</edge>
+<edge source="Iniciativa Milenio" target="Fundación Chile">
+  <data key="d2">3</data>
+</edge>
+<edge source="Iniciativa Milenio" target="Fundación Ciencia y Vida">
+  <data key="d2">3</data>
+</edge>
+<edge source="Iniciativa Milenio" target="Noches Nerd">
+  <data key="d2">3</data>
+</edge>
+<edge source="Iniciativa Milenio" target="Radio Pauta">
+  <data key="d2">3</data>
+</edge>
+<edge source="Iniciativa Milenio" target="SERCOTEC">
+  <data key="d2">3</data>
+</edge>
+<edge source="Iniciativa Milenio" target="Start-Up Chile">
+  <data key="d2">3</data>
+</edge>
+<edge source="Iniciativa Milenio" target="USACH">
+  <data key="d2">3</data>
+</edge>
+<edge source="Iniciativa Milenio" target="WeWork">
+  <data key="d2">3</data>
+</edge>
+<edge source="Radio Pauta" target="RT Electronics">
+  <data key="d2">4</data>
+</edge>
+<edge source="ProteinLab UTEM" target="ASIPLA">
+  <data key="d2">1</data>
+</edge>
+<edge source="ProteinLab UTEM" target="Innova UTEM">
+  <data key="d2">1</data>
+</edge>
+<edge source="Innovación Chilena" target="Innova UTEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="OTL UC" target="Hubtec">
+  <data key="d2">5</data>
+</edge>
+<edge source="PUCV" target="CORFO">
+  <data key="d2">3</data>
+</edge>
+<edge source="PUCV" target="Hubtec">
+  <data key="d2">5</data>
+</edge>
+<edge source="PUCV" target="ASIVA">
+  <data key="d2">3</data>
+</edge>
+<edge source="PUCV" target="Cámara Regional de Comercio de Valparaiso">
+  <data key="d2">3</data>
+</edge>
+<edge source="PUCV" target="CONICYT">
+  <data key="d2">3</data>
+</edge>
+<edge source="PUCV" target="Gobierno Regional Metropolitano de Santiago">
+  <data key="d2">3</data>
+</edge>
+<edge source="PUCV" target="Innovación Chile">
+  <data key="d2">3</data>
+</edge>
+<edge source="PUCV" target="La Quinta Emprende">
+  <data key="d2">3</data>
+</edge>
+<edge source="PUCV" target="Ministerio de Economía, Fomento y Turismo">
+  <data key="d2">3</data>
+</edge>
+<edge source="PUCV" target="Red GT">
+  <data key="d2">3</data>
+</edge>
+<edge source="Red GT" target="Hubtec">
+  <data key="d2">3</data>
+</edge>
+<edge source="UDD" target="CORFO">
+  <data key="d2">4</data>
+</edge>
+<edge source="UDD" target="Hubtec">
+  <data key="d2">5</data>
+</edge>
+<edge source="Techstars" target="Startup Weekend">
+  <data key="d2">5</data>
+</edge>
+<edge source="UANDES" target="Hubtec">
+  <data key="d2">5</data>
+</edge>
+<edge source="UFRO" target="Hubtec">
+  <data key="d2">5</data>
+</edge>
+<edge source="UNAB" target="Hubtec">
+  <data key="d2">5</data>
+</edge>
+<edge source="UTEM" target="Innova UTEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="UV" target="Hubtec">
+  <data key="d2">5</data>
+</edge>
+</graph></graphml>

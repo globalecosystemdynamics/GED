@@ -1,0 +1,300 @@
+Id,Label,timeset,fullname,type,mentions,avg strength,weight,id dir,indegree,outdegree,Degree,weighted indegree,weighted outdegree,Weighted Degree,clustering,rol estimado,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,modularity_class,componentnumber,strongcompnum,triangles,eigencentrality
+Cenapyme,Cenapyme,,Centro Nacional de Apoyo a la Pequeña y Mediana Empresa,,,1,0.2,CDMX088,0,1,1,0,1,1,0,Habilitador,6,0.247098,0.258725,0,10,0,152,0,0.025775
+Compartamos Banco,Compartamos Banco,,Compartamos Banco,,,1,0.2,CDMX117,0,1,1,0,1,1,0,Habilitador,6,0.247098,0.258725,0,10,0,153,0,0.025775
+SECTEI,SECTEI,,"Secretaría de Educación, Ciencia, Tecnología e Innovación",,,1,0.2,CDMX358,1,0,1,1,0,1,0,Articulador,5,0.278765,0.295414,0,0,0,26,0,0.070557
+Victoria147,Victoria147,,Victoria 147 Academia de Negocios,,,1,0.2,CDMX426,1,0,1,1,0,1,0,Habilitador,7,0.200134,0.212832,0,9,0,154,0,0.006758
+Accenture,Accenture,,Accenture México,,,2,0.4,CDMX005,0,1,1,0,2,2,0,Habilitador,6,0.214852,0.229195,0,1,0,155,0,0.010384
+AMCDPE,AMCDPE,,Asociación Mexicana de Centros para el Desarrollo de la Pequeña Empresa,,,2,0.4,CDMX027,1,0,1,2,0,2,0,Vinculador,5,0.278765,0.295414,0,0,0,32,0,0.070557
+Dalus,Dalus,,Dalus Capital,,,1,0.4,CDMX130,1,2,3,1,2,3,0.333333,Habilitador,5,0.271898,0.294966,32.377223,5,0,151,1,0.072953
+Haz La Lucha,Haz La Lucha,,Haz La Lucha,,,2,0.4,CDMX223,0,1,1,0,2,2,0,Habilitador,6,0.234461,0.246477,0,3,0,156,0,0.014905
+TecNM,TecNM,,Tecnológico Nacional de México,,,2,0.4,CDMX397,1,0,1,2,0,2,0,Habilitador,5,0.278765,0.295414,0,0,0,99,0,0.070557
+AcelerA,AcelerA,,AcelerA Universidad Anáhuac México,,,3,0.6,CDMX006,0,2,2,0,10,10,0,Habilitador,5,0.261174,0.277013,131.716883,2,0,157,0,0.036657
+Agora,Agora,,Agora Partnerships,,,3,0.6,CDMX012,1,0,1,3,0,3,0,Habilitador,6,0.255794,0.274161,0,7,0,158,0,0.037324
+AIIMX,AIIMX,,Alianza por la Inversión de Impacto,,,3,0.6,CDMX013,1,0,1,3,0,3,0,Vinculador,6,0.255794,0.274161,0,7,0,159,0,0.037324
+ALEB Investments,ALEB Investments,,ALEB Investments,,,3,0.6,CDMX021,1,10,11,3,34,37,0.133333,Habilitador,5,0.329646,0.361969,1165.577108,2,0,163,6,0.398228
+Aliat Universidades,Aliat Universidades,,Aliat Universidades,,,3,0.6,CDMX023,0,2,2,0,10,10,0,Habilitador,5,0.25,0.264765,297,7,0,165,0,0.021913
+ALTEC,ALTEC,,Asociación Latino-Iberoamericana de Gestión Tecnológica,,,3,0.6,CDMX025,1,0,1,3,0,3,0,Vinculador,6,0.247303,0.266555,0,0,0,19,0,0.066348
+Bain & Co,Bain & Co,,Bain & Co,,,3,0.6,CDMX048,1,0,1,3,0,3,0,Habilitador,6,0.252115,0.269575,0,6,0,122,0,0.033898
+Banco Bienestar,Banco Bienestar,,"Banco del Bienestar, Sociedad Nacional de Crédito",,,3,0.6,CDMX049,1,0,1,3,0,3,0,Habilitador,6,0.261174,0.279418,0,0,0,98,0,0.056446
+BANCOMEXT,BANCOMEXT,,Banco Nacional de Comercio Exterior,,,3,0.6,CDMX051,1,0,1,3,0,3,0,Habilitador,6,0.229055,0.238591,0,1,0,166,0,0.012871
+Banxico,Banxico,,Banco de México,,,3,0.6,CDMX054,1,0,1,3,0,3,0,Articulador,6,0.261633,0.276286,0,10,0,145,0,0.044617
+BEDU,BEDU,,BEDU,,,3,0.6,CDMX058,0,1,1,0,3,3,0,Habilitador,6,0.238782,0.251846,0,8,0,167,0,0.021057
+BID Invest,BID Invest,,Corporación Interamericana de Inversiones,,,3,0.6,CDMX061,1,0,1,3,0,3,0,Habilitador,7,0.206086,0.221748,0,7,0,168,0,0.010173
+BID Lab,BID Lab,,BID Lab,,,3,0.6,CDMX062,1,0,1,3,0,3,0,Habilitador,7,0.206086,0.221748,0,7,0,169,0,0.010173
+Biofin,Biofin,,Biofin,,,3,0.6,CDMX065,1,0,1,3,0,3,0,Habilitador,6,0.255794,0.274161,0,7,0,170,0,0.037324
+BlueBox,BlueBox,,BlueBox,,,3,0.6,CDMX067,0,13,13,0,52,52,0,Habilitador,5,0.3069,0.342897,1847.872054,2,0,177,0,0.288552
+C Minds,C Minds,,C Minds,,,3,0.6,CDMX069,1,0,1,3,0,3,0,Habilitador,6,0.223556,0.239094,0,4,0,178,0,0.015048
+C2 Montréal,C2 Montréal,,C2 Montréal,,,3,0.6,CDMX070,0,1,1,0,3,3,0,Promotor,6,0.248127,0.260906,0,2,0,179,0,0.035342
+CAF,CAF,,Banco de Desarrollo de América Latina,,,3,0.6,CDMX071,1,0,1,3,0,3,0,Habilitador,7,0.206086,0.221748,0,7,0,180,0,0.010173
+CANACINTRA,CANACINTRA,,Cámara Nacional de la Industria de la Transformación,,,3,0.6,CDMX072,1,0,1,3,0,3,0,Vinculador,6,0.261174,0.279418,0,0,0,96,0,0.056446
+Capital Institute,Capital Institute,,Capital Institute,,,3,0.6,CDMX078,1,0,1,3,0,3,0,Habilitador,6,0.255794,0.274161,0,7,0,181,0,0.037324
+Capital Invent,Capital Invent,,Capital Invent,,,3,0.6,CDMX079,1,0,1,3,0,3,0,Habilitador,6,0.252115,0.269575,0,6,0,121,0,0.033898
+Capria,Capria,,Capria,,,3,0.6,CDMX081,1,0,1,3,0,3,0,Habilitador,7,0.206086,0.221748,0,7,0,182,0,0.010173
+CCE,CCE,,Consejo Coordinador Empresarial,,,3,0.6,CDMX083,1,0,1,3,0,3,0,Vinculador,6,0.223556,0.239094,0,4,0,183,0,0.015048
+Chivas Venture,Chivas Venture,,Chivas The Venture,,,3,0.6,CDMX096,1,0,1,3,0,3,0,Habilitador,5,0.277726,0.298546,0,2,0,141,0,0.081827
+Chrysalis,Chrysalis,,Chrysalis,,,3,0.6,CDMX097,1,0,1,3,0,3,0,Habilitador,6,0.235016,0.249609,0,2,0,172,0,0.027149
+CIC UNAM,CIC UNAM,,"Secretaria de Investigación y Desarrollo, CIC, UNAM",,,3,0.6,CDMX098,0,6,6,0,20,20,0,Generador de conocimiento,5,0.296813,0.317729,580.225357,1,0,184,0,0.129783
+CICE-BUAP,CICE-BUAP,,Centro de Innovación y Competitividad Empresarial de la Benemérita Universidad Autónoma de Puebla,,,3,0.6,CDMX099,1,0,1,3,0,3,0,Habilitador,6,0.261174,0.279418,0,0,0,95,0,0.056446
+CIEBT-IPN,CIEBT-IPN,,Centro de Incubación de Empresas de Base Tecnológica del Instituto Politécnico Nacional,,,3,0.6,CDMX100,5,21,26,15,72,87,0.04,Habilitador,5,0.353081,0.40604,4748.894951,0,0,151,12,0.624651
+Cinépolis,Cinépolis,,Cinépolis,,,3,0.6,CDMX101,1,0,1,3,0,3,0,Habilitador,5,0.284623,0.305034,0,5,0,116,0,0.080983
+Co Capital,Co Capital,,Co Capital,,,3,0.6,CDMX108,1,0,1,3,0,3,0,Habilitador,6,0.255794,0.274161,0,7,0,185,0,0.037324
+Co-Madre,Co-Madre,,Co-Madre,,,3,0.6,CDMX109,1,0,1,3,0,3,0,Habilitador,6,0.25042,0.267953,0,9,0,129,0,0.030922
+COLATAM,COLATAM,,Coworking Latinoamérica,,,3,0.6,CDMX111,1,0,1,3,0,3,0,Habilitador,5,0.277726,0.298546,0,2,0,143,0,0.081827
+Comunidad IoTinkerers,Comunidad IoTinkerers,,Comunidad IoTinkerers,,,3,0.6,CDMX119,0,11,11,0,54,54,0.027778,Comunidad,5,0.32286,0.355928,1364.403929,4,0,190,1,0.239274
+Continental,Continental,,Continental AG,,,3,0.6,CDMX126,1,0,1,3,0,3,0,Generador de conocimiento,5,0.284623,0.305034,0,5,0,115,0,0.080983
+COPARMEX,COPARMEX,,Confederación Patronal de la República Mexicana,,,3,0.6,CDMX127,1,0,1,3,0,3,0,Vinculador,6,0.248127,0.260906,0,2,0,160,0,0.035342
+DEG,DEG,,Deutsche Investitions,,,3,0.6,CDMX133,1,0,1,3,0,3,0,Habilitador,7,0.206086,0.221748,0,7,0,191,0,0.010173
+Dharma,Dharma,,Dharma Capital,,,3,0.6,CDMX135,1,0,1,3,0,3,0,Habilitador,6,0.261174,0.279418,0,0,0,94,0,0.056446
+Dynatrace,Dynatrace,,Dynatrace,,,3,0.6,CDMX140,1,0,1,3,0,3,0,Habilitador,6,0.241687,0.258837,0,4,0,75,0,0.022493
+EGADE,EGADE,,EGADE Business School,,,3,0.6,CDMX143,1,0,1,3,0,3,0,Habilitador,6,0.25042,0.267953,0,9,0,126,0,0.030922
+El Buen Socio,El Buen Socio,,El Buen Socio,,,3,0.6,CDMX144,1,0,1,3,0,3,0,Habilitador,6,0.255794,0.274161,0,7,0,192,0,0.037324
+eMerge Americas,eMerge Americas,,eMerge Americas,,,3,0.6,CDMX148,1,0,1,3,0,3,0,Habilitador,5,0.284623,0.305034,0,5,0,113,0,0.080983
+EPIC LAB,EPIC LAB,,"EPIC Lab, Centro ITAM de Creatividad, Innovación y Emprendimiento",,,3,0.6,CDMX153,3,21,24,15,81,96,0.007905,Habilitador,5,0.336723,0.386186,4006.270571,6,0,151,2,0.33211
+Epic Queen,Epic Queen,,Epic Queen,,,3,0.6,CDMX154,6,16,22,17,51,68,0.021053,Comunidad,5,0.333707,0.381935,3410.831562,9,0,151,4,0.3024
+ESMEX,ESMEX,,Emprendimiento Social México,,,3,0.6,CDMX155,1,0,1,3,0,3,0,Habilitador,6,0.240323,0.256655,0,4,0,66,0,0.022131
+Exitus Capital,Exitus Capital,,Exitus Capital,,,3,0.6,CDMX158,0,1,1,0,3,3,0,Habilitador,6,0.272644,0.290045,0,10,0,193,0,0.055186
+EY,EY,,EY,,,3,0.6,CDMX159,0,1,1,0,3,3,0,Habilitador,6,0.214852,0.229195,0,1,0,194,0,0.010384
+FCCyT,FCCyT,,Foro Consultivo Científico y Tecnológico,,,3,0.6,CDMX163,0,1,1,0,3,3,0,Vinculador,6,0.222887,0.235347,0,0,0,195,0,0.010435
+FEMSA,FEMSA,,Fomento Económico Mexicano,,,3,0.6,CDMX165,1,0,1,3,0,3,0,Habilitador,5,0.284623,0.305034,0,5,0,112,0,0.080983
+FIMPES,FIMPES,,Federación de Instituciones Mexicanas Particulares de Educación Superior,,,3,0.6,CDMX168,1,0,1,3,0,3,0,Vinculador,6,0.252115,0.269631,0,10,0,148,0,0.056243
+Finnovista,Finnovista,,Finnovista,,,3,0.6,CDMX170,5,8,13,19,33,52,0.015152,Habilitador,5,0.273394,0.308221,2217.09892,1,0,151,1,0.075081
+Fintech México,Fintech México,,Fintech México,,,3,0.6,CDMX171,1,0,1,3,0,3,0,Vinculador,5,0.284623,0.305034,0,5,0,111,0,0.080983
+FLIX,FLIX,,Foro Latinoamericano de Inversión de Impacto X,,,3,0.6,CDMX173,1,0,1,3,0,3,0,Habilitador,5,0.277726,0.298546,0,2,0,140,0,0.081827
+Fomento Geek,Fomento Geek,,Fomento Geek,,,3,0.6,CDMX175,1,0,1,3,0,3,0,Habilitador,6,0.252115,0.269631,0,10,0,147,0,0.056243
+Forbes México,Forbes México,,Forbes México,,,3,0.6,CDMX178,1,0,1,3,0,3,0,Promotor,6,0.241687,0.258837,0,4,0,71,0,0.022493
+Fortune,Fortune,,Fortune,,,3,0.6,CDMX179,1,11,12,4,38,42,0,Promotor,6,0.267025,0.303523,1689.868982,9,0,201,0,0.083245
+FRockefeller,FRockefeller,,Fundación Rockefeller,,,3,0.6,CDMX181,1,0,1,3,0,3,0,Habilitador,6,0.213314,0.226286,0,1,0,43,0,0.00899
+Fundación Telefónica,Fundación Telefónica,,Fundación Telefónica,,,3,0.6,CDMX188,0,1,1,0,3,3,0,Habilitador,6,0.25042,0.267953,0,9,0,202,0,0.030922
+GBM,GBM,,Grupo Bursátil Mexicano,,,3,0.6,CDMX193,1,0,1,3,0,3,0,Habilitador,6,0.252115,0.269575,0,6,0,120,0,0.033898
+GEN,GEN,,Global Entrepreneurship Network,,,3,0.6,CDMX195,1,0,1,3,0,3,0,Vinculador,5,0.277726,0.298546,0,2,0,139,0,0.081827
+Genome,Genome,,Startup Genome,,,3,0.6,CDMX196,1,0,1,3,0,3,0,Generador de conocimiento,5,0.277726,0.298546,0,2,0,138,0,0.081827
+GIZ,GIZ,,Deutsche Gesellschaft für Internationale Zusammenarbeit,,,3,0.6,CDMX198,0,1,1,0,3,3,0,Habilitador,6,0.234461,0.246477,0,3,0,203,0,0.014905
+Gob BajaCalifornia,Gob BajaCalifornia,,Gobierno del Estado de Baja California,,,3,0.6,CDMX200,1,0,1,3,0,3,0,Articulador,6,0.213009,0.230481,0,3,0,86,0,0.013616
+Gob BajaCaliforniaSur,Gob BajaCaliforniaSur,,Gobierno del Estado de Baja California Sur,,,3,0.6,CDMX201,1,0,1,3,0,3,0,Articulador,6,0.213009,0.230481,0,3,0,85,0,0.013616
+Gob Chihuahua,Gob Chihuahua,,Gobierno del Estado de Chihuahua,,,3,0.6,CDMX202,1,0,1,3,0,3,0,Articulador,6,0.213009,0.230481,0,3,0,84,0,0.013616
+Gob Coahuila,Gob Coahuila,,Gobierno del Estado de Coahuila,,,3,0.6,CDMX203,1,0,1,3,0,3,0,Articulador,6,0.213009,0.230481,0,3,0,83,0,0.013616
+Gob Guerrero,Gob Guerrero,,Gobierno del Estado de Guerrero,,,3,0.6,CDMX205,1,0,1,3,0,3,0,Articulador,6,0.213009,0.230481,0,3,0,82,0,0.013616
+Gob Jalisco,Gob Jalisco,,Gobierno del Estado de Jalisco,,,3,0.6,CDMX206,1,0,1,3,0,3,0,Articulador,6,0.213009,0.230481,0,3,0,81,0,0.013616
+Gob Nayarit,Gob Nayarit,,Gobierno del Estado de Nayarit,,,3,0.6,CDMX207,1,0,1,3,0,3,0,Articulador,6,0.213009,0.230481,0,3,0,80,0,0.013616
+Gob Sonora,Gob Sonora,,Gobierno del Estado de Sonora,,,3,0.6,CDMX210,1,0,1,3,0,3,0,Articulador,6,0.213009,0.230481,0,3,0,79,0,0.013616
+Grupo Expansión,Grupo Expansión,,Grupo Expansión,,,3,0.6,CDMX216,1,0,1,3,0,3,0,Promotor,6,0.241687,0.258837,0,4,0,70,0,0.022493
+Grupo Paisano,Grupo Paisano,,Grupo Paisano,,,3,0.6,CDMX217,1,0,1,3,0,3,0,Habilitador,6,0.255794,0.274161,0,7,0,204,0,0.037324
+GSG,GSG,,Global Steering Group,,,3,0.6,CDMX219,1,0,1,3,0,3,0,Vinculador,6,0.255794,0.274161,0,7,0,205,0,0.037324
+Hacking Health,Hacking Health,,Hacking Health,,,3,0.6,CDMX222,1,0,1,3,0,3,0,Comunidad,5,0.284623,0.305034,0,5,0,109,0,0.080983
+Heineken,Heineken,,Heineken International,,,3,0.6,CDMX224,1,0,1,3,0,3,0,Habilitador,5,0.284623,0.305034,0,5,0,108,0,0.080983
+Homework,Homework,,Homework,,,3,0.6,CDMX225,4,5,9,12,18,30,0.055556,Habilitador,5,0.313354,0.344743,1080.919389,8,0,151,2,0.22294
+HSBC,HSBC,,HSBC México,,,3,0.6,CDMX228,1,0,1,3,0,3,0,Habilitador,6,0.214852,0.229195,0,1,0,46,0,0.010384
+ICEM,ICEM,,Instituto Campechano del Emprendedor,,,3,0.6,CDMX234,1,0,1,3,0,3,0,Articulador,6,0.252115,0.269575,0,6,0,119,0,0.033898
+IEEGL ITESM,IEEGL ITESM,,Instituto de Emprendimiento Eugenio Garza Lagüera,,,3,0.6,CDMX237,0,1,1,0,5,5,0,Habilitador,5,0.284623,0.305034,0,5,0,206,0,0.080983
+IFT,IFT,,Instituto Federal de Telecomunicaciones,,,3,0.6,CDMX238,0,1,1,0,3,3,0,Articulador,6,0.25042,0.267953,0,9,0,207,0,0.030922
+IFTF,IFTF,,Institute for the Future,,,3,0.6,CDMX239,1,0,1,3,0,3,0,Generador de conocimiento,6,0.252115,0.269631,0,10,0,146,0,0.056243
+Impact Hub,Impact Hub,,Impact Hub,,,3,0.6,CDMX246,1,0,1,3,0,3,0,Habilitador,6,0.255794,0.274161,0,7,0,208,0,0.037324
+INCmty,INCmty,,INCmty,,,3,0.6,CDMX252,1,0,1,3,0,3,0,Habilitador,5,0.284623,0.305034,0,5,0,106,0,0.080983
+IOS Offices,IOS Offices,,IOS Offices,,,3,0.6,CDMX260,1,0,1,3,0,3,0,Habilitador,5,0.277726,0.298546,0,2,0,136,0,0.081827
+IPADE,IPADE,,IPADE Business School,,,3,0.6,CDMX261,1,0,1,3,0,3,0,Habilitador,5,0.277726,0.298546,0,2,0,135,0,0.081827
+JP Morgan,JP Morgan,,J.P. Morgan Chase,,,3,0.6,CDMX269,1,0,1,3,0,3,0,Habilitador,6,0.213314,0.226286,0,1,0,42,0,0.00899
+KDI,KDI,,Korea Development Institute,,,3,0.6,CDMX271,1,0,1,3,0,3,0,Generador de conocimiento,6,0.261174,0.279418,0,0,0,92,0,0.056446
+LabCDMX,LabCDMX,,Laboratorio de la Ciudad de México,,,3,0.6,CDMX275,0,1,1,0,3,3,0,Habilitador,6,0.241687,0.258837,0,4,0,209,0,0.022493
+Laboratoria,Laboratoria,,Laboratoria,,,3,0.6,CDMX276,0,8,8,0,34,34,0,Habilitador,6,0.25,0.277237,1484.149824,9,0,214,0,0.046147
+Mercado Libre,Mercado Libre,,Mercado Libre México,,,3,0.6,CDMX290,1,0,1,3,0,3,0,Habilitador,7,0.210899,0.226486,0,9,0,200,0,0.011024
+Micochinito,Micochinito,,Micochinito.com,,,3,0.6,CDMX293,1,0,1,3,0,3,0,Habilitador,6,0.261174,0.279418,0,0,0,91,0,0.056446
+Nexos,Nexos,,Revista Nexos,,,3,0.6,CDMX305,1,0,1,3,0,3,0,Promotor,6,0.223556,0.239094,0,4,0,215,0,0.015048
+Open Sandbox,Open Sandbox,,Open Sandbox,,,3,0.6,CDMX315,1,0,1,3,0,3,0,Habilitador,6,0.241687,0.258837,0,4,0,69,0,0.022493
+Play Business,Play Business,,Play Business,,,3,0.6,CDMX322,1,0,1,3,0,3,0,Habilitador,5,0.284623,0.305034,0,5,0,105,0,0.080983
+Pomona Impact,Pomona Impact,,Pomona Impact,,,3,0.6,CDMX323,1,0,1,3,0,3,0,Habilitador,6,0.255794,0.274161,0,7,0,216,0,0.037324
+PROPARCO,PROPARCO,,PROPARCO Agence Francaise de Développement,,,3,0.6,CDMX330,1,0,1,3,0,3,0,Habilitador,7,0.206086,0.221748,0,7,0,197,0,0.010173
+Radio Fórmula,Radio Fórmula,,Radio Fórmula,,,3,0.6,CDMX334,1,0,1,3,0,3,0,Promotor,6,0.223556,0.239094,0,4,0,217,0,0.015048
+Ronin PR Mexico,Ronin PR Mexico,,Ronin PR Mexico,,,3,0.6,CDMX343,4,15,19,14,51,65,0.005848,Habilitador,5,0.318376,0.364485,3424.023836,4,0,151,1,0.206991
+Samsung,Samsung,,Samsung México,,,3,0.6,CDMX346,1,0,1,3,0,3,0,Habilitador,6,0.261174,0.279418,0,0,0,78,0,0.056446
+SEDECO GTO,SEDECO GTO,,Secretaría de Desarrollo Económico de Guanajuato,,,3,0.6,CDMX362,1,0,1,3,0,3,0,Articulador,5,0.277726,0.298546,0,2,0,133,0,0.081827
+Shark Tank,Shark Tank,,Shark Tank México,,,3,0.6,CDMX367,1,0,1,3,0,3,0,Promotor,5,0.277726,0.298546,0,2,0,131,0,0.081827
+Social Media Week,Social Media Week,,Social Media Week México,,,3,0.6,CDMX373,1,0,1,3,0,3,0,Promotor,6,0.241687,0.258837,0,4,0,68,0,0.022493
+Soros,Soros,,Soros Economic Development Fund,,,3,0.6,CDMX377,1,0,1,3,0,3,0,Habilitador,6,0.213314,0.226286,0,1,0,41,0,0.00899
+Sperentia,Sperentia,,Sperentia,,,3,0.6,CDMX379,1,0,1,3,0,3,0,Habilitador,6,0.252115,0.269575,0,6,0,118,0,0.033898
+Startup Chile,Startup Chile,,Startup Chile,,,3,0.6,CDMX381,1,0,1,3,0,3,0,Habilitador,6,0.235016,0.249609,0,2,0,176,0,0.027149
+Startup Essentials,Startup Essentials,,Startup Essentials Inc.,,,3,0.6,CDMX382,1,0,1,3,0,3,0,Habilitador,5,0.284623,0.305034,0,5,0,103,0,0.080983
+Startup Gdl,Startup Gdl,,Startup Guadalajara,,,3,0.6,CDMX383,1,0,1,3,0,3,0,Habilitador,6,0.246281,0.264374,0,4,0,53,0,0.028253
+StartupBus,StartupBus,,StartupBus,,,3,0.6,CDMX387,1,0,1,3,0,3,0,Habilitador,5,0.284623,0.305034,0,5,0,102,0,0.080983
+Supter,Supter,,Supter,,,3,0.6,CDMX390,1,0,1,3,0,3,0,Habilitador,5,0.284623,0.305034,0,5,0,101,0,0.080983
+SVX,SVX,,SVX,,,3,0.6,CDMX391,0,25,25,0,79,79,0,Habilitador,5,0.343318,0.395302,5394.342281,7,0,221,0,0.368789
+TechnoPoli,TechnoPoli,,Unidad de Desarrollo Tecnológico TechnoPoli,,,3,0.6,CDMX395,3,15,18,9,59,68,0.006536,Habilitador,5,0.270417,0.315157,3445.994628,3,0,151,1,0.097814
+Techstars,Techstars,,Techstars,,,3,0.6,CDMX396,0,1,1,0,5,5,0,Habilitador,7,0.219602,0.233853,0,4,0,222,0,0.014532
+UDD,UDD,,UDD Ventures,,,3,0.6,CDMX409,1,0,1,3,0,3,0,Habilitador,6,0.235016,0.249609,0,2,0,175,0,0.027149
+Universidad La Salle,Universidad La Salle,,Universidad La Salle,,,3,0.6,CDMX418,10,12,22,39,45,84,0.052632,Habilitador,5,0.374372,0.42377,3897.331256,10,0,151,10,0.607648
+Unreasonable México,Unreasonable México,,Unreasonable México,,,3,0.6,CDMX419,1,0,1,3,0,3,0,Habilitador,6,0.255794,0.274161,0,7,0,219,0,0.037324
+UP,UP,,Universidad Panamericana,,,3,0.6,CDMX420,1,11,12,4,43,47,0.066667,Habilitador,4,0.342529,0.373322,1508.789601,7,0,151,3,0.31208
+UVM,UVM,,Universidad del Valle de México,,,3,0.6,CDMX423,5,4,9,13,20,33,0.035714,Habilitador,5,0.327833,0.355928,951.464579,10,0,151,1,0.285376
+WeXchange,WeXchange,,WeXchange,,,3,0.6,CDMX436,1,0,1,3,0,3,0,Habilitador,6,0.241687,0.258837,0,4,0,67,0,0.022493
+Wild,Wild,,Wild Entrepreneur,,,3,0.6,CDMX437,0,1,1,0,3,3,0,Promotor,6,0.238782,0.251846,0,8,0,223,0,0.021057
+Zona Ei ITESM,Zona Ei ITESM,,Zona Ei ITESM,,,3,0.6,CDMX445,1,0,1,3,0,3,0,Habilitador,5,0.284623,0.305034,0,5,0,100,0,0.080983
+YouTube,YouTube,,YouTube,,,3,0.6,CDMX446,1,0,1,3,0,3,0,Promotor,7,0.210899,0.226486,0,9,0,199,0,0.011024
+WeWork Labs,WeWork Labs,,WeWork Labs,,,3,0.6,CDMX447,4,9,13,17,24,41,0.045455,Habilitador,5,0.304082,0.33764,1124.894942,5,0,151,3,0.158487
+AEM,AEM,,Asociación de Empresarios Mexicanos,,,3,0.6,CDMX449,1,0,1,3,0,3,0,Vinculador,6,0.248127,0.260906,0,2,0,161,0,0.035342
+SEDECO QRO,SEDECO QRO,,Secretaría de Desarrollo Económico de Querétaro,,,3,0.6,CDMX450,1,0,1,3,0,3,0,Articulador,5,0.277726,0.298546,0,2,0,132,0,0.081827
+AMEXCID,AMEXCID,,Agencia Mexicana de Cooperación Internacional para el Desarrollo,,,2,0.8,CDMX030,1,2,3,3,2,5,0.333333,Articulador,6,0.268468,0.295078,290.712849,0,0,151,1,0.07363
+AngelHack,AngelHack,,AngelHack,,,4,0.8,CDMX034,0,1,1,0,4,4,0,Habilitador,6,0.233359,0.2467,0,5,0,224,0,0.017294
+ANUIES,ANUIES,,Asociación Nacional de Universidades e Instituciones de Educación Superior,,,2,0.8,CDMX038,2,0,2,4,0,4,0,Vinculador,5,0.286538,0.307998,6.610395,10,0,33,0,0.1268
+AT&T,AT&T,,AT&T México,,,4,0.8,CDMX046,1,0,1,4,0,4,0,Habilitador,7,0.200134,0.212832,0,9,0,213,0,0.006758
+Banregio,Banregio,,BanRegio,,,4,0.8,CDMX053,1,0,1,4,0,4,0,Habilitador,6,0.214852,0.229195,0,1,0,47,0,0.010384
+Canal 21,Canal 21,,Canal 21,,,4,0.8,CDMX075,1,0,1,4,0,4,0,Promotor,6,0.238974,0.257327,0,0,0,18,0,0.061371
+CCEMx,CCEMx,,Centro Cultural de España en México,,,4,0.8,CDMX084,0,1,1,0,4,4,0,Habilitador,6,0.25042,0.267953,0,9,0,225,0,0.030922
+CISCO,CISCO,,Cisco Systems de México,,,4,0.8,CDMX102,1,0,1,4,0,4,0,Habilitador,7,0.200134,0.212832,0,9,0,212,0,0.006758
+Cleantech Labs CDMX,Cleantech Labs CDMX,,Cleantech Labs CDMX,,,4,0.8,CDMX105,2,0,2,5,0,5,1,Habilitador,6,0.256675,0.280201,0,0,0,9,1,0.127719
+Deloitte,Deloitte,,Deloitte México,,,4,0.8,CDMX134,1,0,1,4,0,4,0,Habilitador,7,0.210899,0.226486,0,9,0,196,0,0.011024
+Dux Capital,Dux Capital,,Dux Capital,,,4,0.8,CDMX139,1,0,1,4,0,4,0,Habilitador,5,0.277726,0.298546,0,2,0,6,0,0.081827
+El Financiero,El Financiero,,El Financiero,,,4,0.8,CDMX146,1,0,1,4,0,4,0,Promotor,6,0.241687,0.258837,0,4,0,77,0,0.022493
+Enlace+,Enlace+,,Enlace+,,,4,0.8,CDMX151,1,0,1,4,0,4,0,Habilitador,6,0.238782,0.251846,0,8,0,150,0,0.021057
+FLDM,FLDM,,Facultad Libre de Derecho de Monterrey,,,4,0.8,CDMX172,2,0,2,5,0,5,1,Habilitador,6,0.265125,0.28406,0,5,0,51,1,0.05735
+Grupo Salinas,Grupo Salinas,,Grupo Salinas,,,4,0.8,CDMX218,0,1,1,0,4,4,0,Habilitador,6,0.246281,0.264374,0,4,0,226,0,0.028253
+Imagine Lab,Imagine Lab,,Imagine Lab,,,4,0.8,CDMX242,1,0,1,4,0,4,0,Habilitador,6,0.235016,0.249609,0,2,0,173,0,0.027149
+IMP,IMP,,Instituto Mexicano del Petróleo,,,4,0.8,CDMX245,1,0,1,4,0,4,0,Generador de conocimiento,6,0.247303,0.266555,0,0,0,10,0,0.066348
+InBIA,InBIA,,InBIA,,,4,0.8,CDMX251,1,0,1,4,0,4,0,Habilitador,5,0.278765,0.295414,0,0,0,31,0,0.070557
+Intel,Intel,,Intel México,,,4,0.8,CDMX258,0,1,1,0,4,4,0,Generador de conocimiento,7,0.210899,0.226486,0,9,0,227,0,0.011024
+IPN,IPN,,Instituto Politécnico Nacional,,,4,0.8,CDMX262,1,0,1,4,0,4,0,Generador de conocimiento,6,0.238974,0.257327,0,0,0,14,0,0.061371
+KVIC,KVIC,,Korea Venture Investment Corporation,,,4,0.8,CDMX274,1,0,1,4,0,4,0,Habilitador,6,0.256454,0.272651,0,1,0,65,0,0.031332
+Latinia,Latinia,,LATINIA,,,4,0.8,CDMX277,1,0,1,4,0,4,0,Habilitador,6,0.214852,0.229195,0,1,0,38,0,0.010384
+LAVCA,LAVCA,,Latin American Venture Capital Association,,,2,0.8,CDMX279,2,0,2,4,0,4,0,Vinculador,6,0.255356,0.272651,4.266667,2,0,162,0,0.062491
+Magical Startups,Magical Startups,,Magical Startups,,,4,0.8,CDMX284,1,0,1,4,0,4,0,Habilitador,6,0.235016,0.249609,0,2,0,174,0,0.027149
+MCM,MCM,,MCM Telecomunicaciones,,,4,0.8,CDMX289,1,0,1,4,0,4,0,Habilitador,5,0.277726,0.298546,0,2,0,7,0,0.081827
+Revista Investigación y Desarrollo,Revista Investigación y Desarrollo,,Revista Investigación y Desarrollo,,,4,0.8,CDMX342,0,1,1,0,4,4,0,Promotor,6,0.247303,0.266555,0,0,0,228,0,0.066348
+Santander X,Santander X,,Santander X,,,4,0.8,CDMX351,0,1,1,0,4,4,0,Habilitador,6,0.272644,0.290045,0,10,0,229,0,0.055186
+UMA,UMA,,Universidad Marista,,,4,0.8,CDMX411,0,1,1,0,4,4,0,Habilitador,5,0.277726,0.298546,0,2,0,230,0,0.081827
+Alacrity,Alacrity,,Alacrity,,,5,1,CDMX015,0,1,1,0,5,5,0,Habilitador,6,0.272644,0.290045,0,10,0,231,0,0.055186
+Apolo25,Apolo25,,Apolo25,,,5,1,CDMX040,0,1,1,0,5,5,0,Habilitador,6,0.263251,0.280257,0,5,0,232,0,0.049506
+Bancoldex,Bancoldex,,Banco de Comercio Exterior de Colombia,,,5,1,CDMX050,1,0,1,5,0,5,0,Habilitador,6,0.256454,0.272651,0,1,0,63,0,0.031332
+Banorte,Banorte,,Grupo Financiero Banorte,,,5,1,CDMX052,1,0,1,5,0,5,0,Habilitador,6,0.256454,0.272651,0,1,0,62,0,0.031332
+Cervantes Sainz,Cervantes Sainz,,Cervantes Sainz Abogados,,,5,1,CDMX092,1,0,1,5,0,5,0,Habilitador,6,0.263251,0.280257,0,5,0,48,0,0.049506
+Colony,Colony,,ColonyCapital,,,5,1,CDMX113,1,0,1,5,0,5,0,Habilitador,6,0.246281,0.264374,0,4,0,52,0,0.028253
+Comunicación social CDMX,Comunicación social CDMX,,Comunicación Social de Jefatura del Gobierno de la Ciudad de México,,,5,1,CDMX118,0,1,1,0,5,5,0,Promotor,6,0.238974,0.257327,0,0,0,233,0,0.061371
+CONCAMIN,CONCAMIN,,Confederación de Cámaras Industriales,,,5,1,CDMX123,0,1,1,0,5,5,0,Vinculador,6,0.272644,0.290045,0,10,0,234,0,0.055186
+EMPATITIS,EMPATITIS,,EMPATITIS,,,5,1,CDMX149,1,0,1,5,0,5,0,Habilitador,5,0.255356,0.267338,0,7,0,144,0,0.028703
+Fablab CDMX,Fablab CDMX,,Fab-Lab CDMX,,,5,1,CDMX160,1,0,1,5,0,5,0,Habilitador,6,0.244262,0.257886,0,4,0,189,0,0.023403
+FIDBAN,FIDBAN,,Fundación Innovación y Desarrollo Business Angels,,,5,1,CDMX166,1,0,1,5,0,5,0,Habilitador,6,0.261174,0.279418,0,0,0,35,0,0.056446
+FINANZAS CDMX,FINANZAS CDMX,,Secretaría de Administración y Finanzas de la Ciudad de México,,,5,1,CDMX169,2,0,2,6,0,6,1,Articulador,6,0.242276,0.261689,0,0,0,15,1,0.088168
+Fundación Citi,Fundación Citi,,Fundación Citi,,,5,1,CDMX186,1,0,1,5,0,5,0,Habilitador,7,0.200134,0.212832,0,9,0,211,0,0.006758
+G2,G2,,G2 Momentum Capital,,,5,1,CDMX191,0,1,1,0,5,5,0,Habilitador,6,0.233359,0.2467,0,5,0,235,0,0.017294
+Gob Gto,Gob Gto,,Gobierno del Estado de Guanajuato,,,5,1,CDMX204,1,0,1,5,0,5,0,Articulador,5,0.277726,0.298546,0,2,0,142,0,0.081827
+Gob Nuevo Laredo,Gob Nuevo Laredo,,Gobierno de Nuevo Laredo,,,5,1,CDMX208,0,1,1,0,5,5,0,Articulador,5,0.277726,0.298546,0,2,0,236,0,0.081827
+Gob Tam,Gob Tam,,Gobierno del Estado de Tamaulipas,,,5,1,CDMX211,1,0,1,5,0,5,0,Articulador,6,0.213009,0.230481,0,3,0,89,0,0.013616
+H/F,H/F,,Hackers/Founders,,,5,1,CDMX220,1,0,1,5,0,5,0,Comunidad,6,0.246281,0.264374,0,4,0,55,0,0.028253
+IBM,IBM,,IBM México,,,2.5,1,CDMX232,2,0,2,5,0,5,0,Habilitador,5,0.294466,0.318512,513.223705,5,0,107,0,0.092006
+IBT UNAM,IBT UNAM,,Instituto de Biotecnología de la Universidad Nacional Autónoma de México,,,5,1,CDMX233,1,0,1,5,0,5,0,Generador de conocimiento,6,0.222887,0.235347,0,0,0,117,0,0.010435
+Konedtitud,Konedtitud,,Konedtitud,,,5,1,CDMX273,1,0,1,5,0,5,0,Comunidad,6,0.244262,0.257886,0,4,0,188,0,0.023403
+Le Wagon,Le Wagon,,Le Wagon,,,5,1,CDMX281,0,1,1,0,5,5,0,Habilitador,6,0.252115,0.269575,0,6,0,237,0,0.033898
+MSICT,MSICT,,Ministry of Science and ICT (S.Korea),,,5,1,CDMX300,2,0,2,6,0,6,1,Articulador,6,0.225758,0.246197,0,3,0,88,1,0.021715
+Nuance,Nuance,,Nuance México,,,5,1,CDMX308,0,1,1,0,5,5,0,Habilitador,6,0.241687,0.258837,0,4,0,238,0,0.022493
+Oracle,Oracle,,Oracle México,,,2.5,1,CDMX316,2,0,2,5,0,5,0,Habilitador,5,0.285988,0.310459,173.135801,2,0,134,0,0.092851
+ProEmpleo,ProEmpleo,,ProEmpleo D.F.,,,5,1,CDMX326,1,0,1,5,0,5,0,Habilitador,6,0.238974,0.257327,0,0,0,13,0,0.061371
+PwC,PwC,,PwC,,,5,1,CDMX332,0,1,1,0,5,5,0,Habilitador,6,0.252115,0.269575,0,6,0,239,0,0.033898
+Rainmaking,Rainmaking,,Rainmaking,,,5,1,CDMX335,1,0,1,5,0,5,0,Habilitador,6,0.214852,0.229195,0,1,0,36,0,0.010384
+RAMPA,RAMPA,,RAMPA,,,5,1,CDMX336,1,0,1,5,0,5,0,Habilitador,6,0.246281,0.264374,0,4,0,54,0,0.028253
+SCT,SCT,,Secretaría de Comunicaciones y Transportes,,,5,1,CDMX354,0,1,1,0,5,5,0,Articulador,6,0.213009,0.230481,0,3,0,240,0,0.013616
+UNAM Facultad de Química,UNAM Facultad de Química,,UNAM Facultad de Química,,,5,1,CDMX413,1,0,1,5,0,5,0,Generador de conocimiento,6,0.252115,0.269575,0,6,0,125,0,0.033898
+Unboxed,Unboxed,,Unboxed,,,5,1,CDMX414,1,0,1,5,0,5,0,Habilitador,6,0.200134,0.208277,0,7,0,164,0,0.003132
+UNINI,UNINI,,Universidad Internacional Iberoamericana,,,5,1,CDMX415,1,0,1,5,0,5,0,Generador de conocimiento,6,0.213009,0.230481,0,3,0,87,0,0.013616
+Universidad de Salamanca,Universidad de Salamanca,,Universidad de Salamanca,,,5,1,CDMX417,1,0,1,5,0,5,0,Generador de conocimiento,6,0.261174,0.279418,0,0,0,34,0,0.056446
+Venture Well,Venture Well,,Venture Well,,,5,1,CDMX425,1,0,1,5,0,5,0,Habilitador,6,0.252115,0.269575,0,6,0,123,0,0.033898
+Visa,Visa,,Visa México,,,5,1,CDMX428,0,1,1,0,5,5,0,Habilitador,6,0.214852,0.229195,0,1,0,241,0,0.010384
+Wizeline,Wizeline,,Wizeline,,,5,1,CDMX438,0,1,1,0,5,5,0,Habilitador,6,0.241687,0.258837,0,4,0,242,0,0.022493
+World Resources Institute,World Resources Institute,,World Resources Institute,,,5,1,CDMX442,1,0,1,5,0,5,0,Generador de conocimiento,6,0.213467,0.223714,0,7,0,3,0,0.007578
+ASELA,ASELA,,Asociación de Emprendedores de Latinoamérica,,,3,1.2,CDMX043,0,3,3,0,7,7,1,Vinculador,5,0.299799,0.324273,0,5,0,243,1,0.179995
+COW,COW,,COW,,,3,1.2,CDMX129,2,0,2,6,0,6,1,Habilitador,5,0.297109,0.322427,0,5,0,114,1,0.136168
+Everis,Everis,,Everis México,,,3,1.2,CDMX157,2,0,2,6,0,6,0,Habilitador,6,0.277726,0.303803,83.764966,0,0,93,0,0.090344
+Failure Institute,Failure Institute,,The Failure Institute,,,3,1.2,CDMX162,2,0,2,6,0,6,0,Generador de conocimiento,6,0.270663,0.294687,53.508594,4,0,72,0,0.078736
+FuckUp Nights,FuckUp Nights,,FuckUp Nights,,,3,1.2,CDMX182,2,0,2,6,0,6,1,Comunidad,5,0.294758,0.319239,0,5,0,110,1,0.137226
+Hult Prize,Hult Prize,,Hult Prize,,,3,1.2,CDMX229,1,1,2,3,3,6,0,Habilitador,6,0.28327,0.30481,20.917559,4,0,151,0,0.077317
+InnovaUNAM,InnovaUNAM,,InnovaUNAM,,,3,1.2,CDMX253,1,23,24,5,69,74,0.077922,Habilitador,4,0.38601,0.434843,4453.113904,0,0,151,18,0.800943
+Makesense,Makesense,,Makesense,,,3,1.2,CDMX285,3,0,3,7,0,7,0.333333,Habilitador,6,0.273897,0.297148,409.534535,3,0,28,1,0.058707
+MIA,MIA,,MIA Co-Growing,,,3,1.2,CDMX292,2,0,2,6,0,6,0,Habilitador,6,0.26395,0.287136,148.239743,4,0,23,0,0.04597
+Microsoft,Microsoft,,Microsoft México,,,3,1.2,CDMX294,1,1,2,3,3,6,0,Habilitador,6,0.268227,0.2934,139.446072,0,0,151,0,0.070062
+MITEF México,MITEF México,,MIT Enterprise Forum México,,,3,1.2,CDMX296,3,6,9,5,23,28,0.3,Habilitador,5,0.300101,0.323546,137.829877,7,0,151,3,0.258166
+Mountain Nazca,Mountain Nazca,,Mountain Nazca,,,3,1.2,CDMX299,0,5,5,0,21,21,0.166667,Habilitador,5,0.308489,0.330369,67.482249,2,0,244,1,0.263818
+Universia,Universia,,Fundación Universia,,,3,1.2,CDMX349,1,1,2,3,3,6,0,Vinculador,6,0.28327,0.30481,20.917559,4,0,151,0,0.077317
+Scotiabank,Scotiabank,,Scotiabank México,,,3,1.2,CDMX353,1,1,2,3,3,6,0,Habilitador,5,0.292157,0.317058,305.175457,1,0,151,0,0.091367
+Sistema B,Sistema B,,Sistema B,,,3,1.2,CDMX370,2,0,2,6,0,6,0,Habilitador,5,0.298597,0.325224,72.93894,7,0,104,0,0.118306
+South Summit,South Summit,,South Summit México,,,3,1.2,CDMX378,2,0,2,6,0,6,1,Habilitador,5,0.286538,0.309228,0,7,0,130,1,0.11053
+UAM Cuajimalpa,UAM Cuajimalpa,,UAM Cuajimalpa,,,3,1.2,CDMX406,2,3,5,6,10,16,0,Generador de conocimiento,5,0.286538,0.314094,654.137775,0,0,151,0,0.100767
+Uber,Uber,,Uber México,,,3,1.2,CDMX407,2,0,2,6,0,6,0,Habilitador,6,0.258905,0.281376,78.408943,9,0,21,0,0.041946
+Adobe Capital,Adobe Capital,,Adobe Capital,,,3.5,1.4,CDMX009,1,11,12,4,37,41,0,Habilitador,6,0.259356,0.296253,2062.50448,7,0,198,0,0.07058
+CENTRO,CENTRO,,CENTRO,,,3.5,1.4,CDMX090,2,0,2,7,0,7,0,Habilitador,5,0.285988,0.309116,75.710965,5,0,49,0,0.083404
+CFI,CFI,,Corporación Financiera Internacional,,,3.5,1.4,CDMX095,2,0,2,7,0,7,0,Habilitador,6,0.266071,0.286353,127.720526,1,0,45,0,0.040322
+Dila Capital,Dila Capital,,Dila Capital,,,2.333333333,1.4,CDMX136,1,3,4,2,12,14,0.166667,Habilitador,5,0.315011,0.337081,364.151566,2,0,151,1,0.140795
+Disruptivo TV,Disruptivo TV,,Disruptivo TV,,,3.5,1.4,CDMX137,2,0,2,7,0,7,0,Promotor,6,0.260717,0.282774,28.762301,8,0,149,0,0.05838
+Fiinlab,Fiinlab,,Fiinlab Gentera,,,3.5,1.4,CDMX167,1,1,2,3,4,7,0,Habilitador,6,0.250631,0.273602,155.166288,1,0,151,0,0.032515
+Ignia,Ignia,,Ignia,,,3.5,1.4,CDMX240,1,9,10,4,30,34,0.027778,Habilitador,5,0.270909,0.301063,1461.480394,1,0,151,1,0.062939
+IODEMC,IODEMC,,Instituto Oaxaqueño del Emprendedor y la Competitividad,,,3.5,1.4,CDMX259,3,0,3,8,0,8,0.666667,Articulador,5,0.30945,0.33462,11.137716,7,0,137,2,0.193589
+Mexico Ventures,Mexico Ventures,,Mexico Ventures,,,3.5,1.4,CDMX291,2,0,2,7,0,7,0,Habilitador,6,0.264654,0.286018,187.248333,1,0,64,0,0.041504
+ALLVP,ALLVP,,Antoni Lelo de Larrea Venture Partners,,,4,1.6,CDMX024,2,0,2,8,0,8,0,Habilitador,6,0.26395,0.290045,113.717037,6,0,76,0,0.05639
+BBVA Open Innovation,BBVA Open Innovation,,BBVA Open Innovation,,,4,1.6,CDMX056,2,0,2,8,0,8,0,Habilitador,5,0.276182,0.3,87.156125,6,0,124,0,0.06482
+Citibanamex,Citibanamex,,Banca Nacional de México,,,4,1.6,CDMX103,2,0,2,8,0,8,0,Habilitador,6,0.252971,0.274385,82.878472,9,0,127,0,0.037681
+DB Academy,DB Academy,,Disruptive Business Academy,,,4,1.6,CDMX132,2,0,2,8,0,8,0,Habilitador,5,0.277726,0.298546,0,2,0,5,0,0.163654
+El Economista,El Economista,,El Economista,,,4,1.6,CDMX145,2,0,2,8,0,8,0,Promotor,6,0.264889,0.289485,108.151431,4,0,17,0,0.083863
+FDF,FDF,,Fondo de Fondos,,,4,1.6,CDMX164,2,0,2,8,0,8,0,Habilitador,6,0.24792,0.264709,46.213587,2,0,61,0,0.023738
+FOMIN,FOMIN,,Fondo Multilateral de Inversiones,,,4,1.6,CDMX176,2,0,2,8,0,8,0,Habilitador,6,0.228178,0.243512,11.95,2,0,44,0,0.013261
+IME,IME,,Instituto de los Mexicanos en el Exterior,,,4,1.6,CDMX243,1,1,2,3,5,8,0,Habilitador,5,0.285714,0.309284,25.588799,10,0,151,0,0.107601
+Martin Trust MIT,Martin Trust MIT,,The Martin Trust Center for MIT Entrepreneurship,,,4,1.6,CDMX286,2,0,2,8,0,8,0,Habilitador,5,0.276182,0.3,87.156125,6,0,24,0,0.06482
+Omidyar,Omidyar,,Omidyar Network,,,4,1.6,CDMX312,2,0,2,8,0,8,0,Habilitador,6,0.213314,0.226286,0,1,0,39,0,0.01798
+RedEmprendia,RedEmprendia,,RedEmprendia,,,4,1.6,CDMX337,2,0,2,8,0,8,1,Vinculador,5,0.288201,0.310682,0,0,0,25,1,0.127003
+Senado,Senado,,Senado de la República,,,4,1.6,CDMX365,2,0,2,8,0,8,0,Articulador,6,0.268953,0.290884,76.453495,5,0,50,0,0.064554
+Variv Capital,Variv Capital,,Variv Capital,,,2.666666667,1.6,CDMX424,3,0,3,8,0,8,0.333333,Habilitador,5,0.311715,0.336801,95.696803,5,0,60,1,0.129609
+AWS,AWS,,Amazon Web Services,,,3,1.8,CDMX047,3,0,3,9,0,9,0.666667,Habilitador,5,0.299799,0.328412,30.128209,4,0,56,2,0.131367
+Bimbo,Bimbo,,Grupo Bimbo,,,3,1.8,CDMX064,3,0,3,9,0,9,0,Habilitador,5,0.302231,0.33283,552.543061,0,0,97,0,0.149297
+Endeavor,Endeavor,,Endeavor,,,3,1.8,CDMX150,3,0,3,9,0,9,0,Habilitador,5,0.307534,0.339933,325.772612,4,0,74,0,0.137373
+SDSN México,SDSN México,,SDSN México,,,3,1.8,CDMX355,6,3,9,16,13,29,0.066667,Vinculador,5,0.305955,0.333557,966.548031,3,0,29,1,0.150347
+Wayra,Wayra,,Wayra,,,3,1.8,CDMX432,3,0,3,9,0,9,0,Habilitador,5,0.302231,0.331655,213.004193,2,0,8,0,0.139898
+CORFO,CORFO,,Corporación de Fomento de la Producción,,,4.5,1.8,CDMX128,1,1,2,5,4,9,0,Articulador,6,0.265834,0.287696,91.064192,2,0,171,0,0.055402
+Amazon,Amazon,,Amazon México,,,3.333333333,2,CDMX026,3,0,3,10,0,10,0,Habilitador,5,0.302231,0.330928,324.72419,9,0,128,0,0.123773
+CCMX,CCMX,,Centro de Competitividad de México,,,5,2,CDMX085,2,1,3,6,5,11,0.666667,Habilitador,5,0.327113,0.351622,21.44683,0,0,151,2,0.201046
+EBC,EBC,,Escuela Bancaria y Comercial,,,5,2,CDMX141,1,1,2,5,5,10,1,Habilitador,6,0.263484,0.28406,0,4,0,187,1,0.051656
+FUNIBER,FUNIBER,,Fundación Universitaria Iberoamericana,,,5,2,CDMX190,1,1,2,5,5,10,0,Habilitador,6,0.268227,0.2934,139.446072,3,0,151,0,0.070062
+Global Shapers,Global Shapers,,Global Shapers,,,3.333333333,2,CDMX199,2,10,12,8,33,41,0,Comunidad,5,0.287645,0.324832,1732.035525,4,0,220,0,0.130238
+Gob Qro,Gob Qro,,Gobierno del Estado de Querétaro,,,5,2,CDMX209,2,0,2,10,0,10,0,Articulador,5,0.287923,0.315492,739.469532,3,0,90,0,0.095443
+Google for Startups,Google for Startups,,Google for Startups,,,3.333333333,2,CDMX213,3,0,3,10,0,10,0.333333,Habilitador,5,0.292444,0.318624,94.527511,5,0,58,1,0.104381
+SAP,SAP,,"SAP México, S.A de C.V.",,,5,2,CDMX352,2,0,2,10,0,10,0,Habilitador,7,0.200134,0.212832,0,9,0,210,0,0.013517
+Startup Grind,Startup Grind,,Startup Grind,,,3.333333333,2,CDMX384,1,2,3,3,9,12,0.333333,Comunidad,5,0.267986,0.289485,28.49797,5,0,151,1,0.050011
+UAM,UAM,,Universidad Autónoma Metropolitana,,,3.333333333,2,CDMX405,10,11,21,26,45,71,0.12381,Generador de conocimiento,5,0.328194,0.378132,1747.240889,0,0,151,13,0.766789
+WEF,WEF,,Foro Económico Mundial,,,5,2,CDMX434,1,1,2,5,5,10,0,Vinculador,6,0.223556,0.239094,0,4,0,220,0,0.015048
+WND,WND,,WND México,,,5,2,CDMX439,2,0,2,10,0,10,0,Habilitador,6,0.244262,0.257886,0,4,0,186,0,0.046805
+ANDE,ANDE,,Aspen Network of Development Entrepreneurs,,,3.666666667,2.2,CDMX032,2,1,3,8,5,13,0,Vinculador,6,0.264654,0.285347,279.013289,7,0,218,0,0.082225
+Catapulta,Catapulta,,Catapulta,,,3.666666667,2.2,CDMX082,2,13,15,8,45,53,0.012821,Habilitador,5,0.316013,0.357327,1510.740288,4,0,151,1,0.210054
+Entrepreneur,Entrepreneur,,Entrepreneur,,,3.666666667,2.2,CDMX152,2,0,2,8,0,8,0,Promotor,6,0.283001,0.30755,78.32198,10,0,73,0,0.077678
+PSM,PSM,,Promotora Social México,,,3.666666667,2.2,CDMX331,2,0,2,8,0,8,0,Habilitador,6,0.265125,0.288199,254.794527,1,0,40,0,0.046314
+SICyT Jalisco,SICyT Jalisco,,"Secretaría de Innovación, Ciencia y Tecnología Jalisco",,,3.666666667,2.2,CDMX368,3,0,3,11,0,11,0,Articulador,6,0.257785,0.279195,13.57308,7,0,1,0,0.083644
+TrepCamp,TrepCamp,,TrepCamp,,,3.666666667,2.2,CDMX403,4,0,4,12,0,12,0.166667,Habilitador,5,0.317697,0.34849,320.032394,0,0,12,1,0.230833
+500 Startups,500 Startups,,500 Startups,,,2.75,2.2,CDMX002,3,2,5,10,2,12,0.5,Habilitador,5,0.305015,0.336801,146.10595,5,0,151,3,0.157443
+MassChallenge,MassChallenge,,MassChallenge,,,2.75,2.2,CDMX287,4,1,5,9,3,12,0.3,Habilitador,5,0.31139,0.342226,146.814528,4,0,151,3,0.188848
+Fundación Televisa,Fundación Televisa,,Fundación Televisa A.C.,,,4.333333333,2.6,CDMX189,3,0,3,13,0,13,1,Habilitador,6,0.266547,0.287472,0,8,0,2,1,0.066894
+Televisa,Televisa,,Televisa,,,4.333333333,2.6,CDMX399,3,0,3,13,0,13,0,Promotor,6,0.258905,0.281376,156.817885,9,0,22,0,0.05297
+Facebook,Facebook,,Facebook México,,,3.5,2.8,CDMX161,3,1,4,9,5,14,0.166667,Habilitador,5,0.324266,0.354251,272.283386,5,0,151,1,0.203813
+SEDECO CDMX,SEDECO CDMX,,Secretaría de Desarrollo Económico de la CDMX,,,3.5,2.8,CDMX360,3,2,5,9,6,15,0.7,Articulador,5,0.309129,0.342785,53.983243,0,0,151,7,0.306901
+Angel Ventures,Angel Ventures,,Angel Ventures,,,3.75,3,CDMX033,5,11,16,17,47,64,0.038095,Habilitador,5,0.344509,0.387975,3419.35071,1,0,151,4,0.318335
+Impulsa,Impulsa,,IMPULSA ACELERADORA DE NEGOCIOS S.C.,,,5,3,CDMX248,4,1,5,12,5,17,0.5,Habilitador,5,0.293307,0.322539,89.612096,10,0,151,3,0.239148
+WeWork,WeWork,,WeWork,,,3.75,3,CDMX435,4,0,4,15,0,15,0,Habilitador,5,0.290448,0.31594,219.019897,5,0,59,0,0.104822
+BBVA,BBVA,,BBVA México,,,4,3.2,CDMX055,4,0,4,16,0,16,0,Habilitador,5,0.28876,0.312136,490.315378,4,0,37,0,0.095594
+CONACYT,CONACYT,,Consejo Nacional de Ciencia y Tecnología,,,4,3.2,CDMX121,4,0,4,16,0,16,0.333333,Articulador,5,0.296813,0.324944,132.259272,0,0,11,2,0.203786
+Distrito Emprendedor,Distrito Emprendedor,,Distrito Emprendedor,,,4,3.2,CDMX138,4,0,4,16,0,16,0.166667,Habilitador,6,0.30101,0.334228,470.114728,0,0,16,1,0.173846
+iLab,iLab,,iLab,,,4,3.2,CDMX241,2,1,3,10,3,13,0,Vinculador,5,0.279812,0.298658,22.878156,7,0,151,0,0.113649
+Startup México,Startup México,,Startup México,,,2.666666667,3.2,CDMX385,9,31,40,29,104,133,0.024182,Habilitador,4,0.384021,0.449944,8337.41164,2,0,151,17,0.90388
+UNAM,UNAM,,Universidad Nacional Autónoma de México,,,3.2,3.2,CDMX412,3,3,6,9,14,23,0.266667,Generador de conocimiento,5,0.333707,0.365996,257.461919,10,0,151,4,0.368002
+Seedstars,Seedstars,,Seedstars,,,3.4,3.4,CDMX363,9,7,16,36,29,65,0.043956,Habilitador,5,0.326396,0.373098,2588.060601,4,0,57,4,0.2758
+SEP,SEP,,Secretaría de Educación Pública,,,4.25,3.4,CDMX366,3,1,4,15,2,17,0.333333,Articulador,5,0.302231,0.329474,351.241025,0,0,151,1,0.228483
+ASEM,ASEM,,Asociación de Emprendedores de México,,,3,3.6,CDMX044,10,11,21,34,47,81,0.041667,Vinculador,5,0.356886,0.403076,3645.824985,5,0,151,5,0.528522
+Talent Land,Talent Land,,Jalisco Talent Land,,,3.6,3.6,CDMX394,3,2,5,11,7,18,0.1,Habilitador,5,0.326396,0.362472,1018.480078,4,0,151,1,0.224993
+ITAM,ITAM,,Instituto Tecnológico Autónomo de México,,,4.5,3.6,CDMX265,3,1,4,14,4,18,0.333333,Habilitador,6,0.282197,0.307438,107.574929,6,0,151,1,0.126276
+FONDESO,FONDESO,,Fondo para el Desarrollo Social de la Ciudad de México,,,2.375,3.8,CDMX177,5,19,24,14,62,76,0.088235,Habilitador,5,0.313684,0.361745,1923.543882,0,0,151,12,0.706503
+Jefatura GCDMX,Jefatura GCDMX,,Jefatura del Gobierno de la Ciudad de México,,,2.714285714,3.8,CDMX268,5,4,9,17,4,21,0.4,Articulador,5,0.293307,0.321644,180.019076,0,0,151,6,0.307398
+Ashoka,Ashoka,,Ashoka México,,,3.333333333,4,CDMX045,5,0,5,17,0,17,0.1,Habilitador,4,0.332219,0.362975,834.135464,7,0,30,1,0.220698
+Gob. México,Gob. México,,Administración Pública Federal,,,4,4,CDMX212,3,3,6,15,6,21,0.333333,Articulador,6,0.252971,0.276566,449.514638,3,0,29,1,0.050279
+Posible,Posible,,Posible,,,3.5,4.2,CDMX324,4,3,7,13,15,28,0.066667,Habilitador,5,0.314015,0.349553,613.883951,8,0,151,1,0.178161
+New Ventures,New Ventures,,New Ventures,,,4.6,4.6,CDMX304,4,1,5,20,5,25,0,Habilitador,5,0.271156,0.292673,771.22171,7,0,4,0,0.059969
+Google México,Google México,,Google México,,,3.833333333,4.6,CDMX214,7,0,7,24,0,24,0.333333,Habilitador,5,0.328556,0.367841,1992.208145,9,0,20,5,0.301961
+U. Anáhuac,U. Anáhuac,,Universidad Anáhuac México,,,3.571428571,5,CDMX404,5,3,8,18,14,32,0.285714,Habilitador,4,0.349355,0.38311,1173.334115,2,0,151,8,0.384386
+Santander Universidades,Santander Universidades,,Santander Universidades,,,3.5,5.6,CDMX350,6,15,21,27,43,70,0.087912,Habilitador,5,0.336723,0.382662,2147.742025,10,0,151,8,0.638371
+NAFIN,NAFIN,,Nacional Financiera,,,3.625,5.8,CDMX303,8,0,8,29,0,29,0.035714,Habilitador,5,0.317359,0.351622,1420.141566,2,0,27,1,0.236594
+AMEXCAP,AMEXCAP,,Asociación Mexicana de Capital Privado,,,4.125,6.6,CDMX029,7,1,8,28,5,33,0.047619,Vinculador,4,0.351415,0.39066,1423.251079,2,0,151,1,0.35724
+SE,SE,,Secretaría de Economía,,,4.125,6.6,CDMX356,8,0,8,33,0,33,0.142857,Articulador,5,0.330011,0.364094,2327.222146,10,0,0,3,0.280988
+ITESM,ITESM,,Instituto Tecnológico y de Estudios Superiores de Monterrey,,,3.6,7.2,CDMX266,10,32,42,36,92,128,0.02276,Habilitador,4,0.397333,0.462528,9315.721646,5,0,151,16,0.874093
+Startup Weekend,Startup Weekend,,Startup Weekend,,,4.625,7.4,CDMX386,7,1,8,32,5,37,0,Comunidad,6,0.281132,0.312808,639.622302,4,0,151,0,0.13329
+BID,BID,,Banco Interamericano de Desarrollo,,,4.3,8.6,CDMX060,8,2,10,33,10,43,0.095238,Habilitador,5,0.347319,0.377908,3158.583185,1,0,151,2,0.272244
+Santander,Santander,,Banco Santander,,,4.461538462,11.6,CDMX347,9,5,14,41,22,63,0.090909,Habilitador,5,0.353919,0.392506,2307.844838,10,0,151,6,0.503906
+INADEM,INADEM,,Instituto Nacional del Emprendedor,,,4,20.8,CDMX249,23,5,28,99,7,106,0.105263,Articulador,4,0.401617,0.454418,6935.217543,2,0,151,20,1

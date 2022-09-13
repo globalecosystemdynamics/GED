@@ -1,0 +1,365 @@
+Source,Target,Type,Id,Label,timeset,Weight,directionality,interactions required,collaboration agreement,budget allocated,hr allocated,result,validation,loop?,response id,bloque
+Ashoka,WTT,Directed,1112,,,2,Ellos nos buscaron,1,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,5,8
+WTT,Eisenhower Fellowships,Directed,1113,,,4,Nosotros los buscamos,3,Sí,"10,000_49,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,5,10
+WTT,MIT D-Lab,Directed,1114,,,4,Nosotros los buscamos,2,Sí,"5,000_9,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,5,9
+WTT,Fundación Avina,Directed,1115,,,5,Nosotros los buscamos,1,Sí,"1,000,000_",04_06,"Sí, la colaboración fue exitosa",Analyze,ok,5,1
+WTT,iCS,Directed,1116,,,5,Nosotros los buscamos,4,Sí,"100,000_999,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,5,11
+WTT,BRAERG,Directed,1117,,,3,NA,NA,NA,NA,NA,NA,No data,ok,5,17
+WTT,CUP Sciences,Directed,1118,,,3,NA,NA,NA,NA,NA,NA,No data,ok,5,16
+WTT,Fraunhofer Institute,Directed,1119,,,3,NA,NA,NA,NA,NA,NA,No data,ok,5,12
+WTT,Instituto Arapyau,Directed,1120,,,3,NA,NA,NA,NA,NA,NA,No data,ok,5,13
+WTT,PERA Complexity,Directed,1121,,,3,NA,NA,NA,NA,NA,NA,No data,ok,5,15
+WeWork Labs,ABstartups,Directed,1122,,,3,Nosotros los buscamos,1,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,7,2
+WeWork Labs,Canary,Directed,1123,,,3,Nosotros los buscamos,1,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,7,3
+WeWork Labs,Grão Investimentos,Directed,1124,,,4,Alguien más nos conectó,1,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,7,4
+Inovabra,WeWork Labs,Directed,1125,,,5,Ellos nos buscaron,20,Sí,"1,000,000_",04_06,"Sí, la colaboración fue exitosa",Analyze,ok,7,10
+Samsung,WeWork Labs,Directed,1126,,,5,Ellos nos buscaron,5,Sí,0_99,04_06,"Sí, la colaboración fue exitosa",Analyze,ok,7,6
+WeWork Labs,BNDES,Directed,1127,,,3,Nosotros los buscamos,10,Sí,100_499,04_06,"Sí, la colaboración fue exitosa",Analyze,ok,7,9
+WeWork Labs,Estação Hack,Directed,1128,,,3,Nosotros los buscamos,10,No,0_99,04_06,"Sí, la colaboración fue exitosa",Analyze,ok,7,11
+Sebrae SP,WeWork Labs,Directed,1129,,,3,Ellos nos buscaron,2,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,7,5
+WeWork,WeWork Labs,Directed,1130,,,3,Ellos nos buscaron,2,Sí,0_99,04_06,"Sí, la colaboración fue exitosa",Analyze,ok,7,1
+WeWork Labs,Astella Investimentos,Directed,1131,,,3,NA,NA,NA,NA,NA,NA,No data,ok,7,12
+WeWork Labs,BNZ,Directed,1132,,,3,NA,NA,NA,NA,NA,NA,No data,ok,7,13
+WeWork Labs,Orgânica Aceleradora,Directed,1133,,,3,NA,NA,NA,NA,NA,NA,No data,ok,7,17
+WeWork Labs,The Next Company,Directed,1134,,,3,NA,NA,NA,NA,NA,NA,No data,ok,7,16
+Agencia de Inovação da UFSCar,ParqTec,Directed,1135,,,5,Ellos nos buscaron,2,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,8,9
+AUSPIN,ParqTec,Directed,1136,,,5,Ellos nos buscaron,2,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,8,8
+ParqTec,MCTIC,Directed,1137,,,5,Nosotros los buscamos,5,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,8,6
+Embrapa,ParqTec,Directed,1138,,,5,Ellos nos buscaron,2,Sí,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,8,10
+ParqTec,Anprotec,Directed,1139,,,5,Nosotros los buscamos,2,No,0_99,04_06,"Sí, la colaboración fue exitosa",Analyze,ok,8,5
+ParqTec,CCTI Desenvolvimento Econômico SP,Directed,1140,,,5,Nosotros los buscamos,5,Sí,"100,000_999,999",04_06,"Sí, la colaboración fue exitosa",Analyze,ok,8,1
+ParqTec,CNPq,Directed,1141,,,5,Nosotros los buscamos,5,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,8,7
+ParqTec,Finep,Directed,1142,,,5,Nosotros los buscamos,5,Sí,"100,000_999,999",04_06,"Sí, la colaboración fue exitosa",Analyze,ok,8,3
+ParqTec,Sebrae SP,Directed,1143,,,5,Nosotros los buscamos,5,Sí,"100,000_999,999",04_06,"Sí, la colaboración fue exitosa",Analyze,ok,8,2
+WeWork,WeWork Labs,Directed,1144,,,5,Nosotros los buscamos,1,Sí,100_499,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,9,1
+WeWork,ABstartups,Directed,1145,,,3,NA,NA,NA,NA,NA,NA,No data,ok,9,3
+WeWork,BNDES,Directed,1146,,,3,NA,NA,NA,NA,NA,NA,No data,ok,9,8
+WeWork,BNZ,Directed,1147,,,3,NA,NA,NA,NA,NA,NA,No data,ok,9,12
+WeWork,Grão Investimentos,Directed,1148,,,3,NA,NA,NA,NA,NA,NA,No data,ok,9,4
+WeWork,Orgânica Aceleradora,Directed,1149,,,3,NA,NA,NA,NA,NA,NA,No data,ok,9,15
+WeWork,Samsung,Directed,1150,,,3,NA,NA,NA,NA,NA,NA,No data,ok,9,5
+WeWork,The Next Company,Directed,1151,,,3,NA,NA,NA,NA,NA,NA,No data,ok,9,16
+Canary,WeWork,Directed,1152,,,3,Ellos nos buscaron,3,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,10,4
+Endeavor,WeWork,Directed,1153,,,3,Ellos nos buscaron,1,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,10,3
+Estação Hack,WeWork,Directed,1154,,,3,Ellos nos buscaron,2,Sí,"1,000_2,999",04_06,"Sí, la colaboración fue exitosa",Analyze,ok,10,5
+Kaszek Ventures,WeWork,Directed,1155,,,3,Ellos nos buscaron,1,No,0_99,01_03,No se logró colaborar,Analyze,ok,10,10
+Cubo,WeWork,Directed,1156,,,5,Ellos nos buscaron,20,Sí,"1,000,000_",21_30,"Sí, la colaboración fue exitosa",Analyze,ok,10,2
+Inovabra,WeWork,Directed,1157,,,5,Ellos nos buscaron,10,Sí,"1,000,000_",07_10,"Sí, la colaboración fue exitosa",Analyze,ok,10,1
+Liga Ventures,WeWork,Directed,1158,,,5,Ellos nos buscaron,5,Sí,"5,000_9,999",07_10,"Sí, la colaboración fue exitosa",Analyze,ok,10,8
+Redpoint eVentures,WeWork,Directed,1159,,,5,Ellos nos buscaron,30,Sí,"100,000_999,999",11_20,"Sí, la colaboración fue exitosa",Analyze,ok,10,9
+WeWork,Astella Investimentos,Directed,1160,,,5,Nosotros los buscamos,1,Sí,"5,000_9,999",04_06,"Sí, la colaboración fue exitosa",Analyze,ok,10,6
+WeWork,Kyvo Design,Directed,1161,,,5,Nosotros los buscamos,3,Sí,"5,000_9,999",07_10,"Sí, la colaboración fue exitosa",Analyze,ok,10,7
+ABstartups,ABDI,Directed,1162,,,3,NA,NA,NA,NA,NA,NA,No data,ok,12,5
+ABstartups,Accenture,Directed,1163,,,3,NA,NA,NA,NA,NA,NA,No data,ok,12,4
+ABstartups,Apex-Brasil,Directed,1164,,,3,NA,NA,NA,NA,NA,NA,No data,ok,12,9
+ABstartups,Bossa Nova,Directed,1165,,,3,NA,NA,NA,NA,NA,NA,No data,ok,12,7
+ABstartups,Cubo,Directed,1166,,,3,NA,NA,NA,NA,NA,NA,No data,ok,12,6
+ABstartups,Google for Startups,Directed,1167,,,3,NA,NA,NA,NA,NA,NA,No data,ok,12,1
+ABstartups,Inovabra,Directed,1168,,,3,NA,NA,NA,NA,NA,NA,No data,ok,12,10
+ABstartups,Nexus,Directed,1169,,,3,NA,NA,NA,NA,NA,NA,No data,ok,12,8
+ABstartups,Sebrae SP,Directed,1170,,,3,NA,NA,NA,NA,NA,NA,No data,ok,12,2
+ABstartups,ZeroOnze,Directed,1171,,,3,NA,NA,NA,NA,NA,NA,No data,ok,12,3
+IndicatorCapital,ABVCAP,Directed,1172,,,3,NA,NA,NA,NA,NA,NA,No data,ok,13,8
+IndicatorCapital,BlastU,Directed,1173,,,3,NA,NA,NA,NA,NA,NA,No data,ok,13,6
+IndicatorCapital,LAVCA,Directed,1174,,,3,NA,NA,NA,NA,NA,NA,No data,ok,13,7
+IndicatorCapital,NEU,Directed,1175,,,3,NA,NA,NA,NA,NA,NA,No data,ok,13,5
+IndicatorCapital,Path festival,Directed,1176,,,3,NA,NA,NA,NA,NA,NA,No data,ok,13,9
+IndicatorCapital,Wayra,Directed,1177,,,3,NA,NA,NA,NA,NA,NA,No data,ok,13,3
+Nexus,ABDI,Directed,1178,,,3,NA,NA,NA,NA,NA,NA,No data,ok,14,4
+Nexus,ABstartups,Directed,1179,,,3,NA,NA,NA,NA,NA,NA,No data,ok,14,3
+Nexus,Anjos do Brasil,Directed,1180,,,3,NA,NA,NA,NA,NA,NA,No data,ok,14,6
+Nexus,Apex-Brasil,Directed,1181,,,3,NA,NA,NA,NA,NA,NA,No data,ok,14,5
+Nexus,FATEC,Directed,1182,,,3,NA,NA,NA,NA,NA,NA,No data,ok,14,8
+Nexus,Inovacao Prefeitura Sao Jose dos Campos,Directed,1183,,,3,NA,NA,NA,NA,NA,NA,No data,ok,14,1
+Nexus,ITA,Directed,1184,,,3,NA,NA,NA,NA,NA,NA,No data,ok,14,7
+Nexus,Sebrae SP,Directed,1185,,,3,NA,NA,NA,NA,NA,NA,No data,ok,14,2
+Nexus,Unesp,Directed,1186,,,3,NA,NA,NA,NA,NA,NA,No data,ok,14,10
+Nexus,UNIFESP,Directed,1187,,,3,NA,NA,NA,NA,NA,NA,No data,ok,14,9
+The Brazilian Report,French Tech,Directed,1188,,,3,NA,NA,NA,NA,NA,NA,No data,ok,15,1
+Nós Innovators,CIETEC,Directed,1189,,,3,Nosotros los buscamos,2,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,16,1
+Nós Innovators,CCAB,Directed,1190,,,3,NA,NA,NA,NA,NA,NA,No data,ok,16,10
+Nós Innovators,Distrito,Directed,1191,,,3,NA,NA,NA,NA,NA,NA,No data,ok,16,3
+Nós Innovators,FGV,Directed,1192,,,3,NA,NA,NA,NA,NA,NA,No data,ok,16,6
+Nós Innovators,Inatel,Directed,1193,,,3,NA,NA,NA,NA,NA,NA,No data,ok,16,5
+Nós Innovators,Inovabra,Directed,1194,,,3,NA,NA,NA,NA,NA,NA,No data,ok,16,4
+Nós Innovators,IPEN,Directed,1195,,,3,NA,NA,NA,NA,NA,NA,No data,ok,16,8
+Nós Innovators,Sebrae SP,Directed,1196,,,3,NA,NA,NA,NA,NA,NA,No data,ok,16,2
+Nós Innovators,USP,Directed,1197,,,3,NA,NA,NA,NA,NA,NA,No data,ok,16,7
+InvestSP,CCTI Desenvolvimento Econômico SP,Directed,1198,,,4,Nosotros los buscamos,8,No,0_99,01_03,"No, la colaboración no fue exitosa",Analyze,ok,17,1
+Gv Angels,InvestSP,Directed,1199,,,3,Ellos nos buscaron,3,Sí,NA,NA,NA,Analyze,ok,17,3
+InvestSP,Poli Angels,Directed,1200,,,5,Nosotros los buscamos,20,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,17,2
+InvestSP,ABstartups,Directed,1201,,,3,NA,NA,NA,NA,NA,NA,No data,ok,17,6
+InvestSP,Alpha Valley,Directed,1202,,,3,NA,NA,NA,NA,NA,NA,No data,ok,17,5
+InvestSP,AUSPIN,Directed,1203,,,3,NA,NA,NA,NA,NA,NA,No data,ok,17,4
+InvestSP,Cámara Española de Comercio en Brasil,Directed,1204,,,3,NA,NA,NA,NA,NA,NA,No data,ok,17,7
+InvestSP,CIETEC,Directed,1205,,,3,NA,NA,NA,NA,NA,NA,No data,ok,17,9
+InvestSP,CPS,Directed,1206,,,3,NA,NA,NA,NA,NA,NA,No data,ok,17,8
+InvestSP,Inova Campinas,Directed,1207,,,3,NA,NA,NA,NA,NA,NA,No data,ok,17,12
+InvestSP,MCTIC,Directed,1208,,,3,NA,NA,NA,NA,NA,NA,No data,ok,17,11
+InvestSP,Sebrae SP,Directed,1209,,,3,NA,NA,NA,NA,NA,NA,No data,ok,17,10
+IndicatorCapital,RME,Directed,1210,,,4,Nosotros los buscamos,2,No,100_499,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,18,5
+IndicatorCapital,Fisher Venture Builder,Directed,1211,,,4,Nosotros los buscamos,3,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,18,6
+IndicatorCapital,Distrito,Directed,1212,,,3,Alguien más nos conectó,NA,NA,NA,NA,NA,Analyze,ok,18,7
+ACE,IndicatorCapital,Directed,1213,,,4,Ellos nos buscaron,2,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,18,3
+Liga Ventures,IndicatorCapital,Directed,1214,,,4,Ellos nos buscaron,2,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,18,2
+Startup Farm,IndicatorCapital,Directed,1215,,,4,Ellos nos buscaron,2,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,18,1
+WOW Aceleradora,IndicatorCapital,Directed,1216,,,4,Ellos nos buscaron,2,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,18,4
+IndicatorCapital,Cubo,Directed,1217,,,3,NA,NA,NA,NA,NA,NA,No data,ok,18,8
+IndicatorCapital,Inovabra,Directed,1218,,,3,NA,NA,NA,NA,NA,NA,No data,ok,18,9
+IndicatorCapital,USP,Directed,1219,,,3,NA,NA,NA,NA,NA,NA,No data,ok,18,10
+CIETEC,AUSPIN,Directed,1220,,,5,Nosotros los buscamos,1,Sí,0_99,04_06,"Sí, la colaboración fue exitosa",Analyze,ok,19,8
+CIETEC,CCTI Desenvolvimento Econômico SP,Directed,1221,,,5,Nosotros los buscamos,1,Sí,0_99,04_06,"Sí, la colaboración fue exitosa",Analyze,ok,19,4
+CIETEC,IPEN,Directed,1222,,,5,Nosotros los buscamos,1,Sí,0_99,07_10,"Sí, la colaboración fue exitosa",Analyze,ok,19,3
+CIETEC,Sebrae SP,Directed,1223,,,4,Nosotros los buscamos,1,Sí,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,19,1
+CIETEC,USP,Directed,1224,,,5,Nosotros los buscamos,1,Sí,0_99,07_10,"Sí, la colaboración fue exitosa",Analyze,ok,19,2
+FIESP,CIETEC,Directed,1225,,,4,Ellos nos buscaron,6,No,500_999,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,19,9
+CIETEC,CNPq,Directed,1226,,,3,Nosotros los buscamos,1,Sí,"10,000_49,999",04_06,"Sí, la colaboración fue exitosa",Analyze,ok,19,6
+CIETEC,FAPESP,Directed,1227,,,5,Nosotros los buscamos,1,Sí,"10,000_49,999",04_06,"Sí, la colaboración fue exitosa",Analyze,ok,19,5
+CIETEC,Finep,Directed,1228,,,4,Nosotros los buscamos,1,Sí,"10,000_49,999",04_06,"Sí, la colaboración fue exitosa",Analyze,ok,19,7
+CIETEC,SENAI,Directed,1229,,,3,NA,NA,NA,NA,NA,NA,No data,ok,19,11
+Parabolt,Inovabra,Directed,1230,,,3,Nosotros los buscamos,3,No,"1,000_2,999",04_06,No se logró colaborar,Analyze,ok,20,4
+gA,Parabolt,Directed,1231,,,5,Ellos nos buscaron,15,Sí,"10,000_49,999",31_50,"Sí, la colaboración fue exitosa",Analyze,ok,20,9
+Parabolt,COI,Directed,1232,,,4,Nosotros los buscamos,4,Sí,"1,000_2,999",04_06,"Sí, la colaboración fue exitosa",Analyze,ok,20,7
+Parabolt,Espro,Directed,1233,,,3,Nosotros los buscamos,10,No,0_99,21_30,"Sí, la colaboración fue exitosa",Analyze,ok,20,1
+Parabolt,1Apeiron,Directed,1234,,,4,Nosotros los buscamos,5,Sí,"10,000_49,999",04_06,"Sí, la colaboración fue exitosa",Analyze,ok,20,10
+Parabolt,ASUG,Directed,1235,,,3,Nosotros los buscamos,9,Sí,"1,000_2,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,20,8
+Parabolt,UNICAMP,Directed,1236,,,4,Nosotros los buscamos,2,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,20,2
+Parabolt,USP,Directed,1237,,,2,Alguien más nos conectó,6,No,100_499,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,20,6
+Parabolt,AMCHAM Brasil,Directed,1238,,,3,Nosotros los buscamos,8,Sí,0_99,04_06,"Sí, la colaboración fue exitosa",Analyze,ok,20,5
+Parabolt,UNIVAP,Directed,1239,,,5,Nosotros los buscamos,20,Sí,500_999,04_06,"Sí, la colaboración fue exitosa",Analyze,ok,20,3
+CCTI Desenvolvimento Econômico SP,FAPESP,Directed,1240,,,3,Nosotros los buscamos,3,No,0_99,04_06,"Sí, la colaboración fue exitosa",Analyze,ok,21,2
+CCTI Desenvolvimento Econômico SP,InvestSP,Directed,1241,,,4,Nosotros los buscamos,5,Sí,"1,000,000_",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,21,6
+CCTI Desenvolvimento Econômico SP,IPT,Directed,1242,,,5,Nosotros los buscamos,6,Sí,"1,000,000_",11_20,"Sí, la colaboración fue exitosa",Analyze,ok,21,1
+CCTI Desenvolvimento Econômico SP,USP,Directed,1243,,,2,Nosotros los buscamos,5,Sí,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,21,3
+Desenvolve SP,CCTI Desenvolvimento Econômico SP,Directed,1244,,,2,Ellos nos buscaron,2,Sí,"1,000,000_",01_03,No se logró colaborar,Analyze,ok,21,7
+Inova Unicamp,CCTI Desenvolvimento Econômico SP,Directed,1245,,,2,Ellos nos buscaron,2,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,21,4
+Sebrae SP,CCTI Desenvolvimento Econômico SP,Directed,1246,,,4,Ellos nos buscaron,8,No,0_99,01_03,No se logró colaborar,Analyze,ok,21,8
+Unesp,CCTI Desenvolvimento Econômico SP,Directed,1247,,,2,Ellos nos buscaron,3,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,21,5
+CCTI Desenvolvimento Econômico SP,Cubo,Directed,1248,,,1,Nosotros los buscamos,1,No,0_99,04_06,"Sí, la colaboración fue exitosa",Analyze,ok,21,9
+CCTI Desenvolvimento Econômico SP,BNDES,Directed,1249,,,1,Nosotros los buscamos,2,No,0_99,01_03,No se logró colaborar,Analyze,ok,21,11
+CCTI Desenvolvimento Econômico SP,Finep,Directed,1250,,,1,Nosotros los buscamos,2,No,0_99,01_03,No se logró colaborar,Analyze,ok,21,10
+Startup Farm,WeWork Labs,Directed,1251,,,3,Ellos nos buscaron,3,No,NA,NA,NA,Analyze,ok,22,2
+WeWork Labs,Liga Ventures,Directed,1252,,,2,Nosotros los buscamos,[423],No,500_999,01_03,"No, la colaboración no fue exitosa",Analyze,ok,22,1
+WeWork Labs,Cubo,Directed,1253,,,3,NA,NA,NA,NA,NA,NA,No data,ok,22,5
+WeWork Labs,Kaszek Ventures,Directed,1254,,,3,NA,NA,NA,NA,NA,NA,No data,ok,22,7
+WeWork Labs,Startup Weekend,Directed,1255,,,3,NA,NA,NA,NA,NA,NA,No data,ok,22,3
+WeWork Labs,Tropos,Directed,1256,,,3,NA,NA,NA,NA,NA,NA,No data,ok,22,10
+CPqD,100 Open Startups,Directed,1257,,,5,Nosotros los buscamos,2,No,"10,000_49,999",07_10,"Sí, la colaboración fue exitosa",Analyze,ok,24,9
+CPqD,Bosch,Directed,1258,,,3,Nosotros los buscamos,10,No,0_99,07_10,No se logró colaborar,Analyze,ok,24,7
+CPqD,USP,Directed,1259,,,3,Alguien más nos conectó,10,Sí,"1,000_2,999",04_06,"Sí, la colaboración fue exitosa",Analyze,ok,24,8
+IFSP,Parquetecsorocaba,Directed,1260,,,2,Ellos nos buscaron,1,Sí,0_99,01_03,No se logró colaborar,Analyze,ok,25,2
+Parquetecsorocaba,FACENS,Directed,1261,,,1,Alguien más nos conectó,1,Sí,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,25,6
+Parquetecsorocaba,PUC-SP,Directed,1262,,,3,Alguien más nos conectó,1,Sí,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,25,4
+Parquetecsorocaba,UFSCAR,Directed,1263,,,3,Alguien más nos conectó,1,Sí,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,25,3
+Parquetecsorocaba,UNISO,Directed,1264,,,4,Alguien más nos conectó,1,Sí,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,25,5
+Parquetecsorocaba,USP,Directed,1265,,,3,Alguien más nos conectó,1,Sí,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,25,1
+Prefeitura de Sorocaba,Parquetecsorocaba,Directed,1266,,,5,Ellos nos buscaron,1,Sí,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,25,8
+Parquetecsorocaba,MCTIC,Directed,1267,,,2,Nosotros los buscamos,1,Sí,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,25,7
+Prefeitura de São Paulo,Parquetecsorocaba,Directed,1268,,,1,,,,,,,Include,ok,25,1
+Prefeitura de São Paulo,USP,Directed,1269,,,1,,,,,,,Include,ok,25,1
+Prefeitura de São Paulo,Parquetecsorocaba,Directed,1270,,,1,,,,,,,Include,ok,25,3
+Prefeitura de São Paulo,UFSCAR,Directed,1271,,,1,,,,,,,Include,ok,25,3
+Prefeitura de São Paulo,Parquetecsorocaba,Directed,1272,,,1,,,,,,,Include,ok,25,4
+Prefeitura de São Paulo,PUC-SP,Directed,1273,,,1,,,,,,,Include,ok,25,4
+Prefeitura de São Paulo,Parquetecsorocaba,Directed,1274,,,1,,,,,,,Include,ok,25,5
+Prefeitura de São Paulo,UNISO,Directed,1275,,,1,,,,,,,Include,ok,25,5
+Prefeitura de São Paulo,FACENS,Directed,1276,,,1,,,,,,,Include,ok,25,6
+Prefeitura de São Paulo,Parquetecsorocaba,Directed,1277,,,1,,,,,,,Include,ok,25,6
+Parquetecsorocaba,Unesp,Directed,1278,,,3,NA,NA,NA,NA,NA,NA,No data,ok,25,10
+Parquetecsorocaba,Univesp,Directed,1279,,,3,NA,NA,NA,NA,NA,NA,No data,ok,25,9
+AMCHAM Brasil,Anjos do Brasil,Directed,1280,,,3,NA,NA,NA,NA,NA,NA,No data,ok,26,2
+AMCHAM Brasil,Banco Agibank,Directed,1281,,,3,NA,NA,NA,NA,NA,NA,No data,ok,26,1
+AMCHAM Brasil,Cubo,Directed,1282,,,3,NA,NA,NA,NA,NA,NA,No data,ok,26,3
+AMCHAM Brasil,MCTIC,Directed,1283,,,3,NA,NA,NA,NA,NA,NA,No data,ok,26,4
+AMCHAM Brasil,Portal StartSe,Directed,1284,,,3,NA,NA,NA,NA,NA,NA,No data,ok,26,5
+AMCHAM Brasil,Inova Unicamp,Directed,1285,,,4,Ellos nos buscaron,2,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,27,2
+Baita Aceleradora,Inova Unicamp,Directed,1286,,,5,Ellos nos buscaron,4,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,27,5
+Campinas Tech,Inova Unicamp,Directed,1287,,,3,Ellos nos buscaron,4,Sí,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,27,4
+Inova Unicamp,100 Open Startups,Directed,1288,,,3,Nosotros los buscamos,5,No,0_99,04_06,"Sí, la colaboración fue exitosa",Analyze,ok,27,6
+Inova Unicamp,FFCi,Directed,1289,,,5,Nosotros los buscamos,5,Sí,0_99,04_06,"Sí, la colaboración fue exitosa",Analyze,ok,27,7
+FORTEC,Inova Unicamp,Directed,1290,,,3,Ellos nos buscaron,7,No,0_99,04_06,"Sí, la colaboración fue exitosa",Analyze,ok,27,10
+Inova Unicamp,ANPEI,Directed,1291,,,4,Nosotros los buscamos,3,No,0_99,04_06,"Sí, la colaboración fue exitosa",Analyze,ok,27,8
+Inova Unicamp,CPqD,Directed,1292,,,3,Nosotros los buscamos,3,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,27,3
+Inova Unicamp,RedEmprendia,Directed,1293,,,3,Nosotros los buscamos,5,Sí,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,27,9
+Inova Unicamp,Sebrae Campinas,Directed,1294,,,5,Nosotros los buscamos,1,Sí,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,27,1
+BrazilLAB,MCTIC,Directed,1295,,,3,Nosotros los buscamos,10,No,0_99,04_06,"Sí, la colaboración fue exitosa",Analyze,ok,28,2
+BrazilLAB,Ministério da Economia,Directed,1296,,,3,Nosotros los buscamos,10,No,0_99,04_06,"Sí, la colaboración fue exitosa",Analyze,ok,28,1
+BrazilLAB,ABstartups,Directed,1297,,,3,NA,NA,NA,NA,NA,NA,No data,ok,28,3
+BrazilLAB,Amazon,Directed,1298,,,3,NA,NA,NA,NA,NA,NA,No data,ok,28,9
+BrazilLAB,Artemisia,Directed,1299,,,3,NA,NA,NA,NA,NA,NA,No data,ok,28,10
+BrazilLAB,Bank of America,Directed,1300,,,3,NA,NA,NA,NA,NA,NA,No data,ok,28,22
+BrazilLAB,CNM,Directed,1301,,,3,NA,NA,NA,NA,NA,NA,No data,ok,28,24
+BrazilLAB,Cubo,Directed,1302,,,3,NA,NA,NA,NA,NA,NA,No data,ok,28,4
+BrazilLAB,FNP,Directed,1303,,,3,NA,NA,NA,NA,NA,NA,No data,ok,28,23
+BrazilLAB,FPTS,Directed,1304,,,3,NA,NA,NA,NA,NA,NA,No data,ok,28,17
+BrazilLAB,Fundação BRAVA,Directed,1305,,,3,NA,NA,NA,NA,NA,NA,No data,ok,28,6
+BrazilLAB,Fundo ZL,Directed,1306,,,3,NA,NA,NA,NA,NA,NA,No data,ok,28,18
+BrazilLAB,Google Campus,Directed,1307,,,3,NA,NA,NA,NA,NA,NA,No data,ok,28,7
+BrazilLAB,HuffPost,Directed,1308,,,3,NA,NA,NA,NA,NA,NA,No data,ok,28,14
+BrazilLAB,Impact Hub,Directed,1309,,,3,NA,NA,NA,NA,NA,NA,No data,ok,28,11
+BrazilLAB,INSPER,Directed,1310,,,3,NA,NA,NA,NA,NA,NA,No data,ok,28,25
+BrazilLAB,Itaú,Directed,1311,,,3,NA,NA,NA,NA,NA,NA,No data,ok,28,5
+BrazilLAB,ITS-Rio,Directed,1312,,,3,NA,NA,NA,NA,NA,NA,No data,ok,28,16
+BrazilLAB,Olhar Digital,Directed,1313,,,3,NA,NA,NA,NA,NA,NA,No data,ok,28,15
+BrazilLAB,Portal StartSe,Directed,1314,,,3,NA,NA,NA,NA,NA,NA,No data,ok,28,12
+BrazilLAB,PqTec,Directed,1315,,,3,NA,NA,NA,NA,NA,NA,No data,ok,28,19
+BrazilLAB,Prefeitura de Guarulhos,Directed,1316,,,3,NA,NA,NA,NA,NA,NA,No data,ok,28,21
+BrazilLAB,Prefeitura de Mogi das Cruzes,Directed,1317,,,3,NA,NA,NA,NA,NA,NA,No data,ok,28,20
+BrazilLAB,Prefeitura de Sorocaba,Directed,1318,,,3,NA,NA,NA,NA,NA,NA,No data,ok,28,8
+BrazilLAB,UOL,Directed,1319,,,3,NA,NA,NA,NA,NA,NA,No data,ok,28,13
+The Brazilian Report,FGV,Directed,1320,,,3,Nosotros los buscamos,1,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,31,5
+The Brazilian Report,French Tech,Directed,1321,,,4,Nosotros los buscamos,2,No,500_999,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,31,3
+The Brazilian Report,USP,Directed,1322,,,3,Nosotros los buscamos,1,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,31,6
+The Brazilian Report,AosFatos,Directed,1323,,,1,Nosotros los buscamos,1,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,31,2
+The Brazilian Report,InfoAmazonia,Directed,1324,,,2,Nosotros los buscamos,1,No,100_499,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,31,1
+The Brazilian Report,Coletivo 47,Directed,1325,,,3,Nosotros los buscamos,1,Sí,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,31,4
+Aliança Empreendedora,Secretaria da Micro e Pequena Empresa,Directed,1326,,,3,Nosotros los buscamos,9,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,33,6
+Aliança Empreendedora,TEDX,Directed,1327,,,2,Nosotros los buscamos,3,Sí,"10,000_49,999",07_10,"Sí, la colaboración fue exitosa",Analyze,ok,33,11
+Aliança Empreendedora,Anpecom,Directed,1328,,,2,Nosotros los buscamos,3,Sí,"5,000_9,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,33,7
+Aliança Empreendedora,Bid Lab,Directed,1329,,,4,Alguien más nos conectó,15,Sí,"1,000,000_",31_50,"Sí, la colaboración fue exitosa",Analyze,ok,33,1
+Aliança Empreendedora,Integração,Directed,1330,,,2,Nosotros los buscamos,3,Sí,"5,000_9,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,33,8
+Aliança Empreendedora,Sebrae Nacional,Directed,1331,,,3,Nosotros los buscamos,5,No,0_99,04_06,"Sí, la colaboración fue exitosa",Analyze,ok,33,10
+YBI,Aliança Empreendedora,Directed,1332,,,4,Ellos nos buscaron,5,Sí,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,33,2
+YBI,Aliança Empreendedora,Directed,1333,,,1,,,,,,,Include,ok,33,1
+YBI,Bid Lab,Directed,1334,,,1,,,,,,,Include,ok,33,1
+Wp Capital,Central 9,Directed,1335,,,3,Ellos nos buscaron,NA,NA,NA,NA,NA,Analyze,ok,N11,1
+Central 9,Brandtone,Directed,1336,,,3,NA,NA,NA,NA,NA,NA,No data,ok,N11,5
+Central 9,Caccuri Advisors,Directed,1337,,,3,NA,NA,NA,NA,NA,NA,No data,ok,N11,6
+Central 9,Cignifi,Directed,1338,,,3,NA,NA,NA,NA,NA,NA,No data,ok,N11,9
+Central 9,Monte Partners,Directed,1339,,,3,NA,NA,NA,NA,NA,NA,No data,ok,N11,4
+Central 9,SWAP,Directed,1340,,,3,NA,NA,NA,NA,NA,NA,No data,ok,N11,8
+Central 9,WMDM,Directed,1341,,,3,NA,NA,NA,NA,NA,NA,No data,ok,N11,10
+Central 9,Youtrade,Directed,1342,,,3,NA,NA,NA,NA,NA,NA,No data,ok,N11,3
+Amani Institute,ANDE,Directed,1343,,,4,Alguien más nos conectó,10,Sí,NA,04_06,"Sí, la colaboración fue exitosa",Analyze,ok,N12,2
+Amani Institute,Ashoka,Directed,1344,,,3,Nosotros los buscamos,20,No,NA,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N12,6
+Amani Institute,ICE,Directed,1345,,,4,Alguien más nos conectó,10,Sí,NA,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N12,1
+Amani Institute,Impact Hub,Directed,1346,,,3,Alguien más nos conectó,10,Sí,NA,04_06,"Sí, la colaboración fue exitosa",Analyze,ok,N12,10
+Amani Institute,Red Bull Amaphiko,Directed,1347,,,3,Alguien más nos conectó,10,Sí,NA,04_06,"Sí, la colaboración fue exitosa",Analyze,ok,N12,11
+Sebrae SP,Amani Institute,Directed,1348,,,3,Ellos nos buscaron,10,Sí,NA,04_06,"Sí, la colaboración fue exitosa",Analyze,ok,N12,4
+Amani Institute,Argidius Foundation,Directed,1349,,,4,Alguien más nos conectó,10,Sí,NA,04_06,"Sí, la colaboración fue exitosa",Analyze,ok,N12,5
+Amani Institute,TrustLaw,Directed,1350,,,3,Nosotros los buscamos,10,No,NA,04_06,"Sí, la colaboración fue exitosa",Analyze,ok,N12,9
+Itau Social,Amani Institute,Directed,1351,,,3,Ellos nos buscaron,10,Sí,NA,04_06,"Sí, la colaboración fue exitosa",Analyze,ok,N12,8
+Amani Institute,Unyleya,Directed,1352,,,3,NA,NA,NA,NA,NA,NA,No data,ok,N12,13
+Astella Investimentos,Endeavor,Directed,1353,,,3,NA,NA,NA,NA,NA,NA,No data,ok,N14,1
+Techno Park,Apex-Brasil,Directed,1354,,,3,Nosotros los buscamos,5,No,0_99,01_03,No se logró colaborar,Analyze,ok,N16,5
+Techno Park,InvestSP,Directed,1355,,,5,Nosotros los buscamos,5,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N16,4
+Techno Park,Inova Unicamp,Directed,1356,,,5,Nosotros los buscamos,3,Sí,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N16,1
+Techno Park,CCTI Desenvolvimento Econômico SP,Directed,1357,,,4,Alguien más nos conectó,30,Sí,"3,000_4,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N16,2
+Techno Park,Industria e Comercio da Prefeitura de Campinas,Directed,1358,,,4,Nosotros los buscamos,3,Sí,"10,000_49,999",04_06,"Sí, la colaboración fue exitosa",Analyze,ok,N16,3
+Techno Park,MCTIC,Directed,1359,,,3,Nosotros los buscamos,5,NA,NA,NA,NA,Analyze,ok,N16,7
+Inova Unicamp,CCTI Desenvolvimento Econômico SP,Directed,1360,,,1,,,,,,,Include,ok,N16,2
+Inova Unicamp,Techno Park,Directed,1361,,,1,,,,,,,Include,ok,N16,2
+Techno Park,AMCHAM Brasil,Directed,1362,,,1,NA,NA,NA,NA,NA,NA,No data,ok,N16,6
+Techno Park,Baita Aceleradora,Directed,1363,,,3,NA,NA,NA,NA,NA,NA,No data,ok,N16,8
+Techno Park,Parque BTU,Directed,1364,,,3,NA,NA,NA,NA,NA,NA,No data,ok,N16,10
+AgTech Garage,SP Ventures,Directed,1365,,,4,Ellos nos buscaron,10,No,100_499,04_06,"Sí, la colaboración fue exitosa",Analyze,ok,N17,3
+Pulse Hub,SP Ventures,Directed,1366,,,4,Ellos nos buscaron,10,No,100_499,04_06,"Sí, la colaboración fue exitosa",Analyze,ok,N17,4
+SP Ventures,ACE,Directed,1367,,,4,Alguien más nos conectó,10,No,100_499,07_10,"Sí, la colaboración fue exitosa",Analyze,ok,N17,11
+SP Ventures,Embrapa,Directed,1368,,,4,Nosotros los buscamos,10,No,"1,000_2,999",04_06,"Sí, la colaboración fue exitosa",Analyze,ok,N17,1
+SP Ventures,USP,Directed,1369,,,4,Nosotros los buscamos,10,No,100_499,04_06,"Sí, la colaboración fue exitosa",Analyze,ok,N17,2
+SP Ventures,Jive Asset Management,Directed,1370,,,5,Nosotros los buscamos,10,Sí,100_499,07_10,"Sí, la colaboración fue exitosa",Analyze,ok,N17,5
+SP Ventures,BNDES,Directed,1371,,,5,Nosotros los buscamos,10,Sí,500_999,07_10,"Sí, la colaboración fue exitosa",Analyze,ok,N17,6
+SP Ventures,Desenvolve SP,Directed,1372,,,5,Nosotros los buscamos,10,Sí,100_499,07_10,"Sí, la colaboración fue exitosa",Analyze,ok,N17,7
+SP Ventures,FAPESP,Directed,1373,,,5,Nosotros los buscamos,10,Sí,100_499,07_10,"Sí, la colaboración fue exitosa",Analyze,ok,N17,9
+SP Ventures,Finep,Directed,1374,,,5,Nosotros los buscamos,10,Sí,100_499,07_10,"Sí, la colaboración fue exitosa",Analyze,ok,N17,10
+SP Ventures,Sebrae SP,Directed,1375,,,5,Nosotros los buscamos,10,Sí,100_499,07_10,"Sí, la colaboración fue exitosa",Analyze,ok,N17,8
+Endeavor,Oracle for Startups,Directed,1376,,,4,Ellos nos buscaron,5,Sí,"10,000_49,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N18,1
+Oracle for Startups,Distrito,Directed,1377,,,3,Nosotros los buscamos,3,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N18,2
+Inovabra,Oracle for Startups,Directed,1378,,,3,Ellos nos buscaron,10,Sí,"10,000_49,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N18,3
+Rise Ventures,Sistema B,Directed,1379,,,5,Nosotros los buscamos,20,Sí,"1,000_2,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N19,5
+Rise Ventures,Marcas com Sal,Directed,1380,,,5,Nosotros los buscamos,5,Sí,500_999,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N19,6
+FGV,Rise Ventures,Directed,1381,,,4,Ellos nos buscaron,1,No,0_99,07_10,"Sí, la colaboración fue exitosa",Analyze,ok,N19,10
+Rise Ventures,Factor Humanus Scientia,Directed,1382,,,5,Nosotros los buscamos,5,Sí,"10,000_49,999",07_10,"Sí, la colaboración fue exitosa",Analyze,ok,N19,7
+Rise Ventures,Wright Capital,Directed,1383,,,4,Nosotros los buscamos,2,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N19,4
+Rise Ventures,Tozzini Freire Advogados,Directed,1384,,,5,Nosotros los buscamos,15,Sí,"5,000_9,999",04_06,"Sí, la colaboración fue exitosa",Analyze,ok,N19,8
+CCTI Desenvolvimento Econômico SP,Instituto Butantan,Directed,1385,,,5,Ellos nos buscaron,20,No,NA,07_10,"Sí, la colaboración fue exitosa",Analyze,ok,N21,11
+MSD,Instituto Butantan,Directed,1386,,,5,Ellos nos buscaron,50,Sí,"100,000_999,999",51_100,"Sí, la colaboración fue exitosa",Analyze,ok,N21,1
+Instituto Butantan,IPT,Directed,1387,,,3,Nosotros los buscamos,10,Sí,NA,04_06,"Sí, la colaboración fue exitosa",Analyze,ok,N21,7
+Instituto Butantan,USP,Directed,1388,,,4,Nosotros los buscamos,20,Sí,"10,000_49,999",07_10,"Sí, la colaboración fue exitosa",Analyze,ok,N21,2
+UNIFESP,Instituto Butantan,Directed,1389,,,3,Ellos nos buscaron,10,No,NA,04_06,"Sí, la colaboración fue exitosa",Analyze,ok,N21,8
+Instituto Butantan,BNDES,Directed,1390,,,5,Nosotros los buscamos,15,Sí,"100,000_999,999",04_06,"Sí, la colaboración fue exitosa",Analyze,ok,N21,10
+Instituto Butantan,FAPESP,Directed,1391,,,5,Nosotros los buscamos,6,Sí,NA,04_06,"Sí, la colaboración fue exitosa",Analyze,ok,N21,9
+Instituto Butantan,LG Chem,Directed,1392,,,4,Nosotros los buscamos,8,Sí,"10,000_49,999",04_06,"Sí, la colaboración fue exitosa",Analyze,ok,N21,4
+Baita Aceleradora,CPqD,Directed,1393,,,3,Ellos nos buscaron,1,Sí,0_99,01_03,No se logró colaborar,Analyze,ok,N22,2
+CPqD,AgTech Garage,Directed,1394,,,5,Nosotros los buscamos,10,Sí,"10,000_49,999",04_06,"Sí, la colaboración fue exitosa",Analyze,ok,N22,11
+CPqD,Prefeitura de Campinas,Directed,1395,,,5,Nosotros los buscamos,10,Sí,"1,000,000_",100_,"Sí, la colaboración fue exitosa",Analyze,ok,N22,6
+CPqD,Inova Unicamp,Directed,1396,,,4,Nosotros los buscamos,1,Sí,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N22,3
+CPqD,Samsung,Directed,1397,,,4,Nosotros los buscamos,3,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N22,10
+CPqD,UNICAMP,Directed,1398,,,4,Nosotros los buscamos,3,Sí,0_99,07_10,"Sí, la colaboración fue exitosa",Analyze,ok,N22,9
+Sebrae SP,CPqD,Directed,1399,,,4,Ellos nos buscaron,1,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N22,1
+Weme,CPqD,Directed,1400,,,4,Ellos nos buscaron,3,Sí,"5,000_9,999",04_06,"Sí, la colaboración fue exitosa",Analyze,ok,N22,7
+CPqD,BNDES,Directed,1401,,,5,Nosotros los buscamos,5,Sí,"100,000_999,999",07_10,"Sí, la colaboración fue exitosa",Analyze,ok,N22,4
+CPqD,EMBRAPII,Directed,1402,,,5,Nosotros los buscamos,5,Sí,"1,000,000_",100_,"Sí, la colaboración fue exitosa",Analyze,ok,N22,8
+CPqD,MCTIC,Directed,1403,,,5,Nosotros los buscamos,5,Sí,"1,000,000_",100_,"Sí, la colaboración fue exitosa",Analyze,ok,N22,5
+CPqD,Campinas Tech,Directed,1404,,,3,NA,NA,NA,NA,NA,NA,No data,ok,N22,14
+CPqD,Cubo,Directed,1405,,,3,NA,NA,NA,NA,NA,NA,No data,ok,N22,21
+CPqD,FFCi,Directed,1406,,,3,NA,NA,NA,NA,NA,NA,No data,ok,N22,13
+CPqD,Matera,Directed,1407,,,3,NA,NA,NA,NA,NA,NA,No data,ok,N22,12
+CPqD,RNP,Directed,1408,,,3,NA,NA,NA,NA,NA,NA,No data,ok,N22,16
+CPqD,SOFTEX,Directed,1409,,,3,NA,NA,NA,NA,NA,NA,No data,ok,N22,17
+Kyvo Design,Cubo,Directed,1410,,,2,Nosotros los buscamos,10,No,100_499,01_03,"No, la colaboración no fue exitosa",Analyze,ok,N23,8
+Kyvo Design,Duco,Directed,1411,,,4,Nosotros los buscamos,5,No,100_499,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N23,5
+B3,Kyvo Design,Directed,1412,,,4,Ellos nos buscaron,8,Sí,"1,000_2,999",04_06,"Sí, la colaboración fue exitosa",Analyze,ok,N23,4
+Blockchain Academy,Kyvo Design,Directed,1413,,,4,Ellos nos buscaron,10,Sí,"1,000_2,999",01_03,"No, la colaboración no fue exitosa",Analyze,ok,N23,7
+Edenred,Kyvo Design,Directed,1414,,,4,Ellos nos buscaron,5,Sí,"5,000_9,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N23,3
+Kyvo Design,GSV,Directed,1415,,,4,Nosotros los buscamos,4,Sí,"1,000_2,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N23,6
+Kyvo Design,Inovabra,Directed,1416,,,4,Alguien más nos conectó,1,No,0_99,04_06,"Sí, la colaboración fue exitosa",Analyze,ok,N23,9
+Sebrae SP,Kyvo Design,Directed,1417,,,3,Ellos nos buscaron,10,Sí,"10,000_49,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N23,10
+Visa,Kyvo Design,Directed,1418,,,5,Ellos nos buscaron,12,Sí,"10,000_49,999",04_06,"Sí, la colaboración fue exitosa",Analyze,ok,N23,1
+Kyvo Design,BrazilLAB,Directed,1419,,,2,Nosotros los buscamos,4,No,"1,000_2,999",01_03,"No, la colaboración no fue exitosa",Analyze,ok,N23,11
+Visa,Inovabra,Directed,1420,,,1,,,,,,,Include,ok,N23,9
+Visa,Kyvo Design,Directed,1421,,,1,,,,,,,Include,ok,N23,9
+Din4mo,Artemisia,Directed,1422,,,3,NA,NA,NA,NA,NA,NA,No data,ok,N24,11
+Din4mo,Basement,Directed,1423,,,3,NA,NA,NA,NA,NA,NA,No data,ok,N24,12
+Din4mo,FIIMP,Directed,1424,,,3,NA,NA,NA,NA,NA,NA,No data,ok,N24,3
+Din4mo,ICE,Directed,1425,,,3,NA,NA,NA,NA,NA,NA,No data,ok,N24,2
+Din4mo,Porto Digital,Directed,1426,,,3,NA,NA,NA,NA,NA,NA,No data,ok,N24,10
+Din4mo,Refinaria de Dados,Directed,1427,,,3,NA,NA,NA,NA,NA,NA,No data,ok,N24,8
+Din4mo,Simbiose Social,Directed,1428,,,3,NA,NA,NA,NA,NA,NA,No data,ok,N24,7
+IndicatorCapital,Anjos do Brasil,Directed,1429,,,5,,,,,,,Include,ok,P10,C
+Nexus,PqTec,Directed,1430,,,5,,,,,,,Include,ok,P12,E
+CCTI Desenvolvimento Econômico SP,Desenvolvimento Econômico SP,Directed,1431,,,5,,,,,,,Include,ok,P14,E
+The Brazilian Report,Coletivo 47,Directed,1432,,,5,,,,,,,Include,ok,P16,C
+Aliança Empreendedora,Bid Lab,Directed,1433,,,5,,,,,,,Include,ok,P18,C
+Aliança Empreendedora,Bank of America,Directed,1434,,,5,,,,,,,Include,ok,P18,E
+Parabolt,gA,Directed,1435,,,5,,,,,,,Include,ok,P19,C
+WTT,Fundación Avina,Directed,1436,,,5,,,,,,,Include,ok,P20,C
+WTT,Fundación Avina,Directed,1437,,,5,,,,,,,Include,ok,P20,E
+ParqTec,Finep,Directed,1438,,,5,,,,,,,Include,ok,P23,C
+ParqTec,CNPq,Directed,1439,,,5,,,,,,,Include,ok,P23,E
+CPS,CCTI Desenvolvimento Econômico SP,Directed,1440,,,3,,,,,,,Include,ok,P26,1
+Inova Unicamp,UNICAMP,Directed,1441,,,5,,,,,,,Include,ok,P28,E
+Parquetecsorocaba,Prefeitura de Sorocaba,Directed,1442,,,5,,,,,,,Include,ok,P29,E
+Monashees,ABVCAP,Directed,1443,,,3,,,,,,,Include,ok,P3,6
+Monashees,Google for Startups,Directed,1444,,,3,,,,,,,Include,ok,P3,2
+Monashees,NEU,Directed,1445,,,3,,,,,,,Include,ok,P3,4
+WeWork Labs,WeWork,Directed,1446,,,5,,,,,,,Include,ok,P30,E
+AUIN,Santander,Directed,1447,,,5,,,,,,,Include,ok,P33,C
+AUIN,Santander,Directed,1448,,,5,,,,,,,Include,ok,P33,E
+AUIN,CCTI Desenvolvimento Econômico SP,Directed,1449,,,3,,,,,,,Include,ok,P33,1
+AUIN,FIESP,Directed,1450,,,3,,,,,,,Include,ok,P33,3
+AUIN,Folha de São Paulo,Directed,1451,,,3,,,,,,,Include,ok,P33,5
+AUIN,PqTec,Directed,1452,,,3,,,,,,,Include,ok,P33,2
+AUIN,SENAI,Directed,1453,,,3,,,,,,,Include,ok,P33,4
+Santander,MEC,Directed,1454,,,5,,,,,,,Include,ok,P34,E
+Santander,AMCHAM Brasil,Directed,1455,,,3,,,,,,,Include,ok,P34,3
+Santander,Fundepar,Directed,1456,,,3,,,,,,,Include,ok,P34,4
+Santander,Lab 033,Directed,1457,,,3,,,,,,,Include,ok,P34,6
+Santander,MCTIC,Directed,1458,,,3,,,,,,,Include,ok,P34,1
+Nós Innovators,Banco Bradesco,Directed,1459,,,5,,,,,,,Include,ok,P35,C
+Nós Innovators,Inovabra,Directed,1460,,,5,,,,,,,Include,ok,P35,E
+CIETEC,FAPESP,Directed,1461,,,5,,,,,,,Include,ok,P6,C
+CIETEC,Sebrae SP,Directed,1462,,,5,,,,,,,Include,ok,P6,E
+Central 9,Google for Startups,Directed,1463,,,5,,,,,,,Include,ok,PN11,C
+Central 9,Plataforma Coworking,Directed,1464,,,5,,,,,,,Include,ok,PN11,E
+Astella Investimentos,Endeavor,Directed,1465,,,5,,,,,,,Include,ok,PN14,E
+Techno Park,Inova Unicamp,Directed,1466,,,5,,,,,,,Include,ok,PN16,E
+SP Ventures,Bid Lab,Directed,1467,,,5,,,,,,,Include,ok,PN17,C
+SP Ventures,BNDES,Directed,1468,,,5,,,,,,,Include,ok,PN17,E
+Oracle for Startups,Endeavor,Directed,1469,,,5,,,,,,,Include,ok,PN18,E
+Rise Ventures,Integration Consulting,Directed,1470,,,5,,,,,,,Include,ok,PN19,E
+Instituto Butantan,Desenvolvimento Econômico SP,Directed,1471,,,5,,,,,,,Include,ok,PN21,E
+CPqD,EMBRAPII,Directed,1472,,,5,,,,,,,Include,ok,PN22,C
+CPqD,FFCi,Directed,1473,,,5,,,,,,,Include,ok,PN22,E
+Kyvo Design,TheHOP,Directed,1474,,,5,,,,,,,Include,ok,PN23,C
+Kyvo Design,Visa,Directed,1475,,,5,,,,,,,Include,ok,PN23,E

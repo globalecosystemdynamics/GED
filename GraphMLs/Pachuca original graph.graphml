@@ -1,0 +1,1186 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="Weight" attr.type="long"/>
+<key id="d1" for="node" attr.name="weight" attr.type="float"/>
+<key id="d0" for="node" attr.name="rol" attr.type="string"/>
+<graph edgedefault="directed"><node id="AMMJE">
+  <data key="d0">Linker</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="ProMéxico">
+  <data key="d0">Promoter</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Calpulli">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="UPMH">
+  <data key="d0">Enabler</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="BNI">
+  <data key="d0">Linker</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="PROCAHU">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CANACINTRA Pachuca">
+  <data key="d0">Linker</data>
+  <data key="d1">6.4</data>
+</node>
+<node id="UPP (AI)">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">2.4</data>
+</node>
+<node id="UTEC TGO">
+  <data key="d0">Enabler</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="CCEH">
+  <data key="d0">Linker</data>
+  <data key="d1">8.2</data>
+</node>
+<node id="CANACO Pachuca">
+  <data key="d0">Linker</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="El Sol de Hidalgo">
+  <data key="d0">Promoter</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="IHCE">
+  <data key="d0">Articulator</data>
+  <data key="d1">9.4</data>
+</node>
+<node id="Periódico Criterio">
+  <data key="d0">Promoter</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="SEDECO HGO">
+  <data key="d0">Articulator</data>
+  <data key="d1">6.4</data>
+</node>
+<node id="SEPH">
+  <data key="d0">Articulator</data>
+  <data key="d1">5.6</data>
+</node>
+<node id="UPIIH">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="CECyTE HGO">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CITNOVA">
+  <data key="d0">Articulator</data>
+  <data key="d1">13.0</data>
+</node>
+<node id="Dpto. Vinculación CECyTE HGO">
+  <data key="d0">Linker</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="MIT EF México">
+  <data key="d0">Linker</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Nivea YBT">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Radio y Televisión HGO">
+  <data key="d0">Promoter</data>
+  <data key="d1">2.4</data>
+</node>
+<node id="Revista Mentes QUO">
+  <data key="d0">Promoter</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="UAEH (AI)">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">3.0</data>
+</node>
+<node id="UPP">
+  <data key="d0">Enabler</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="CGUTYP">
+  <data key="d0">Linker</data>
+  <data key="d1">2.6</data>
+</node>
+<node id="CICAINTE">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="CONACYT">
+  <data key="d0">Articulator</data>
+  <data key="d1">4.8</data>
+</node>
+<node id="FPNT">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Grupo Educare">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="INADEM">
+  <data key="d0">Articulator</data>
+  <data key="d1">11.0</data>
+</node>
+<node id="Startup HGO">
+  <data key="d0">Community</data>
+  <data key="d1">4.4</data>
+</node>
+<node id="SICIPAED">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="COPARMEX HGO">
+  <data key="d0">Linker</data>
+  <data key="d1">4.4</data>
+</node>
+<node id="DEC del IPN">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="ITPachuca (AI)">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="DigiPlastic Industries">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Doppler Email MKT">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Networking Hidalgo">
+  <data key="d0">Community</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="UIEBTH">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="FRACTAL TV">
+  <data key="d0">Promoter</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Incubadora ITESM">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Fundación Persiste">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Gaceta Politécnica">
+  <data key="d0">Promoter</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="Kuman">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Hub Incubasi">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Centro Emprendimiento COBAEH">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="CIAJ">
+  <data key="d0">Linker</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="CIATEQ HGO">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="CIIMMATH">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="CMIC">
+  <data key="d0">Linker</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Gob. HGO">
+  <data key="d0">Articulator</data>
+  <data key="d1">4.2</data>
+</node>
+<node id="ICATHI">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Incubadora UTEC TGO">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="NAFIN">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="SEDECO Pachuca">
+  <data key="d0">Articulator</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="UAEH Tizayuca (AI)">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="UTVM">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="IMNC">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Impulso Rosa">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Business As Unusual">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Casa México">
+  <data key="d0">Promoter</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="Play Business">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="IEEGL">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Sistema Tecnológico de Monterrey">
+  <data key="d0">Linker</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Incubadora ITSOEH">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="SAGARPA">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="SE">
+  <data key="d0">Articulator</data>
+  <data key="d1">5.8</data>
+</node>
+<node id="TecNM">
+  <data key="d0">Enabler</data>
+  <data key="d1">4.0</data>
+</node>
+<node id="Televisión Regional del Valle del Mezquital">
+  <data key="d0">Promoter</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="UPFIM (AI)">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="Incubadora Social UAEH">
+  <data key="d0">Enabler</data>
+  <data key="d1">2.6</data>
+</node>
+<node id="Incubadora UPP">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="INECUH">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="IPN">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="ITESA">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="ITSOEH (AI)">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Embajada US">
+  <data key="d0">Promoter</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Jóvenes Emprendedores HGO">
+  <data key="d0">Community</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Mercoco">
+  <data key="d0">Promoter</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Marketiin Revista">
+  <data key="d0">Promoter</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="UAEH">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="Epic Queen HGO">
+  <data key="d0">Community</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="Fixter">
+  <data key="d0">Community</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="Incrementa CRM">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Incubadora UAEH">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="OBSUPP">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="RedOTT">
+  <data key="d0">Linker</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Gob. Chilcuatla">
+  <data key="d0">Articulator</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Gob. Mineral de la Reforma">
+  <data key="d0">Articulator</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Gob. Pachuca">
+  <data key="d0">Articulator</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Gob. Tlahuelilpan">
+  <data key="d0">Articulator</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Gob. Zempoala">
+  <data key="d0">Articulator</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Impulso Joven">
+  <data key="d0">Enabler</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="ZAGA">
+  <data key="d0">Promoter</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="CANIRAC">
+  <data key="d0">Linker</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Ciudad del Conocimiento">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="CNITV">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="Quadratin">
+  <data key="d0">Promoter</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Reinventa">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Revista Núcleo CTI">
+  <data key="d0">Promoter</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Revo 300">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="RISUTyP">
+  <data key="d0">Linker</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="TEDNOVA Group">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Subsecretaría de Innovación y Emprendimiento Cultural">
+  <data key="d0">Articulator</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Maker Space Huichapan">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Plan Alfa">
+  <data key="d0">Enabler</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="Quimera">
+  <data key="d0">Promoter</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Tapai Coworking">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="TV Azteca">
+  <data key="d0">Promoter</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="CINVESTAV">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="CMPL">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="ENCB">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Radio Universidad UAEH">
+  <data key="d0">Promoter</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="UPIBI del IPN">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="GOB.MX">
+  <data key="d0">Articulator</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Comunicación Social SEPH">
+  <data key="d0">Promoter</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Impact Hub">
+  <data key="d0">Community</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="SUM">
+  <data key="d0">Enabler</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Cuerpos Académicos UPP">
+  <data key="d0">Community</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Dir. Innovación y Posgrado UPP">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="OTT UPP">
+  <data key="d0">Enabler</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="AGARED">
+  <data key="d0">Linker</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CIATEJ">
+  <data key="d0">Knowledge Generator</data>
+  <data key="d1">0.6</data>
+</node>
+<edge source="AMMJE" target="ProMéxico">
+  <data key="d2">5</data>
+</edge>
+<edge source="ProMéxico" target="CANACINTRA Pachuca">
+  <data key="d2">4</data>
+</edge>
+<edge source="ProMéxico" target="CANIRAC">
+  <data key="d2">4</data>
+</edge>
+<edge source="ProMéxico" target="CCEH">
+  <data key="d2">4</data>
+</edge>
+<edge source="ProMéxico" target="Ciudad del Conocimiento">
+  <data key="d2">4</data>
+</edge>
+<edge source="ProMéxico" target="CNITV">
+  <data key="d2">1</data>
+</edge>
+<edge source="ProMéxico" target="COPARMEX HGO">
+  <data key="d2">5</data>
+</edge>
+<edge source="ProMéxico" target="IHCE">
+  <data key="d2">3</data>
+</edge>
+<edge source="ProMéxico" target="SEDECO HGO">
+  <data key="d2">5</data>
+</edge>
+<edge source="ProMéxico" target="UPMH">
+  <data key="d2">4</data>
+</edge>
+<edge source="ProMéxico" target="SE">
+  <data key="d2">5</data>
+</edge>
+<edge source="Calpulli" target="UPMH">
+  <data key="d2">5</data>
+</edge>
+<edge source="UPMH" target="CCEH">
+  <data key="d2">4</data>
+</edge>
+<edge source="UPMH" target="CITNOVA">
+  <data key="d2">4</data>
+</edge>
+<edge source="UPMH" target="Comunicación Social SEPH">
+  <data key="d2">4</data>
+</edge>
+<edge source="UPMH" target="IHCE">
+  <data key="d2">3</data>
+</edge>
+<edge source="UPMH" target="Impact Hub">
+  <data key="d2">3</data>
+</edge>
+<edge source="UPMH" target="INADEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="UPMH" target="Networking Hidalgo">
+  <data key="d2">2</data>
+</edge>
+<edge source="UPMH" target="Plan Alfa">
+  <data key="d2">5</data>
+</edge>
+<edge source="UPMH" target="SEDECO HGO">
+  <data key="d2">5</data>
+</edge>
+<edge source="UPMH" target="SEPH">
+  <data key="d2">5</data>
+</edge>
+<edge source="UPMH" target="SUM">
+  <data key="d2">3</data>
+</edge>
+<edge source="BNI" target="PROCAHU">
+  <data key="d2">4</data>
+</edge>
+<edge source="PROCAHU" target="CANACINTRA Pachuca">
+  <data key="d2">3</data>
+</edge>
+<edge source="PROCAHU" target="COPARMEX HGO">
+  <data key="d2">3</data>
+</edge>
+<edge source="PROCAHU" target="Impulso Joven">
+  <data key="d2">5</data>
+</edge>
+<edge source="PROCAHU" target="ZAGA">
+  <data key="d2">1</data>
+</edge>
+<edge source="PROCAHU" target="UTEC TGO">
+  <data key="d2">1</data>
+</edge>
+<edge source="CANACINTRA Pachuca" target="PROCAHU">
+  <data key="d2">1</data>
+</edge>
+<edge source="CANACINTRA Pachuca" target="UPP (AI)">
+  <data key="d2">1</data>
+</edge>
+<edge source="CANACINTRA Pachuca" target="UTEC TGO">
+  <data key="d2">1</data>
+</edge>
+<edge source="UPP (AI)" target="AGARED">
+  <data key="d2">1</data>
+</edge>
+<edge source="UPP (AI)" target="CCEH">
+  <data key="d2">5</data>
+</edge>
+<edge source="UPP (AI)" target="CGUTYP">
+  <data key="d2">1</data>
+</edge>
+<edge source="UPP (AI)" target="CIATEJ">
+  <data key="d2">1</data>
+</edge>
+<edge source="UPP (AI)" target="CIATEQ HGO">
+  <data key="d2">1</data>
+</edge>
+<edge source="UPP (AI)" target="CINVESTAV">
+  <data key="d2">1</data>
+</edge>
+<edge source="UTEC TGO" target="CCEH">
+  <data key="d2">5</data>
+</edge>
+<edge source="CCEH" target="CANACO Pachuca">
+  <data key="d2">4</data>
+</edge>
+<edge source="CCEH" target="El Sol de Hidalgo">
+  <data key="d2">4</data>
+</edge>
+<edge source="CCEH" target="IHCE">
+  <data key="d2">5</data>
+</edge>
+<edge source="CCEH" target="Periódico Criterio">
+  <data key="d2">4</data>
+</edge>
+<edge source="CCEH" target="SEDECO HGO">
+  <data key="d2">5</data>
+</edge>
+<edge source="CCEH" target="SEPH">
+  <data key="d2">1</data>
+</edge>
+<edge source="CCEH" target="UPIIH">
+  <data key="d2">1</data>
+</edge>
+<edge source="El Sol de Hidalgo" target="UIEBTH">
+  <data key="d2">1</data>
+</edge>
+<edge source="IHCE" target="CANACINTRA Pachuca">
+  <data key="d2">1</data>
+</edge>
+<edge source="IHCE" target="CANACO Pachuca">
+  <data key="d2">4</data>
+</edge>
+<edge source="IHCE" target="CCEH">
+  <data key="d2">4</data>
+</edge>
+<edge source="IHCE" target="Centro Emprendimiento COBAEH">
+  <data key="d2">1</data>
+</edge>
+<edge source="IHCE" target="CIAJ">
+  <data key="d2">4</data>
+</edge>
+<edge source="IHCE" target="CIATEQ HGO">
+  <data key="d2">2</data>
+</edge>
+<edge source="IHCE" target="CIIMMATH">
+  <data key="d2">2</data>
+</edge>
+<edge source="IHCE" target="CITNOVA">
+  <data key="d2">1</data>
+</edge>
+<edge source="IHCE" target="CMIC">
+  <data key="d2">1</data>
+</edge>
+<edge source="IHCE" target="COPARMEX HGO">
+  <data key="d2">4</data>
+</edge>
+<edge source="IHCE" target="Gob. HGO">
+  <data key="d2">5</data>
+</edge>
+<edge source="IHCE" target="ICATHI">
+  <data key="d2">5</data>
+</edge>
+<edge source="IHCE" target="INADEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="IHCE" target="Incubadora UTEC TGO">
+  <data key="d2">2</data>
+</edge>
+<edge source="IHCE" target="NAFIN">
+  <data key="d2">1</data>
+</edge>
+<edge source="IHCE" target="SEDECO Pachuca">
+  <data key="d2">1</data>
+</edge>
+<edge source="IHCE" target="UAEH Tizayuca (AI)">
+  <data key="d2">2</data>
+</edge>
+<edge source="IHCE" target="UIEBTH">
+  <data key="d2">5</data>
+</edge>
+<edge source="IHCE" target="UPMH">
+  <data key="d2">3</data>
+</edge>
+<edge source="IHCE" target="UPP (AI)">
+  <data key="d2">1</data>
+</edge>
+<edge source="IHCE" target="UTVM">
+  <data key="d2">3</data>
+</edge>
+<edge source="IHCE" target="Networking Hidalgo">
+  <data key="d2">5</data>
+</edge>
+<edge source="SEDECO HGO" target="ITPachuca (AI)">
+  <data key="d2">3</data>
+</edge>
+<edge source="SEPH" target="IHCE">
+  <data key="d2">3</data>
+</edge>
+<edge source="SEPH" target="ITSOEH (AI)">
+  <data key="d2">5</data>
+</edge>
+<edge source="UPIIH" target="CITNOVA">
+  <data key="d2">3</data>
+</edge>
+<edge source="UPIIH" target="Gob. HGO">
+  <data key="d2">5</data>
+</edge>
+<edge source="UPIIH" target="GOB.MX">
+  <data key="d2">5</data>
+</edge>
+<edge source="CECyTE HGO" target="CCEH">
+  <data key="d2">5</data>
+</edge>
+<edge source="CECyTE HGO" target="CITNOVA">
+  <data key="d2">5</data>
+</edge>
+<edge source="CECyTE HGO" target="Dpto. Vinculación CECyTE HGO">
+  <data key="d2">5</data>
+</edge>
+<edge source="CECyTE HGO" target="IHCE">
+  <data key="d2">5</data>
+</edge>
+<edge source="CECyTE HGO" target="MIT EF México">
+  <data key="d2">5</data>
+</edge>
+<edge source="CECyTE HGO" target="Nivea YBT">
+  <data key="d2">5</data>
+</edge>
+<edge source="CECyTE HGO" target="Radio y Televisión HGO">
+  <data key="d2">4</data>
+</edge>
+<edge source="CECyTE HGO" target="Revista Mentes QUO">
+  <data key="d2">5</data>
+</edge>
+<edge source="CECyTE HGO" target="UAEH (AI)">
+  <data key="d2">5</data>
+</edge>
+<edge source="CECyTE HGO" target="UPP">
+  <data key="d2">4</data>
+</edge>
+<edge source="CECyTE HGO" target="UTEC TGO">
+  <data key="d2">5</data>
+</edge>
+<edge source="CITNOVA" target="CECyTE HGO">
+  <data key="d2">5</data>
+</edge>
+<edge source="CITNOVA" target="SICIPAED">
+  <data key="d2">4</data>
+</edge>
+<edge source="Radio y Televisión HGO" target="UIEBTH">
+  <data key="d2">1</data>
+</edge>
+<edge source="UAEH (AI)" target="ITPachuca (AI)">
+  <data key="d2">3</data>
+</edge>
+<edge source="UPP" target="CANACINTRA Pachuca">
+  <data key="d2">5</data>
+</edge>
+<edge source="UPP" target="CGUTYP">
+  <data key="d2">5</data>
+</edge>
+<edge source="UPP" target="CITNOVA">
+  <data key="d2">4</data>
+</edge>
+<edge source="UPP" target="CONACYT">
+  <data key="d2">4</data>
+</edge>
+<edge source="UPP" target="Cuerpos Académicos UPP">
+  <data key="d2">4</data>
+</edge>
+<edge source="UPP" target="Dir. Innovación y Posgrado UPP">
+  <data key="d2">5</data>
+</edge>
+<edge source="UPP" target="INADEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="UPP" target="OTT UPP">
+  <data key="d2">5</data>
+</edge>
+<edge source="UPP" target="RedOTT">
+  <data key="d2">4</data>
+</edge>
+<edge source="UPP" target="SEDECO HGO">
+  <data key="d2">3</data>
+</edge>
+<edge source="CGUTYP" target="UPP">
+  <data key="d2">5</data>
+</edge>
+<edge source="CICAINTE" target="CITNOVA">
+  <data key="d2">1</data>
+</edge>
+<edge source="CICAINTE" target="CONACYT">
+  <data key="d2">1</data>
+</edge>
+<edge source="CICAINTE" target="FPNT">
+  <data key="d2">1</data>
+</edge>
+<edge source="CICAINTE" target="Grupo Educare">
+  <data key="d2">1</data>
+</edge>
+<edge source="CICAINTE" target="INADEM">
+  <data key="d2">1</data>
+</edge>
+<edge source="CICAINTE" target="Startup HGO">
+  <data key="d2">1</data>
+</edge>
+<edge source="Startup HGO" target="IHCE">
+  <data key="d2">2</data>
+</edge>
+<edge source="Startup HGO" target="SICIPAED">
+  <data key="d2">4</data>
+</edge>
+<edge source="Startup HGO" target="UPMH">
+  <data key="d2">5</data>
+</edge>
+<edge source="Startup HGO" target="UPP">
+  <data key="d2">4</data>
+</edge>
+<edge source="SICIPAED" target="CICAINTE">
+  <data key="d2">4</data>
+</edge>
+<edge source="SICIPAED" target="CITNOVA">
+  <data key="d2">5</data>
+</edge>
+<edge source="SICIPAED" target="CONACYT">
+  <data key="d2">4</data>
+</edge>
+<edge source="SICIPAED" target="OBSUPP">
+  <data key="d2">4</data>
+</edge>
+<edge source="SICIPAED" target="TEDNOVA Group">
+  <data key="d2">5</data>
+</edge>
+<edge source="SICIPAED" target="UPP">
+  <data key="d2">4</data>
+</edge>
+<edge source="SICIPAED" target="UPP (AI)">
+  <data key="d2">4</data>
+</edge>
+<edge source="COPARMEX HGO" target="UPP (AI)">
+  <data key="d2">1</data>
+</edge>
+<edge source="DEC del IPN" target="ITPachuca (AI)">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITPachuca (AI)" target="CANACINTRA Pachuca">
+  <data key="d2">4</data>
+</edge>
+<edge source="ITPachuca (AI)" target="CCEH">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITPachuca (AI)" target="CIATEQ HGO">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITPachuca (AI)" target="CITNOVA">
+  <data key="d2">5</data>
+</edge>
+<edge source="ITPachuca (AI)" target="CMIC">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITPachuca (AI)" target="CONACYT">
+  <data key="d2">4</data>
+</edge>
+<edge source="ITPachuca (AI)" target="IHCE">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITPachuca (AI)" target="Radio y Televisión HGO">
+  <data key="d2">2</data>
+</edge>
+<edge source="ITPachuca (AI)" target="TecNM">
+  <data key="d2">5</data>
+</edge>
+<edge source="DigiPlastic Industries" target="ITPachuca (AI)">
+  <data key="d2">3</data>
+</edge>
+<edge source="Doppler Email MKT" target="Networking Hidalgo">
+  <data key="d2">5</data>
+</edge>
+<edge source="Networking Hidalgo" target="CCEH">
+  <data key="d2">3</data>
+</edge>
+<edge source="Networking Hidalgo" target="Epic Queen HGO">
+  <data key="d2">2</data>
+</edge>
+<edge source="Networking Hidalgo" target="Fixter">
+  <data key="d2">1</data>
+</edge>
+<edge source="Networking Hidalgo" target="IHCE">
+  <data key="d2">5</data>
+</edge>
+<edge source="Networking Hidalgo" target="Incrementa CRM">
+  <data key="d2">5</data>
+</edge>
+<edge source="Networking Hidalgo" target="Incubadora UAEH">
+  <data key="d2">5</data>
+</edge>
+<edge source="Networking Hidalgo" target="Startup HGO">
+  <data key="d2">2</data>
+</edge>
+<edge source="UIEBTH" target="CCEH">
+  <data key="d2">2</data>
+</edge>
+<edge source="UIEBTH" target="CINVESTAV">
+  <data key="d2">4</data>
+</edge>
+<edge source="UIEBTH" target="CITNOVA">
+  <data key="d2">5</data>
+</edge>
+<edge source="UIEBTH" target="CMPL">
+  <data key="d2">4</data>
+</edge>
+<edge source="UIEBTH" target="ENCB">
+  <data key="d2">4</data>
+</edge>
+<edge source="UIEBTH" target="Gob. HGO">
+  <data key="d2">5</data>
+</edge>
+<edge source="UIEBTH" target="IHCE">
+  <data key="d2">3</data>
+</edge>
+<edge source="UIEBTH" target="INADEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="UIEBTH" target="Radio Universidad UAEH">
+  <data key="d2">5</data>
+</edge>
+<edge source="UIEBTH" target="SEDECO HGO">
+  <data key="d2">5</data>
+</edge>
+<edge source="UIEBTH" target="UAEH">
+  <data key="d2">3</data>
+</edge>
+<edge source="UIEBTH" target="UPIBI del IPN">
+  <data key="d2">4</data>
+</edge>
+<edge source="FRACTAL TV" target="Incubadora ITESM">
+  <data key="d2">3</data>
+</edge>
+<edge source="Incubadora ITESM" target="Business As Unusual">
+  <data key="d2">3</data>
+</edge>
+<edge source="Incubadora ITESM" target="CANACINTRA Pachuca">
+  <data key="d2">1</data>
+</edge>
+<edge source="Incubadora ITESM" target="Casa México">
+  <data key="d2">1</data>
+</edge>
+<edge source="Incubadora ITESM" target="COPARMEX HGO">
+  <data key="d2">1</data>
+</edge>
+<edge source="Incubadora ITESM" target="Play Business">
+  <data key="d2">2</data>
+</edge>
+<edge source="Incubadora ITESM" target="SEDECO HGO">
+  <data key="d2">3</data>
+</edge>
+<edge source="Incubadora ITESM" target="IEEGL">
+  <data key="d2">5</data>
+</edge>
+<edge source="Incubadora ITESM" target="IHCE">
+  <data key="d2">1</data>
+</edge>
+<edge source="Incubadora ITESM" target="Sistema Tecnológico de Monterrey">
+  <data key="d2">5</data>
+</edge>
+<edge source="Fundación Persiste" target="CECyTE HGO">
+  <data key="d2">5</data>
+</edge>
+<edge source="Gaceta Politécnica" target="UIEBTH">
+  <data key="d2">1</data>
+</edge>
+<edge source="Kuman" target="CCEH">
+  <data key="d2">5</data>
+</edge>
+<edge source="Hub Incubasi" target="Networking Hidalgo">
+  <data key="d2">4</data>
+</edge>
+<edge source="SEDECO Pachuca" target="Incubadora ITESM">
+  <data key="d2">2</data>
+</edge>
+<edge source="SEDECO Pachuca" target="Networking Hidalgo">
+  <data key="d2">5</data>
+</edge>
+<edge source="IMNC" target="ITPachuca (AI)">
+  <data key="d2">3</data>
+</edge>
+<edge source="Impulso Rosa" target="ProMéxico">
+  <data key="d2">5</data>
+</edge>
+<edge source="Incubadora ITSOEH" target="CCEH">
+  <data key="d2">3</data>
+</edge>
+<edge source="Incubadora ITSOEH" target="CONACYT">
+  <data key="d2">1</data>
+</edge>
+<edge source="Incubadora ITSOEH" target="El Sol de Hidalgo">
+  <data key="d2">3</data>
+</edge>
+<edge source="Incubadora ITSOEH" target="IHCE">
+  <data key="d2">2</data>
+</edge>
+<edge source="Incubadora ITSOEH" target="INADEM">
+  <data key="d2">4</data>
+</edge>
+<edge source="Incubadora ITSOEH" target="Radio y Televisión HGO">
+  <data key="d2">2</data>
+</edge>
+<edge source="Incubadora ITSOEH" target="SAGARPA">
+  <data key="d2">3</data>
+</edge>
+<edge source="Incubadora ITSOEH" target="SE">
+  <data key="d2">5</data>
+</edge>
+<edge source="Incubadora ITSOEH" target="TecNM">
+  <data key="d2">5</data>
+</edge>
+<edge source="Incubadora ITSOEH" target="Televisión Regional del Valle del Mezquital">
+  <data key="d2">3</data>
+</edge>
+<edge source="Incubadora ITSOEH" target="UAEH (AI)">
+  <data key="d2">2</data>
+</edge>
+<edge source="Incubadora ITSOEH" target="UPFIM (AI)">
+  <data key="d2">2</data>
+</edge>
+<edge source="SE" target="CCEH">
+  <data key="d2">5</data>
+</edge>
+<edge source="SE" target="CITNOVA">
+  <data key="d2">1</data>
+</edge>
+<edge source="SE" target="UIEBTH">
+  <data key="d2">3</data>
+</edge>
+<edge source="SE" target="UPP">
+  <data key="d2">1</data>
+</edge>
+<edge source="Incubadora Social UAEH" target="IHCE">
+  <data key="d2">1</data>
+</edge>
+<edge source="Incubadora UPP" target="IHCE">
+  <data key="d2">1</data>
+</edge>
+<edge source="INECUH" target="CANACINTRA Pachuca">
+  <data key="d2">2</data>
+</edge>
+<edge source="INECUH" target="CIATEQ HGO">
+  <data key="d2">1</data>
+</edge>
+<edge source="INECUH" target="CONACYT">
+  <data key="d2">5</data>
+</edge>
+<edge source="INECUH" target="Gob. HGO">
+  <data key="d2">1</data>
+</edge>
+<edge source="INECUH" target="IPN">
+  <data key="d2">1</data>
+</edge>
+<edge source="INECUH" target="Radio y Televisión HGO">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITESA" target="IHCE">
+  <data key="d2">2</data>
+</edge>
+<edge source="ITSOEH (AI)" target="CANACO Pachuca">
+  <data key="d2">1</data>
+</edge>
+<edge source="ITSOEH (AI)" target="CITNOVA">
+  <data key="d2">1</data>
+</edge>
+<edge source="ITSOEH (AI)" target="Embajada US">
+  <data key="d2">5</data>
+</edge>
+<edge source="ITSOEH (AI)" target="INADEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="ITSOEH (AI)" target="SE">
+  <data key="d2">5</data>
+</edge>
+<edge source="ITSOEH (AI)" target="SEPH">
+  <data key="d2">5</data>
+</edge>
+<edge source="Jóvenes Emprendedores HGO" target="IHCE">
+  <data key="d2">1</data>
+</edge>
+<edge source="Mercoco" target="CITNOVA">
+  <data key="d2">5</data>
+</edge>
+<edge source="Mercoco" target="Incubadora Social UAEH">
+  <data key="d2">5</data>
+</edge>
+<edge source="Mercoco" target="Marketiin Revista">
+  <data key="d2">4</data>
+</edge>
+<edge source="Mercoco" target="UAEH">
+  <data key="d2">5</data>
+</edge>
+<edge source="Mercoco" target="UAEH (AI)">
+  <data key="d2">5</data>
+</edge>
+<edge source="OBSUPP" target="RedOTT">
+  <data key="d2">1</data>
+</edge>
+<edge source="OBSUPP" target="UPP">
+  <data key="d2">1</data>
+</edge>
+<edge source="Gob. Chilcuatla" target="Incubadora ITSOEH">
+  <data key="d2">4</data>
+</edge>
+<edge source="Gob. Mineral de la Reforma" target="UPP">
+  <data key="d2">5</data>
+</edge>
+<edge source="Gob. Pachuca" target="Incubadora ITSOEH">
+  <data key="d2">4</data>
+</edge>
+<edge source="Gob. Tlahuelilpan" target="Incubadora ITSOEH">
+  <data key="d2">5</data>
+</edge>
+<edge source="Gob. Zempoala" target="UPP">
+  <data key="d2">5</data>
+</edge>
+<edge source="Quadratin" target="Incubadora ITSOEH">
+  <data key="d2">3</data>
+</edge>
+<edge source="Reinventa" target="UPMH">
+  <data key="d2">4</data>
+</edge>
+<edge source="Revista Núcleo CTI" target="CECyTE HGO">
+  <data key="d2">5</data>
+</edge>
+<edge source="Revo 300" target="IHCE">
+  <data key="d2">3</data>
+</edge>
+<edge source="Revo 300" target="SICIPAED">
+  <data key="d2">4</data>
+</edge>
+<edge source="RISUTyP" target="CGUTYP">
+  <data key="d2">1</data>
+</edge>
+<edge source="RISUTyP" target="UPP">
+  <data key="d2">1</data>
+</edge>
+<edge source="Subsecretaría de Innovación y Emprendimiento Cultural" target="IHCE">
+  <data key="d2">2</data>
+</edge>
+<edge source="Subsecretaría de Innovación y Emprendimiento Cultural" target="INADEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="Subsecretaría de Innovación y Emprendimiento Cultural" target="Maker Space Huichapan">
+  <data key="d2">5</data>
+</edge>
+<edge source="Subsecretaría de Innovación y Emprendimiento Cultural" target="Plan Alfa">
+  <data key="d2">5</data>
+</edge>
+<edge source="Subsecretaría de Innovación y Emprendimiento Cultural" target="Quimera">
+  <data key="d2">3</data>
+</edge>
+<edge source="Subsecretaría de Innovación y Emprendimiento Cultural" target="Gob. HGO">
+  <data key="d2">5</data>
+</edge>
+<edge source="Tapai Coworking" target="Networking Hidalgo">
+  <data key="d2">4</data>
+</edge>
+<edge source="TV Azteca" target="CECyTE HGO">
+  <data key="d2">5</data>
+</edge>
+</graph></graphml>

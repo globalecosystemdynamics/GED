@@ -1,0 +1,1005 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="Weight" attr.type="long"/>
+<key id="d1" for="node" attr.name="weight" attr.type="float"/>
+<key id="d0" for="node" attr.name="rol" attr.type="string"/>
+<graph edgedefault="directed"><node id="Spanish Startups">
+  <data key="d0">Comunidad</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="Fundación Gadea para la Ciencia">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="Transfiere">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="Imaguru">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Amcham Spain">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Endeavor">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Startup Europe Week">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="AMETIC">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Startupxplore">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Google Campus Madrid">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="ASEBIO">
+  <data key="d0">Vinculador</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="BioMad">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="ITEMAS">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="Conector Madrid">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="BAN madri+d">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="4YFN">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="El Diario">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="Makespace Madrid">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="El Mundo">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="M21 Radio">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="Ágora News">
+  <data key="d0">Promotor</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="El País">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Open Source Weekends">
+  <data key="d0">Comunidad</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="Emprendedores">
+  <data key="d0">Promotor</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="El Referente">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Fábrica de Fabricantes">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Treatstock">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="ICO">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="Unlimited">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Innovaspain">
+  <data key="d0">Promotor</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="Infoespacial">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Blockchain Media">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Ibercampus">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Innovadores by Indux">
+  <data key="d0">Promotor</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="CEU Media">
+  <data key="d0">Promotor</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Notiweb">
+  <data key="d0">Promotor</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="WB">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="FOND-ICO Global">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="Madrid Network">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="Fundación Cibervoluntarios">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="Mujeres Tech">
+  <data key="d0">Comunidad</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="The Things Network">
+  <data key="d0">Comunidad</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="INCARI">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="GMV">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="ICEX">
+  <data key="d0">Articulador</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="Cámara Madrid">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="SantanderX">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="ABAX">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CIADE">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Fly News">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Getafe Iniciativas">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="Ayto. Rozas">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CAIT">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="LST UPM">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Bankinter">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Demium">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="Asociación de Empresarios del Henares">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="ATKearney">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="InNorMadrid">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="EYE">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="IRENA">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="BID">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="IMDEA Energía">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="MITECO">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Startup Olé">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="Pascual-StartUp">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Socialnius">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Airbus">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="ICEMD">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Observatorio Everis Comillas">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Ayto. Villanueva">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="ESA BIC Comunidad de Madrid">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.8</data>
+</node>
+<node id="BBVA Open Innovation">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="Red de Inversores UFV">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Club Empresarial ICADE">
+  <data key="d0">Comunidad</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="EASME">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="MINECO">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="IMDEA Nanociencia">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Junior Achievement">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="AJE">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="ASALMA">
+  <data key="d0">Vinculador</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="Enel Innovation Hub">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="ESIC">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.8</data>
+</node>
+<node id="Consejería de Ciencia, Universidades e Innovación">
+  <data key="d0">Articulador</data>
+  <data key="d1">2.8</data>
+</node>
+<node id="Everis">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="UnLtd Spain">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="ACOEG">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="BBVA">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Bain">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="iDeTra">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Airbus Bizlab">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Mioti">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="Ayto. Leganés">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Institución Educativa SEK">
+  <data key="d0">Habilitador</data>
+  <data key="d1">3.0</data>
+</node>
+<node id="UFV, Innovación">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="UIMP">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="AEFI">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="ENISA">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="DBS">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="IED">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="MCAA">
+  <data key="d0">Comunidad</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="GAIN">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="Medialab-Prado">
+  <data key="d0">Promotor</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="Red de Fablabs de Madrid">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="AIDI">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="Esc. Secot de Emprendedores">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Fundación Bankinter">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="Fundación Universidad-Empresa">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="OTRI UFV">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Foro de Empresas Innovadoras">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="AEAC">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="FabLab Nebrija">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="FabLab León">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Thinkers Co.">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Gesto">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="AEBAN">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="ESADE">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="COAM">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="CEOE">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="INVERCO">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="ADIGITAL">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="REDEL">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Facultad Jurídicas y Empresariales UFV">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="EARTO">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Presidencia del Gobierno">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="CNMV">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="UNIMAK">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Universidad Tunghai">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="USACH">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="UCC">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="UPR">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="UISEK Ecuador">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Ashoka España">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="FECOMA">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="UES">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Dep. Arq y DG CEU">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Fab Foundation">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="CREFAB">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Agorabierta">
+  <data key="d0">Promotor</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Madrid International Lab">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="Consejería de Sanidad">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="CBS insights">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="Grupo Meetup Drones Madrid">
+  <data key="d0">Comunidad</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Startup University">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Centro Empresas UPM">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="Bridge for Billions">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Womenwise">
+  <data key="d0">Comunidad</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="JRC">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="INTA">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Vivero empresas UC3M">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Viveros de empresas de URJC">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="COIT">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Cluster Aeroespacial de Madrid">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Spaces">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="IBM">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Madrid Activa">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="EIC Innovation Radar">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Cabiedes &amp; Partners">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Fundación Universitaria CEU">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Pinama Inversiones">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Bstartup">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="AEI">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="Ministerio de Economía e Innovacion">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="EIT Health">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="CE HORIZON 2020s">
+  <data key="d0">Articulador</data>
+  <data key="d1">3.8</data>
+</node>
+<node id="UN">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">2.4</data>
+</node>
+<node id="Faraday">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="MAPA">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="La Nave Madrid">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="IE Business School">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="UFV">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="UAX">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="Unlimiteck">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.8</data>
+</node>
+<node id="Deloitte">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="UCJC SEK LAB">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="Ayto. Getafe">
+  <data key="d0">Articulador</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="Centro empresas Henares">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Ayto. Alcobendas">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="TAU Ventures">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="IESE Business School">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Secretaría de Estado de I+D+i">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="REAP">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Impact Hub Global">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="FabLab Barcelona">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Acciona I'mnovation">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Plug and Play Tech Center">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="TrepCamp">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Centro empresas Alcobendas">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="BuildUp! Ferrovial">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="MIT">
+  <data key="d0">Generador de Conocimiento</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="SB Madrid">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="ship2B">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Foro Impacto">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="AEF">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="B-Corp">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Open Value">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<edge source="Spanish Startups" target="Ágora News">
+  <data key="d2">1</data>
+</edge>
+<edge source="Spanish Startups" target="El País">
+  <data key="d2">1</data>
+</edge>
+<edge source="Spanish Startups" target="Demium">
+  <data key="d2">3</data>
+</edge>
+<edge source="Spanish Startups" target="Airbus Bizlab">
+  <data key="d2">5</data>
+</edge>
+<edge source="Spanish Startups" target="AIDI">
+  <data key="d2">2</data>
+</edge>
+<edge source="Spanish Startups" target="Madrid International Lab">
+  <data key="d2">1</data>
+</edge>
+<edge source="Spanish Startups" target="Google Campus Madrid">
+  <data key="d2">5</data>
+</edge>
+<edge source="Spanish Startups" target="Spaces">
+  <data key="d2">5</data>
+</edge>
+<edge source="Imaguru" target="Spanish Startups">
+  <data key="d2">4</data>
+</edge>
+<edge source="Imaguru" target="Blockchain Media">
+  <data key="d2">4</data>
+</edge>
+<edge source="Imaguru" target="EYE">
+  <data key="d2">4</data>
+</edge>
+<edge source="Imaguru" target="TAU Ventures">
+  <data key="d2">5</data>
+</edge>
+<edge source="Amcham Spain" target="Endeavor">
+  <data key="d2">3</data>
+</edge>
+<edge source="Endeavor" target="Emprendedores">
+  <data key="d2">2</data>
+</edge>
+<edge source="Endeavor" target="FOND-ICO Global">
+  <data key="d2">2</data>
+</edge>
+<edge source="Endeavor" target="ATKearney">
+  <data key="d2">4</data>
+</edge>
+<edge source="Endeavor" target="BBVA Open Innovation">
+  <data key="d2">4</data>
+</edge>
+<edge source="Endeavor" target="BBVA">
+  <data key="d2">5</data>
+</edge>
+<edge source="Endeavor" target="Bain">
+  <data key="d2">5</data>
+</edge>
+<edge source="Startupxplore" target="Google Campus Madrid">
+  <data key="d2">3</data>
+</edge>
+<edge source="Startupxplore" target="Cabiedes &amp; Partners">
+  <data key="d2">3</data>
+</edge>
+<edge source="Startupxplore" target="Plug and Play Tech Center">
+  <data key="d2">5</data>
+</edge>
+<edge source="4YFN" target="Endeavor">
+  <data key="d2">5</data>
+</edge>
+<edge source="El Diario" target="Makespace Madrid">
+  <data key="d2">1</data>
+</edge>
+<edge source="Makespace Madrid" target="Medialab-Prado">
+  <data key="d2">5</data>
+</edge>
+<edge source="Makespace Madrid" target="Red de Fablabs de Madrid">
+  <data key="d2">2</data>
+</edge>
+<edge source="El Mundo" target="Makespace Madrid">
+  <data key="d2">1</data>
+</edge>
+<edge source="M21 Radio" target="Makespace Madrid">
+  <data key="d2">1</data>
+</edge>
+<edge source="El País" target="Makespace Madrid">
+  <data key="d2">2</data>
+</edge>
+<edge source="Open Source Weekends" target="Makespace Madrid">
+  <data key="d2">2</data>
+</edge>
+<edge source="El Referente" target="Startupxplore">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fábrica de Fabricantes" target="Treatstock">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fábrica de Fabricantes" target="Startup Olé">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fundación Cibervoluntarios" target="Makespace Madrid">
+  <data key="d2">2</data>
+</edge>
+<edge source="Mujeres Tech" target="Makespace Madrid">
+  <data key="d2">2</data>
+</edge>
+<edge source="The Things Network" target="Makespace Madrid">
+  <data key="d2">2</data>
+</edge>
+<edge source="ICEX" target="Endeavor">
+  <data key="d2">1</data>
+</edge>
+<edge source="ABAX" target="Fábrica de Fabricantes">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fly News" target="Getafe Iniciativas">
+  <data key="d2">3</data>
+</edge>
+<edge source="Getafe Iniciativas" target="ACOEG">
+  <data key="d2">5</data>
+</edge>
+<edge source="Getafe Iniciativas" target="REDEL">
+  <data key="d2">4</data>
+</edge>
+<edge source="Getafe Iniciativas" target="Ayto. Getafe">
+  <data key="d2">5</data>
+</edge>
+<edge source="CAIT" target="LST UPM">
+  <data key="d2">3</data>
+</edge>
+<edge source="LST UPM" target="EIT Health">
+  <data key="d2">4</data>
+</edge>
+<edge source="Demium" target="Imaguru">
+  <data key="d2">2</data>
+</edge>
+<edge source="Airbus" target="Imaguru">
+  <data key="d2">4</data>
+</edge>
+<edge source="ICEMD" target="Spanish Startups">
+  <data key="d2">4</data>
+</edge>
+<edge source="AJE" target="Getafe Iniciativas">
+  <data key="d2">5</data>
+</edge>
+<edge source="ASALMA" target="Getafe Iniciativas">
+  <data key="d2">5</data>
+</edge>
+<edge source="ESIC" target="Spanish Startups">
+  <data key="d2">5</data>
+</edge>
+<edge source="ESIC" target="Makespace Madrid">
+  <data key="d2">5</data>
+</edge>
+<edge source="Consejería de Ciencia, Universidades e Innovación" target="Consejería de Sanidad">
+  <data key="d2">1</data>
+</edge>
+<edge source="UFV, Innovación" target="Agorabierta">
+  <data key="d2">5</data>
+</edge>
+<edge source="AEFI" target="Startupxplore">
+  <data key="d2">1</data>
+</edge>
+<edge source="IED" target="Makespace Madrid">
+  <data key="d2">2</data>
+</edge>
+<edge source="Fundación Bankinter" target="Startupxplore">
+  <data key="d2">4</data>
+</edge>
+<edge source="FabLab Nebrija" target="FabLab León">
+  <data key="d2">3</data>
+</edge>
+<edge source="FabLab Nebrija" target="Thinkers Co.">
+  <data key="d2">3</data>
+</edge>
+<edge source="FabLab Nebrija" target="UN">
+  <data key="d2">5</data>
+</edge>
+<edge source="Gesto" target="Getafe Iniciativas">
+  <data key="d2">4</data>
+</edge>
+<edge source="ESADE" target="Makespace Madrid">
+  <data key="d2">4</data>
+</edge>
+<edge source="COAM" target="Fábrica de Fabricantes">
+  <data key="d2">1</data>
+</edge>
+<edge source="Grupo Meetup Drones Madrid" target="Makespace Madrid">
+  <data key="d2">3</data>
+</edge>
+<edge source="Womenwise" target="Imaguru">
+  <data key="d2">4</data>
+</edge>
+<edge source="Spaces" target="Spanish Startups">
+  <data key="d2">1</data>
+</edge>
+<edge source="Spaces" target="Airbus Bizlab">
+  <data key="d2">1</data>
+</edge>
+<edge source="IE Business School" target="Makespace Madrid">
+  <data key="d2">3</data>
+</edge>
+<edge source="UFV" target="Fábrica de Fabricantes">
+  <data key="d2">4</data>
+</edge>
+<edge source="UFV" target="UFV, Innovación">
+  <data key="d2">1</data>
+</edge>
+<edge source="Unlimiteck" target="Mioti">
+  <data key="d2">1</data>
+</edge>
+<edge source="UCJC SEK LAB" target="Institución Educativa SEK">
+  <data key="d2">1</data>
+</edge>
+<edge source="Centro empresas Henares" target="Ayto. Alcobendas">
+  <data key="d2">5</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,801 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="Weight" attr.type="long"/>
+<key id="d1" for="node" attr.name="weight" attr.type="float"/>
+<key id="d0" for="node" attr.name="rol" attr.type="string"/>
+<graph edgedefault="directed"><node id="500 Startups">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Apertura">
+  <data key="d0">Promotor</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="Emprear">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.4</data>
+</node>
+<node id="UCEMA">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Open Future">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="AWS">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Cámara Argentina de Fintech">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="CADIME">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="FAN">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Fundación Telefónica Movistar">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Mayma">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="Google for Startups">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="Acámica">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="ADIMRA">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Alcaldía de Medellín">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Ambiente y Desarrollo Sustentable Argentina">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="ANDE">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="El Cronista">
+  <data key="d0">Promotor</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Universidad Austral">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Argencon">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="ASECH">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Chicas en Tecnología">
+  <data key="d0">Comunidad</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="GEMA">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="UDESA">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="UCA">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="WISE">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="ASELA">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="EMPRETEC">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="FEBA">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="FuckUp Nights">
+  <data key="d0">Comunidad</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="WeWork">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="BNA">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="CNV">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Cygnus Angel Club">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Embarca">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Club de Inversores Angeles IAE">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="Incutex">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Glocal">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="Troopa">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Emprelatam">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="Bairexport">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="FADU">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CCU">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Proesus">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="CIC">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Ciudad del Saber">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Club de Reparadores">
+  <data key="d0">Comunidad</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="GCBA Educación">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="FabLab Bariloche">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="cheLA">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="CMD">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Coderhouse">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="Creame">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="UNSAM">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="Hit Cowork">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Instituto PYME Banco Ciudad">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="Acrux Partners">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="InvestBA">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="Subsria. Desarrollo Económico">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Subsria. Plan. Educ. Cnc. y Tec.">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="CESSI">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Banco Itaú">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="INTI">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Draper Cygnus">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Educación Argentina">
+  <data key="d0">Articulador</data>
+  <data key="d1">2.8</data>
+</node>
+<node id="Comodoro Conocimiento">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Hashtag Coworking">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Eidos">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Beccar Varela">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.8</data>
+</node>
+<node id="CRIAR">
+  <data key="d0">Comunidad</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="USAL">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Cancillería Argentina">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="Marcas que Marcan">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="NESI Forum">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="El Núcleo">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Enablis">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="Kaszek Ventures">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Endeavor">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Founders Live">
+  <data key="d0">Comunidad</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Fundación Itaú Argentina">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="Fundación PROSAMA">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Gerencia Ambiental">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Fundes">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="CAB">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="INTA">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="Centro Innovación Social UDESA">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Eco House">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Global Shapers">
+  <data key="d0">Comunidad</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Infobae">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Nexen">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Frubis">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="IncUBAgro">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="Subsria. Desarrollo Económico Vicente López">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="SPU">
+  <data key="d0">Articulador</data>
+  <data key="d1">4.0</data>
+</node>
+<node id="Planeamiento y Políticas CTI">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="cde FADU UBA">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="FIUBA">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="FOMIN">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="UNQ">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Transferencia Tecnológica UBA">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="SUBA">
+  <data key="d0">Comunidad</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="IECS">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Oxentia">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Stanford University">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="MONSANTO Fund">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="USI">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Universidad CAECE">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Distrito Tigre Sur">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Banco Comafi">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="ESEADE">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Sercles">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Munay Coworking">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="La Maquinita">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Bondarea">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Lisicky Litvin &amp; Asociados">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Mercado Libre">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="La Nación">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="YPF Ventures">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="MIT Sloan Latin America">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Universidad Siglo XXI">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="UNLPam">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Senado Nación">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Club emprendedores UNAJ">
+  <data key="d0">Comunidad</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="UAI">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Club de Emprendedores de Vicente López">
+  <data key="d0">Comunidad</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="FUNDESCO">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="Namastrade">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="CAMARCO">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="UNICEN">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="Latio">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="AMCHAM">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Polo IT">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="Procomer">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="ANII">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="GEN">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CORFO">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CFI">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Redbee Studios">
+  <data key="d0">Habilitador</data>
+  <data key="d1">3.0</data>
+</node>
+<node id="RedVITEC">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="Bioguia">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Njambre">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="ENI - DiTella">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Matteria">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Fundación Dinero Social">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Emprediem">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Red/Acción">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Amani Institute">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Sumatoria">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="Tanoira">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="Universidad Austral de Rosario">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CREA">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Nesters">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Modernización Argentina">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Club de Emprendedores UADE">
+  <data key="d0">Comunidad</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="Red Emprendia">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="UTDT">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Emprendedores Econ. UBA">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Ubatec">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="AHK">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Regus">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="FIJE">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="AGENCIA">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="RUNBO">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Municipalidad de Tandil">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Cámara Empresaria de Tandil">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CICE">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="UNRaf">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="BanBif">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="FUNINTEC">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Globant Ventures">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Incubar">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Origen CoWork">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Campus Party Argentina">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="HRC">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Cámara de Comercio Catalana">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="UPa">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Voces Vitales">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Y-TEC">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">0.6</data>
+</node>
+<edge source="Bairexport" target="FADU">
+  <data key="d2">1</data>
+</edge>
+<edge source="Club de Reparadores" target="GCBA Educación">
+  <data key="d2">3</data>
+</edge>
+<edge source="Club de Reparadores" target="FabLab Bariloche">
+  <data key="d2">3</data>
+</edge>
+<edge source="Club de Reparadores" target="cheLA">
+  <data key="d2">5</data>
+</edge>
+<edge source="Club de Reparadores" target="CMD">
+  <data key="d2">3</data>
+</edge>
+<edge source="UNSAM" target="BanBif">
+  <data key="d2">5</data>
+</edge>
+<edge source="UNSAM" target="FUNINTEC">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fundación PROSAMA" target="Gerencia Ambiental">
+  <data key="d2">3</data>
+</edge>
+<edge source="IncUBAgro" target="Subsria. Plan. Educ. Cnc. y Tec.">
+  <data key="d2">4</data>
+</edge>
+<edge source="IncUBAgro" target="Subsria. Desarrollo Económico Vicente López">
+  <data key="d2">3</data>
+</edge>
+<edge source="IncUBAgro" target="SPU">
+  <data key="d2">4</data>
+</edge>
+<edge source="IncUBAgro" target="Planeamiento y Políticas CTI">
+  <data key="d2">4</data>
+</edge>
+<edge source="IncUBAgro" target="cde FADU UBA">
+  <data key="d2">5</data>
+</edge>
+<edge source="IncUBAgro" target="FIUBA">
+  <data key="d2">5</data>
+</edge>
+<edge source="IncUBAgro" target="FAN">
+  <data key="d2">3</data>
+</edge>
+<edge source="IncUBAgro" target="FOMIN">
+  <data key="d2">3</data>
+</edge>
+<edge source="IncUBAgro" target="UNQ">
+  <data key="d2">3</data>
+</edge>
+<edge source="IncUBAgro" target="UNSAM">
+  <data key="d2">3</data>
+</edge>
+<edge source="Transferencia Tecnológica UBA" target="IncUBAgro">
+  <data key="d2">4</data>
+</edge>
+<edge source="Namastrade" target="CRIAR">
+  <data key="d2">1</data>
+</edge>
+<edge source="UNICEN" target="AGENCIA">
+  <data key="d2">3</data>
+</edge>
+<edge source="UNICEN" target="SPU">
+  <data key="d2">3</data>
+</edge>
+<edge source="UNICEN" target="RUNBO">
+  <data key="d2">3</data>
+</edge>
+<edge source="UNICEN" target="INTA">
+  <data key="d2">3</data>
+</edge>
+<edge source="UNICEN" target="INTI">
+  <data key="d2">3</data>
+</edge>
+<edge source="UNICEN" target="Municipalidad de Tandil">
+  <data key="d2">3</data>
+</edge>
+<edge source="UNICEN" target="Cámara Empresaria de Tandil">
+  <data key="d2">3</data>
+</edge>
+<edge source="UNICEN" target="CICE">
+  <data key="d2">5</data>
+</edge>
+</graph></graphml>

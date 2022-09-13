@@ -1,0 +1,97 @@
+Id,Label,timeset,name,weight,role,indegree,outdegree,Degree,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,modularity_class,componentnumber,strongcompnum,clustering,weighted indegree,weighted outdegree,Weighted Degree,eigencentrality,triangles,Authority,Hub
+Trebol Capital,Trebol Capital,,Trebol Capital,1.6,Habilitador,3,10,13,4,0.424107,0.483333,372.080298,0,0,43,0.163636,10,32,42,0.353738,9,0.154367,0.154367
+AB MKT,AB MKT,,AB Mercadotecnia,1.2,Habilitador,3,8,11,3,0.409483,0.454386,153.183602,6,0,43,0.178571,6,31,37,0.340483,5,0.151111,0.151111
+Revista Lider Empresarial,Revista Lider Empresarial,,Revista Lider Empresarial,2.2,Promotor,1,2,3,4,0.329861,0.367544,4.623499,1,0,44,0.333333,5,6,11,0.082419,1,0.030026,0.030026
+SEDEC,SEDEC,,Secretaría de Desarrollo Económico (Aguascalientes),17.8,Articulador,26,11,37,4,0.505319,0.595614,1565.98158,0,0,43,0.1,91,37,128,1,30,0.478569,0.478567
+The Inventor's House,The Inventor's House,,The Inventor's House,1,Habilitador,3,6,9,4,0.387755,0.435965,156.969928,2,0,43,0.095238,7,21,28,0.327757,2,0.157118,0.157118
+AEM,AEM,,Agencia Espacial Mexicana,2,Articulador,1,1,2,5,0.298742,0.326316,0.717147,2,0,43,0,5,5,10,0.051413,0,0.024134,0.024134
+INADI,INADI,,Ingeniería Administrativa Inteligente,1.2,Habilitador,1,7,8,4,0.351852,0.396491,211.294966,5,0,43,0.142857,1,20,21,0.084624,3,0.028845,0.028844
+ASOCEA,ASOCEA,,Asociación de Consultores de Empresas de Aguascalientes,1,Habilitador,1,0,1,5,0.260989,0.279474,0,5,0,23,0,5,0,5,0.009812,0,0.002558,0.002558
+TEDxBarriodelaEstación,TEDxBarriodelaEstación,,TEDxBarriodelaEstación,1.2,Promotor,0,21,21,4,0.439815,0.52193,985.83951,1,0,52,0.035088,0,70,70,0.277524,6,0.099478,0.099478
+CANACO AGS,CANACO AGS,,Cámara Nacional de Comercio Aguascalientes,0.2,Vinculador,1,0,1,5,0.306452,0.332807,0,1,0,51,0,1,0,1,0.029145,0,0.008822,0.008822
+CANIETI,CANIETI,,"Cámara Nacional de la Industria Electrónica, de Telecomunicaciones y Tecnologías de la Información",0.6,Vinculador,1,7,8,4,0.394191,0.442982,106.446409,2,0,43,0.214286,5,35,40,0.244944,6,0.115035,0.115035
+CCEA,CCEA,,Consejo Coordinador Empresarial de Aguascalientes,7.4,Vinculador,4,6,10,4,0.383065,0.431579,66.604591,0,0,43,0.380952,19,19,38,0.220109,8,0.095549,0.095549
+CIEA,CIEA,,Centro de Innovación Empresarial de Aguascalientes,2.6,Habilitador,2,5,7,4,0.363985,0.404386,94.558824,0,0,43,0.5,10,25,35,0.183742,5,0.082185,0.082185
+DESEM,DESEM,,Desarrollo de Emprendedores,3.8,Habilitador,4,10,14,3,0.43379,0.491228,470.879839,0,0,43,0.136364,18,46,64,0.281622,9,0.120027,0.120027
+Maker Center,Maker Center,,Maker Center,0.8,Habilitador,2,16,18,4,0.418502,0.486842,537.068953,3,0,43,0.065934,6,50,56,0.418172,6,0.189902,0.189902
+CECOI,CECOI,,Centro de Competitividad e Innovación del Estado de Aguascalientes,5.6,Articulador,5,12,17,4,0.400844,0.455263,71.094951,2,0,43,0.388889,18,15,33,0.815899,14,0.425206,0.425205
+UNID Ags,UNID Ags,,Universidad Interamericana para el Desarrollo campus Aguascalientes,0.6,Habilitador,6,10,16,4,0.374016,0.422807,74.289742,2,0,43,0.428571,7,28,35,0.808366,9,0.424973,0.424975
+CIATEQ,CIATEQ,,Centro de Tecnología Avanzada,2,Generador de conocimiento,2,0,2,4,0.311475,0.338596,0,2,0,21,1,10,0,10,0.049346,1,0.020845,0.020845
+INIFAP,INIFAP,,"Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias",0.6,Generador de conocimiento,6,6,12,4,0.346715,0.394737,509.051849,5,0,11,0,23,25,48,0.056674,0,0.013751,0.013751
+CICESE,CICESE,,"Centro de Investigación Científica y de Educación Superior de Ensenada, Baja California",1,Generador de conocimiento,1,0,1,5,0.258152,0.277544,0,5,0,10,0,5,0,5,0.008109,0,0.001219,0.001219
+Nodo Ags RGMX,Nodo Ags RGMX,,Nodo Aguascalientes de la Red Global MX,1.8,Vinculador,7,14,21,4,0.374016,0.450877,549.187648,3,0,43,0.087912,14,44,58,0.26261,8,0.098379,0.098378
+CIDE,CIDE,,Centro de Investigación y Docencias Económicas,1,Generador de conocimiento,3,0,3,5,0.338078,0.378421,55.920276,3,0,37,0.333333,6,0,6,0.070912,1,0.022051,0.022051
+INNOVATIA,INNOVATIA,,Cluster de Tecnologías de la Información de Aguascalientes,2.2,Vinculador,2,5,7,5,0.32872,0.37,4.620331,3,0,43,0.5,6,8,14,0.141948,3,0.050809,0.050809
+CRECE,CRECE,,CRECE,1.6,Habilitador,3,7,10,4,0.384615,0.427193,78.245321,0,0,43,0.238095,15,35,50,0.239932,5,0.105129,0.105129
+CMIC,CMIC,,Cámara de la Industria de la Construcción,1,Vinculador,1,0,1,4,0.303514,0.323684,0,0,0,20,0,5,0,5,0.026927,0,0.010644,0.010644
+COFUPRO,COFUPRO,,Coordinadora Nacional de las Fundaciones Produce,1.6,Vinculador,1,1,2,5,0.258152,0.277544,0,5,0,11,0,5,3,8,0.008109,0,0.001219,0.001219
+CONACYT,CONACYT,,Consejo Nacional de Ciencia y Tecnología,3,Articulador,5,0,5,4,0.36965,0.414035,288.688496,5,0,9,0,15,0,15,0.07607,0,0.02186,0.021859
+Spark UP Ags,Spark UP Ags,,Incubadora de Empresas de la Universidad Panamericana Spark UP,0.8,Habilitador,7,6,13,4,0.39749,0.466667,691.47756,4,0,43,0.064103,26,30,56,0.209191,5,0.090677,0.090677
+CONALEP,CONALEP,,Colegio Nacional de Educación Profesional Técnica,0.8,Habilitador,1,0,1,5,0.336879,0.364035,0,0,0,34,0,4,0,4,0.087784,0,0.042439,0.042439
+COPARMEX,COPARMEX,,Confederación Patronal de la República Mexicana,4.6,Vinculador,5,3,8,4,0.413043,0.464912,230.894605,1,0,43,0.142857,13,10,23,0.243295,4,0.101742,0.101742
+Humant,Humant,,Humant,0.6,Habilitador,7,7,14,4,0.400844,0.47193,372.358207,1,0,43,0.151515,28,32,60,0.222316,10,0.088001,0.088001
+ITA,ITA,,Instituto Tecnológico de Aguascalientes,1.6,Habilitador,4,5,9,4,0.35316,0.407018,211.251901,5,0,8,0.095238,10,21,31,0.159919,2,0.067014,0.067014
+COVESA,COVESA,,Consejo de Vinculación de Educación Superior en Aguascalientes,0.8,Vinculador,2,0,2,4,0.309446,0.339474,0,5,0,7,1,5,0,5,0.063579,1,0.028478,0.028478
+UAA,UAA,,Universidad Autónoma de Aguascalientes,3.8,Habilitador,6,12,18,3,0.426009,0.491228,459.790055,2,0,43,0.120879,24,49,73,0.534973,11,0.254124,0.254124
+Difusión y Vinculación UAA,Difusión y Vinculación UAA,,Dirección General Difusión y Vinculación UAA,1.2,Promotor,2,0,2,4,0.327586,0.360526,6.472067,2,0,17,0,6,0,6,0.074407,0,0.03126,0.031259
+ENDEAVOR,ENDEAVOR,,ENDEAVOR,2.8,Habilitador,5,0,5,4,0.325342,0.365789,27.086594,6,0,4,0.166667,15,0,15,0.106133,1,0.04255,0.04255
+Incubadora ITESM Ags,Incubadora ITESM Ags,,Incubadora de Empresas del Instituto Tecnológico y de Estudios Superiores de Monterrey campus Aguascalientes,1.4,Habilitador,5,4,9,4,0.358491,0.412281,310.39365,6,0,5,0,19,18,37,0.127494,0,0.05321,0.05321
+Evolutivos Consultores,Evolutivos Consultores,,Evolutivos Consultores,1,Habilitador,1,0,1,5,0.306452,0.332807,0,1,0,50,0,5,0,5,0.029145,0,0.008822,0.008822
+FUN,FUN,,Fuckup Nights,2.4,Comunidad,3,0,3,4,0.329861,0.367544,4.623499,1,0,33,0.333333,12,0,12,0.082419,1,0.030026,0.030026
+Global Shapers,Global Shapers,,Global Shapers Community,0.6,Comunidad,1,0,1,5,0.298742,0.320175,0,0,0,42,0,3,0,3,0.032712,0,0.013689,0.013689
+Gob. AGS,Gob. AGS,,Gobierno del Estado de Aguascalientes,4.2,Articulador,5,0,5,4,0.355805,0.398246,65.877321,1,0,19,0.166667,21,0,21,0.117537,1,0.040168,0.040168
+Gob. Sinaloa,Gob. Sinaloa,,Gobierno del Estado de Sinaloa,0.6,Articulador,1,0,1,5,0.260989,0.279474,0,5,0,22,0,3,0,3,0.009812,0,0.002558,0.002558
+Gob. AGS (Municipal),Gob. AGS (Municipal),,Gobierno Municipal de Aguascalientes,1,Articulador,1,0,1,5,0.272989,0.300351,0,3,0,39,0,5,0,5,0.027044,0,0.008724,0.008724
+Centro Fox,Centro Fox,,Centro Fox,1,Habilitador,0,1,1,5,0.287009,0.312807,0,1,0,53,0,0,5,5,0.022293,0,0.007804,0.007804
+SIFIA,SIFIA,,Sistema de Financiamiento de Aguascalientes,2,Habilitador,1,1,2,5,0.287009,0.312807,0,1,0,43,0,5,5,10,0.022293,0,0.007804,0.007804
+Novaera,Novaera,,Novaera Guanajuato,1.2,Vinculador,1,2,3,5,0.325342,0.362456,26.204915,3,0,43,0.333333,5,2,7,0.064547,1,0.025537,0.025537
+IDSCEA,IDSCEA,,Instituto para el Desarrollo de la Sociedad del Conocimiento del Estado de Aguascalientes,1.8,Articulador,4,1,5,4,0.335689,0.382456,6.222032,2,0,43,0.5,7,3,10,0.249334,5,0.128702,0.128701
+IEA,IEA,,Instituto de Educación de Aguascalientes,3,Habilitador,3,0,3,4,0.294118,0.320175,0.67619,2,0,24,0,15,0,15,0.156166,0,0.084695,0.084695
+IIFE,IIFE,,Instituto Internacional de Familias Empresarias,1,Habilitador,1,0,1,5,0.306452,0.332807,0,1,0,49,0,5,0,5,0.029145,0,0.008822,0.008822
+IME,IME,,Instituto de los Mexicanos en el Exterior,1,Articulador,1,0,1,5,0.272989,0.300351,0,3,0,38,0,5,0,5,0.027044,0,0.008724,0.008724
+INADEM,INADEM,,Instituto Nacional del Emprendedor,7.8,Articulador,8,0,8,4,0.389344,0.436842,116.321285,0,0,6,0.4,39,0,39,0.301341,6,0.135104,0.135104
+Enlace+,Enlace+,,Aceleradora Enlace+ sede Aguascalientes,1,Habilitador,0,1,1,5,0.264624,0.28614,0,6,0,54,0,0,5,5,0.013468,0,0.004719,0.004719
+Makers 02X,Makers 02X,,Makers 02X,0.8,Habilitador,0,1,1,5,0.264624,0.28614,0,6,0,55,0,0,4,4,0.013468,0,0.004719,0.004719
+Incubadora UAA,Incubadora UAA,,Incubadora de Empresas y Unidad de Negocios de la Universidad Autónoma de Aguascalientes,1.4,Habilitador,2,0,2,4,0.3125,0.340351,0.670596,2,0,15,0,7,0,7,0.076356,0,0.036469,0.036468
+INFOTEC,INFOTEC,,Centro de Investigación e Innovación en Tecnologías de la Información y Comunicación,2.4,Generador de conocimiento,4,0,4,4,0.378486,0.415789,54.751486,3,0,29,0.333333,13,0,13,0.151971,2,0.06587,0.06587
+SAGARPA,SAGARPA,,"Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",2.6,Habilitador,1,4,5,5,0.295031,0.328246,50.228145,5,0,11,0.333333,5,9,14,0.043879,1,0.01374,0.01374
+SRE,SRE,,Secretaría de Relaciones Exteriores,1.4,Articulador,1,1,2,5,0.258152,0.277544,0,5,0,11,0,3,4,7,0.008109,0,0.001219,0.001219
+UAA (AI),UAA (AI),,"Universidad Autónoma de Aguascalientes, Área de Investigación",5,Generador de conocimiento,7,1,8,4,0.43578,0.485088,527.572467,0,0,12,0.107143,21,4,25,0.230417,3,0.091508,0.091508
+UTNA (AI),UTNA (AI),,"Universidad Tecnológica del Norte de Aguascalientes, Área de Investigación",0.8,Generador de conocimiento,0,1,1,5,0.258152,0.277544,0,5,0,56,0,0,4,4,0.008109,0,0.001219,0.001219
+ITPabellón,ITPabellón,,Instituto Tecnológico de Pabellón de Arteaga,0.8,Habilitador,0,1,1,5,0.258152,0.277544,0,5,0,57,0,0,4,4,0.008109,0,0.001219,0.001219
+IEEGL,IEEGL,,Instituto de Emprendimiento Eugenio Garza lagüera,1,Habilitador,1,0,1,5,0.264624,0.28614,0,6,0,3,0,5,0,5,0.013468,0,0.004719,0.004719
+ITESM Ags,ITESM Ags,,Instituto Tecnológico y de Estudios Superiores de Monterrey campus Aguascalientes,1,Habilitador,2,0,2,5,0.299685,0.328596,0,1,0,32,1,6,0,6,0.029356,1,0.010068,0.010068
+ITESM Ags (AI),ITESM Ags (AI),,"Instituto Tecnológico y de Estudios Superiores de Monterrey campus Aguascalientes, Área de Investigación",0.8,Generador de conocimiento,2,0,2,5,0.315615,0.349474,0,1,0,31,1,4,0,4,0.051438,1,0.016626,0.016625
+Kinesis MKT,Kinesis MKT,,Kinesis Mercadotecnia,1,Habilitador,1,0,1,5,0.306452,0.332807,0,1,0,48,0,5,0,5,0.029145,0,0.008822,0.008822
+LJA,LJA,,La Jornada Aguascalientes,1,Promotor,1,0,1,5,0.306452,0.332807,0,1,0,47,0,5,0,5,0.029145,0,0.008822,0.008822
+UP Ags,UP Ags,,Universidad Panamericana campus Aguascalientes,2.4,Habilitador,3,1,4,4,0.347985,0.385088,36.098177,3,0,43,0.333333,8,5,13,0.098096,1,0.039254,0.039253
+Makers Aguascalientes,Makers Aguascalientes,,Makers Aguascalientes,1,Habilitador,1,0,1,5,0.29595,0.319474,0,3,0,40,0,5,0,5,0.038339,0,0.01684,0.01684
+MoveMakers,MoveMakers,,MoveMakers,1,Habilitador,1,0,1,5,0.285285,0.309825,0,4,0,28,0,5,0,5,0.020895,0,0.008041,0.008041
+NAFIN,NAFIN,,Nacional Financiera,1.8,Habilitador,3,1,4,4,0.361217,0.400877,8.081681,4,0,43,0.666667,5,5,10,0.243318,4,0.125873,0.125873
+RGMX,RGMX,,Red Global MX,2,Vinculador,3,2,5,5,0.274566,0.310877,0.5,3,0,43,0.666667,10,2,12,0.063104,2,0.019299,0.019299
+Capítulo Beijing RGMX,Capítulo Beijing RGMX,,Capítulo Beijing de la Red Global MX,0.2,Vinculador,0,2,2,5,0.273775,0.305614,0,3,0,58,1,0,2,2,0.0346,1,0.010436,0.010436
+Nodo Mexicali RGMX,Nodo Mexicali RGMX,,Nodo Baja California-Mexicali de la Red Global MX,0.6,Vinculador,2,0,2,5,0.273775,0.305614,0,3,0,36,1,4,0,4,0.0346,1,0.010436,0.010436
+OpenIDEO Ags,OpenIDEO Ags,,OpenIDEO Aguascalientes Chapter,1,Comunidad,1,0,1,4,0.299685,0.32193,0,2,0,16,0,5,0,5,0.047363,0,0.022535,0.022535
+Gob. El Llano,Gob. El Llano,,Presidencia Municipal de El Llano,0.8,Articulador,2,0,2,5,0.267606,0.29614,0,5,0,1,1,5,0,5,0.022061,1,0.007161,0.007161
+PRONAFIM,PRONAFIM,,Programa Nacional de Financiamiento al Microempresario,1,Habilitador,1,0,1,5,0.267606,0.285263,0,0,0,25,0,5,0,5,0.017223,0,0.007288,0.007288
+Radio BI,Radio BI,,Radio BI,1,Promotor,1,0,1,5,0.29595,0.319474,0,3,0,35,0,5,0,5,0.038339,0,0.01684,0.01684
+SE,SE,,Secretaría de Economía (Federal),3,Articulador,5,0,5,5,0.358491,0.4,49.867457,6,0,2,0.5,16,0,16,0.249359,3,0.127269,0.127269
+COFEMER,COFEMER,,Comisión Federal de Mejora Regulatoria,1,Articulador,0,1,1,5,0.336879,0.364035,0,0,0,59,0,0,5,5,0.087784,0,0.042439,0.042439
+CIMAT,CIMAT,,Centro de Investigación en Matemáticas,0.6,Generador de conocimiento,0,1,1,5,0.336879,0.364035,0,0,0,60,0,0,3,3,0.087784,0,0.042439,0.042439
+PROMEXICO,PROMEXICO,,PROMEXICO,0.4,Promotor,0,1,1,5,0.336879,0.364035,0,0,0,61,0,0,2,2,0.087784,0,0.042439,0.042439
+GIA,GIA,,Grupo de Industriales de Aguascalientes,1.6,Vinculador,0,2,2,4,0.355805,0.386842,0,4,0,62,1,0,8,8,0.108679,1,0.05048,0.05048
+SEDECO,SEDECO,,Secretaría de Desarrollo Económico (otros Estados),0.6,Articulador,1,0,1,5,0.336879,0.364035,0,0,0,30,0,3,0,3,0.087784,0,0.042439,0.042439
+SEDRAE,SEDRAE,,Secretaría de Desarrollo Rural y Agroempresarial,1,Articulador,1,0,1,4,0.303514,0.323684,0,0,0,18,0,5,0,5,0.026927,0,0.010644,0.010644
+SETUM Ags,SETUM Ags,,Secretaría de Economía Social y Turismo Municipal Aguascalientes,4.2,Articulador,5,0,5,4,0.335689,0.375439,27.468326,2,0,14,0.333333,21,0,21,0.207471,1,0.093171,0.09317
+Aldea Networking,Aldea Networking,,Aldea Networking,0.8,Habilitador,0,1,1,5,0.285285,0.309825,0,4,0,63,0,0,4,4,0.020895,0,0.008041,0.008041
+ARIAAC,ARIAAC,,Asociación de Relaciones Industriales de Aguascalientes,1,Vinculador,0,1,1,5,0.285285,0.309825,0,4,0,64,0,0,5,5,0.020895,0,0.008041,0.008041
+CANACINTRA,CANACINTRA,,Cámara Nacional de la Industria de la Transformación,0.4,Vinculador,0,1,1,5,0.285285,0.309825,0,4,0,65,0,0,2,2,0.020895,0,0.008041,0.008041
+GEJA,GEJA,,Grupo de Empresas Japonesas de Aguascalientes,1,Vinculador,0,1,1,5,0.285285,0.309825,0,4,0,66,0,0,5,5,0.020895,0,0.008041,0.008041
+Startcups,Startcups,,Incubadora de Empresas Startcups,0.4,Habilitador,1,0,1,5,0.298742,0.320175,0,0,0,41,0,2,0,2,0.032712,0,0.013689,0.013689
+SUM,SUM,,Startup México,1,Habilitador,1,0,1,5,0.29595,0.319474,0,3,0,13,0,5,0,5,0.038339,0,0.01684,0.01684
+Termápolis Noticias,Termápolis Noticias,,Termápolis Noticias,1,Promotor,1,0,1,5,0.306452,0.332807,0,1,0,46,0,5,0,5,0.029145,0,0.008822,0.008822
+Toastmasters Ags,Toastmasters Ags,,Club Toastmasters Aguascalientes,0.8,Comunidad,1,0,1,5,0.306452,0.332807,0,1,0,45,0,4,0,4,0.029145,0,0.008822,0.008822
+Unreasonable Mexico,Unreasonable Mexico,,Unreasonable Mexico,2.6,Habilitador,2,1,3,4,0.339286,0.37807,6.395238,1,0,43,0.666667,8,5,13,0.08415,2,0.030315,0.030314
+UCA,UCA,,Universidad Cuauhtemoc campus Aguascalientes,1.8,Habilitador,3,0,3,5,0.332168,0.367895,21.368785,1,0,0,0,9,0,9,0.096629,0,0.034484,0.034483
+UPA,UPA,,Universidad Politécnica de Aguascalientes,1,Habilitador,1,0,1,5,0.285285,0.309825,0,4,0,27,0,5,0,5,0.020895,0,0.008041,0.008041
+UTC,UTC,,Universidad Tecnológica de Calvillo,1,Habilitador,1,0,1,5,0.285285,0.309825,0,4,0,26,0,5,0,5,0.020895,0,0.008041,0.008041

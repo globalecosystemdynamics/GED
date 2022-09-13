@@ -1,0 +1,768 @@
+Source,Target,Type,Id,Label,timeset,Weight,directionality: collaboration 1,sought-after value: collaboration 1,interactions required: collaboration 1,formal agreement: collaboration 1,budget allocated: collaboration 1,human resources allocated: collaboration 1,success: collaboration 1,validation,loop?,response id,bloque
+Rabbit,Uruguay XXI,Directed,0,,,1,Direct,Money,2,No,300,2,Yes,Analyze,ok,13,7
+Rabbit,CUTI,Directed,1,,,1,Direct,Network,2,Yes,300,2,No,Analyze,ok,13,9
+PEDECIBA,BVM,Directed,2,,,1,Direct,Money,3,Yes,50,2,Unachieved,Analyze,ok,18,18
+Incubacoop,ANII,Directed,3,,,1,Direct,Knowledge,3,No,50,2,Unachieved,Analyze,ok,20,5
+ThalesLab,UM,Directed,4,,,1,Direct,Project development,3,No,50,2,No,Analyze,ok,27,8
+XENIORS,CIE-ORT,Directed,5,,,1,Direct,Knowledge,2,No,50,2,Yes,Analyze,ok,36,8
+Quanam,CUTI,Directed,6,,,1,Direct,Network,1,Yes,4000,2,Yes,Analyze,ok,37,9
+Quanam,ANDE,Directed,7,,,1,Direct,Money,5,No,2000,2,Unachieved,Analyze,ok,37,10
+CUTI,CCUU,Directed,8,,,1,Direct,Network,3,Yes,50,2,Yes,Analyze,ok,38,8
+AJE,El País,Directed,9,,,1,Direct,Exposure,8,No,50,5,No,Analyze,ok,39,6
+Co-Work LatAm,Espacio Serratosa,Directed,10,,,1,Direct,Project development,5,No,50,2,No,Analyze,ok,42,7
+Co-Work LatAm,CIU,Directed,11,,,1,Direct,Network,3,No,50,2,Unachieved,Analyze,ok,42,8
+IPMont,BID,Directed,12,,,1,Direct,Money,20,No,50,2,Unachieved,Analyze,ok,45,3
+Transforma Uruguay,MGAP,Directed,13,,,1,Direct,Project development,4,Yes,50,2,Unachieved,Analyze,ok,50,8
+Xmartlabs,Fundación Ricaldoni,Directed,14,,,1,Direct,Money,2,No,750,2,No,Analyze,ok,52,8
+Fundación da Vinci América Latina,CUTI,Directed,15,,,1,Direct,Network,20,No,NA,2,Unachieved,Analyze,ok,N03,4
+Proyecto Kanban,Unidad Mypes,Directed,16,,,1,Direct,Exposure,1,No,NA,2,Unachieved,Analyze,ok,N08,6
+Proyecto Kanban,Comunidad Odoo,Directed,17,,,1,Direct,Knowledge,1,No,NA,2,No,Analyze,ok,N08,8
+Campus Party,Rabbit,Directed,18,,,1,Inverse,Knowledge,2,No,50,2,Yes,Analyze,ok,13,10
+UCU,INGENIO,Directed,19,,,1,Inverse,Knowledge,3,No,50,2,Unachieved,Analyze,ok,30,7
+CUTI,INGENIO,Directed,20,,,1,Inverse,Knowledge,3,No,50,2,Unachieved,Analyze,ok,30,10
+SNCYT,OPH,Directed,21,,,1,Inverse,Network,1,No,50,2,Unachieved,Analyze,ok,41,9
+GlobalizeU,Co-Work LatAm,Directed,22,,,1,Inverse,Network,1,No,50,2,Yes,Analyze,ok,42,6
+IPTP,Fundación da Vinci América Latina,Directed,23,,,1,Inverse,Knowledge,5,No,50,2,No,Analyze,ok,N03,5
+LATU Latitud,ANDE,Directed,24,,,1,Third party,Money,3,No,75000,2,No,Analyze,ok,16,2
+LATU Latitud,INGENIO,Directed,25,,,1,Third party,Knowledge,1,No,50,2,Yes,Analyze,ok,16,9
+Quanam,Facultad Ingeniería UDELAR,Directed,26,,,1,Third party,Project development,10,Yes,7500,2,Yes,Analyze,ok,37,4
+Quanam,Universidad ORT Uruguay,Directed,27,,,1,Third party,Knowledge,2,No,2000,2,Yes,Analyze,ok,37,5
+Quanam,INIA,Directed,28,,,1,Third party,Project development,5,Yes,4000,2,Yes,Analyze,ok,37,6
+Quanam,UCU,Directed,29,,,1,Third party,Project development,1,No,2000,2,Yes,Analyze,ok,37,7
+OPH,CTPLAS,Directed,30,,,1,Third party,Knowledge,2,No,50,2,Unachieved,Analyze,ok,41,11
+ANMYPE,Confederación Empresarial,Directed,31,,,1,Third party,Project development,5,Yes,300,5,Unachieved,Analyze,ok,43,10
+Proyecto Kanban,Comunidad Wordpress,Directed,32,,,1,Third party,Knowledge,1,No,NA,2,Unachieved,Analyze,ok,N08,4
+UTEC,Santander Universidades,Directed,33,,,2,Direct,Project development,6,Yes,30000,2,Yes,Analyze,ok,14,11
+LATU Latitud,SNCYT,Directed,34,,,2,Direct,Knowledge,1,No,4000,5,Yes,Analyze,ok,16,6
+LATU Latitud,Uruguay XXI,Directed,35,,,2,Direct,Network,1,Yes,4000,2,Yes,Analyze,ok,16,8
+PEDECIBA,Incubadora Khem- IPTP,Directed,36,,,2,Direct,Knowledge,1,No,50,2,Yes,Analyze,ok,18,4
+PEDECIBA,UEU,Directed,37,,,2,Direct,Project development,1,Yes,50,2,Yes,Analyze,ok,18,7
+PEDECIBA,IPMont,Directed,38,,,2,Direct,Knowledge,1,No,50,2,Yes,Analyze,ok,18,9
+PEDECIBA,IIBCE,Directed,39,,,2,Direct,Knowledge,1,No,50,2,Yes,Analyze,ok,18,10
+PEDECIBA,INIA,Directed,40,,,2,Direct,Knowledge,1,No,50,2,Yes,Analyze,ok,18,11
+PEDECIBA,CUDIM,Directed,41,,,2,Direct,Project development,1,No,50,2,Yes,Analyze,ok,18,14
+PEDECIBA,LATU Latitud,Directed,42,,,2,Direct,Project development,1,No,50,2,Yes,Analyze,ok,18,15
+Socialab,UDELAR,Directed,43,,,2,Direct,Network,10,No,2000,5,Yes,Analyze,ok,22,7
+Socialab,CIE-ORT,Directed,44,,,2,Direct,Knowledge,2,No,4000,2,Yes,Analyze,ok,22,8
+ThalesLab,Socialab,Directed,45,,,2,Direct,Knowledge,2,No,50,2,Yes,Analyze,ok,27,6
+UCLEH,CTC,Directed,46,,,2,Direct,Project development,2,No,50,2,Yes,Analyze,ok,28,9
+CISUR,Transforma Uruguay,Directed,47,,,2,Direct,Knowledge,5,No,50,2,Yes,Analyze,ok,29,12
+CISUR,Centro de Extensionismo Industrial,Directed,48,,,2,Direct,Network,5,No,50,2,Yes,Analyze,ok,29,13
+INGENIO,UTEC,Directed,49,,,2,Direct,Knowledge,3,Yes,50,2,Yes,Analyze,ok,30,6
+INGENIO,Endeavor,Directed,50,,,2,Direct,Knowledge,3,Yes,50,2,Yes,Analyze,ok,30,9
+Empretec,Uruguay XXI,Directed,51,,,2,Direct,Money,5,Yes,50,5,Yes,Analyze,ok,32,4
+Empretec,YouHub,Directed,52,,,2,Direct,Project development,2,No,2000,2,Yes,Analyze,ok,32,8
+XENIORS,ANII,Directed,53,,,2,Direct,Exposure,4,No,50,2,Yes,Analyze,ok,36,2
+XENIORS,Piso 40,Directed,54,,,2,Direct,Money,3,No,50,2,Yes,Analyze,ok,36,4
+XENIORS,INEFOP,Directed,55,,,2,Direct,Project development,4,Yes,750,5,Yes,Analyze,ok,36,10
+Quanam,Enperspectiva,Directed,56,,,2,Direct,Exposure,5,No,2000,2,Yes,Analyze,ok,37,8
+AJE,RAFE,Directed,57,,,2,Direct,Network,5,No,2000,2,Yes,Analyze,ok,39,2
+AJE,El Observador,Directed,58,,,2,Direct,Exposure,3,No,750,2,No,Analyze,ok,39,5
+OPH,MIEM-DNPI,Directed,59,,,2,Direct,Other,2,No,50,2,Yes,Analyze,ok,41,7
+Transforma Uruguay,LATU,Directed,60,,,2,Direct,Project development,1,Yes,50,2,Yes,Analyze,ok,50,5
+Xmartlabs,ANII,Directed,61,,,2,Direct,Money,5,No,750,2,No,Analyze,ok,52,5
+Xmartlabs,Endeavor,Directed,62,,,2,Direct,Exposure,3,No,2000,2,Yes,Analyze,ok,52,6
+CIU,ANII,Directed,63,,,2,Direct,Money,2,Yes,2000,2,Yes,Analyze,ok,53,6
+El Abrojo,FCPU,Directed,64,,,2,Direct,Network,2,No,50,2,Unachieved,Analyze,ok,55,8
+CONEXO Cowork,ANDE,Directed,65,,,2,Direct,Network,3,No,50,2,Unachieved,Analyze,ok,62,3
+Fundación da Vinci América Latina,Cikato,Directed,66,,,2,Direct,In-kind resources,20,Yes,750,5,Yes,Analyze,ok,N03,11
+El Observador,Rabbit,Directed,67,,,2,Inverse,Exposure,1,No,300,2,Yes,Analyze,ok,13,4
+BID,Rabbit,Directed,68,,,2,Inverse,Knowledge,2,No,300,2,Yes,Analyze,ok,13,11
+CIU,UTEC,Directed,69,,,2,Inverse,Project development,5,Yes,4000,2,Yes,Analyze,ok,14,5
+Sistema B,UTEC,Directed,70,,,2,Inverse,Knowledge,6,No,750,2,Yes,Analyze,ok,14,10
+Transforma Uruguay,LATU Latitud,Directed,71,,,2,Inverse,Knowledge,1,No,30000,5,Yes,Analyze,ok,16,5
+Initium,Socialab,Directed,72,,,2,Inverse,Knowledge,5,No,4000,5,Yes,Analyze,ok,22,9
+Centro IthaKa,Socialab,Directed,73,,,2,Inverse,Knowledge,3,No,50,2,Yes,Analyze,ok,22,10
+Facultad Ingeniería UDELAR,DGT,Directed,74,,,2,Inverse,Knowledge,1,No,50,2,Yes,Analyze,ok,23,3
+ANDE,DGT,Directed,75,,,2,Inverse,Other,1,No,50,2,Yes,Analyze,ok,23,5
+Centro IthaKa,ThalesLab,Directed,76,,,2,Inverse,Project development,4,Yes,50,2,Yes,Analyze,ok,27,5
+CIE-ORT,INGENIO,Directed,77,,,2,Inverse,Knowledge,3,No,50,2,Yes,Analyze,ok,30,5
+Desarrollo Sostenible e Inteligente,INGENIO,Directed,78,,,2,Inverse,Knowledge,5,No,50,2,Yes,Analyze,ok,30,11
+Centro de Competitividad de Rivera,Empretec,Directed,79,,,2,Inverse,In-kind resources,3,Yes,50,2,Yes,Analyze,ok,32,6
+Centro de Competitividad de Tacuarembó,Empretec,Directed,80,,,2,Inverse,In-kind resources,3,Yes,50,2,Yes,Analyze,ok,32,7
+CETP-UTU,XENIORS,Directed,81,,,2,Inverse,Project development,4,Yes,750,2,Yes,Analyze,ok,36,6
+ANII,Quanam,Directed,82,,,2,Inverse,Knowledge,1,No,30000,25,Yes,Analyze,ok,37,1
+ICT4V,Quanam,Directed,83,,,2,Inverse,Project development,10,Yes,75000,8,Yes,Analyze,ok,37,2
+LATU,CUTI,Directed,84,,,2,Inverse,Project development,8,No,50,2,Unachieved,Analyze,ok,38,11
+CIU,AJE,Directed,85,,,2,Inverse,Project development,5,No,2000,2,Yes,Analyze,ok,39,4
+ANDE,Co-Work LatAm,Directed,86,,,2,Inverse,Network,2,No,50,2,Yes,Analyze,ok,42,3
+RAFE,Co-Work LatAm,Directed,87,,,2,Inverse,Knowledge,2,No,50,2,Yes,Analyze,ok,42,5
+Meetup Agile,Co-Work LatAm,Directed,88,,,2,Inverse,In-kind resources,1,No,50,2,Yes,Analyze,ok,42,10
+Meetup Sales Force,Co-Work LatAm,Directed,89,,,2,Inverse,In-kind resources,2,No,50,2,Yes,Analyze,ok,42,11
+IPRU,ANMYPE,Directed,90,,,2,Inverse,Project development,5,Yes,300,2,Yes,Analyze,ok,43,5
+GRIDX,IPMont,Directed,91,,,2,Inverse,Other,10,No,50,8,Yes,Analyze,ok,45,10
+ACDE,El País,Directed,92,,,2,Inverse,Exposure,2,No,7500,2,Yes,Analyze,ok,51,11
+IDTT,CIU,Directed,93,,,2,Inverse,Knowledge,3,No,50,2,Yes,Analyze,ok,53,4
+DGT,ADEF,Directed,94,,,2,Third party,Network,1,No,50,2,Yes,Analyze,ok,23,6
+ThalesLab,Endeavor,Directed,95,,,2,Third party,Knowledge,3,No,50,2,Yes,Analyze,ok,27,9
+Co-Work LatAm,Incubadora Khem- IPTP,Directed,96,,,2,Third party,In-kind resources,1,No,50,2,Unachieved,Analyze,ok,42,9
+Rabbit,CIU,Directed,97,,,3,Direct,Project development,4,No,300,2,Yes,Analyze,ok,13,5
+Rabbit,MIEM,Directed,98,,,3,Direct,Money,2,No,300,2,Yes,Analyze,ok,13,8
+UTEC,Socialab,Directed,99,,,3,Direct,Project development,2,No,4000,2,Yes,Analyze,ok,14,8
+Initium,ANII,Directed,100,,,3,Direct,Money,1,Yes,50,2,Yes,Analyze,ok,15,2
+LATU Latitud,CIU,Directed,101,,,3,Direct,Network,1,No,7500,5,Yes,Analyze,ok,16,4
+LATU Latitud,UEU,Directed,102,,,3,Direct,Network,1,Yes,7500,2,Yes,Analyze,ok,16,7
+PEDECIBA,GRIDX,Directed,103,,,3,Direct,Money,1,No,50,2,Yes,Analyze,ok,18,5
+PEDECIBA,CIU,Directed,104,,,3,Direct,Project development,1,Yes,50,2,Yes,Analyze,ok,18,6
+PEDECIBA,UDELAR,Directed,105,,,3,Direct,Knowledge,1,No,50,2,Yes,Analyze,ok,18,8
+PEDECIBA,Universidad ORT Uruguay,Directed,106,,,3,Direct,Project development,1,No,50,2,Yes,Analyze,ok,18,12
+PEDECIBA,RED PI,Directed,107,,,3,Direct,Network,1,Yes,50,2,Yes,Analyze,ok,18,16
+CIE-ORT,ANDE,Directed,108,,,3,Direct,Money,1,Yes,7500,5,Yes,Analyze,ok,19,1
+Incubacoop,ANDE,Directed,109,,,3,Direct,Network,2,No,300,2,Unachieved,Analyze,ok,20,6
+Socialab,Oficina de Planeamiento y Presupuesto,Directed,110,,,3,Direct,Money,10,Yes,30000,8,Yes,Analyze,ok,22,3
+Socialab,CETP-UTU,Directed,111,,,3,Direct,Network,5,No,7500,5,Yes,Analyze,ok,22,6
+ThalesLab,Fundación Ricaldoni,Directed,112,,,3,Direct,Knowledge,2,No,50,2,Yes,Analyze,ok,27,10
+UCLEH,ANII,Directed,113,,,3,Direct,Other,2,No,50,2,Yes,Analyze,ok,28,1
+UCLEH,ANDE,Directed,114,,,3,Direct,Project development,1,No,50,2,Unachieved,Analyze,ok,28,2
+UCLEH,ANMYPE,Directed,115,,,3,Direct,Project development,1,No,50,2,Yes,Analyze,ok,28,5
+UCLEH,INEFOP,Directed,116,,,3,Direct,Money,3,No,50,2,Unachieved,Analyze,ok,28,11
+CISUR,BID,Directed,117,,,3,Direct,Money,4,No,50,2,Yes,Analyze,ok,29,14
+INGENIO,RAFE,Directed,118,,,3,Direct,Knowledge,3,Yes,50,2,Yes,Analyze,ok,30,4
+INGENIO,Initium,Directed,119,,,3,Direct,Knowledge,3,No,50,2,Yes,Analyze,ok,30,8
+INGENIO,AJE,Directed,120,,,3,Direct,Knowledge,3,No,50,2,Yes,Analyze,ok,30,12
+Antel,EUCD,Directed,121,,,3,Direct,Project development,3,Yes,750,2,Yes,Analyze,ok,31,4
+Antel,MIEM-Dinapyme,Directed,122,,,3,Direct,Project development,3,No,2000,2,Yes,Analyze,ok,31,10
+Empretec,Intendencia de Rocha,Directed,123,,,3,Direct,Project development,3,No,7500,5,Yes,Analyze,ok,32,3
+Empretec,ANII,Directed,124,,,3,Direct,Money,2,Yes,50,2,Yes,Analyze,ok,32,5
+Empretec,RAFE,Directed,125,,,3,Direct,Money,3,Yes,50,5,Yes,Analyze,ok,32,11
+UDEPI UDELAR,CTAgua,Directed,126,,,3,Direct,Project development,1,Yes,50,2,Yes,Analyze,ok,33,6
+XENIORS,ACDE,Directed,127,,,3,Direct,Project development,3,Yes,750,2,Yes,Analyze,ok,36,5
+XENIORS,RAFE,Directed,128,,,3,Direct,Knowledge,2,No,50,2,Yes,Analyze,ok,36,7
+Quanam,Transforma Uruguay,Directed,129,,,3,Direct,Project development,10,Yes,75000,5,Yes,Analyze,ok,37,3
+Quanam,Antel,Directed,130,,,3,Direct,Project development,30,Yes,75000,15,Yes,Analyze,ok,37,11
+CUTI,ANDE,Directed,131,,,3,Direct,Knowledge,4,No,750,5,Yes,Analyze,ok,38,2
+CUTI,Antel,Directed,132,,,3,Direct,Project development,7,Yes,50,2,Yes,Analyze,ok,38,7
+CUTI,MRREE,Directed,133,,,3,Direct,Project development,14,No,50,2,Yes,Analyze,ok,38,9
+AJE,Radio Universal,Directed,134,,,3,Direct,Exposure,3,No,50,2,Yes,Analyze,ok,39,3
+ANMYPE,INEFOP,Directed,135,,,3,Direct,Money,4,Yes,4000,2,Yes,Analyze,ok,43,3
+IPMont,MIEM,Directed,136,,,3,Direct,In-kind resources,20,No,50,2,Unachieved,Analyze,ok,45,5
+IPMont,ANDE,Directed,137,,,3,Direct,Network,50,No,50,2,Yes,Analyze,ok,45,11
+Transforma Uruguay,INACOOP,Directed,138,,,3,Direct,Project development,1,Yes,50,2,Yes,Analyze,ok,50,7
+El País,CEDU,Directed,139,,,3,Direct,Network,2,No,7500,2,Yes,Analyze,ok,51,9
+Xmartlabs,ANDE,Directed,140,,,3,Direct,Knowledge,3,Yes,2000,2,No,Analyze,ok,52,4
+Xmartlabs,El País,Directed,141,,,3,Direct,Exposure,3,No,300,2,Yes,Analyze,ok,52,7
+Xmartlabs,BID,Directed,142,,,3,Direct,Money,3,Yes,2000,2,Yes,Analyze,ok,52,9
+Xmartlabs,El Observador,Directed,143,,,3,Direct,Exposure,3,No,300,2,Yes,Analyze,ok,52,10
+CIU,AJE,Directed,144,,,3,Direct,In-kind resources,2,No,2000,2,Yes,Analyze,ok,53,3
+El Abrojo,INACOOP,Directed,145,,,3,Direct,Knowledge,6,No,50,25,Yes,Analyze,ok,55,2
+El Abrojo,FCEA UDELAR,Directed,146,,,3,Direct,Knowledge,3,No,50,2,Yes,Analyze,ok,55,3
+El Abrojo,ANDE,Directed,147,,,3,Direct,Network,3,No,50,2,Yes,Analyze,ok,55,4
+Incubadora Khem- IPTP,Intendencia de Canelones,Directed,148,,,3,Direct,Project development,3,No,50,2,Yes,Analyze,ok,57,2
+Incubadora Khem- IPTP,IIBCE,Directed,149,,,3,Direct,Project development,3,No,300,2,Yes,Analyze,ok,57,5
+Incubadora Khem- IPTP,SNCYT,Directed,150,,,3,Direct,Project development,1,No,300,2,Yes,Analyze,ok,57,6
+Impulsa Industria,Fundación Ricaldoni,Directed,151,,,3,Direct,Project development,6,Yes,7500,2,Yes,Analyze,ok,60,8
+CONEXO Cowork,Universidad ORT Uruguay,Directed,152,,,3,Direct,Project development,2,No,50,2,Yes,Analyze,ok,62,1
+CONEXO Cowork,CIE-ORT,Directed,153,,,3,Direct,Project development,1,No,50,2,Yes,Analyze,ok,62,6
+CONEXO Cowork,Cowork Enlace,Directed,154,,,3,Direct,Knowledge,2,No,50,2,Unachieved,Analyze,ok,62,9
+Unidad Mypes,CIU,Directed,155,,,3,Direct,Knowledge,10,No,50,2,Yes,Analyze,ok,64,1
+Unidad Mypes,INEFOP,Directed,156,,,3,Direct,In-kind resources,20,Yes,50,2,Yes,Analyze,ok,64,11
+UDE,Fundación Ricaldoni,Directed,157,,,3,Direct,Project development,1,Yes,NA,2,Yes,Analyze,ok,68,3
+UDE,CDU,Directed,158,,,3,Direct,Knowledge,2,Yes,NA,2,Yes,Analyze,ok,68,8
+ANDE,INGENIO,Directed,159,,,3,Direct,Project development,1,Yes,550000,5,Yes,Analyze,ok,71,11
+Fundación da Vinci América Latina,Centro IthaKa,Directed,160,,,3,Direct,In-kind resources,20,No,4000,8,No,Analyze,ok,N03,7
+Fundación da Vinci América Latina,CIE-ORT,Directed,161,,,3,Direct,Money,20,No,750,2,Yes,Analyze,ok,N03,8
+Fundación da Vinci América Latina,AJE,Directed,162,,,3,Direct,Network,10,No,300,2,Yes,Analyze,ok,N03,9
+Fundación da Vinci América Latina,ACDE,Directed,163,,,3,Direct,Network,5,No,300,2,Yes,Analyze,ok,N03,10
+Proyecto Kanban,NahualUY,Directed,164,,,3,Direct,Knowledge,1,No,50,2,Yes,Analyze,ok,N08,1
+Proyecto Kanban,Co-Work LatAm,Directed,165,,,3,Direct,In-kind resources,1,No,50,2,Yes,Analyze,ok,N08,7
+RAFE,Rabbit,Directed,166,,,3,Inverse,Knowledge,2,No,300,2,Yes,Analyze,ok,13,3
+BIDLab,Rabbit,Directed,167,,,3,Inverse,Knowledge,2,No,300,2,Yes,Analyze,ok,13,6
+RAFE,UTEC,Directed,168,,,3,Inverse,Network,1,Yes,2000,5,Yes,Analyze,ok,14,6
+MIEM,LATU Latitud,Directed,169,,,3,Inverse,Knowledge,3,Yes,30000,5,Yes,Analyze,ok,16,3
+Incubadora Khem- IPTP,LATU Latitud,Directed,170,,,3,Inverse,Project development,1,No,30000,5,Yes,Analyze,ok,16,10
+Ashoka Uruguay,Socialab,Directed,171,,,3,Inverse,Knowledge,1,No,7500,5,Yes,Analyze,ok,22,4
+FCEA UDELAR,DGT,Directed,172,,,3,Inverse,Knowledge,1,No,50,2,Yes,Analyze,ok,23,1
+Incubadora Khem- IPTP,DGT,Directed,173,,,3,Inverse,Other,4,Yes,50,2,Yes,Analyze,ok,23,9
+CDU,DGT,Directed,174,,,3,Inverse,Knowledge,4,No,50,2,Yes,Analyze,ok,23,11
+MIEM,CISUR,Directed,175,,,3,Inverse,Project development,10,Yes,50,2,Yes,Analyze,ok,29,10
+Uruguay XXI,CISUR,Directed,176,,,3,Inverse,Network,8,No,50,2,Yes,Analyze,ok,29,11
+ANDE,INGENIO,Directed,177,,,3,Inverse,Knowledge,3,Yes,50,2,Yes,Analyze,ok,30,3
+ANII,Antel,Directed,178,,,3,Inverse,Money,3,Yes,75000,2,Yes,Analyze,ok,31,1
+CIE-ORT,Antel,Directed,179,,,3,Inverse,Money,2,Yes,7500,2,Yes,Analyze,ok,31,6
+INIA,Antel,Directed,180,,,3,Inverse,Knowledge,3,Yes,750,2,Yes,Analyze,ok,31,11
+Socialab,Antel,Directed,181,,,3,Inverse,Project development,4,Yes,30000,2,Yes,Analyze,ok,31,14
+SNCYT,Antel,Directed,182,,,3,Inverse,Knowledge,2,No,750,2,Yes,Analyze,ok,31,15
+ADEF,Empretec,Directed,183,,,3,Inverse,In-kind resources,2,Yes,50,2,Yes,Analyze,ok,32,9
+MIEM-Dinapyme,Empretec,Directed,184,,,3,Inverse,In-kind resources,3,Yes,50,5,Yes,Analyze,ok,32,10
+FUCREA,Empretec,Directed,185,,,3,Inverse,In-kind resources,5,No,50,5,Yes,Analyze,ok,32,13
+Centro de Extensionismo Industrial,CSIC UDELAR,Directed,186,,,3,Inverse,Network,1,No,50,5,Yes,Analyze,ok,34,10
+INGENIO,CUTI,Directed,187,,,3,Inverse,Project development,4,No,2000,2,Yes,Analyze,ok,38,4
+Endeavor,AJE,Directed,188,,,3,Inverse,Project development,5,No,750,5,Yes,Analyze,ok,39,10
+ACDE,AJE,Directed,189,,,3,Inverse,Knowledge,5,Yes,750,8,Yes,Analyze,ok,39,11
+Facultad Ingeniería UDELAR,OPH,Directed,190,,,3,Inverse,Knowledge,1,No,50,2,Yes,Analyze,ok,41,5
+Incubadora Khem- IPTP,OPH,Directed,191,,,3,Inverse,Knowledge,1,Yes,50,2,Yes,Analyze,ok,41,6
+ClusterUY,OPH,Directed,192,,,3,Inverse,Knowledge,1,No,50,2,Yes,Analyze,ok,41,10
+CEDU,Co-Work LatAm,Directed,193,,,3,Inverse,In-kind resources,1,No,300,2,Yes,Analyze,ok,42,4
+Brou,ANMYPE,Directed,194,,,3,Inverse,Project development,10,Yes,750,2,Yes,Analyze,ok,43,6
+LATU,ANMYPE,Directed,195,,,3,Inverse,Project development,15,No,2000,2,Yes,Analyze,ok,43,7
+ANII,El País,Directed,196,,,3,Inverse,Exposure,2,No,7500,2,Yes,Analyze,ok,51,2
+CBII,El País,Directed,197,,,3,Inverse,Exposure,1,No,4000,2,Yes,Analyze,ok,51,4
+AJE,El País,Directed,198,,,3,Inverse,Exposure,1,No,4000,2,Yes,Analyze,ok,51,6
+Product Hunt Montevideo,Xmartlabs,Directed,199,,,3,Inverse,Network,3,No,750,2,Yes,Analyze,ok,52,11
+CCI Durazno,CIU,Directed,200,,,3,Inverse,Knowledge,2,Yes,2000,2,Yes,Analyze,ok,53,9
+Socialab,CETP-UTU,Directed,201,,,3,Inverse,Project development,1,No,750,5,Yes,Analyze,ok,59,7
+Fundación Ricaldoni,CETP-UTU,Directed,202,,,3,Inverse,Project development,3,No,2000,2,No,Analyze,ok,59,8
+Endeavor,ANDE,Directed,203,,,3,Inverse,Project development,3,Yes,30000,8,Yes,Analyze,ok,71,5
+Fundación Ricaldoni,Fundación da Vinci América Latina,Directed,204,,,3,Inverse,Knowledge,10,Yes,4000,5,Yes,Analyze,ok,N03,3
+GEPIAN,Fundación da Vinci América Latina,Directed,205,,,3,Inverse,Knowledge,20,Yes,2000,5,Yes,Analyze,ok,N03,6
+Transforma Uruguay,ANII,Directed,206,,,3,Inverse,Other,1,No,50,5,Yes,Analyze,ok,N09,1
+DGT,ANMYPE,Directed,207,,,3,Third party,Knowledge,3,No,50,2,Yes,Analyze,ok,23,10
+CISUR,Incubadora Khem- IPTP,Directed,208,,,3,Third party,Knowledge,10,Yes,50,2,Yes,Analyze,ok,29,8
+UDEPI UDELAR,Centro de Extensionismo Industrial,Directed,209,,,3,Third party,Knowledge,1,No,50,2,Yes,Analyze,ok,33,7
+ANMYPE,CLUSTERPACK,Directed,210,,,3,Third party,Project development,20,Yes,2000,5,Yes,Analyze,ok,43,9
+Rabbit,ANDE,Directed,211,,,4,Direct,Money,2,No,300,2,Yes,Analyze,ok,13,2
+UTEC,ANII,Directed,212,,,4,Direct,Money,1,Yes,7500,8,Yes,Analyze,ok,14,2
+UTEC,BID,Directed,213,,,4,Direct,Project development,6,Yes,30000,8,Yes,Analyze,ok,14,9
+Initium,Centro IthaKa,Directed,214,,,4,Direct,Project development,1,Yes,50,2,Yes,Analyze,ok,15,4
+Initium,UTEC,Directed,215,,,4,Direct,Project development,1,Yes,50,2,Yes,Analyze,ok,15,5
+PEDECIBA,ANII,Directed,216,,,4,Direct,Money,1,No,50,2,Yes,Analyze,ok,18,1
+CIE-ORT,ANII,Directed,217,,,4,Direct,Money,2,Yes,7500,8,Yes,Analyze,ok,19,2
+CIE-ORT,UTEC,Directed,218,,,4,Direct,Project development,1,Yes,750,5,Yes,Analyze,ok,19,3
+CIE-ORT,INGENIO,Directed,219,,,4,Direct,Project development,1,Yes,4000,2,Yes,Analyze,ok,19,4
+CIE-ORT,CBII,Directed,220,,,4,Direct,Project development,3,Yes,30000,5,Yes,Analyze,ok,19,5
+CIE-ORT,UM,Directed,221,,,4,Direct,Project development,1,No,4000,2,Yes,Analyze,ok,19,6
+CIE-ORT,UCU,Directed,222,,,4,Direct,Project development,1,No,2000,2,Yes,Analyze,ok,19,7
+CIE-ORT,UDELAR,Directed,223,,,4,Direct,Project development,1,Yes,7500,5,Yes,Analyze,ok,19,8
+CIE-ORT,Fundación da Vinci América Latina,Directed,224,,,4,Direct,Network,1,No,2000,2,Yes,Analyze,ok,19,10
+CIE-ORT,Ferrere,Directed,225,,,4,Direct,Project development,3,Yes,30000,5,Yes,Analyze,ok,19,11
+Socialab,UTEC,Directed,226,,,4,Direct,Project development,6,No,30000,5,Yes,Analyze,ok,22,5
+UCLEH,MIEM,Directed,227,,,4,Direct,Project development,2,No,50,2,Yes,Analyze,ok,28,3
+UCLEH,Cowork Melo,Directed,228,,,4,Direct,Project development,5,No,50,2,Yes,Analyze,ok,28,6
+UCLEH,Del Plata Office,Directed,229,,,4,Direct,In-kind resources,3,No,50,2,Yes,Analyze,ok,28,7
+UCLEH,Oportunidades Circulares,Directed,230,,,4,Direct,Project development,2,No,50,2,No,Analyze,ok,28,8
+CISUR,SNCYT,Directed,231,,,4,Direct,Knowledge,10,No,50,2,Yes,Analyze,ok,29,9
+INGENIO,Fundación Ricaldoni,Directed,232,,,4,Direct,Knowledge,1,No,50,2,Yes,Analyze,ok,30,1
+Antel,CETP-UTU,Directed,233,,,4,Direct,Knowledge,3,Yes,7500,5,Yes,Analyze,ok,31,7
+Antel,ANDE,Directed,234,,,4,Direct,Network,3,No,2000,2,Yes,Analyze,ok,31,8
+Antel,CUTI,Directed,235,,,4,Direct,Project development,5,Yes,2000,5,Yes,Analyze,ok,31,12
+Empretec,ANDE,Directed,236,,,4,Direct,Money,3,Yes,50,8,Yes,Analyze,ok,32,2
+UDEPI UDELAR,ANII,Directed,237,,,4,Direct,Money,1,Yes,7500,2,Yes,Analyze,ok,33,3
+UDEPI UDELAR,Antel,Directed,238,,,4,Direct,Knowledge,1,Yes,50,2,Yes,Analyze,ok,33,11
+CSIC UDELAR,UTEC,Directed,239,,,4,Direct,Project development,1,Yes,550000,5,Yes,Analyze,ok,34,1
+CSIC UDELAR,INIA,Directed,240,,,4,Direct,Knowledge,1,No,50,5,Yes,Analyze,ok,34,6
+XENIORS,ANDE,Directed,241,,,4,Direct,In-kind resources,3,Yes,300,5,Yes,Analyze,ok,36,1
+CUTI,UTEC,Directed,242,,,4,Direct,Other,4,No,50,5,Yes,Analyze,ok,38,3
+CUTI,INEFOP,Directed,243,,,4,Direct,Money,15,Yes,30000,5,Yes,Analyze,ok,38,5
+CUTI,Uruguay XXI,Directed,244,,,4,Direct,Money,4,Yes,2000,2,Yes,Analyze,ok,38,6
+AJE,ANDE,Directed,245,,,4,Direct,Money,5,Yes,4000,8,Yes,Analyze,ok,39,1
+AJE,DESEM,Directed,246,,,4,Direct,Other,4,No,750,25,Yes,Analyze,ok,39,7
+AJE,El Espectador,Directed,247,,,4,Direct,Exposure,10,No,300,15,Yes,Analyze,ok,39,8
+ANMYPE,MIEM-Dinapyme,Directed,248,,,4,Direct,Money,10,Yes,300,5,Yes,Analyze,ok,43,4
+Transforma Uruguay,ANII,Directed,249,,,4,Direct,Project development,1,Yes,50,2,Yes,Analyze,ok,50,4
+Transforma Uruguay,Uruguay XXI,Directed,250,,,4,Direct,Project development,1,Yes,50,2,Yes,Analyze,ok,50,6
+El País,ADM,Directed,251,,,4,Direct,Network,2,No,30000,2,Yes,Analyze,ok,51,5
+El País,CUTI,Directed,252,,,4,Direct,Network,5,Yes,30000,5,Yes,Analyze,ok,51,8
+El País,CCEAU,Directed,253,,,4,Direct,Network,5,Yes,75000,5,Yes,Analyze,ok,51,10
+Xmartlabs,INGENIO,Directed,254,,,4,Direct,In-kind resources,4,Yes,30000,2,Yes,Analyze,ok,52,2
+Xmartlabs,Uruguay XXI,Directed,255,,,4,Direct,Money,2,Yes,30000,2,Yes,Analyze,ok,52,3
+CIU,Instituto 3IE,Directed,256,,,4,Direct,Knowledge,3,Yes,2000,2,Yes,Analyze,ok,53,1
+CIU,GEPIAN,Directed,257,,,4,Direct,Project development,2,No,750,2,Yes,Analyze,ok,53,11
+El Abrojo,UNQ,Directed,258,,,4,Direct,Knowledge,4,Yes,50,5,Yes,Analyze,ok,55,10
+El Abrojo,Fundación SES,Directed,259,,,4,Direct,Knowledge,10,No,50,5,Yes,Analyze,ok,55,11
+Incubadora Khem- IPTP,ANDE,Directed,260,,,4,Direct,Money,1,Yes,50,2,Yes,Analyze,ok,57,3
+Incubadora Khem- IPTP,IPMont,Directed,261,,,4,Direct,Project development,3,Yes,300,2,Yes,Analyze,ok,57,4
+CETP-UTU,ADEF,Directed,262,,,4,Direct,Project development,1,Yes,7500,5,Yes,Analyze,ok,59,3
+CETP-UTU,XENIORS,Directed,263,,,4,Direct,Project development,2,No,750,2,Yes,Analyze,ok,59,6
+Impulsa Industria,FUNDAQUIM,Directed,264,,,4,Direct,In-kind resources,4,Yes,7500,2,Yes,Analyze,ok,60,7
+Impulsa Industria,Instituto 3IE,Directed,265,,,4,Direct,Knowledge,4,Yes,4000,2,Yes,Analyze,ok,60,9
+Impulsa Industria,CTPLAS,Directed,266,,,4,Direct,Project development,5,No,4000,2,Yes,Analyze,ok,60,13
+CONEXO Cowork,RAFE,Directed,267,,,4,Direct,Network,1,No,50,2,Yes,Analyze,ok,62,2
+CONEXO Cowork,Portal Uruguay Emprendedor,Directed,268,,,4,Direct,Exposure,3,No,50,2,Yes,Analyze,ok,62,7
+CONEXO Cowork,AJE,Directed,269,,,4,Direct,Knowledge,2,No,50,2,Yes,Analyze,ok,62,11
+Unidad Mypes,IPRU,Directed,270,,,4,Direct,Money,2,Yes,50,2,Yes,Analyze,ok,64,8
+Unidad Mypes,Brou,Directed,271,,,4,Direct,Money,2,Yes,50,2,Yes,Analyze,ok,64,10
+UDE,ANDE,Directed,272,,,4,Direct,Network,1,Yes,NA,2,Yes,Analyze,ok,68,1
+UDE,ANII,Directed,273,,,4,Direct,Network,1,Yes,NA,2,Yes,Analyze,ok,68,2
+UDE,LATU,Directed,274,,,4,Direct,Knowledge,2,Yes,NA,2,Yes,Analyze,ok,68,5
+UDE,Genexus,Directed,275,,,4,Direct,Knowledge,2,Yes,NA,2,Yes,Analyze,ok,68,6
+UDE,CUTI,Directed,276,,,4,Direct,Knowledge,2,Yes,NA,5,Yes,Analyze,ok,68,7
+UDE,UPV,Directed,277,,,4,Direct,Knowledge,2,Yes,NA,5,Yes,Analyze,ok,68,9
+UDE,UP,Directed,278,,,4,Direct,Knowledge,2,Yes,NA,2,Yes,Analyze,ok,68,10
+FUNDASOL,ANDE,Directed,279,,,4,Direct,Money,3,Yes,50,5,Yes,Analyze,ok,69,1
+FUNDASOL,ANII,Directed,280,,,4,Direct,Money,4,Yes,50,5,Yes,Analyze,ok,69,2
+FUNDASOL,INACOOP,Directed,281,,,4,Direct,Money,3,Yes,50,8,Yes,Analyze,ok,69,3
+FUNDASOL,INEFOP,Directed,282,,,4,Direct,Money,5,Yes,50,15,Yes,Analyze,ok,69,5
+FUNDASOL,CNCS,Directed,283,,,4,Direct,Money,5,Yes,50,8,Yes,Analyze,ok,69,7
+FUNDASOL,MIEM-Dinapyme,Directed,284,,,4,Direct,Money,5,Yes,50,8,Yes,Analyze,ok,69,8
+FUNDASOL,PCTP,Directed,285,,,4,Direct,Knowledge,5,No,50,8,Yes,Analyze,ok,69,9
+FUNDASOL,C-Emprendedor,Directed,286,,,4,Direct,Knowledge,5,No,50,8,Yes,Analyze,ok,69,11
+ANDE,UTEC,Directed,287,,,4,Direct,Project development,1,Yes,550000,5,Yes,Analyze,ok,71,2
+ANDE,CIE-ORT,Directed,288,,,4,Direct,Project development,1,Yes,30000,5,Yes,Analyze,ok,71,4
+ANDE,SINERGIA,Directed,289,,,4,Direct,Project development,1,Yes,30000,5,Yes,Analyze,ok,71,6
+Fundación da Vinci América Latina,El País,Directed,290,,,4,Direct,In-kind resources,30,No,30000,8,Yes,Analyze,ok,N03,12
+Proyecto Kanban,Mujeres IT,Directed,291,,,4,Direct,Knowledge,1,No,50,2,Yes,Analyze,ok,N08,2
+Proyecto Kanban,Pyxis,Directed,292,,,4,Direct,In-kind resources,2,No,300,2,Yes,Analyze,ok,N08,3
+Oficina de Planeamiento y Presupuesto,UTEC,Directed,293,,,4,Inverse,Project development,1,Yes,30000,5,Yes,Analyze,ok,14,3
+CIE-ORT,Initium,Directed,294,,,4,Inverse,Project development,1,Yes,50,2,Yes,Analyze,ok,15,3
+SNCYT,PEDECIBA,Directed,295,,,4,Inverse,Project development,1,No,50,2,Yes,Analyze,ok,18,2
+Uruguay XXI,PEDECIBA,Directed,296,,,4,Inverse,Project development,1,Yes,50,2,Yes,Analyze,ok,18,3
+Socialab,CIE-ORT,Directed,297,,,4,Inverse,Project development,2,Yes,4000,2,Yes,Analyze,ok,19,9
+Facultad de Ciencias UDELAR,DGT,Directed,298,,,4,Inverse,Knowledge,2,No,50,2,Yes,Analyze,ok,23,2
+FQ UDELAR,DGT,Directed,299,,,4,Inverse,Other,10,Yes,50,2,Yes,Analyze,ok,23,4
+Antel,DGT,Directed,300,,,4,Inverse,Knowledge,4,No,50,2,Yes,Analyze,ok,23,7
+CIE-ORT,ThalesLab,Directed,301,,,4,Inverse,Project development,6,Yes,50,2,Yes,Analyze,ok,27,4
+ICT4V,Antel,Directed,302,,,4,Inverse,Knowledge,4,Yes,30000,2,Yes,Analyze,ok,31,2
+Facultad Ingeniería UDELAR,Antel,Directed,303,,,4,Inverse,Project development,5,Yes,550000,5,Yes,Analyze,ok,31,5
+INIA,UDEPI UDELAR,Directed,304,,,4,Inverse,Other,1,Yes,2000,2,Yes,Analyze,ok,33,2
+PCTP,UDEPI UDELAR,Directed,305,,,4,Inverse,Knowledge,1,Yes,50,2,Yes,Analyze,ok,33,5
+AUGM,CSIC UDELAR,Directed,306,,,4,Inverse,Knowledge,1,Yes,50,5,Yes,Analyze,ok,34,5
+UTEC,OPH,Directed,307,,,4,Inverse,Knowledge,1,Yes,50,2,Yes,Analyze,ok,41,2
+UDELAR,OPH,Directed,308,,,4,Inverse,In-kind resources,1,Yes,50,2,Yes,Analyze,ok,41,3
+AJE,Co-Work LatAm,Directed,309,,,4,Inverse,In-kind resources,3,Yes,4000,2,Yes,Analyze,ok,42,1
+Fundación da Vinci América Latina,Co-Work LatAm,Directed,310,,,4,Inverse,In-kind resources,3,Yes,4000,2,Yes,Analyze,ok,42,2
+ANDE,ANMYPE,Directed,311,,,4,Inverse,Other,15,Yes,2000,5,Yes,Analyze,ok,43,1
+INACAL,ANMYPE,Directed,312,,,4,Inverse,Project development,15,No,2000,2,Yes,Analyze,ok,43,8
+Universidad ORT Uruguay,IPMont,Directed,313,,,4,Inverse,Knowledge,[200],No,550000,40,Unachieved,Analyze,ok,45,6
+Incubadora Khem- IPTP,IPMont,Directed,314,,,4,Inverse,Project development,[200],No,50,15,Yes,Analyze,ok,45,9
+Fundación Ricaldoni,RAFE,Directed,315,,,4,Inverse,Knowledge,1,Yes,50,2,Yes,Analyze,ok,49,8
+INGENIO,RAFE,Directed,316,,,4,Inverse,Knowledge,1,Yes,50,2,Yes,Analyze,ok,49,9
+Empretec,RAFE,Directed,317,,,4,Inverse,Knowledge,1,Yes,50,2,Yes,Analyze,ok,49,10
+El Abrojo,RAFE,Directed,318,,,4,Inverse,Knowledge,1,Yes,50,2,Yes,Analyze,ok,49,11
+ANDE,El País,Directed,319,,,4,Inverse,Exposure,2,No,7500,2,Yes,Analyze,ok,51,1
+CIE-ORT,El País,Directed,320,,,4,Inverse,Project development,2,No,4000,2,Yes,Analyze,ok,51,3
+Empretec,CIU,Directed,321,,,4,Inverse,In-kind resources,1,No,300,2,Yes,Analyze,ok,53,5
+ADEF,CIU,Directed,322,,,4,Inverse,Knowledge,3,Yes,2000,2,Yes,Analyze,ok,53,7
+CTPLAS,CIU,Directed,323,,,4,Inverse,Project development,2,No,750,2,Yes,Analyze,ok,53,10
+ANDE,CETP-UTU,Directed,324,,,4,Inverse,In-kind resources,6,Yes,7500,8,Yes,Analyze,ok,59,1
+Fundación da Vinci América Latina,CETP-UTU,Directed,325,,,4,Inverse,Project development,2,No,300,2,Yes,Analyze,ok,59,9
+YABT Uruguay,CETP-UTU,Directed,326,,,4,Inverse,Project development,2,No,300,2,Yes,Analyze,ok,59,10
+MIEM-Dinapyme,CETP-UTU,Directed,327,,,4,Inverse,Project development,3,Yes,300,5,Yes,Analyze,ok,59,11
+Co-lavora,CONEXO Cowork,Directed,328,,,4,Inverse,Project development,3,No,300,2,Yes,Analyze,ok,62,8
+RAFE,Unidad Mypes,Directed,329,,,4,Inverse,Project development,5,Yes,50,2,Yes,Analyze,ok,64,3
+UCU,Unidad Mypes,Directed,330,,,4,Inverse,Other,5,Yes,50,2,Yes,Analyze,ok,64,4
+FADU UDELAR,Unidad Mypes,Directed,331,,,4,Inverse,Other,5,Yes,50,2,Yes,Analyze,ok,64,5
+EUCD,Unidad Mypes,Directed,332,,,4,Inverse,Other,5,Yes,50,2,Yes,Analyze,ok,64,6
+Cámara de Representantes,UDE,Directed,333,,,4,Inverse,Knowledge,2,Yes,NA,2,Yes,Analyze,ok,68,12
+Incubacoop,FUNDASOL,Directed,334,,,4,Inverse,Knowledge,4,Yes,50,8,Yes,Analyze,ok,69,4
+CUDECOOP,FUNDASOL,Directed,335,,,4,Inverse,Knowledge,5,Yes,50,15,Yes,Analyze,ok,69,6
+PTC,FUNDASOL,Directed,336,,,4,Inverse,Knowledge,5,No,50,8,Yes,Analyze,ok,69,10
+Endeavor,ANII,Directed,337,,,4,Inverse,Other,10,Yes,550000,5,Yes,Analyze,ok,N09,3
+CSIC UDELAR,UDEPI UDELAR,Directed,338,,,4,Third party,Knowledge,1,No,50,2,Yes,Analyze,ok,34,11
+CETP-UTU,CNCS,Directed,339,,,4,Third party,Project development,2,No,4000,2,Yes,Analyze,ok,59,2
+Impulsa Industria,CETP-UTU,Directed,340,,,4,Third party,Project development,8,No,30000,2,Yes,Analyze,ok,60,4
+Impulsa Industria,SNCYT,Directed,341,,,4,Third party,Knowledge,3,No,2000,2,Yes,Analyze,ok,60,11
+Rabbit,ANII,Directed,342,,,5,Direct,Money,2,Yes,300,2,Yes,Analyze,ok,13,1
+UTEC,ANDE,Directed,343,,,5,Direct,Money,1,Yes,75000,8,Yes,Analyze,ok,14,1
+UTEC,CIE-ORT,Directed,344,,,5,Direct,Project development,1,Yes,2000,8,Yes,Analyze,ok,14,7
+Initium,ANDE,Directed,345,,,5,Direct,Money,1,Yes,50,2,Yes,Analyze,ok,15,1
+LATU Latitud,ANII,Directed,346,,,5,Direct,Money,2,Yes,2000000,25,Yes,Analyze,ok,16,1
+Incubacoop,MIEM,Directed,347,,,5,Direct,Project development,3,Yes,75000,2,Yes,Analyze,ok,20,1
+Incubacoop,CUDECOOP,Directed,348,,,5,Direct,Project development,3,Yes,75000,2,Yes,Analyze,ok,20,2
+Incubacoop,INACOOP,Directed,349,,,5,Direct,Project development,3,Yes,75000,2,Yes,Analyze,ok,20,3
+Incubacoop,RAFE,Directed,350,,,5,Direct,Network,1,Yes,50,2,Yes,Analyze,ok,20,8
+Incubacoop,Portal Uruguay Emprendedor,Directed,351,,,5,Direct,Network,1,Yes,50,2,Yes,Analyze,ok,20,9
+Incubacoop,IPMont,Directed,352,,,5,Direct,Knowledge,4,No,50,2,Unachieved,Analyze,ok,20,10
+Incubacoop,UTEC,Directed,353,,,5,Direct,Knowledge,5,No,50,2,Yes,Analyze,ok,20,11
+Socialab,ANDE,Directed,354,,,5,Direct,Money,2,Yes,30000,5,Yes,Analyze,ok,22,1
+Socialab,ANII,Directed,355,,,5,Direct,Money,5,Yes,30000,5,Yes,Analyze,ok,22,2
+DGT,BID,Directed,356,,,5,Direct,Money,10,Yes,50,2,Yes,Analyze,ok,23,8
+LATU,ANII,Directed,357,,,5,Direct,Project development,3,Yes,2000000,5,Yes,Analyze,ok,24,1
+ThalesLab,ANII,Directed,358,,,5,Direct,Project development,10,Yes,50,2,Yes,Analyze,ok,27,1
+ThalesLab,BID,Directed,359,,,5,Direct,Project development,10,Yes,550000,2,Yes,Analyze,ok,27,3
+ThalesLab,Genexus,Directed,360,,,5,Direct,Money,1,Yes,550000,5,Yes,Analyze,ok,27,11
+Antel,LATU,Directed,361,,,5,Direct,Knowledge,2,Yes,30000,2,Yes,Analyze,ok,31,3
+UDEPI UDELAR,MIEM-DNPI,Directed,362,,,5,Direct,In-kind resources,1,Yes,50,2,Yes,Analyze,ok,33,9
+XENIORS,CNCS,Directed,363,,,5,Direct,Project development,3,Yes,300,5,Yes,Analyze,ok,36,3
+CUTI,MIEM,Directed,364,,,5,Direct,Money,5,Yes,30000,5,Yes,Analyze,ok,38,1
+AJE,FIJE,Directed,365,,,5,Direct,Project development,5,No,2000,15,Yes,Analyze,ok,39,9
+IPMont,ANII,Directed,366,,,5,Direct,Money,[500],Yes,50,200,Yes,Analyze,ok,45,1
+IPMont,UDELAR,Directed,367,,,5,Direct,Knowledge,[200],Yes,2000000,75,Yes,Analyze,ok,45,2
+IPMont,MEC,Directed,368,,,5,Direct,Money,[500],Yes,50,15,Yes,Analyze,ok,45,4
+IPMont,IIBCE,Directed,369,,,5,Direct,Knowledge,[500],Yes,50,75,Yes,Analyze,ok,45,8
+RAFE,ANII,Directed,370,,,5,Direct,Other,1,Yes,50,2,Yes,Analyze,ok,49,1
+RAFE,MIEM-Dinapyme,Directed,371,,,5,Direct,Project development,1,Yes,50,2,Yes,Analyze,ok,49,3
+Transforma Uruguay,ANDE,Directed,372,,,5,Direct,Project development,1,Yes,50,5,Yes,Analyze,ok,50,1
+Transforma Uruguay,MIEM-Dinapyme,Directed,373,,,5,Direct,Project development,1,Yes,50,5,Yes,Analyze,ok,50,2
+Transforma Uruguay,INEFOP,Directed,374,,,5,Direct,Project development,1,Yes,50,5,Yes,Analyze,ok,50,3
+Transforma Uruguay,RAFE,Directed,375,,,5,Direct,Project development,1,No,50,5,Yes,Analyze,ok,50,9
+Transforma Uruguay,Centro de Extensionismo Industrial,Directed,376,,,5,Direct,Knowledge,1,No,NA,2,Yes,Analyze,ok,50,11
+El País,ADPUGH,Directed,377,,,5,Direct,Network,3,Yes,75000,5,Yes,Analyze,ok,51,7
+Xmartlabs,UDELAR,Directed,378,,,5,Direct,Other,1,No,300,2,Yes,Analyze,ok,52,1
+CIU,ANDE,Directed,379,,,5,Direct,Money,3,Yes,50,2,Yes,Analyze,ok,53,2
+CIU,INEFOP,Directed,380,,,5,Direct,Money,8,Yes,4000,5,Yes,Analyze,ok,53,8
+Fundación Ricaldoni,INGENIO,Directed,381,,,5,Direct,Project development,3,No,NA,5,Yes,Analyze,ok,54,1
+El Abrojo,Anong,Directed,382,,,5,Direct,Knowledge,20,Yes,50,5,Yes,Analyze,ok,55,6
+Incubadora Khem- IPTP,PCTP,Directed,383,,,5,Direct,In-kind resources,1,Yes,50,2,Yes,Analyze,ok,57,1
+Incubadora Khem- IPTP,ANII,Directed,384,,,5,Direct,Money,3,Yes,7500,2,Yes,Analyze,ok,57,7
+Impulsa Industria,INEFOP,Directed,385,,,5,Direct,Money,5,Yes,50,8,Yes,Analyze,ok,60,1
+Impulsa Industria,LATU,Directed,386,,,5,Direct,Project development,3,Yes,30000,2,Yes,Analyze,ok,60,2
+Impulsa Industria,UTEC,Directed,387,,,5,Direct,Project development,5,Yes,30000,2,Yes,Analyze,ok,60,3
+Impulsa Industria,INTI,Directed,388,,,5,Direct,Project development,5,No,75000,2,Yes,Analyze,ok,60,5
+Impulsa Industria,CAIME,Directed,389,,,5,Direct,In-kind resources,4,Yes,30000,2,Yes,Analyze,ok,60,6
+Impulsa Industria,ITESO,Directed,390,,,5,Direct,Knowledge,10,Yes,30000,2,Yes,Analyze,ok,60,10
+Unidad Mypes,ANDE,Directed,391,,,5,Direct,Money,20,No,50,5,Yes,Analyze,ok,64,2
+UDE,ADM,Directed,392,,,5,Direct,Network,1,Yes,NA,5,Yes,Analyze,ok,68,4
+ANDE,Centro IthaKa,Directed,393,,,5,Direct,Project development,1,Yes,30000,5,Yes,Analyze,ok,71,3
+ANDE,Socialab,Directed,394,,,5,Direct,Project development,1,Yes,30000,8,Yes,Analyze,ok,71,7
+ANDE,GEPIAN,Directed,395,,,5,Direct,Project development,1,Yes,30000,5,Yes,Analyze,ok,71,8
+ANDE,ADEF,Directed,396,,,5,Direct,Project development,2,Yes,30000,5,Yes,Analyze,ok,71,9
+Fundación da Vinci América Latina,ANII,Directed,397,,,5,Direct,Money,40,Yes,30000,15,Yes,Analyze,ok,N03,1
+Fundación da Vinci América Latina,ANDE,Directed,398,,,5,Direct,Money,20,Yes,7500,8,Yes,Analyze,ok,N03,2
+ANII,LATU,Directed,399,,,5,Direct,Other,10,Yes,2000000,8,Yes,Analyze,ok,N09,4
+UCU,ANDE,Directed,400,,,5,Direct,Money,1,Yes,30000,15,Yes,Analyze,ok,N11,1
+UCU,Santander Universidades,Directed,401,,,5,Direct,Money,1,Yes,30000,15,Yes,Analyze,ok,N11,2
+RAFE,ThalesLab,Directed,402,,,5,Inverse,Network,3,Yes,50,2,Yes,Analyze,ok,27,7
+CUDIM,CISUR,Directed,403,,,5,Inverse,Project development,20,Yes,30000,2,Yes,Analyze,ok,29,1
+INIA,CISUR,Directed,404,,,5,Inverse,Project development,20,Yes,30000,2,Yes,Analyze,ok,29,2
+IPMont,CISUR,Directed,405,,,5,Inverse,Project development,20,Yes,30000,2,Yes,Analyze,ok,29,3
+IIBCE,CISUR,Directed,406,,,5,Inverse,Project development,20,Yes,30000,2,Yes,Analyze,ok,29,4
+PCTP,CISUR,Directed,407,,,5,Inverse,Project development,20,Yes,30000,2,Yes,Analyze,ok,29,5
+ANII,INGENIO,Directed,408,,,5,Inverse,Knowledge,3,Yes,50,5,Yes,Analyze,ok,30,2
+ClusterUY,Antel,Directed,409,,,5,Inverse,In-kind resources,3,Yes,75000,2,Yes,Analyze,ok,31,9
+CIU,Empretec,Directed,410,,,5,Inverse,Project development,4,Yes,2000,5,Yes,Analyze,ok,32,1
+IPMont,UDEPI UDELAR,Directed,411,,,5,Inverse,Knowledge,1,Yes,50,2,Yes,Analyze,ok,33,1
+UVITT,UDEPI UDELAR,Directed,412,,,5,Inverse,Knowledge,1,No,50,2,Yes,Analyze,ok,33,4
+Fundación Ricaldoni,OPH,Directed,413,,,5,Inverse,Knowledge,2,Yes,50,2,Yes,Analyze,ok,41,1
+PCTP,OPH,Directed,414,,,5,Inverse,Knowledge,2,Yes,50,2,Yes,Analyze,ok,41,4
+FQ UDELAR,OPH,Directed,415,,,5,Inverse,Knowledge,1,Yes,50,2,Yes,Analyze,ok,41,8
+Unidad Mypes,ANMYPE,Directed,416,,,5,Inverse,Project development,30,Yes,4000,5,Yes,Analyze,ok,43,2
+CIU,RAFE,Directed,417,,,5,Inverse,Knowledge,1,Yes,50,2,Yes,Analyze,ok,49,2
+Transforma Uruguay,RAFE,Directed,418,,,5,Inverse,Project development,1,No,50,2,Yes,Analyze,ok,49,5
+Unidad Mypes,RAFE,Directed,419,,,5,Inverse,Knowledge,1,Yes,50,2,Yes,Analyze,ok,49,6
+CIE-ORT,RAFE,Directed,420,,,5,Inverse,Knowledge,1,Yes,50,2,Yes,Analyze,ok,49,7
+Oficina de Planeamiento y Presupuesto,CETP-UTU,Directed,421,,,5,Inverse,Project development,3,Yes,30000,8,Yes,Analyze,ok,59,5
+Pro Empresa,CONEXO Cowork,Directed,422,,,5,Inverse,Knowledge,1,Yes,50,2,Yes,Analyze,ok,62,5
+FOCO Comunicacion Visual,CONEXO Cowork,Directed,423,,,5,Inverse,In-kind resources,1,Yes,300,2,Yes,Analyze,ok,62,10
+ANII,ANDE,Directed,424,,,5,Inverse,Money,1,Yes,550000,5,Yes,Analyze,ok,71,1
+ANDE,ANII,Directed,425,,,5,Inverse,Knowledge,10,Yes,550000,8,Yes,Analyze,ok,N09,2
+INGENIO,ANII,Directed,426,,,5,Inverse,Money,10,Yes,550000,5,Yes,Analyze,ok,N09,5
+Rabbit,ANII,Directed,427,,,5,Inverse,Money,10,Yes,550000,5,Yes,Analyze,ok,N09,6
+ThalesLab,ANII,Directed,428,,,5,Inverse,Money,10,Yes,550000,5,Yes,Analyze,ok,N09,7
+GEPIAN,ANII,Directed,429,,,5,Inverse,Money,10,Yes,550000,5,Yes,Analyze,ok,N09,8
+CBII,ANII,Directed,430,,,5,Inverse,Money,10,Yes,550000,5,Yes,Analyze,ok,N09,9
+Incubadora Khem- IPTP,ANII,Directed,431,,,5,Inverse,Money,10,Yes,550000,5,Yes,Analyze,ok,N09,10
+Fundación da Vinci América Latina,ANII,Directed,432,,,5,Inverse,Money,10,Yes,30000,5,Yes,Analyze,ok,N09,11
+ThalesLab,ANDE,Directed,433,,,5,Third party,Project development,5,Yes,50,2,Yes,Analyze,ok,27,2
+CISUR,IPTP,Directed,434,,,5,Third party,Project development,20,No,30000,2,Yes,Analyze,ok,29,6
+CUTI,Pyxis,Directed,435,,,3,Inverse,Knowledge,NA,NA,NA,NA,NA,Analyze,ok,17,1
+LATU Latitud,ANDE,Directed,436,,,1,,Connector,,,,,,Include,ok,16,2
+LATU,LATU Latitud,Directed,437,,,1,,Connector,,,,,,Include,ok,16,9
+LATU,INGENIO,Directed,438,,,1,,Connector,,,,,,Include,ok,16,9
+CUDECOOP,Incubacoop,Directed,439,,,1,,Connector,,,,,,Include,ok,20,7
+MIEM-Dinapyme,DGT,Directed,440,,,1,,Connector,,,,,,Include,ok,23,6
+MIEM-Dinapyme,ADEF,Directed,441,,,1,,Connector,,,,,,Include,ok,23,6
+MIEM-Dinapyme,DGT,Directed,442,,,1,,Connector,,,,,,Include,ok,23,10
+MIEM-Dinapyme,ANMYPE,Directed,443,,,1,,Connector,,,,,,Include,ok,23,10
+ANII,ThalesLab,Directed,444,,,1,,Connector,,,,,,Include,ok,27,2
+ANII,ANDE,Directed,445,,,1,,Connector,,,,,,Include,ok,27,2
+ANII,ThalesLab,Directed,446,,,1,,Connector,,,,,,Include,ok,27,9
+ANII,Endeavor,Directed,447,,,1,,Connector,,,,,,Include,ok,27,9
+PCTP,CISUR,Directed,448,,,1,,Connector,,,,,,Include,ok,29,6
+PCTP,IPTP,Directed,449,,,1,,Connector,,,,,,Include,ok,29,6
+PCTP,CISUR,Directed,450,,,1,,Connector,,,,,,Include,ok,29,8
+PCTP,Incubadora Khem- IPTP,Directed,451,,,1,,Connector,,,,,,Include,ok,29,8
+CSIC UDELAR,UDEPI UDELAR,Directed,452,,,1,,Connector,,,,,,Include,ok,33,7
+CSIC UDELAR,Centro de Extensionismo Industrial,Directed,453,,,1,,Connector,,,,,,Include,ok,33,7
+UDELAR,CSIC UDELAR,Directed,454,,,1,,Connector,,,,,,Include,ok,34,11
+UDELAR,UDEPI UDELAR,Directed,455,,,1,,Connector,,,,,,Include,ok,34,11
+ICT4V,Quanam,Directed,456,,,1,,Connector,,,,,,Include,ok,37,4
+ICT4V,Facultad Ingeniería UDELAR,Directed,457,,,1,,Connector,,,,,,Include,ok,37,4
+ICT4V,Quanam,Directed,458,,,1,,Connector,,,,,,Include,ok,37,5
+ICT4V,Universidad ORT Uruguay,Directed,459,,,1,,Connector,,,,,,Include,ok,37,5
+ICT4V,Quanam,Directed,460,,,1,,Connector,,,,,,Include,ok,37,6
+ICT4V,INIA,Directed,461,,,1,,Connector,,,,,,Include,ok,37,6
+ICT4V,Quanam,Directed,462,,,1,,Connector,,,,,,Include,ok,37,7
+ICT4V,UCU,Directed,463,,,1,,Connector,,,,,,Include,ok,37,7
+Fundación Ricaldoni,OPH,Directed,464,,,1,,Connector,,,,,,Include,ok,41,11
+Fundación Ricaldoni,CTPLAS,Directed,465,,,1,,Connector,,,,,,Include,ok,41,11
+Fundación da Vinci América Latina,Co-Work LatAm,Directed,466,,,1,,Connector,,,,,,Include,ok,42,9
+Fundación da Vinci América Latina,Incubadora Khem- IPTP,Directed,467,,,1,,Connector,,,,,,Include,ok,42,9
+INACAL,ANMYPE,Directed,468,,,1,,Connector,,,,,,Include,ok,43,9
+INACAL,CLUSTERPACK,Directed,469,,,1,,Connector,,,,,,Include,ok,43,9
+MIEM-Dinapyme,ANMYPE,Directed,470,,,1,,Connector,,,,,,Include,ok,43,10
+MIEM-Dinapyme,Confederación Empresarial,Directed,471,,,1,,Connector,,,,,,Include,ok,43,10
+XENIORS,CETP-UTU,Directed,472,,,1,,Connector,,,,,,Include,ok,59,2
+XENIORS,CNCS,Directed,473,,,1,,Connector,,,,,,Include,ok,59,2
+INEFOP,Impulsa Industria,Directed,474,,,1,,Connector,,,,,,Include,ok,60,4
+INEFOP,CETP-UTU,Directed,475,,,1,,Connector,,,,,,Include,ok,60,4
+NahualUY,Proyecto Kanban,Directed,476,,,1,,Connector,,,,,,Include,ok,N08,4
+NahualUY,Comunidad Wordpress,Directed,477,,,1,,Connector,,,,,,Include,ok,N08,4
+ANDE,Oficina de Planeamiento y Presupuesto,Directed,478,,,5,,Establishment,,,,,,Include,ok,P32,E
+ANII,Gobierno Nacional,Directed,479,,,5,,Establishment,,,,,,Include,ok,PN09,E
+ANMYPE,RAFE,Directed,480,,,5,,Establishment,,,,,,Include,ok,P80,E
+BID,INGENIO,Directed,481,,,5,,Establishment,,,,,,Include,ok,P46,E
+CBII,ANII,Directed,482,,,5,,Establishment,,,,,,Include,ok,P18,E
+CEDU,CUTI,Directed,483,,,5,,Establishment,,,,,,Include,ok,PN06,E
+CETP-UTU,ANDE,Directed,484,,,5,,Establishment,,,,,,Include,ok,P60,E
+CIE-ORT,Universidad ORT Uruguay,Directed,485,,,5,,Establishment,,,,,,Include,ok,P16,E
+CIU,RAFE,Directed,486,,,5,,Establishment,,,,,,Include,ok,P38,E
+CNCS,MIEM-Dinapyme,Directed,487,,,5,,Establishment,,,,,,Include,ok,P17,E
+CONEXO Cowork,Portal Uruguay Emprendedor,Directed,488,,,5,,Establishment,,,,,,Include,ok,P43,E
+Co-Work LatAm,AJE,Directed,489,,,5,,Establishment,,,,,,Include,ok,P23,E
+CSIC UDELAR,UDELAR,Directed,490,,,5,,Establishment,,,,,,Include,ok,P40,E
+El Abrojo,ANDE,Directed,491,,,5,,Establishment,,,,,,Include,ok,P63,E
+El País,ANDE,Directed,492,,,5,,Establishment,,,,,,Include,ok,P51,E
+Empretec,Brou,Directed,493,,,5,,Establishment,,,,,,Include,ok,P77,E
+Endeavor,BID,Directed,494,,,5,,Establishment,,,,,,Include,ok,P85,E
+Fundación da Vinci América Latina,ANII,Directed,495,,,5,,Establishment,,,,,,Include,ok,PN03,E
+Fundación Ricaldoni,FOMIN,Directed,496,,,5,,Establishment,,,,,,Include,ok,P27,E
+FUNDASOL,RAFE,Directed,497,,,5,,Establishment,,,,,,Include,ok,P69,E
+Impulsa Industria,INEFOP,Directed,498,,,5,,Establishment,,,,,,Include,ok,P35,E
+Incubacoop,CUDECOOP,Directed,499,,,5,,Establishment,,,,,,Include,ok,P21,E
+Incubadora Khem- IPTP,FQ UDELAR,Directed,500,,,5,,Establishment,,,,,,Include,ok,P78,E
+INGENIO,BID,Directed,501,,,5,,Establishment,,,,,,Include,ok,P81,E
+INIA,Cámara de Representantes,Directed,502,,,5,,Establishment,,,,,,Include,ok,P71,E
+LATU,ANII,Directed,503,,,5,,Establishment,,,,,,Include,ok,P68,E
+LATU Latitud,LATU,Directed,504,,,5,,Establishment,,,,,,Include,ok,P44,E
+MIEM-DNPI,MIEM-Dinapyme,Directed,505,,,5,,Establishment,,,,,,Include,ok,P36,E
+OPH,Fundación Ricaldoni,Directed,506,,,5,,Establishment,,,,,,Include,ok,P84,E
+PEDECIBA,UDELAR,Directed,507,,,5,,Establishment,,,,,,Include,ok,P61,E
+Proyecto Kanban,NahualUY,Directed,508,,,5,,Establishment,,,,,,Include,ok,PN08,E
+Quanam,ANII,Directed,509,,,5,,Establishment,,,,,,Include,ok,P24,E
+Rabbit,ANII,Directed,510,,,5,,Establishment,,,,,,Include,ok,P67,E
+Sistema B,BID,Directed,511,,,5,,Establishment,,,,,,Include,ok,P53,E
+SNCYT,Transforma Uruguay,Directed,512,,,5,,Establishment,,,,,,Include,ok,P59,E
+Socialab,BID,Directed,513,,,5,,Establishment,,,,,,Include,ok,P48,E
+ThalesLab,ANII,Directed,514,,,5,,Establishment,,,,,,Include,ok,P72,E
+UCLEH,ANDE,Directed,515,,,5,,Establishment,,,,,,Include,ok,P88,E
+UCU,Santander Universidades,Directed,516,,,5,,Establishment,,,,,,Include,ok,PN11,E
+UDE,ANDE,Directed,517,,,5,,Establishment,,,,,,Include,ok,P39,E
+UDE,ANDE,Directed,518,,,5,,Establishment,,,,,,Include,ok,P87,E
+UDEPI UDELAR,UDELAR,Directed,519,,,5,,Establishment,,,,,,Include,ok,P70,E
+Unidad Mypes,ANDE,Directed,520,,,5,,Establishment,,,,,,Include,ok,P86,E
+Uruguay XXI,Transforma Uruguay,Directed,521,,,5,,Establishment,,,,,,Include,ok,PN12,E
+UTEC,ANDE,Directed,522,,,5,,Establishment,,,,,,Include,ok,P82,E
+Xmartlabs,INGENIO,Directed,523,,,5,,Establishment,,,,,,Include,ok,P62,E
+ANII,MEF,Directed,524,,,5,,Growth,,,,,,Include,ok,PN09,C
+ANMYPE,ANDE,Directed,525,,,5,,Growth,,,,,,Include,ok,P80,C
+CBII,CIE-ORT,Directed,526,,,5,,Growth,,,,,,Include,ok,P18,C
+CETP-UTU,CIU,Directed,527,,,5,,Growth,,,,,,Include,ok,P60,C
+CIE-ORT,Universidad ORT Uruguay,Directed,528,,,5,,Growth,,,,,,Include,ok,P16,C
+CIU,ANDE,Directed,529,,,5,,Growth,,,,,,Include,ok,P38,C
+Co-Work LatAm,Fundación da Vinci América Latina,Directed,530,,,5,,Growth,,,,,,Include,ok,P23,C
+CSIC UDELAR,UDELAR,Directed,531,,,5,,Growth,,,,,,Include,ok,P40,C
+El Abrojo,RAFE,Directed,532,,,5,,Growth,,,,,,Include,ok,P63,C
+El País,ANDE,Directed,533,,,5,,Growth,,,,,,Include,ok,P51,C
+Empretec,ANDE,Directed,534,,,5,,Growth,,,,,,Include,ok,P77,C
+Endeavor,ANII,Directed,535,,,5,,Growth,,,,,,Include,ok,P85,C
+Fundación da Vinci América Latina,ANDE,Directed,536,,,5,,Growth,,,,,,Include,ok,PN03,C
+Fundación Ricaldoni,Facultad Ingeniería UDELAR,Directed,537,,,5,,Growth,,,,,,Include,ok,P27,C
+FUNDASOL,ANDE,Directed,538,,,5,,Growth,,,,,,Include,ok,P69,C
+Impulsa Industria,INEFOP,Directed,539,,,5,,Growth,,,,,,Include,ok,P35,C
+Incubacoop,CUDECOOP,Directed,540,,,5,,Growth,,,,,,Include,ok,P21,C
+Incubadora Khem- IPTP,ANII,Directed,541,,,5,,Growth,,,,,,Include,ok,P78,C
+INGENIO,LATU,Directed,542,,,5,,Growth,,,,,,Include,ok,P81,C
+INIA,ANII,Directed,543,,,5,,Growth,,,,,,Include,ok,P71,C
+LATU Latitud,ANII,Directed,544,,,5,,Growth,,,,,,Include,ok,P44,C
+MIEM-DNPI,MIEM-Dinapyme,Directed,545,,,5,,Growth,,,,,,Include,ok,P36,C
+OPH,PCTP,Directed,546,,,5,,Growth,,,,,,Include,ok,P84,C
+PEDECIBA,Uruguay XXI,Directed,547,,,5,,Growth,,,,,,Include,ok,P61,C
+Proyecto Kanban,NahualUY,Directed,548,,,5,,Growth,,,,,,Include,ok,PN08,C
+Pyxis,ANII,Directed,549,,,5,,Growth,,,,,,Include,ok,P73,C
+SNCYT,Transforma Uruguay,Directed,550,,,5,,Growth,,,,,,Include,ok,P59,C
+ThalesLab,BID,Directed,551,,,5,,Growth,,,,,,Include,ok,P72,C
+UCU,ANDE,Directed,552,,,5,,Growth,,,,,,Include,ok,PN11,C
+UDE,UPV,Directed,553,,,5,,Growth,,,,,,Include,ok,P39,C
+UDE,ANDE,Directed,554,,,5,,Growth,,,,,,Include,ok,P87,C
+UDEPI UDELAR,UDELAR,Directed,555,,,5,,Growth,,,,,,Include,ok,P70,C
+Unidad Mypes,ANDE,Directed,556,,,5,,Growth,,,,,,Include,ok,P86,C
+Uruguay XXI,ANDE,Directed,557,,,5,,Growth,,,,,,Include,ok,PN12,C
+UTEC,ANDE,Directed,558,,,5,,Growth,,,,,,Include,ok,P82,C
+Xmartlabs,UDELAR,Directed,559,,,5,,Growth,,,,,,Include,ok,P62,C
+UTEC,SINERGIA,Directed,560,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,14,12
+UTEC,CETP-UTU,Directed,561,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,14,13
+UTEC,CUTI,Directed,562,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,14,14
+UTEC,INEFOP,Directed,563,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,14,15
+UTEC,Impulsa Industria,Directed,564,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,14,16
+UTEC,LATU,Directed,565,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,14,17
+UTEC,INGENIO,Directed,566,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,14,18
+UTEC,Initium,Directed,567,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,14,20
+UTEC,Centro IthaKa,Directed,568,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,14,21
+UTEC,MIT,Directed,569,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,14,22
+UTEC,Incubacoop,Directed,570,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,14,23
+UTEC,Erasmus,Directed,571,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,14,24
+UTEC,Fundación BROU,Directed,572,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,14,25
+Initium,Facultad de Ciencias UDELAR,Directed,573,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,15,6
+Initium,INGENIO,Directed,574,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,15,7
+Initium,Fundación Ricaldoni,Directed,575,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,15,8
+Initium,Fundación da Vinci América Latina,Directed,576,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,15,9
+Initium,Uruguay XXI,Directed,577,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,15,10
+Initium,RAFE,Directed,578,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,15,11
+Initium,MIEM,Directed,579,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,15,12
+Initium,SINERGIA,Directed,580,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,15,13
+Initium,Socialab,Directed,581,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,15,14
+Initium,MEC,Directed,582,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,15,15
+Initium,UEU,Directed,583,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,15,16
+Initium,CIU,Directed,584,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,15,17
+Initium,UCLEH,Directed,585,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,15,18
+Initium,Santander,Directed,586,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,15,19
+Initium,Stanford d.school,Directed,587,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,15,20
+Initium,JWEL MIT,Directed,588,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,15,21
+LATU Latitud,CTAgua,Directed,589,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,16,17
+LATU Latitud,FQ UDELAR,Directed,590,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,16,19
+LATU Latitud,Facultad Ingeniería UDELAR,Directed,591,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,16,20
+LATU Latitud,Facultad de Ciencias UDELAR,Directed,592,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,16,21
+LATU Latitud,FAGRO UDELAR,Directed,593,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,16,22
+LATU Latitud,UTEC,Directed,594,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,16,23
+LATU Latitud,INIA,Directed,595,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,16,24
+Pyxis,ANII,Directed,596,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,17,3
+Pyxis,BID,Directed,597,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,17,4
+Pyxis,Socialab,Directed,598,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,17,5
+Pyxis,Facultad Ingeniería UDELAR,Directed,599,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,17,6
+Pyxis,Universidad ORT Uruguay,Directed,600,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,17,7
+Pyxis,MIEM,Directed,601,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,17,8
+Pyxis,NahualUY,Directed,602,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,17,9
+Pyxis,Devops Day,Directed,603,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,17,10
+CIE-ORT,Endeavor,Directed,604,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,19,12
+CIE-ORT,AJE,Directed,605,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,19,14
+CIE-ORT,CUTI,Directed,606,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,19,15
+CIE-ORT,CNCS,Directed,607,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,19,16
+CIE-ORT,RAFE,Directed,608,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,19,19
+CIE-ORT,El País,Directed,609,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,19,20
+CIE-ORT,El Observador,Directed,610,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,19,21
+CIE-ORT,YouHub,Directed,611,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,19,22
+CIE-ORT,WTC,Directed,612,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,19,23
+CIE-ORT,GUYER,Directed,613,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,19,24
+CIE-ORT,Santander,Directed,614,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,19,25
+DGT,Uruguay XXI,Directed,615,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,23,12
+DGT,UEU,Directed,616,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,23,13
+DGT,PEDECIBA,Directed,617,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,23,14
+DGT,IPMont,Directed,618,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,23,15
+LATU,Endeavor,Directed,619,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,24,2
+LATU,CIU,Directed,620,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,24,3
+LATU,MIEM,Directed,621,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,24,4
+LATU,500 Startups,Directed,622,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,24,5
+LATU,CAF,Directed,623,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,24,6
+LATU,Fundación Ricaldoni,Directed,624,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,24,7
+LATU,CBII,Directed,625,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,24,8
+LATU,PCTP,Directed,626,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,24,9
+LATU,INIA,Directed,627,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,24,11
+LATU,CUTI,Directed,628,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,24,12
+LATU,Uruguay XXI,Directed,629,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,24,13
+LATU,ICT4V,Directed,630,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,24,14
+LATU,Centro de Extensionismo Industrial,Directed,631,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,24,15
+LATU,Transforma Uruguay,Directed,632,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,24,16
+LATU,INACOOP,Directed,633,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,24,17
+LATU,IPMont,Directed,634,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,24,18
+LATU,Antel,Directed,635,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,24,19
+ANII,Centro IthaKa,Directed,636,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,25,7
+Antel,UDELAR,Directed,637,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,31,16
+Empretec,Intendencia de Flores,Directed,638,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,32,12
+Empretec,CETP-UTU,Directed,639,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,32,14
+Empretec,Intendencia de San José,Directed,640,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,32,15
+Empretec,Cámara Inmobiliaria,Directed,641,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,32,17
+Empretec,Unidad Mypes,Directed,642,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,32,18
+Empretec,INEFOP,Directed,643,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,32,19
+Empretec,FES,Directed,644,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,32,21
+Empretec,Intendencia de Canelones,Directed,645,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,32,22
+Empretec,InnoVal,Directed,646,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,32,23
+UDEPI UDELAR,ANEP,Directed,647,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,33,12
+UDEPI UDELAR,CODICEN,Directed,648,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,33,13
+UDEPI UDELAR,Fundación Ricaldoni,Directed,649,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,33,15
+AJE,Co-Work LatAm,Directed,650,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,39,13
+AJE,Universidad ORT Uruguay,Directed,651,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,39,14
+ANII,CIE-ORT,Directed,652,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,40,2
+ANII,Fundación Ricaldoni,Directed,653,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,40,5
+ANII,SINERGIA,Directed,654,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,40,7
+ANII,Socialab,Directed,655,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,40,8
+ANII,Piso 40,Directed,656,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,40,9
+ANII,FCEA UDELAR,Directed,657,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,40,13
+ANII,FQ UDELAR,Directed,658,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,40,14
+ANMYPE,IILA,Directed,659,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,43,12
+RAFE,Rabbit,Directed,660,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,49,12
+RAFE,Initium,Directed,661,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,49,13
+RAFE,CUTI,Directed,662,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,49,14
+RAFE,Incubadora Khem- IPTP,Directed,663,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,49,15
+RAFE,UTEC,Directed,664,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,49,16
+RAFE,CETP-UTU,Directed,665,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,49,17
+RAFE,CONEXO Cowork,Directed,666,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,49,18
+RAFE,ThalesLab,Directed,667,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,49,19
+RAFE,FCEA UDELAR,Directed,668,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,49,20
+RAFE,El País,Directed,669,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,49,21
+RAFE,El Observador,Directed,670,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,49,22
+Xmartlabs,Universidad ORT Uruguay,Directed,671,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,52,12
+Xmartlabs,UEU,Directed,672,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,52,13
+Xmartlabs,Mobile Day,Directed,673,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,52,15
+Xmartlabs,Swift Montevideo,Directed,674,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,52,16
+Fundación Ricaldoni,Incubadora Khem- IPTP,Directed,675,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,54,2
+Fundación Ricaldoni,ANDE,Directed,676,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,54,3
+Fundación Ricaldoni,ANII,Directed,677,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,54,4
+Fundación Ricaldoni,Fundación da Vinci América Latina,Directed,678,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,54,5
+Fundación Ricaldoni,UDELAR,Directed,679,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,54,6
+Fundación Ricaldoni,BID,Directed,680,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,54,7
+Fundación Ricaldoni,CIU,Directed,681,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,54,8
+Fundación Ricaldoni,Universidad ORT Uruguay,Directed,682,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,54,9
+Fundación Ricaldoni,UM,Directed,683,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,54,10
+Fundación Ricaldoni,UCU,Directed,684,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,54,11
+Fundación Ricaldoni,CETP-UTU,Directed,685,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,54,12
+Fundación Ricaldoni,MEC,Directed,686,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,54,13
+Fundación Ricaldoni,AGESIC,Directed,687,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,54,14
+Fundación Ricaldoni,MIEM,Directed,688,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,54,15
+Incubadora Khem- IPTP,Fundación Ricaldoni,Directed,689,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,57,8
+Incubadora Khem- IPTP,Fundación da Vinci América Latina,Directed,690,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,57,9
+Incubadora Khem- IPTP,UM,Directed,691,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,57,10
+Incubadora Khem- IPTP,INGENIO,Directed,692,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,57,11
+CETP-UTU,ICCA,Directed,693,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,59,12
+CETP-UTU,CIU,Directed,694,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,59,13
+CETP-UTU,CIE-ORT,Directed,695,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,59,14
+CETP-UTU,Unidad Mypes,Directed,696,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,59,15
+CETP-UTU,Intendencia de San José,Directed,697,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,59,16
+CETP-UTU,AGESIC,Directed,698,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,59,18
+Impulsa Industria,TNU,Directed,699,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,60,14
+Impulsa Industria,Radio Uruguay,Directed,700,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,60,15
+Impulsa Industria,Radio Sarandí,Directed,701,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,60,16
+Impulsa Industria,Crónicas Económicas,Directed,702,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,60,17
+Impulsa Industria,CCI Salto,Directed,703,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,60,18
+Unidad Mypes,Incubadora Khem- IPTP,Directed,704,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,64,12
+Unidad Mypes,ANMYPE,Directed,705,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,64,13
+UDE,500 Startups,Directed,706,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,68,13
+UDE,Antel,Directed,707,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,68,15
+UDE,UTEC,Directed,708,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,68,16
+ANDE,Incubadora Khem- IPTP,Directed,709,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,71,12
+ANDE,XENIORS,Directed,710,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,71,14
+ANDE,CIU,Directed,711,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,71,15
+ANDE,El Observador,Directed,712,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,71,16
+ANDE,El País,Directed,713,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,71,17
+ANDE,MIEM,Directed,714,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,71,18
+ANDE,OMEU,Directed,715,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,71,19
+ANDE,UDELAR,Directed,716,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,71,20
+ANDE,ADP,Directed,717,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,71,21
+ANDE,DESEM,Directed,718,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,71,22
+ANDE,ANMYPE,Directed,719,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,71,25
+Fundación da Vinci América Latina,Co-Work LatAm,Directed,720,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N03,13
+Fundación da Vinci América Latina,El Empresario,Directed,721,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N03,14
+Fundación da Vinci América Latina,El Observador,Directed,722,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N03,15
+Fundación da Vinci América Latina,UCU Business School,Directed,723,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N03,16
+Fundación da Vinci América Latina,Incubadora Khem- IPTP,Directed,724,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N03,18
+Fundación da Vinci América Latina,Uruguay XXI,Directed,725,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N03,19
+Fundación da Vinci América Latina,RAFE,Directed,726,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N03,20
+Fundación da Vinci América Latina,Portal Uruguay Emprendedor,Directed,727,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N03,21
+Fundación da Vinci América Latina,MIEM,Directed,728,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N03,22
+Fundación da Vinci América Latina,INIA,Directed,729,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N03,23
+Fundación da Vinci América Latina,Espacio Serratosa,Directed,730,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N03,25
+CEDU,CUTI,Directed,731,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N06,1
+CEDU,CNCS,Directed,732,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N06,2
+CEDU,BID,Directed,733,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N06,3
+CEDU,CUAM,Directed,734,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N06,4
+CEDU,CDU,Directed,735,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N06,5
+UCU,ANII,Directed,736,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N11,3
+UCU,Universidad ORT Uruguay,Directed,737,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N11,4
+UCU,Initium,Directed,738,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N11,5
+UCU,Socialab,Directed,739,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N11,6
+UCU,IDTT,Directed,740,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N11,7
+UCU,AD Cerro Largo,Directed,741,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N11,8
+Uruguay XXI,ANDE,Directed,742,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N12,1
+Uruguay XXI,Transforma Uruguay,Directed,743,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N12,2
+Uruguay XXI,MIEM-Dinapyme,Directed,744,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N12,3
+Uruguay XXI,ANII,Directed,745,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N12,4
+Uruguay XXI,INEFOP,Directed,746,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N12,5
+Uruguay XXI,Endeavor,Directed,747,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N12,6
+Uruguay XXI,CUTI,Directed,748,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N12,7
+Uruguay XXI,CIU,Directed,749,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N12,8
+Uruguay XXI,UEU,Directed,750,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N12,9
+Uruguay XXI,MIEM,Directed,751,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N12,10
+Uruguay XXI,BID,Directed,752,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N12,11
+Uruguay XXI,UTEC,Directed,753,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N12,12
+Uruguay XXI,FCEA UDELAR,Directed,754,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N12,13
+Uruguay XXI,Facultad Ingeniería UDELAR,Directed,755,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N12,14
+Uruguay XXI,UCU,Directed,756,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N12,15
+Uruguay XXI,CIE-ORT,Directed,757,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N12,16
+Uruguay XXI,Socialab,Directed,758,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N12,17
+Uruguay XXI,INGENIO,Directed,759,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N12,18
+Uruguay XXI,ThalesLab,Directed,760,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N12,19
+Uruguay XXI,SINERGIA,Directed,761,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N12,20
+Uruguay XXI,ICT4V,Directed,762,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N12,21
+Uruguay XXI,INIA,Directed,763,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N12,22
+Uruguay XXI,Oficina de Planeamiento y Presupuesto,Directed,764,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N12,23
+Uruguay XXI,CDU,Directed,765,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N12,24
+Uruguay XXI,CEDU,Directed,766,,,3,NA,NA,NA,NA,NA,NA,NA,No data,ok,N12,25

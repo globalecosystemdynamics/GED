@@ -1,0 +1,998 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="Weight" attr.type="long"/>
+<key id="d1" for="node" attr.name="weight" attr.type="float"/>
+<key id="d0" for="node" attr.name="rol" attr.type="string"/>
+<graph edgedefault="directed"><node id="Trebol Capital">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="AB MKT">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Revista Lider Empresarial">
+  <data key="d0">Promotor</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="SEDEC">
+  <data key="d0">Articulador</data>
+  <data key="d1">17.8</data>
+</node>
+<node id="The Inventor's House">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="AEM">
+  <data key="d0">Articulador</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="INADI">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="ASOCEA">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="TEDxBarriodelaEstación">
+  <data key="d0">Promotor</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="CANACO AGS">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="CANIETI">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CCEA">
+  <data key="d0">Vinculador</data>
+  <data key="d1">7.4</data>
+</node>
+<node id="CIEA">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.6</data>
+</node>
+<node id="DESEM">
+  <data key="d0">Habilitador</data>
+  <data key="d1">3.8</data>
+</node>
+<node id="Maker Center">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="CECOI">
+  <data key="d0">Articulador</data>
+  <data key="d1">5.6</data>
+</node>
+<node id="UNID Ags">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CIATEQ">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="INIFAP">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CICESE">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Nodo Ags RGMX">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="CIDE">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="INNOVATIA">
+  <data key="d0">Vinculador</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="CRECE">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="CMIC">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="COFUPRO">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="CONACYT">
+  <data key="d0">Articulador</data>
+  <data key="d1">3.0</data>
+</node>
+<node id="Spark UP Ags">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="CONALEP">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="COPARMEX">
+  <data key="d0">Vinculador</data>
+  <data key="d1">4.6</data>
+</node>
+<node id="Humant">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="ITA">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="COVESA">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="UAA">
+  <data key="d0">Habilitador</data>
+  <data key="d1">3.8</data>
+</node>
+<node id="Difusión y Vinculación UAA">
+  <data key="d0">Promotor</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="ENDEAVOR">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.8</data>
+</node>
+<node id="Incubadora ITESM Ags">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="Evolutivos Consultores">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="FUN">
+  <data key="d0">Comunidad</data>
+  <data key="d1">2.4</data>
+</node>
+<node id="Global Shapers">
+  <data key="d0">Comunidad</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Gob. AGS">
+  <data key="d0">Articulador</data>
+  <data key="d1">4.2</data>
+</node>
+<node id="Gob. Sinaloa">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Gob. AGS (Municipal)">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Centro Fox">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="SIFIA">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="Novaera">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="IDSCEA">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="IEA">
+  <data key="d0">Habilitador</data>
+  <data key="d1">3.0</data>
+</node>
+<node id="IIFE">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="IME">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="INADEM">
+  <data key="d0">Articulador</data>
+  <data key="d1">7.8</data>
+</node>
+<node id="Enlace+">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Makers 02X">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Incubadora UAA">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="INFOTEC">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">2.4</data>
+</node>
+<node id="SAGARPA">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.6</data>
+</node>
+<node id="SRE">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="UAA (AI)">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">5.0</data>
+</node>
+<node id="UTNA (AI)">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="ITPabellón">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="IEEGL">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="ITESM Ags">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="ITESM Ags (AI)">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Kinesis MKT">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="LJA">
+  <data key="d0">Promotor</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="UP Ags">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.4</data>
+</node>
+<node id="Makers Aguascalientes">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="MoveMakers">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="NAFIN">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="RGMX">
+  <data key="d0">Vinculador</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="Capítulo Beijing RGMX">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="Nodo Mexicali RGMX">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="OpenIDEO Ags">
+  <data key="d0">Comunidad</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Gob. El Llano">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="PRONAFIM">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Radio BI">
+  <data key="d0">Promotor</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="SE">
+  <data key="d0">Articulador</data>
+  <data key="d1">3.0</data>
+</node>
+<node id="COFEMER">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="CIMAT">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="PROMEXICO">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="GIA">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="SEDECO">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="SEDRAE">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="SETUM Ags">
+  <data key="d0">Articulador</data>
+  <data key="d1">4.2</data>
+</node>
+<node id="Aldea Networking">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="ARIAAC">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="CANACINTRA">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="GEJA">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Startcups">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="SUM">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Termápolis Noticias">
+  <data key="d0">Promotor</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Toastmasters Ags">
+  <data key="d0">Comunidad</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Unreasonable Mexico">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.6</data>
+</node>
+<node id="UCA">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="UPA">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="UTC">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<edge source="Trebol Capital" target="AB MKT">
+  <data key="d2">3</data>
+</edge>
+<edge source="Trebol Capital" target="COPARMEX">
+  <data key="d2">2</data>
+</edge>
+<edge source="Trebol Capital" target="Global Shapers">
+  <data key="d2">3</data>
+</edge>
+<edge source="Trebol Capital" target="Humant">
+  <data key="d2">5</data>
+</edge>
+<edge source="Trebol Capital" target="INADEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="Trebol Capital" target="SEDEC">
+  <data key="d2">5</data>
+</edge>
+<edge source="Trebol Capital" target="Spark UP Ags">
+  <data key="d2">1</data>
+</edge>
+<edge source="Trebol Capital" target="Startcups">
+  <data key="d2">2</data>
+</edge>
+<edge source="Trebol Capital" target="UP Ags">
+  <data key="d2">3</data>
+</edge>
+<edge source="AB MKT" target="COPARMEX">
+  <data key="d2">2</data>
+</edge>
+<edge source="AB MKT" target="ENDEAVOR">
+  <data key="d2">5</data>
+</edge>
+<edge source="AB MKT" target="FUN">
+  <data key="d2">3</data>
+</edge>
+<edge source="AB MKT" target="SEDEC">
+  <data key="d2">5</data>
+</edge>
+<edge source="AB MKT" target="UAA">
+  <data key="d2">5</data>
+</edge>
+<edge source="AB MKT" target="UAA (AI)">
+  <data key="d2">3</data>
+</edge>
+<edge source="Revista Lider Empresarial" target="AB MKT">
+  <data key="d2">2</data>
+</edge>
+<edge source="Revista Lider Empresarial" target="Humant">
+  <data key="d2">4</data>
+</edge>
+<edge source="SEDEC" target="AB MKT">
+  <data key="d2">1</data>
+</edge>
+<edge source="SEDEC" target="CONALEP">
+  <data key="d2">4</data>
+</edge>
+<edge source="SEDEC" target="Humant">
+  <data key="d2">5</data>
+</edge>
+<edge source="SEDEC" target="INADEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="SEDEC" target="INFOTEC">
+  <data key="d2">3</data>
+</edge>
+<edge source="SEDEC" target="NAFIN">
+  <data key="d2">2</data>
+</edge>
+<edge source="SEDEC" target="SE">
+  <data key="d2">5</data>
+</edge>
+<edge source="SEDEC" target="SEDECO">
+  <data key="d2">3</data>
+</edge>
+<edge source="SEDEC" target="The Inventor's House">
+  <data key="d2">3</data>
+</edge>
+<edge source="SEDEC" target="Trebol Capital">
+  <data key="d2">1</data>
+</edge>
+<edge source="The Inventor's House" target="AEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="The Inventor's House" target="CECOI">
+  <data key="d2">4</data>
+</edge>
+<edge source="The Inventor's House" target="IDSCEA">
+  <data key="d2">3</data>
+</edge>
+<edge source="The Inventor's House" target="Incubadora UAA">
+  <data key="d2">3</data>
+</edge>
+<edge source="The Inventor's House" target="SEDEC">
+  <data key="d2">5</data>
+</edge>
+<edge source="AEM" target="CANIETI">
+  <data key="d2">5</data>
+</edge>
+<edge source="INADI" target="ASOCEA">
+  <data key="d2">5</data>
+</edge>
+<edge source="INADI" target="CCEA">
+  <data key="d2">4</data>
+</edge>
+<edge source="INADI" target="CONACYT">
+  <data key="d2">2</data>
+</edge>
+<edge source="INADI" target="DESEM">
+  <data key="d2">3</data>
+</edge>
+<edge source="INADI" target="ENDEAVOR">
+  <data key="d2">1</data>
+</edge>
+<edge source="INADI" target="Gob. AGS">
+  <data key="d2">2</data>
+</edge>
+<edge source="INADI" target="Gob. Sinaloa">
+  <data key="d2">3</data>
+</edge>
+<edge source="TEDxBarriodelaEstación" target="CANACO AGS">
+  <data key="d2">1</data>
+</edge>
+<edge source="TEDxBarriodelaEstación" target="CIDE">
+  <data key="d2">1</data>
+</edge>
+<edge source="TEDxBarriodelaEstación" target="CONACYT">
+  <data key="d2">1</data>
+</edge>
+<edge source="TEDxBarriodelaEstación" target="COPARMEX">
+  <data key="d2">3</data>
+</edge>
+<edge source="TEDxBarriodelaEstación" target="Evolutivos Consultores">
+  <data key="d2">5</data>
+</edge>
+<edge source="TEDxBarriodelaEstación" target="FUN">
+  <data key="d2">5</data>
+</edge>
+<edge source="TEDxBarriodelaEstación" target="Gob. AGS">
+  <data key="d2">5</data>
+</edge>
+<edge source="TEDxBarriodelaEstación" target="Humant">
+  <data key="d2">3</data>
+</edge>
+<edge source="TEDxBarriodelaEstación" target="IIFE">
+  <data key="d2">5</data>
+</edge>
+<edge source="TEDxBarriodelaEstación" target="ITESM Ags (AI)">
+  <data key="d2">1</data>
+</edge>
+<edge source="TEDxBarriodelaEstación" target="Kinesis MKT">
+  <data key="d2">5</data>
+</edge>
+<edge source="TEDxBarriodelaEstación" target="LJA">
+  <data key="d2">5</data>
+</edge>
+<edge source="TEDxBarriodelaEstación" target="Revista Lider Empresarial">
+  <data key="d2">5</data>
+</edge>
+<edge source="TEDxBarriodelaEstación" target="SEDEC">
+  <data key="d2">1</data>
+</edge>
+<edge source="TEDxBarriodelaEstación" target="Termápolis Noticias">
+  <data key="d2">5</data>
+</edge>
+<edge source="TEDxBarriodelaEstación" target="Toastmasters Ags">
+  <data key="d2">4</data>
+</edge>
+<edge source="TEDxBarriodelaEstación" target="UAA (AI)">
+  <data key="d2">1</data>
+</edge>
+<edge source="TEDxBarriodelaEstación" target="UCA">
+  <data key="d2">3</data>
+</edge>
+<edge source="TEDxBarriodelaEstación" target="Unreasonable Mexico">
+  <data key="d2">3</data>
+</edge>
+<edge source="CANIETI" target="CCEA">
+  <data key="d2">5</data>
+</edge>
+<edge source="CANIETI" target="CECOI">
+  <data key="d2">5</data>
+</edge>
+<edge source="CANIETI" target="CIATEQ">
+  <data key="d2">5</data>
+</edge>
+<edge source="CANIETI" target="DESEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="CANIETI" target="INFOTEC">
+  <data key="d2">5</data>
+</edge>
+<edge source="CANIETI" target="ITA">
+  <data key="d2">5</data>
+</edge>
+<edge source="CANIETI" target="SEDEC">
+  <data key="d2">5</data>
+</edge>
+<edge source="CCEA" target="CRECE">
+  <data key="d2">5</data>
+</edge>
+<edge source="CCEA" target="DESEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="CCEA" target="ENDEAVOR">
+  <data key="d2">1</data>
+</edge>
+<edge source="CCEA" target="INADI">
+  <data key="d2">1</data>
+</edge>
+<edge source="CCEA" target="SEDEC">
+  <data key="d2">2</data>
+</edge>
+<edge source="CIEA" target="CCEA">
+  <data key="d2">5</data>
+</edge>
+<edge source="CIEA" target="CRECE">
+  <data key="d2">5</data>
+</edge>
+<edge source="CIEA" target="INADEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="CIEA" target="PRONAFIM">
+  <data key="d2">5</data>
+</edge>
+<edge source="CIEA" target="SEDEC">
+  <data key="d2">5</data>
+</edge>
+<edge source="DESEM" target="CCEA">
+  <data key="d2">5</data>
+</edge>
+<edge source="DESEM" target="CIATEQ">
+  <data key="d2">5</data>
+</edge>
+<edge source="DESEM" target="CMIC">
+  <data key="d2">5</data>
+</edge>
+<edge source="DESEM" target="Gob. AGS">
+  <data key="d2">5</data>
+</edge>
+<edge source="DESEM" target="Incubadora ITESM Ags">
+  <data key="d2">2</data>
+</edge>
+<edge source="DESEM" target="SEDEC">
+  <data key="d2">5</data>
+</edge>
+<edge source="DESEM" target="SEDRAE">
+  <data key="d2">5</data>
+</edge>
+<edge source="DESEM" target="Trebol Capital">
+  <data key="d2">4</data>
+</edge>
+<edge source="DESEM" target="UAA">
+  <data key="d2">5</data>
+</edge>
+<edge source="DESEM" target="UAA (AI)">
+  <data key="d2">5</data>
+</edge>
+<edge source="Maker Center" target="CECOI">
+  <data key="d2">5</data>
+</edge>
+<edge source="Maker Center" target="COPARMEX">
+  <data key="d2">1</data>
+</edge>
+<edge source="Maker Center" target="IDSCEA">
+  <data key="d2">2</data>
+</edge>
+<edge source="Maker Center" target="INNOVATIA">
+  <data key="d2">5</data>
+</edge>
+<edge source="Maker Center" target="Makers Aguascalientes">
+  <data key="d2">5</data>
+</edge>
+<edge source="Maker Center" target="Nodo Ags RGMX">
+  <data key="d2">5</data>
+</edge>
+<edge source="Maker Center" target="Novaera">
+  <data key="d2">5</data>
+</edge>
+<edge source="Maker Center" target="Radio BI">
+  <data key="d2">5</data>
+</edge>
+<edge source="Maker Center" target="SEDEC">
+  <data key="d2">2</data>
+</edge>
+<edge source="Maker Center" target="SETUM Ags">
+  <data key="d2">2</data>
+</edge>
+<edge source="Maker Center" target="SUM">
+  <data key="d2">5</data>
+</edge>
+<edge source="Maker Center" target="UAA (AI)">
+  <data key="d2">2</data>
+</edge>
+<edge source="Maker Center" target="UCA">
+  <data key="d2">2</data>
+</edge>
+<edge source="Maker Center" target="UP Ags">
+  <data key="d2">1</data>
+</edge>
+<edge source="CECOI" target="IDSCEA">
+  <data key="d2">1</data>
+</edge>
+<edge source="CECOI" target="NAFIN">
+  <data key="d2">1</data>
+</edge>
+<edge source="CECOI" target="SE">
+  <data key="d2">1</data>
+</edge>
+<edge source="CECOI" target="SEDEC">
+  <data key="d2">1</data>
+</edge>
+<edge source="CECOI" target="UAA">
+  <data key="d2">3</data>
+</edge>
+<edge source="CECOI" target="UNID Ags">
+  <data key="d2">1</data>
+</edge>
+<edge source="UNID Ags" target="CECOI">
+  <data key="d2">2</data>
+</edge>
+<edge source="UNID Ags" target="IDSCEA">
+  <data key="d2">1</data>
+</edge>
+<edge source="UNID Ags" target="IEA">
+  <data key="d2">5</data>
+</edge>
+<edge source="UNID Ags" target="NAFIN">
+  <data key="d2">2</data>
+</edge>
+<edge source="UNID Ags" target="SE">
+  <data key="d2">1</data>
+</edge>
+<edge source="UNID Ags" target="SEDEC">
+  <data key="d2">5</data>
+</edge>
+<edge source="UNID Ags" target="UAA">
+  <data key="d2">5</data>
+</edge>
+<edge source="INIFAP" target="CICESE">
+  <data key="d2">5</data>
+</edge>
+<edge source="INIFAP" target="COFUPRO">
+  <data key="d2">5</data>
+</edge>
+<edge source="INIFAP" target="CONACYT">
+  <data key="d2">3</data>
+</edge>
+<edge source="INIFAP" target="SAGARPA">
+  <data key="d2">5</data>
+</edge>
+<edge source="INIFAP" target="SRE">
+  <data key="d2">3</data>
+</edge>
+<edge source="Nodo Ags RGMX" target="CIDE">
+  <data key="d2">4</data>
+</edge>
+<edge source="Nodo Ags RGMX" target="Difusión y Vinculación UAA">
+  <data key="d2">1</data>
+</edge>
+<edge source="Nodo Ags RGMX" target="Gob. AGS (Municipal)">
+  <data key="d2">5</data>
+</edge>
+<edge source="Nodo Ags RGMX" target="IME">
+  <data key="d2">5</data>
+</edge>
+<edge source="Nodo Ags RGMX" target="INFOTEC">
+  <data key="d2">4</data>
+</edge>
+<edge source="Nodo Ags RGMX" target="INNOVATIA">
+  <data key="d2">1</data>
+</edge>
+<edge source="Nodo Ags RGMX" target="Maker Center">
+  <data key="d2">1</data>
+</edge>
+<edge source="Nodo Ags RGMX" target="Nodo Mexicali RGMX">
+  <data key="d2">3</data>
+</edge>
+<edge source="Nodo Ags RGMX" target="RGMX">
+  <data key="d2">5</data>
+</edge>
+<edge source="Nodo Ags RGMX" target="SETUM Ags">
+  <data key="d2">5</data>
+</edge>
+<edge source="Nodo Ags RGMX" target="The Inventor's House">
+  <data key="d2">1</data>
+</edge>
+<edge source="Nodo Ags RGMX" target="UAA (AI)">
+  <data key="d2">1</data>
+</edge>
+<edge source="Nodo Ags RGMX" target="UP Ags">
+  <data key="d2">4</data>
+</edge>
+<edge source="INNOVATIA" target="CIDE">
+  <data key="d2">1</data>
+</edge>
+<edge source="INNOVATIA" target="INFOTEC">
+  <data key="d2">1</data>
+</edge>
+<edge source="INNOVATIA" target="Nodo Ags RGMX">
+  <data key="d2">1</data>
+</edge>
+<edge source="CRECE" target="CIEA">
+  <data key="d2">5</data>
+</edge>
+<edge source="CRECE" target="Gob. AGS">
+  <data key="d2">5</data>
+</edge>
+<edge source="CRECE" target="IEA">
+  <data key="d2">5</data>
+</edge>
+<edge source="CRECE" target="INADEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="CRECE" target="SEDEC">
+  <data key="d2">5</data>
+</edge>
+<edge source="CRECE" target="UAA (AI)">
+  <data key="d2">5</data>
+</edge>
+<edge source="COFUPRO" target="INIFAP">
+  <data key="d2">3</data>
+</edge>
+<edge source="Spark UP Ags" target="CONACYT">
+  <data key="d2">5</data>
+</edge>
+<edge source="Spark UP Ags" target="INADEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="Spark UP Ags" target="MoveMakers">
+  <data key="d2">5</data>
+</edge>
+<edge source="Spark UP Ags" target="SEDEC">
+  <data key="d2">5</data>
+</edge>
+<edge source="Spark UP Ags" target="UPA">
+  <data key="d2">5</data>
+</edge>
+<edge source="Spark UP Ags" target="UTC">
+  <data key="d2">5</data>
+</edge>
+<edge source="COPARMEX" target="Incubadora ITESM Ags">
+  <data key="d2">4</data>
+</edge>
+<edge source="COPARMEX" target="The Inventor's House">
+  <data key="d2">3</data>
+</edge>
+<edge source="COPARMEX" target="UAA">
+  <data key="d2">3</data>
+</edge>
+<edge source="Humant" target="COPARMEX">
+  <data key="d2">5</data>
+</edge>
+<edge source="Humant" target="FUN">
+  <data key="d2">4</data>
+</edge>
+<edge source="Humant" target="ITESM Ags">
+  <data key="d2">5</data>
+</edge>
+<edge source="Humant" target="ITESM Ags (AI)">
+  <data key="d2">3</data>
+</edge>
+<edge source="Humant" target="SEDEC">
+  <data key="d2">5</data>
+</edge>
+<edge source="Humant" target="SIFIA">
+  <data key="d2">5</data>
+</edge>
+<edge source="Humant" target="Unreasonable Mexico">
+  <data key="d2">5</data>
+</edge>
+<edge source="ITA" target="COVESA">
+  <data key="d2">4</data>
+</edge>
+<edge source="ITA" target="INADEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="ITA" target="Incubadora ITESM Ags">
+  <data key="d2">4</data>
+</edge>
+<edge source="ITA" target="Gob. El Llano">
+  <data key="d2">4</data>
+</edge>
+<edge source="UAA" target="COVESA">
+  <data key="d2">1</data>
+</edge>
+<edge source="UAA" target="DESEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="UAA" target="Difusión y Vinculación UAA">
+  <data key="d2">5</data>
+</edge>
+<edge source="UAA" target="Incubadora UAA">
+  <data key="d2">4</data>
+</edge>
+<edge source="UAA" target="ITA">
+  <data key="d2">1</data>
+</edge>
+<edge source="UAA" target="OpenIDEO Ags">
+  <data key="d2">5</data>
+</edge>
+<edge source="UAA" target="SEDEC">
+  <data key="d2">5</data>
+</edge>
+<edge source="UAA" target="SETUM Ags">
+  <data key="d2">5</data>
+</edge>
+<edge source="UAA" target="UAA (AI)">
+  <data key="d2">4</data>
+</edge>
+<edge source="Incubadora ITESM Ags" target="ENDEAVOR">
+  <data key="d2">4</data>
+</edge>
+<edge source="Incubadora ITESM Ags" target="IEEGL">
+  <data key="d2">5</data>
+</edge>
+<edge source="Incubadora ITESM Ags" target="SE">
+  <data key="d2">5</data>
+</edge>
+<edge source="Centro Fox" target="Humant">
+  <data key="d2">5</data>
+</edge>
+<edge source="SIFIA" target="Humant">
+  <data key="d2">5</data>
+</edge>
+<edge source="Novaera" target="Humant">
+  <data key="d2">1</data>
+</edge>
+<edge source="Novaera" target="ITESM Ags">
+  <data key="d2">1</data>
+</edge>
+<edge source="IDSCEA" target="UAA">
+  <data key="d2">3</data>
+</edge>
+<edge source="Enlace+" target="Incubadora ITESM Ags">
+  <data key="d2">5</data>
+</edge>
+<edge source="Makers 02X" target="Incubadora ITESM Ags">
+  <data key="d2">4</data>
+</edge>
+<edge source="SAGARPA" target="INIFAP">
+  <data key="d2">4</data>
+</edge>
+<edge source="SAGARPA" target="ITA">
+  <data key="d2">1</data>
+</edge>
+<edge source="SAGARPA" target="Gob. El Llano">
+  <data key="d2">1</data>
+</edge>
+<edge source="SRE" target="INIFAP">
+  <data key="d2">4</data>
+</edge>
+<edge source="UAA (AI)" target="INIFAP">
+  <data key="d2">4</data>
+</edge>
+<edge source="UTNA (AI)" target="INIFAP">
+  <data key="d2">4</data>
+</edge>
+<edge source="ITPabellón" target="INIFAP">
+  <data key="d2">4</data>
+</edge>
+<edge source="UP Ags" target="Maker Center">
+  <data key="d2">5</data>
+</edge>
+<edge source="NAFIN" target="Spark UP Ags">
+  <data key="d2">5</data>
+</edge>
+<edge source="RGMX" target="Nodo Ags RGMX">
+  <data key="d2">1</data>
+</edge>
+<edge source="RGMX" target="Nodo Mexicali RGMX">
+  <data key="d2">1</data>
+</edge>
+<edge source="Capítulo Beijing RGMX" target="Nodo Ags RGMX">
+  <data key="d2">1</data>
+</edge>
+<edge source="Capítulo Beijing RGMX" target="RGMX">
+  <data key="d2">1</data>
+</edge>
+<edge source="COFEMER" target="SEDEC">
+  <data key="d2">5</data>
+</edge>
+<edge source="CIMAT" target="SEDEC">
+  <data key="d2">3</data>
+</edge>
+<edge source="PROMEXICO" target="SEDEC">
+  <data key="d2">2</data>
+</edge>
+<edge source="GIA" target="SEDEC">
+  <data key="d2">4</data>
+</edge>
+<edge source="GIA" target="Spark UP Ags">
+  <data key="d2">4</data>
+</edge>
+<edge source="Aldea Networking" target="Spark UP Ags">
+  <data key="d2">4</data>
+</edge>
+<edge source="ARIAAC" target="Spark UP Ags">
+  <data key="d2">5</data>
+</edge>
+<edge source="CANACINTRA" target="Spark UP Ags">
+  <data key="d2">2</data>
+</edge>
+<edge source="GEJA" target="Spark UP Ags">
+  <data key="d2">5</data>
+</edge>
+<edge source="Unreasonable Mexico" target="Trebol Capital">
+  <data key="d2">5</data>
+</edge>
+</graph></graphml>

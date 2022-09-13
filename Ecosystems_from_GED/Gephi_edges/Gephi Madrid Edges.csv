@@ -1,0 +1,454 @@
+Source,Target,Type,Id,Label,timeset,Weight,directionality,interactions required,collaboration agreement,budget allocated,hr allocated,result,validation,loop?,response id,bloque
+Spanish Startups,Madri+d,Directed,1812,,,1,Nosotros los buscamos,2,No,0,1,"Sí, la colaboración fue exitosa",Analyze,ok,T13,1
+FUAM,Ayto. Madrid,Directed,1813,,,1,Nosotros los buscamos,3,No,NA,NA,No se logró colaborar,Analyze,ok,T22,4
+CIEMAT,Fundación Gadea para la Ciencia,Directed,1814,,,1,Nosotros los buscamos,5,No,0,1,"No, la colaboración no fue exitosa",Analyze,ok,T25,10
+Transfiere,CIEMAT,Directed,1815,,,2,Ellos nos buscaron,5,Sí,10000,4,"No, la colaboración no fue exitosa",Analyze,ok,T25,18
+Imaguru,South Summit,Directed,1816,,,2,Nosotros los buscamos,1,No,780,1,"Sí, la colaboración fue exitosa",Analyze,ok,T08,9
+Transfiere,FEDIT,Directed,1817,,,3,Ellos nos buscaron,5,No,"1,000_2,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,9,6
+Amcham Spain,Endeavor,Directed,1818,,,3,Ellos nos buscaron,3,No,5000,1,"Sí, la colaboración fue exitosa",Analyze,ok,T02,10
+Santander,FUAM,Directed,1819,,,3,Ellos nos buscaron,6,Sí,100000,2,"Sí, la colaboración fue exitosa",Analyze,ok,T22,2
+UCJC,Madri+d,Directed,1820,,,3,Nosotros los buscamos,2,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,6,5
+UCJC,Startup Europe Week,Directed,1821,,,3,Nosotros los buscamos,1,No,1000,4,"Sí, la colaboración fue exitosa",Analyze,ok,T09,9
+UCJC,South Summit,Directed,1822,,,3,Nosotros los buscamos,1,No,1000,2,"Sí, la colaboración fue exitosa",Analyze,ok,T09,10
+FPCM,AMETIC,Directed,1823,,,3,Nosotros los buscamos,15,Sí,NA,NA,"Sí, la colaboración fue exitosa",Analyze,ok,T10,12
+Startupxplore,Google Campus Madrid,Directed,1824,,,3,Nosotros los buscamos,2,No,5000,1,"Sí, la colaboración fue exitosa",Analyze,ok,T21,1
+ASEBIO,FPCM,Directed,1825,,,4,Ellos nos buscaron,12,Sí,NA,NA,"Sí, la colaboración fue exitosa",Analyze,ok,T10,11
+BioMad,FPCM,Directed,1826,,,4,Ellos nos buscaron,5,No,1500,1,"Sí, la colaboración fue exitosa",Analyze,ok,T10,21
+Parque Científico UC3M,ITEMAS,Directed,1827,,,4,Nosotros los buscamos,2,Sí,"3,000_4,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N21,7
+"UFV, Centro de Emprendimiento",Conector Madrid,Directed,1828,,,4,Nosotros los buscamos,2,No,NA,2,"Sí, la colaboración fue exitosa",Analyze,ok,T04,8
+Madri+d,BAN madri+d,Directed,1829,,,4,Nosotros los buscamos,5,Sí,50000,1,"Sí, la colaboración fue exitosa",Analyze,ok,T30,10
+Santander,Fundación UAX,Directed,1830,,,5,Ellos nos buscaron,4,Sí,"100,000_999,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N08,1
+4YFN,Endeavor,Directed,1831,,,5,Ellos nos buscaron,8,No,5000,1,"Sí, la colaboración fue exitosa",Analyze,ok,T02,15
+El Diario,Makespace Madrid,Directed,1832,,,1,Ellos nos buscaron,2,No,0,1,"Sí, la colaboración fue exitosa",Analyze,ok,T07,17
+El Mundo,Makespace Madrid,Directed,1833,,,1,Ellos nos buscaron,2,No,0,1,"Sí, la colaboración fue exitosa",Analyze,ok,T07,18
+M21 Radio,Makespace Madrid,Directed,1834,,,1,Ellos nos buscaron,3,No,0,1,"Sí, la colaboración fue exitosa",Analyze,ok,T07,20
+Spanish Startups,Ágora News,Directed,1835,,,1,Nosotros los buscamos,3,No,0,1,"No, la colaboración no fue exitosa",Analyze,ok,T13,12
+Spanish Startups,El País,Directed,1836,,,1,Nosotros los buscamos,30,No,3000,5,"No, la colaboración no fue exitosa",Analyze,ok,T13,17
+Ayto. Madrid,The Cube,Directed,1837,,,2,Ellos nos buscaron,2,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N25,8
+El País,Makespace Madrid,Directed,1838,,,2,Ellos nos buscaron,3,No,0,1,"Sí, la colaboración fue exitosa",Analyze,ok,T07,19
+Open Source Weekends,Makespace Madrid,Directed,1839,,,2,Ellos nos buscaron,4,No,300,2,"Sí, la colaboración fue exitosa",Analyze,ok,T07,23
+FECYT,CIEMAT,Directed,1840,,,2,Ellos nos buscaron,5,No,30000,10,"No, la colaboración no fue exitosa",Analyze,ok,T25,17
+Endeavor,Emprendedores,Directed,1841,,,2,Nosotros los buscamos,4,No,2000,1,"Sí, la colaboración fue exitosa",Analyze,ok,T02,17
+Comunidad de Madrid,The Cube,Directed,1842,,,3,Ellos nos buscaron,3,No,"1,000_2,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N25,9
+El Referente,Startupxplore,Directed,1843,,,3,Ellos nos buscaron,2,No,500,1,"Sí, la colaboración fue exitosa",Analyze,ok,T21,17
+FEDIT,Fundación COTEC,Directed,1844,,,3,Nosotros los buscamos,10,No,"1,000_2,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,9,3
+Fábrica de Fabricantes,Treatstock,Directed,1845,,,3,Nosotros los buscamos,6,Sí,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,11,7
+UPC,ICO,Directed,1846,,,3,Nosotros los buscamos,3,No,NA,2,"Sí, la colaboración fue exitosa",Analyze,ok,T31,1
+Unlimited,UCJC,Directed,1847,,,4,Ellos nos buscaron,1,Sí,50000,10,"Sí, la colaboración fue exitosa",Analyze,ok,T09,5
+Innovaspain,FPCM,Directed,1848,,,4,Ellos nos buscaron,10,No,2500,2,"Sí, la colaboración fue exitosa",Analyze,ok,T10,19
+Madri+d,Infoespacial,Directed,1849,,,4,Nosotros los buscamos,2,No,0,2,"Sí, la colaboración fue exitosa",Analyze,ok,T06,18
+Imaguru,Spanish Startups,Directed,1850,,,4,Nosotros los buscamos,4,No,0,1,No se logró colaborar,Analyze,ok,T08,17
+Imaguru,Blockchain Media,Directed,1851,,,4,Nosotros los buscamos,4,Sí,300,1,"Sí, la colaboración fue exitosa",Analyze,ok,T08,18
+FPCM,Ibercampus,Directed,1852,,,4,Nosotros los buscamos,12,No,2500,2,"Sí, la colaboración fue exitosa",Analyze,ok,T10,20
+Innovadores by Indux,Consejería de Educación e Investigación,Directed,1853,,,5,Ellos nos buscaron,1,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,12,13
+Innovaspain,Madri+d,Directed,1854,,,5,Ellos nos buscaron,2,No,0,4,"Sí, la colaboración fue exitosa",Analyze,ok,T06,17
+South Summit,Madri+d,Directed,1855,,,5,Ellos nos buscaron,6,Sí,20000,5,"Sí, la colaboración fue exitosa",Analyze,ok,T06,19
+CEU Media,FabLab Madrid CEU,Directed,1856,,,5,Ellos nos buscaron,5,No,0,2,"Sí, la colaboración fue exitosa",Analyze,ok,T24,17
+Madri+d,Notiweb,Directed,1857,,,5,Nosotros los buscamos,1,No,0,3,"Sí, la colaboración fue exitosa",Analyze,ok,T06,20
+Fundación COTEC,Makespace Madrid,Directed,1858,,,1,Ellos nos buscaron,5,No,1000,6,"Sí, la colaboración fue exitosa",Analyze,ok,T07,10
+Business Angels IESE,WB,Directed,1859,,,1,Nosotros los buscamos,1,No,0,1,No se logró colaborar,Analyze,ok,T01,3
+Startupxplore,Business Angels IESE,Directed,1860,,,1,Nosotros los buscamos,6,Sí,2000,3,No se logró colaborar,Analyze,ok,T21,21
+Consejería de Educación e Investigación,BAN madri+d,Directed,1861,,,2,Alguien más nos conectó,2,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,12,6
+Endeavor,FOND-ICO Global,Directed,1862,,,2,Alguien más nos conectó,4,No,0,2,No se logró colaborar,Analyze,ok,T02,2
+FPCM,Madrid Network,Directed,1863,,,2,Alguien más nos conectó,5,Sí,50000,2,"No, la colaboración no fue exitosa",Analyze,ok,T10,10
+FEDIT,MICINN,Directed,1864,,,2,Ellos nos buscaron,1,Sí,"5,000_9,999",04_06,"Sí, la colaboración fue exitosa",Analyze,ok,10,2
+Santander,MICINN,Directed,1865,,,2,Ellos nos buscaron,1,No,0_99,01_03,"No, la colaboración no fue exitosa",Analyze,ok,10,6
+Fundación Cibervoluntarios,Makespace Madrid,Directed,1866,,,2,Ellos nos buscaron,8,No,4000,2,"Sí, la colaboración fue exitosa",Analyze,ok,T07,7
+Mujeres Tech,Makespace Madrid,Directed,1867,,,2,Ellos nos buscaron,2,No,1000,3,"Sí, la colaboración fue exitosa",Analyze,ok,T07,21
+The Things Network,Makespace Madrid,Directed,1868,,,2,Ellos nos buscaron,5,No,300,2,"Sí, la colaboración fue exitosa",Analyze,ok,T07,22
+CE,Consejería de Educación e Investigación,Directed,1869,,,2,Ellos nos buscaron,3,No,0,8,"Sí, la colaboración fue exitosa",Analyze,ok,T12,4
+UCM,FUAM,Directed,1870,,,2,Ellos nos buscaron,4,No,0,2,"No, la colaboración no fue exitosa",Analyze,ok,T22,6
+Ayto. Madrid,CIEMAT,Directed,1871,,,2,Ellos nos buscaron,6,No,10000,3,No se logró colaborar,Analyze,ok,T25,4
+INCARI,UPC,Directed,1872,,,2,Ellos nos buscaron,3,No,NA,2,"Sí, la colaboración fue exitosa",Analyze,ok,T31,9
+Parque Científico UC3M,GMV,Directed,1873,,,2,Nosotros los buscamos,5,Sí,"1,000_2,999",01_03,No se logró colaborar,Analyze,ok,N21,6
+Business Angels IESE,ICEX,Directed,1874,,,2,Nosotros los buscamos,2,No,0,1,No se logró colaborar,Analyze,ok,T01,9
+FPCM,Cámara Madrid,Directed,1875,,,3,Alguien más nos conectó,15,Sí,50000,2,"Sí, la colaboración fue exitosa",Analyze,ok,T10,9
+SantanderX,UCJC,Directed,1876,,,3,Ellos nos buscaron,5,Sí,"10,000_49,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,6,3
+ABAX,Fábrica de Fabricantes,Directed,1877,,,3,Ellos nos buscaron,4,No,0_99,01_03,"No, la colaboración no fue exitosa",Analyze,ok,11,2
+FUAM,Consejería de Educación e Investigación,Directed,1878,,,3,Ellos nos buscaron,1,Sí,"10,000_49,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,12,1
+CIADE,Consejería de Educación e Investigación,Directed,1879,,,3,Ellos nos buscaron,2,Sí,"10,000_49,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,12,10
+Fly News,Getafe Iniciativas,Directed,1880,,,3,Ellos nos buscaron,3,Sí,"10,000_49,999",04_06,"Sí, la colaboración fue exitosa",Analyze,ok,N22,11
+UPM,Business Angels IESE,Directed,1881,,,3,Ellos nos buscaron,20,No,0,1,"Sí, la colaboración fue exitosa",Analyze,ok,T01,5
+South Summit,Spanish Startups,Directed,1882,,,3,Ellos nos buscaron,2,Sí,500,6,"Sí, la colaboración fue exitosa",Analyze,ok,T13,8
+Ayto. Rozas,Santander Universidades,Directed,1883,,,3,Ellos nos buscaron,6,Sí,3000,2,"Sí, la colaboración fue exitosa",Analyze,ok,T17,1
+Business Angels IESE,Santander Universidades,Directed,1884,,,3,Ellos nos buscaron,8,No,0,0,No se logró colaborar,Analyze,ok,T18,1
+CAIT,LST UPM,Directed,1885,,,3,Ellos nos buscaron,1,No,6000,4,"Sí, la colaboración fue exitosa",Analyze,ok,T19,3
+Bankinter,UPC,Directed,1886,,,3,Ellos nos buscaron,5,Sí,NA,2,"Sí, la colaboración fue exitosa",Analyze,ok,T31,8
+Consejería de Educación e Investigación,Compluemprende,Directed,1887,,,3,Nosotros los buscamos,2,Sí,"50,000_99,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,12,3
+Consejería de Educación e Investigación,Ayto. Madrid,Directed,1888,,,3,Nosotros los buscamos,5,No,"100,000 - 999,999 USD",01_03,No se logró colaborar,Analyze,ok,12,7
+Consejería de Educación e Investigación,ASEBIO,Directed,1889,,,3,Nosotros los buscamos,3,Sí,"100,000 - 999,999 USD",01_03,No se logró colaborar,Analyze,ok,12,12
+Spanish Startups,Demium,Directed,1890,,,3,Nosotros los buscamos,2,No,0,2,"Sí, la colaboración fue exitosa",Analyze,ok,T13,18
+UAH,Asociación de Empresarios del Henares,Directed,1891,,,3,Nosotros los buscamos,3,No,1500,1,No se logró colaborar,Analyze,ok,T14,9
+The Cube,UPM,Directed,1892,,,3,Alguien más nos conectó,4,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N25,4
+UCJC,Fundación COTEC,Directed,1893,,,3,Alguien más nos conectó,2,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,6,8
+Endeavor,ATKearney,Directed,1894,,,4,Alguien más nos conectó,3,No,10000,1,"Sí, la colaboración fue exitosa",Analyze,ok,T02,6
+FPCM,InNorMadrid,Directed,1895,,,4,Alguien más nos conectó,5,Sí,12000,2,"Sí, la colaboración fue exitosa",Analyze,ok,T10,7
+FPCM,CSIC,Directed,1896,,,4,Alguien más nos conectó,12,Sí,16000,3,"Sí, la colaboración fue exitosa",Analyze,ok,T10,8
+Imaguru,EYE,Directed,1897,,,4,Alguien más nos conectó,2,Sí,6000,1,"Sí, la colaboración fue exitosa",Analyze,ok,T08,1
+LST UPM,Consejería de Educación e Investigación,Directed,1898,,,4,Alguien más nos conectó,4,Sí,10000,7,"Sí, la colaboración fue exitosa",Analyze,ok,T19,13
+Santander Universidades,UCJC,Directed,1899,,,4,Ellos nos buscaron,4,Sí,"10,000_49,999",04_06,"Sí, la colaboración fue exitosa",Analyze,ok,6,1
+IRENA,UPC ITT,Directed,1900,,,4,Ellos nos buscaron,2,No,"50,000_99,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,7,7
+BID,UPC ITT,Directed,1901,,,4,Ellos nos buscaron,2,No,"50,000_99,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,7,9
+IMDEA Energía,UPC ITT,Directed,1902,,,4,Ellos nos buscaron,2,Sí,NA,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,7,11
+MITECO,MICINN,Directed,1903,,,4,Ellos nos buscaron,1,No,"50,000_99,999",07_10,"Sí, la colaboración fue exitosa",Analyze,ok,10,8
+MIDE,Consejería de Educación e Investigación,Directed,1904,,,4,Ellos nos buscaron,30,Sí,"100,000 - 999,999 USD",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,12,11
+Startup Olé,ASCRI,Directed,1905,,,4,Ellos nos buscaron,2,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N05,8
+Pascual-StartUp,The Cube,Directed,1906,,,4,Ellos nos buscaron,10,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N25,7
+CDTI,Business Angels IESE,Directed,1907,,,4,Ellos nos buscaron,2,Sí,0,2,"Sí, la colaboración fue exitosa",Analyze,ok,T01,4
+Socialnius,"UFV, Centro de Emprendimiento",Directed,1908,,,4,Ellos nos buscaron,2,No,NA,2,"Sí, la colaboración fue exitosa",Analyze,ok,T04,18
+Airbus,Imaguru,Directed,1909,,,4,Ellos nos buscaron,2,No,700,2,"Sí, la colaboración fue exitosa",Analyze,ok,T08,13
+Comunidad de Madrid,FPCM,Directed,1910,,,4,Ellos nos buscaron,4,Sí,3800000,12,"Sí, la colaboración fue exitosa",Analyze,ok,T10,2
+ICEMD,Spanish Startups,Directed,1911,,,4,Ellos nos buscaron,2,Sí,0,3,"Sí, la colaboración fue exitosa",Analyze,ok,T13,11
+IMDEA Energía,CIEMAT,Directed,1912,,,4,Ellos nos buscaron,6,Sí,400000,7,"Sí, la colaboración fue exitosa",Analyze,ok,T25,13
+Observatorio Everis Comillas,UPC,Directed,1913,,,4,Ellos nos buscaron,5,Sí,NA,2,"Sí, la colaboración fue exitosa",Analyze,ok,T31,11
+UCJC,Ágora News,Directed,1914,,,4,Nosotros los buscamos,1,No,"1,000_2,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,6,10
+UPC ITT,WB,Directed,1915,,,4,Nosotros los buscamos,2,No,"50,000_99,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,7,8
+Consejería de Educación e Investigación,Parque Científico UC3M,Directed,1916,,,4,Nosotros los buscamos,4,Sí,"100,000 - 999,999 USD",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,12,5
+Fundación UAX,Ayto. Villanueva,Directed,1917,,,4,Nosotros los buscamos,4,Sí,"5,000_9,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N08,5
+Parque Científico UC3M,ESA BIC Comunidad de Madrid,Directed,1918,,,4,Nosotros los buscamos,5,Sí,"3,000_4,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N21,2
+Business Angels IESE,BID,Directed,1919,,,4,Nosotros los buscamos,10,Sí,0,2,"Sí, la colaboración fue exitosa",Analyze,ok,T01,2
+Endeavor,BBVA Open Innovation,Directed,1920,,,4,Nosotros los buscamos,3,Sí,20000,1,"Sí, la colaboración fue exitosa",Analyze,ok,T02,13
+UPM,INDRA,Directed,1921,,,4,Nosotros los buscamos,3,Sí,200000,15,"Sí, la colaboración fue exitosa",Analyze,ok,T03,6
+"UFV, Centro de Emprendimiento",Red de Inversores UFV,Directed,1922,,,4,Nosotros los buscamos,1,Sí,NA,2,"Sí, la colaboración fue exitosa",Analyze,ok,T04,7
+FPCM,South Summit,Directed,1923,,,4,Nosotros los buscamos,12,Sí,5500,4,"Sí, la colaboración fue exitosa",Analyze,ok,T10,23
+Madri+d,Cámara Madrid,Directed,1924,,,4,Nosotros los buscamos,1,Sí,100000,3,"Sí, la colaboración fue exitosa",Analyze,ok,T30,9
+UPC,Club Empresarial ICADE,Directed,1925,,,4,Nosotros los buscamos,10,Sí,NA,2,"Sí, la colaboración fue exitosa",Analyze,ok,T31,20
+UPC,Alastria,Directed,1926,,,4,Alguien más nos conectó,20,Sí,NA,1,"Sí, la colaboración fue exitosa",Analyze,ok,T31,22
+Consejería de Educación e Investigación,ESA BIC Comunidad de Madrid,Directed,1927,,,5,Alguien más nos conectó,2,Sí,"50,000_99,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,12,8
+FPCM,EASME,Directed,1928,,,5,Alguien más nos conectó,25,Sí,800000,4,"Sí, la colaboración fue exitosa",Analyze,ok,T11,3
+MINECO,MICINN,Directed,1929,,,5,Ellos nos buscaron,1,No,"10,000_49,999",21_30,"Sí, la colaboración fue exitosa",Analyze,ok,10,3
+CE,MICINN,Directed,1930,,,5,Ellos nos buscaron,1,Sí,"100,000 - 999,999 USD",31_50,"Sí, la colaboración fue exitosa",Analyze,ok,10,4
+IMDEA Nanociencia,Consejería de Educación e Investigación,Directed,1931,,,5,Ellos nos buscaron,1,Sí,"1,000,000_",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,12,2
+Santander,CES UCM - Santander,Directed,1932,,,5,Ellos nos buscaron,1,Sí,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N02,7
+Junior Achievement,ASCRI,Directed,1933,,,5,Ellos nos buscaron,2,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N05,10
+ICEX,ASCRI,Directed,1934,,,5,Ellos nos buscaron,2,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N05,11
+AJE,Getafe Iniciativas,Directed,1935,,,5,Ellos nos buscaron,1,Sí,"50,000_99,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N22,2
+ASALMA,Getafe Iniciativas,Directed,1936,,,5,Ellos nos buscaron,1,Sí,"10,000_49,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N22,3
+Enel Innovation Hub,The Cube,Directed,1937,,,5,Ellos nos buscaron,40,Sí,"3,000_4,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N25,5
+Aso. Esp. Startups,The Cube,Directed,1938,,,5,Ellos nos buscaron,30,Sí,"10,000_49,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N25,6
+UAM,FPCM,Directed,1939,,,5,Ellos nos buscaron,1,Sí,20000,2,"Sí, la colaboración fue exitosa",Analyze,ok,T10,13
+UCM,FPCM,Directed,1940,,,5,Ellos nos buscaron,1,Sí,20000,2,"Sí, la colaboración fue exitosa",Analyze,ok,T10,14
+Madri+d,FPCM,Directed,1941,,,5,Ellos nos buscaron,12,Sí,18000,2,"Sí, la colaboración fue exitosa",Analyze,ok,T10,15
+ESIC,Spanish Startups,Directed,1942,,,5,Ellos nos buscaron,4,Sí,0,2,"Sí, la colaboración fue exitosa",Analyze,ok,T13,6
+MICINN,UC3M,Directed,1943,,,5,Ellos nos buscaron,1,Sí,0,20,"Sí, la colaboración fue exitosa",Analyze,ok,T16,3
+UC3M,CIEMAT,Directed,1944,,,5,Ellos nos buscaron,6,Sí,800000,16,"Sí, la colaboración fue exitosa",Analyze,ok,T25,14
+Santander,Compluemprende,Directed,1945,,,5,Ellos nos buscaron,[100],Sí,NA,NA,"Sí, la colaboración fue exitosa",Analyze,ok,T27,5
+FECYT,Madri+d,Directed,1946,,,5,Ellos nos buscaron,4,Sí,0,2,"Sí, la colaboración fue exitosa",Analyze,ok,T30,3
+"Consejería de Ciencia, Universidades e Innovación",Madri+d,Directed,1947,,,5,Ellos nos buscaron,10,Sí,2000000,20,"Sí, la colaboración fue exitosa",Analyze,ok,T30,4
+Everis,UPC,Directed,1948,,,5,Ellos nos buscaron,5,Sí,NA,3,"Sí, la colaboración fue exitosa",Analyze,ok,T31,5
+UCJC,Fundación Cibervoluntarios,Directed,1949,,,5,Nosotros los buscamos,2,Sí,500_999,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,6,2
+UCJC,UnLtd Spain,Directed,1950,,,5,Nosotros los buscamos,3,Sí,"10,000_49,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,6,4
+Consejería de Educación e Investigación,FPCM,Directed,1951,,,5,Nosotros los buscamos,4,No,"50,000_99,999",01_03,No se logró colaborar,Analyze,ok,12,4
+CES UCM - Santander,Compluemprende,Directed,1952,,,5,Nosotros los buscamos,1,Sí,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N02,4
+Getafe Iniciativas,ACOEG,Directed,1953,,,5,Nosotros los buscamos,1,Sí,"50,000_99,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N22,1
+Endeavor,BBVA,Directed,1954,,,5,Nosotros los buscamos,3,Sí,20000,1,"Sí, la colaboración fue exitosa",Analyze,ok,T02,5
+Endeavor,Bain,Directed,1955,,,5,Nosotros los buscamos,10,No,50000,3,"Sí, la colaboración fue exitosa",Analyze,ok,T02,7
+Consejería de Educación e Investigación,Madri+d,Directed,1956,,,5,Nosotros los buscamos,1,Sí,3200000,1,"Sí, la colaboración fue exitosa",Analyze,ok,T12,6
+UC3M,Getafe Iniciativas,Directed,1957,,,5,Nosotros los buscamos,1,Sí,0,5,"Sí, la colaboración fue exitosa",Analyze,ok,T16,4
+FabLab Madrid CEU,USPCEU,Directed,1958,,,5,Nosotros los buscamos,50,Sí,60000,5,"Sí, la colaboración fue exitosa",Analyze,ok,T24,5
+Compluemprende,UCM,Directed,1959,,,5,Nosotros los buscamos,[1000],No,NA,NA,"Sí, la colaboración fue exitosa",Analyze,ok,T27,13
+Madri+d,iDeTra,Directed,1960,,,5,Nosotros los buscamos,1,Sí,20000,1,"Sí, la colaboración fue exitosa",Analyze,ok,T30,6
+Spanish Startups,Airbus Bizlab,Directed,1961,,,5,Alguien más nos conectó,3,Sí,0,4,"Sí, la colaboración fue exitosa",Analyze,ok,T13,4
+The Cube,Mioti,Directed,1962,,,5,Alguien más nos conectó,30,Sí,"10,000_49,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N25,3
+UC3M,Comunidad de Madrid,Directed,1963,,,5,Alguien más nos conectó,1,Sí,0,20,"Sí, la colaboración fue exitosa",Analyze,ok,T16,1
+UC3M,Ayto. Leganés,Directed,1964,,,5,Alguien más nos conectó,1,Sí,0,20,"Sí, la colaboración fue exitosa",Analyze,ok,T16,2
+UCJC,Institución Educativa SEK,Directed,1965,,,5,Alguien más nos conectó,15,No,50000,2,"Sí, la colaboración fue exitosa",Analyze,ok,T23,5
+"UFV, Innovación","UFV, Centro de Emprendimiento",Directed,1966,,,5,Alguien más nos conectó,1,No,NA,3,"Sí, la colaboración fue exitosa",Analyze,ok,T28,1
+UIMP,FEDIT,Directed,1967,,,1,Ellos nos buscaron,3,No,"1,000_2,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,9,10
+Startup Programme,Fundación UAX,Directed,1968,,,1,Ellos nos buscaron,2,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N08,7
+AJE,Business Angels IESE,Directed,1969,,,1,Ellos nos buscaron,5,No,0,1,No se logró colaborar,Analyze,ok,T01,21
+ICEX,Endeavor,Directed,1970,,,1,Ellos nos buscaron,4,No,2000,1,No se logró colaborar,Analyze,ok,T02,9
+AEFI,Startupxplore,Directed,1971,,,1,Ellos nos buscaron,2,Sí,0,1,"No, la colaboración no fue exitosa",Analyze,ok,T21,13
+ENISA,UPC,Directed,1972,,,1,Ellos nos buscaron,3,No,NA,3,No se logró colaborar,Analyze,ok,T31,3
+CSIC,FEDIT,Directed,1973,,,2,Ellos nos buscaron,3,No,"3,000_4,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,9,7
+DBS,Fundación UAX,Directed,1974,,,2,Ellos nos buscaron,4,Sí,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N08,8
+Airbus,Madri+d,Directed,1975,,,2,Ellos nos buscaron,7,No,0,3,"No, la colaboración no fue exitosa",Analyze,ok,T06,15
+IED,Makespace Madrid,Directed,1976,,,2,Ellos nos buscaron,5,No,1200,2,"Sí, la colaboración fue exitosa",Analyze,ok,T07,16
+CDTI,Consejería de Educación e Investigación,Directed,1977,,,2,Ellos nos buscaron,1,Sí,0,3,"Sí, la colaboración fue exitosa",Analyze,ok,T12,7
+Madri+d,CIEMAT,Directed,1978,,,2,Ellos nos buscaron,6,No,10000,15,"Sí, la colaboración fue exitosa",Analyze,ok,T25,11
+MCAA,Madri+d,Directed,1979,,,2,Ellos nos buscaron,5,No,30000,1,No se logró colaborar,Analyze,ok,T30,21
+MICINN,GAIN,Directed,1980,,,2,Nosotros los buscamos,1,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,10,7
+MICINN,ASCRI,Directed,1981,,,2,Nosotros los buscamos,1,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,10,9
+MICINN,Alastria,Directed,1982,,,2,Nosotros los buscamos,1,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,10,10
+Fundación UAX,INDRA,Directed,1983,,,2,Nosotros los buscamos,4,Sí,500_999,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N08,2
+Makespace Madrid,Medialab-Prado,Directed,1984,,,2,Nosotros los buscamos,1,No,0,1,"Sí, la colaboración fue exitosa",Analyze,ok,T07,1
+Makespace Madrid,Red de Fablabs de Madrid,Directed,1985,,,2,Nosotros los buscamos,2,No,0,1,"Sí, la colaboración fue exitosa",Analyze,ok,T07,9
+Spanish Startups,AIDI,Directed,1986,,,2,Nosotros los buscamos,4,No,0,1,"Sí, la colaboración fue exitosa",Analyze,ok,T13,14
+FUAM,Tetuan Valley,Directed,1987,,,2,Nosotros los buscamos,5,Sí,20000,2,"Sí, la colaboración fue exitosa",Analyze,ok,T22,5
+FUAM,Demium,Directed,1988,,,2,Nosotros los buscamos,2,Sí,2000,1,"Sí, la colaboración fue exitosa",Analyze,ok,T22,7
+FUAM,Conector Madrid,Directed,1989,,,2,Nosotros los buscamos,3,No,0,2,"Sí, la colaboración fue exitosa",Analyze,ok,T22,8
+Startupxplore,Aso. Esp. Startups,Directed,1990,,,2,Alguien más nos conectó,3,Sí,5000,1,"Sí, la colaboración fue exitosa",Analyze,ok,T21,9
+Fundación UAX,Esc. Secot de Emprendedores,Directed,1991,,,3,Alguien más nos conectó,2,Sí,"5,000_9,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N08,3
+INIA,CSIC,Directed,1992,,,3,Alguien más nos conectó,1,No,0,0,"Sí, la colaboración fue exitosa",Analyze,ok,T05,13
+INIA,FECYT,Directed,1993,,,3,Alguien más nos conectó,0,No,0,0,"Sí, la colaboración fue exitosa",Analyze,ok,T05,17
+LST UPM,Impact Hub Madrid,Directed,1994,,,3,Alguien más nos conectó,3,No,2000,2,"Sí, la colaboración fue exitosa",Analyze,ok,T19,2
+Fundación Bankinter,"UFV, Centro de Emprendimiento",Directed,1995,,,3,Ellos nos buscaron,4,Sí,NA,1,"No, la colaboración no fue exitosa",Analyze,ok,T04,6
+Fundación UAX,Fundación Universidad-Empresa,Directed,1996,,,3,Nosotros los buscamos,2,Sí,"5,000_9,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N08,4
+UPM,Madri+d,Directed,1997,,,3,Nosotros los buscamos,2,Sí,50000,3,"Sí, la colaboración fue exitosa",Analyze,ok,T03,2
+"UFV, Centro de Emprendimiento",OTRI UFV,Directed,1998,,,3,Nosotros los buscamos,1,No,NA,1,"Sí, la colaboración fue exitosa",Analyze,ok,T04,13
+"UFV, Centro de Emprendimiento",Madri+d,Directed,1999,,,3,Nosotros los buscamos,2,No,NA,2,"Sí, la colaboración fue exitosa",Analyze,ok,T04,15
+FPCM,Foro de Empresas Innovadoras,Directed,2000,,,3,Nosotros los buscamos,5,No,1500,1,"Sí, la colaboración fue exitosa",Analyze,ok,T10,22
+FPCM,ITEMAS,Directed,2001,,,3,Nosotros los buscamos,10,No,2500,1,"Sí, la colaboración fue exitosa",Analyze,ok,T10,24
+CIEMAT,Parque Científico UC3M,Directed,2002,,,3,Nosotros los buscamos,8,Sí,10000,7,"No, la colaboración no fue exitosa",Analyze,ok,T25,6
+CIEMAT,AEAC,Directed,2003,,,3,Nosotros los buscamos,2,Sí,1000,5,"Sí, la colaboración fue exitosa",Analyze,ok,T25,9
+FabLab Nebrija,FabLab León,Directed,2004,,,3,Nosotros los buscamos,1,No,300,2,"Sí, la colaboración fue exitosa",Analyze,ok,T29,2
+FabLab Nebrija,Thinkers Co.,Directed,2005,,,3,Nosotros los buscamos,1,No,400,1,"Sí, la colaboración fue exitosa",Analyze,ok,T29,3
+Madri+d,CDTI,Directed,2006,,,3,Nosotros los buscamos,4,No,0,3,"Sí, la colaboración fue exitosa",Analyze,ok,T30,1
+FabLab Madrid CEU,Santander,Directed,2007,,,4,Alguien más nos conectó,15,Sí,0,2,"Sí, la colaboración fue exitosa",Analyze,ok,T24,4
+Gesto,Getafe Iniciativas,Directed,2008,,,4,Ellos nos buscaron,3,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N22,4
+AEBAN,Business Angels IESE,Directed,2009,,,4,Ellos nos buscaron,2,Sí,4000,1,"Sí, la colaboración fue exitosa",Analyze,ok,T01,7
+ESADE,Makespace Madrid,Directed,2010,,,4,Ellos nos buscaron,2,No,900,3,"Sí, la colaboración fue exitosa",Analyze,ok,T07,14
+"Consejería de Ciencia, Universidades e Innovación",Consejería de Educación e Investigación,Directed,2011,,,4,Ellos nos buscaron,1,Sí,0,3,"Sí, la colaboración fue exitosa",Analyze,ok,T12,1
+COAM,FabLab Madrid CEU,Directed,2012,,,4,Ellos nos buscaron,15,No,0,2,"Sí, la colaboración fue exitosa",Analyze,ok,T24,2
+FEDIT,CEOE,Directed,2013,,,4,Nosotros los buscamos,5,No,500_999,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,9,4
+ASCRI,INVERCO,Directed,2014,,,4,Nosotros los buscamos,2,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N05,2
+ASCRI,ASEBIO,Directed,2015,,,4,Nosotros los buscamos,4,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N05,4
+ASCRI,ADIGITAL,Directed,2016,,,4,Nosotros los buscamos,3,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N05,5
+Getafe Iniciativas,REDEL,Directed,2017,,,4,Nosotros los buscamos,1,Sí,500_999,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N22,5
+Getafe Iniciativas,Parque Científico UC3M,Directed,2018,,,4,Nosotros los buscamos,1,No,0_99,04_06,"Sí, la colaboración fue exitosa",Analyze,ok,N22,8
+"UFV, Centro de Emprendimiento",Startup Programme,Directed,2019,,,4,Nosotros los buscamos,1,Sí,NA,2,"Sí, la colaboración fue exitosa",Analyze,ok,T04,5
+"UFV, Centro de Emprendimiento",Facultad Jurídicas y Empresariales UFV,Directed,2020,,,4,Nosotros los buscamos,1,No,NA,2,"Sí, la colaboración fue exitosa",Analyze,ok,T04,14
+"UFV, Centro de Emprendimiento",UCM,Directed,2021,,,4,Nosotros los buscamos,2,No,NA,2,"Sí, la colaboración fue exitosa",Analyze,ok,T04,22
+Endeavor,South Summit,Directed,2022,,,5,Alguien más nos conectó,5,No,5000,1,"Sí, la colaboración fue exitosa",Analyze,ok,T02,14
+FabLab Madrid CEU,Consejería de Educación e Investigación,Directed,2023,,,5,Alguien más nos conectó,10,Sí,1500,2,"Sí, la colaboración fue exitosa",Analyze,ok,T24,1
+EARTO,FEDIT,Directed,2024,,,5,Ellos nos buscaron,5,Sí,"5,000_9,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,9,2
+Presidencia del Gobierno,MICINN,Directed,2025,,,5,Ellos nos buscaron,1,No,"100,000 - 999,999 USD",21_30,"Sí, la colaboración fue exitosa",Analyze,ok,10,1
+CNMV,ASCRI,Directed,2026,,,5,Ellos nos buscaron,1,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N05,3
+ESIC,Makespace Madrid,Directed,2027,,,5,Ellos nos buscaron,2,No,600,3,"Sí, la colaboración fue exitosa",Analyze,ok,T07,13
+UNIMAK,FabLab Madrid CEU,Directed,2028,,,5,Ellos nos buscaron,40,Sí,10000,2,"Sí, la colaboración fue exitosa",Analyze,ok,T24,15
+Universidad Tunghai,FabLab Madrid CEU,Directed,2029,,,5,Ellos nos buscaron,30,Sí,40000,2,"Sí, la colaboración fue exitosa",Analyze,ok,T24,16
+CES UCM - Santander,USACH,Directed,2030,,,5,Nosotros los buscamos,1,Sí,"1,000_2,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N02,1
+CES UCM - Santander,UCC,Directed,2031,,,5,Nosotros los buscamos,1,Sí,"1,000_2,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N02,2
+CES UCM - Santander,UPR,Directed,2032,,,5,Nosotros los buscamos,2,Sí,"1,000_2,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N02,3
+CES UCM - Santander,UISEK Ecuador,Directed,2033,,,5,Nosotros los buscamos,4,Sí,"1,000_2,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N02,6
+CES UCM - Santander,ASALMA,Directed,2034,,,5,Nosotros los buscamos,1,No,100_499,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N02,8
+CES UCM - Santander,Ashoka España,Directed,2035,,,5,Nosotros los buscamos,5,No,500_999,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N02,9
+CES UCM - Santander,FECOMA,Directed,2036,,,5,Nosotros los buscamos,1,No,100_499,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N02,10
+CES UCM - Santander,UES,Directed,2037,,,5,Nosotros los buscamos,3,Sí,"1,000_2,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N02,11
+ASCRI,ICO,Directed,2038,,,5,Nosotros los buscamos,3,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N05,1
+ASCRI,Aso. Esp. Startups,Directed,2039,,,5,Nosotros los buscamos,3,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N05,6
+ASCRI,South Summit,Directed,2040,,,5,Nosotros los buscamos,2,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N05,7
+ASCRI,Transfiere,Directed,2041,,,5,Nosotros los buscamos,2,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N05,9
+FabLab Madrid CEU,Dep. Arq y DG CEU,Directed,2042,,,5,Nosotros los buscamos,20,Sí,30000,2,"Sí, la colaboración fue exitosa",Analyze,ok,T24,13
+FabLab Madrid CEU,Fab Foundation,Directed,2043,,,5,Nosotros los buscamos,30,Sí,20000,2,"Sí, la colaboración fue exitosa",Analyze,ok,T24,14
+FabLab Madrid CEU,CREFAB,Directed,2044,,,5,Nosotros los buscamos,5,Sí,0,2,"Sí, la colaboración fue exitosa",Analyze,ok,T24,21
+Compluemprende,Comunidad de Madrid,Directed,2045,,,5,Nosotros los buscamos,[100],Sí,NA,NA,"Sí, la colaboración fue exitosa",Analyze,ok,T27,1
+Compluemprende,Ayto. Madrid,Directed,2046,,,5,Nosotros los buscamos,[100],Sí,NA,NA,"Sí, la colaboración fue exitosa",Analyze,ok,T27,2
+"UFV, Innovación",Agorabierta,Directed,2047,,,5,Nosotros los buscamos,2,No,NA,1,"Sí, la colaboración fue exitosa",Analyze,ok,T28,2
+The Cube,MIDE,Directed,2048,,,5,Alguien más nos conectó,10,Sí,"10,000_49,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N25,1
+Spanish Startups,Madrid International Lab,Directed,2049,,,1,Nosotros los buscamos,4,No,0,1,"Sí, la colaboración fue exitosa",Analyze,ok,T13,5
+UPC,El Referente,Directed,2050,,,1,Nosotros los buscamos,2,No,NA,1,"Sí, la colaboración fue exitosa",Analyze,ok,T31,14
+Madri+d,Consejería de Sanidad,Directed,2051,,,2,Alguien más nos conectó,15,No,50000,1,"No, la colaboración no fue exitosa",Analyze,ok,T30,11
+BBVA Open Innovation,Consejería de Educación e Investigación,Directed,2052,,,2,Ellos nos buscaron,2,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,12,9
+Demium,Imaguru,Directed,2053,,,2,Ellos nos buscaron,3,Sí,0,1,"Sí, la colaboración fue exitosa",Analyze,ok,T08,5
+UPC,ASCRI,Directed,2054,,,2,Nosotros los buscamos,1,No,NA,2,"Sí, la colaboración fue exitosa",Analyze,ok,T31,2
+UPC,CBS insights,Directed,2055,,,2,Nosotros los buscamos,2,No,NA,2,"Sí, la colaboración fue exitosa",Analyze,ok,T31,16
+Grupo Meetup Drones Madrid,Makespace Madrid,Directed,2056,,,3,Ellos nos buscaron,2,No,2500,1,"Sí, la colaboración fue exitosa",Analyze,ok,T07,24
+Startup University,UPC,Directed,2057,,,3,Ellos nos buscaron,5,Sí,NA,2,"Sí, la colaboración fue exitosa",Analyze,ok,T31,7
+UCJC,Impact Hub Madrid,Directed,2058,,,3,Nosotros los buscamos,2,No,500_999,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,6,9
+Parque Científico UC3M,Madri+d,Directed,2059,,,3,Nosotros los buscamos,3,Sí,"1,000_2,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N21,4
+"UFV, Centro de Emprendimiento",Ayto. Madrid,Directed,2060,,,3,Nosotros los buscamos,3,No,NA,1,"Sí, la colaboración fue exitosa",Analyze,ok,T04,1
+Madri+d,Centro Empresas UPM,Directed,2061,,,3,Nosotros los buscamos,7,Sí,50000,2,"No, la colaboración no fue exitosa",Analyze,ok,T06,6
+Spanish Startups,Google Campus Madrid,Directed,2062,,,3,Nosotros los buscamos,3,No,0,2,"Sí, la colaboración fue exitosa",Analyze,ok,T13,3
+UPC,Bridge for Billions,Directed,2063,,,3,Nosotros los buscamos,5,Sí,NA,1,"Sí, la colaboración fue exitosa",Analyze,ok,T31,6
+Womenwise,Imaguru,Directed,2064,,,4,Ellos nos buscaron,3,No,600,1,"Sí, la colaboración fue exitosa",Analyze,ok,T08,21
+UPC ITT,CE,Directed,2065,,,4,Nosotros los buscamos,2,No,"1,000,000_",07_10,"Sí, la colaboración fue exitosa",Analyze,ok,7,1
+UPC ITT,JRC,Directed,2066,,,4,Nosotros los buscamos,5,Sí,"10,000_49,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,7,2
+UPC ITT,MICINN,Directed,2067,,,4,Nosotros los buscamos,2,No,"100,000 - 999,999 USD",04_06,"Sí, la colaboración fue exitosa",Analyze,ok,7,6
+Madri+d,INTA,Directed,2068,,,4,Nosotros los buscamos,6,Sí,20000,2,"Sí, la colaboración fue exitosa",Analyze,ok,T06,2
+Madri+d,Vivero empresas UC3M,Directed,2069,,,4,Nosotros los buscamos,8,Sí,50000,2,"Sí, la colaboración fue exitosa",Analyze,ok,T06,5
+Madri+d,Viveros de empresas de URJC,Directed,2070,,,4,Nosotros los buscamos,6,Sí,50000,2,"Sí, la colaboración fue exitosa",Analyze,ok,T06,7
+"UFV, Centro de Emprendimiento",FPCM,Directed,2071,,,4,Alguien más nos conectó,2,No,NA,1,"Sí, la colaboración fue exitosa",Analyze,ok,T04,3
+MICINN,Madri+d,Directed,2072,,,5,Ellos nos buscaron,2,No,0,1,"Sí, la colaboración fue exitosa",Analyze,ok,T30,2
+UCJC,BBVA Open Innovation,Directed,2073,,,5,Nosotros los buscamos,2,No,500_999,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,6,11
+Madri+d,FPCM,Directed,2074,,,5,Nosotros los buscamos,5,Sí,50000,2,"Sí, la colaboración fue exitosa",Analyze,ok,T06,3
+Madri+d,COIT,Directed,2075,,,5,Nosotros los buscamos,5,Sí,25000,2,"Sí, la colaboración fue exitosa",Analyze,ok,T06,4
+Madri+d,Cluster Aeroespacial de Madrid,Directed,2076,,,5,Nosotros los buscamos,3,Sí,100000,3,"Sí, la colaboración fue exitosa",Analyze,ok,T06,9
+Spanish Startups,Spaces,Directed,2077,,,5,Nosotros los buscamos,4,Sí,1000,4,"Sí, la colaboración fue exitosa",Analyze,ok,T13,7
+IBM,Parque Científico UC3M,Directed,2078,,,2,Ellos nos buscaron,5,Sí,"1,000_2,999",01_03,"No, la colaboración no fue exitosa",Analyze,ok,N21,9
+FEDIT,ICEX,Directed,2079,,,2,Nosotros los buscamos,10,Sí,"3,000_4,999",01_03,"No, la colaboración no fue exitosa",Analyze,ok,9,5
+FEDIT,FECYT,Directed,2080,,,2,Nosotros los buscamos,20,No,500_999,01_03,"No, la colaboración no fue exitosa",Analyze,ok,9,11
+UCJC,Consejería de Educación e Investigación,Directed,2081,,,2,Nosotros los buscamos,1,No,3500,3,No se logró colaborar,Analyze,ok,T09,1
+UAH,Madrid Activa,Directed,2082,,,2,Nosotros los buscamos,12,No,2000,2,"No, la colaboración no fue exitosa",Analyze,ok,T14,5
+ENISA,"UFV, Centro de Emprendimiento",Directed,2083,,,3,Ellos nos buscaron,2,No,NA,2,"Sí, la colaboración fue exitosa",Analyze,ok,T04,2
+Fábrica de Fabricantes,Startup Olé,Directed,2084,,,3,Nosotros los buscamos,10,No,500_999,01_03,"No, la colaboración no fue exitosa",Analyze,ok,11,1
+Business Angels IESE,CE,Directed,2085,,,3,Nosotros los buscamos,10,No,0,1,"Sí, la colaboración fue exitosa",Analyze,ok,T01,1
+Business Angels IESE,EIC Innovation Radar,Directed,2086,,,3,Nosotros los buscamos,2,Sí,0,4,"Sí, la colaboración fue exitosa",Analyze,ok,T01,13
+Startupxplore,Cabiedes & Partners,Directed,2087,,,3,Nosotros los buscamos,6,Sí,0,2,"Sí, la colaboración fue exitosa",Analyze,ok,T21,6
+FUAM,Comunidad de Madrid,Directed,2088,,,3,Nosotros los buscamos,1,No,0,1,"Sí, la colaboración fue exitosa",Analyze,ok,T22,1
+FabLab Madrid CEU,Fundación Universitaria CEU,Directed,2089,,,3,Nosotros los buscamos,20,No,5000,2,"Sí, la colaboración fue exitosa",Analyze,ok,T24,9
+CIEMAT,Consejería de Educación e Investigación,Directed,2090,,,3,Nosotros los buscamos,4,Sí,3000000,14,"Sí, la colaboración fue exitosa",Analyze,ok,T25,3
+INIA,CDTI,Directed,2091,,,4,Alguien más nos conectó,0,No,0,0,"Sí, la colaboración fue exitosa",Analyze,ok,T05,21
+Pinama Inversiones,The Cube,Directed,2092,,,4,Ellos nos buscaron,5,Sí,"1,000_2,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N25,10
+Ayto. Madrid,UPM,Directed,2093,,,4,Ellos nos buscaron,2,Sí,200000,12,"Sí, la colaboración fue exitosa",Analyze,ok,T03,5
+ESIC,Santander Universidades,Directed,2094,,,4,Ellos nos buscaron,5,Sí,20000,2,"Sí, la colaboración fue exitosa",Analyze,ok,T17,8
+Fundación Bankinter,Startupxplore,Directed,2095,,,4,Ellos nos buscaron,4,Sí,0,2,"Sí, la colaboración fue exitosa",Analyze,ok,T21,5
+UCJC,Bstartup,Directed,2096,,,4,Nosotros los buscamos,2,Sí,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,6,6
+FEDIT,AEI,Directed,2097,,,4,Nosotros los buscamos,5,No,"10,000_49,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,9,8
+Makespace Madrid,Ayto. Madrid,Directed,2098,,,4,Nosotros los buscamos,7,Sí,7500,3,"Sí, la colaboración fue exitosa",Analyze,ok,T07,6
+FPCM,Ministerio de Economía e Innovacion,Directed,2099,,,4,Nosotros los buscamos,8,Sí,6000000,12,"Sí, la colaboración fue exitosa",Analyze,ok,T10,1
+FPCM,MICINN,Directed,2100,,,4,Nosotros los buscamos,4,Sí,1600000,6,"Sí, la colaboración fue exitosa",Analyze,ok,T11,1
+FPCM,"Consejería de Ciencia, Universidades e Innovación",Directed,2101,,,4,Nosotros los buscamos,3,Sí,550000,4,"Sí, la colaboración fue exitosa",Analyze,ok,T11,2
+LST UPM,EIT Health,Directed,2102,,,4,Nosotros los buscamos,1,Sí,3000,20,"Sí, la colaboración fue exitosa",Analyze,ok,T19,1
+CIEMAT,CE HORIZON 2020s,Directed,2103,,,4,Nosotros los buscamos,4,Sí,21000000,70,"Sí, la colaboración fue exitosa",Analyze,ok,T25,2
+FabLab Nebrija,UN,Directed,2104,,,4,Nosotros los buscamos,3,No,0,6,"Sí, la colaboración fue exitosa",Analyze,ok,T29,1
+UCJC,Faraday,Directed,2105,,,5,Nosotros los buscamos,1,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,6,7
+FEDIT,CDTI,Directed,2106,,,5,Nosotros los buscamos,5,No,"10,000_49,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,9,9
+INIA,MICINN,Directed,2107,,,5,Nosotros los buscamos,1,No,NA,NA,"Sí, la colaboración fue exitosa",Analyze,ok,T05,1
+INIA,MAPA,Directed,2108,,,5,Nosotros los buscamos,1,No,NA,NA,"Sí, la colaboración fue exitosa",Analyze,ok,T05,2
+INIA,CE,Directed,2109,,,5,Nosotros los buscamos,1,No,NA,NA,"Sí, la colaboración fue exitosa",Analyze,ok,T05,3
+INIA,Consejería de Educación e Investigación,Directed,2110,,,5,Nosotros los buscamos,1,No,NA,NA,"Sí, la colaboración fue exitosa",Analyze,ok,T05,4
+Madri+d,Comunidad de Madrid,Directed,2111,,,5,Nosotros los buscamos,8,Sí,1000000,4,"Sí, la colaboración fue exitosa",Analyze,ok,T06,1
+FabLab Madrid CEU,CE HORIZON 2020s,Directed,2112,,,5,Nosotros los buscamos,50,Sí,0,2,"Sí, la colaboración fue exitosa",Analyze,ok,T24,3
+COAM,Fábrica de Fabricantes,Directed,2113,,,1,Ellos nos buscaron,14,No,0_99,01_03,"No, la colaboración no fue exitosa",Analyze,ok,11,10
+Consejería de Educación e Investigación,La Nave Madrid,Directed,2114,,,2,Nosotros los buscamos,3,No,0,1,No se logró colaborar,Analyze,ok,T12,2
+IE Business School,Makespace Madrid,Directed,2115,,,3,Ellos nos buscaron,7,No,1500,4,"Sí, la colaboración fue exitosa",Analyze,ok,T07,15
+FPCM,CIEMAT,Directed,2116,,,3,Ellos nos buscaron,6,Sí,80000,3,"Sí, la colaboración fue exitosa",Analyze,ok,T25,5
+UFV,Fábrica de Fabricantes,Directed,2117,,,4,Ellos nos buscaron,20,No,"5,000_9,999",04_06,"Sí, la colaboración fue exitosa",Analyze,ok,11,8
+INDRA,Parque Científico UC3M,Directed,2118,,,4,Ellos nos buscaron,3,Sí,"3,000_4,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N21,3
+UCJC,Santander,Directed,2119,,,4,Nosotros los buscamos,2,Sí,30000,10,"Sí, la colaboración fue exitosa",Analyze,ok,T09,6
+Santander Universidades,UAH,Directed,2120,,,4,Nosotros los buscamos,3,Sí,100000,3,"Sí, la colaboración fue exitosa",Analyze,ok,T17,7
+Parque Científico UC3M,Santander,Directed,2121,,,4,Alguien más nos conectó,2,Sí,"3,000_4,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N21,10
+FPCM,Ayto. Madrid,Directed,2122,,,5,Alguien más nos conectó,55,Sí,110000,2,"Sí, la colaboración fue exitosa",Analyze,ok,T11,4
+UAX,Fundación UAX,Directed,2123,,,5,Ellos nos buscaron,1,Sí,"100,000_999,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N08,9
+FEDIT,MICINN,Directed,2124,,,5,Nosotros los buscamos,25,No,"5,000_9,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,9,1
+MICINN,CDTI,Directed,2125,,,5,Nosotros los buscamos,1,Sí,"1,000,000_",21_30,"Sí, la colaboración fue exitosa",Analyze,ok,10,11
+Fundación UAX,UAM,Directed,2126,,,5,Nosotros los buscamos,1,No,0_99,01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N08,11
+Parque Científico UC3M,Airbus,Directed,2127,,,5,Nosotros los buscamos,3,Sí,"10,000_49,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N21,1
+The Cube,Unlimiteck,Directed,2128,,,5,Nosotros los buscamos,20,No,"100,000_999,999",01_03,"Sí, la colaboración fue exitosa",Analyze,ok,N25,2
+Santander Universidades,Compluemprende,Directed,2129,,,5,Nosotros los buscamos,2,Sí,300000,3,"Sí, la colaboración fue exitosa",Analyze,ok,T17,5
+Santander Universidades,UC3M,Directed,2130,,,5,Nosotros los buscamos,3,Sí,200000,3,"Sí, la colaboración fue exitosa",Analyze,ok,T17,6
+Deloitte,UCJC,Directed,2131,,,1,,,,,,,Include,ok,6,8
+Deloitte,Fundación COTEC,Directed,2132,,,1,,,,,,,Include,ok,6,8
+Madri+d,Consejería de Educación e Investigación,Directed,2133,,,1,,,,,,,Include,ok,12,6
+Madri+d,BAN madri+d,Directed,2134,,,1,,,,,,,Include,ok,12,6
+Madri+d,Consejería de Educación e Investigación,Directed,2135,,,1,,,,,,,Include,ok,12,8
+Madri+d,ESA BIC Comunidad de Madrid,Directed,2136,,,1,,,,,,,Include,ok,12,8
+Santander,Fundación UAX,Directed,2137,,,1,,,,,,,Include,ok,N08,3
+Santander,Esc. Secot de Emprendedores,Directed,2138,,,1,,,,,,,Include,ok,N08,3
+Unlimiteck,The Cube,Directed,2139,,,1,,,,,,,Include,ok,N25,3
+Unlimiteck,Mioti,Directed,2140,,,1,,,,,,,Include,ok,N25,3
+MIDE,The Cube,Directed,2141,,,1,,,,,,,Include,ok,N25,4
+MIDE,UPM,Directed,2142,,,1,,,,,,,Include,ok,N25,4
+Startup Programme,"UFV, Centro de Emprendimiento",Directed,2143,,,1,,,,,,,Include,ok,T04,3
+Startup Programme,FPCM,Directed,2144,,,1,,,,,,,Include,ok,T04,3
+UAM,FPCM,Directed,2145,,,1,,,,,,,Include,ok,T10,7
+UAM,InNorMadrid,Directed,2146,,,1,,,,,,,Include,ok,T10,7
+UAM,FPCM,Directed,2147,,,1,,,,,,,Include,ok,T10,8
+UAM,CSIC,Directed,2148,,,1,,,,,,,Include,ok,T10,8
+Madri+d,FPCM,Directed,2149,,,1,,,,,,,Include,ok,T10,9
+Madri+d,Cámara Madrid,Directed,2150,,,1,,,,,,,Include,ok,T10,9
+Madri+d,FPCM,Directed,2151,,,1,,,,,,,Include,ok,T10,10
+Madri+d,Madrid Network,Directed,2152,,,1,,,,,,,Include,ok,T10,10
+Madri+d,FPCM,Directed,2153,,,1,,,,,,,Include,ok,T11,3
+Madri+d,EASME,Directed,2154,,,1,,,,,,,Include,ok,T11,3
+Spaces,Spanish Startups,Directed,2155,,,1,,,,,,,Include,ok,T13,4
+Spaces,Airbus Bizlab,Directed,2156,,,1,,,,,,,Include,ok,T13,4
+MICINN,UC3M,Directed,2157,,,1,,,,,,,Include,ok,T16,1
+MICINN,Comunidad de Madrid,Directed,2158,,,1,,,,,,,Include,ok,T16,1
+Comunidad de Madrid,UC3M,Directed,2159,,,1,,,,,,,Include,ok,T16,2
+Comunidad de Madrid,Ayto. Leganés,Directed,2160,,,1,,,,,,,Include,ok,T16,2
+UPM,LST UPM,Directed,2161,,,1,,,,,,,Include,ok,T19,2
+UPM,Impact Hub Madrid,Directed,2162,,,1,,,,,,,Include,ok,T19,2
+Tetuan Valley,Startupxplore,Directed,2163,,,1,,,,,,,Include,ok,T21,9
+Tetuan Valley,Aso. Esp. Startups,Directed,2164,,,1,,,,,,,Include,ok,T21,9
+UCJC SEK LAB,UCJC,Directed,2165,,,1,,,,,,,Include,ok,T23,5
+UCJC SEK LAB,Institución Educativa SEK,Directed,2166,,,1,,,,,,,Include,ok,T23,5
+USPCEU,FabLab Madrid CEU,Directed,2167,,,1,,,,,,,Include,ok,T24,1
+USPCEU,Consejería de Educación e Investigación,Directed,2168,,,1,,,,,,,Include,ok,T24,1
+USPCEU,FabLab Madrid CEU,Directed,2169,,,1,,,,,,,Include,ok,T24,4
+USPCEU,Santander,Directed,2170,,,1,,,,,,,Include,ok,T24,4
+UFV,"UFV, Innovación",Directed,2171,,,1,,,,,,,Include,ok,T28,1
+UFV,"UFV, Centro de Emprendimiento",Directed,2172,,,1,,,,,,,Include,ok,T28,1
+"Consejería de Ciencia, Universidades e Innovación",Madri+d,Directed,2173,,,1,,,,,,,Include,ok,T30,11
+"Consejería de Ciencia, Universidades e Innovación",Consejería de Sanidad,Directed,2174,,,1,,,,,,,Include,ok,T30,11
+Alastria,UPC,Directed,2175,,,1,,,,,,,Include,ok,T31,22
+Getafe Iniciativas,Ayto. Getafe,Directed,2176,,,5,,,,,,,Include,ok,PN22,C
+Centro empresas Henares,Ayto. Alcobendas,Directed,2177,,,5,,,,,,,Include,ok,PPT14,C
+MICINN,AEI,Directed,2178,,,5,,,,,,,Include,ok,PPT17,C
+Madri+d,Comunidad de Madrid,Directed,2179,,,5,,,,,,,Include,ok,PPT19,C
+UC3M,CE HORIZON 2020s,Directed,2180,,,5,,,,,,,Include,ok,PPT31,C
+UAH,Comunidad de Madrid,Directed,2181,,,5,,,,,,,Include,ok,PPT8,C
+Consejería de Educación e Investigación,Comunidad de Madrid,Directed,2182,,,5,,,,,,,Include,ok,PPT11,C
+CIEMAT,CE HORIZON 2020s,Directed,2183,,,5,,,,,,,Include,ok,PPT4,C
+FabLab Madrid CEU,USPCEU,Directed,2184,,,5,,,,,,,Include,ok,PPT23,C
+FPCM,UAM,Directed,2185,,,5,,,,,,,Include,ok,PPT18,C
+FabLab Nebrija,UN,Directed,2186,,,5,,,,,,,Include,ok,PPT24,C
+CES UCM - Santander,Santander,Directed,2187,,,5,,,,,,,Include,ok,PN02,C
+Parque Científico UC3M,ESA BIC Comunidad de Madrid,Directed,2188,,,5,,,,,,,Include,ok,PN21,C
+Fundación UAX,UAX,Directed,2189,,,5,,,,,,,Include,ok,PN08,C
+The Cube,Mioti,Directed,2190,,,5,,,,,,,Include,ok,PN25,C
+Imaguru,TAU Ventures,Directed,2191,,,5,,,,,,,Include,ok,PPT22,C
+UCJC,Institución Educativa SEK,Directed,2192,,,5,,,,,,,Include,ok,PPT28,C
+Business Angels IESE,IESE Business School,Directed,2193,,,5,,,,,,,Include,ok,PPT3,C
+Getafe Iniciativas,Ayto. Getafe,Directed,2194,,,5,,,,,,,Include,ok,PN22,E
+Centro empresas Henares,Comunidad de Madrid,Directed,2195,,,5,,,,,,,Include,ok,PPT14,E
+MICINN,Secretaría de Estado de I+D+i,Directed,2196,,,5,,,,,,,Include,ok,PPT17,E
+Madri+d,Comunidad de Madrid,Directed,2197,,,5,,,,,,,Include,ok,PPT19,E
+UC3M,Comunidad de Madrid,Directed,2198,,,5,,,,,,,Include,ok,PPT31,E
+Madrid Network,Comunidad de Madrid,Directed,2199,,,5,,,,,,,Include,ok,PPT6,E
+UAH,Madri+d,Directed,2200,,,5,,,,,,,Include,ok,PPT8,E
+CES UCM - Santander,UCM,Directed,2201,,,5,,,,,,,Include,ok,PN02,E
+Parque Científico UC3M,UC3M,Directed,2202,,,5,,,,,,,Include,ok,PN21,E
+Fundación UAX,Santander,Directed,2203,,,5,,,,,,,Include,ok,PN08,E
+MIDE,REAP,Directed,2204,,,5,,,,,,,Include,ok,PN14,E
+The Cube,Unlimiteck,Directed,2205,,,5,,,,,,,Include,ok,PN25,E
+Impact Hub Madrid,Impact Hub Global,Directed,2206,,,5,,,,,,,Include,ok,PN26,E
+Spanish Startups,Google Campus Madrid,Directed,2207,,,5,,,,,,,Include,ok,PPT16,E
+UPC ITT,UPC,Directed,2208,,,5,,,,,,,Include,ok,PPT20,E
+Imaguru,TAU Ventures,Directed,2209,,,5,,,,,,,Include,ok,PPT22,E
+FabLab Madrid CEU,FabLab Barcelona,Directed,2210,,,5,,,,,,,Include,ok,PPT23,E
+UCJC,Institución Educativa SEK,Directed,2211,,,5,,,,,,,Include,ok,PPT28,E
+Business Angels IESE,Acciona I'mnovation,Directed,2212,,,5,,,,,,,Include,ok,PPT3,E
+Startupxplore,Plug and Play Tech Center,Directed,2213,,,5,,,,,,,Include,ok,PPT30,E
+Makespace Madrid,Medialab-Prado,Directed,2214,,,5,,,,,,,Include,ok,PPT32,E
+Santander Universidades,UN,Directed,2215,,,3,NA,NA,NA,NA,NA,NA,No data,ok,4,1
+Santander Universidades,CES UCM - Santander,Directed,2216,,,3,NA,NA,NA,NA,NA,NA,No data,ok,4,2
+Santander Universidades,USPCEU,Directed,2217,,,3,NA,NA,NA,NA,NA,NA,No data,ok,4,3
+Santander Universidades,Emprendedores,Directed,2218,,,3,NA,NA,NA,NA,NA,NA,No data,ok,4,4
+Santander Universidades,AJE,Directed,2219,,,3,NA,NA,NA,NA,NA,NA,No data,ok,4,7
+Santander Universidades,CSIC,Directed,2220,,,3,NA,NA,NA,NA,NA,NA,No data,ok,4,9
+Santander Universidades,Centro Empresas UPM,Directed,2221,,,3,NA,NA,NA,NA,NA,NA,No data,ok,4,10
+UAM,CDTI,Directed,2222,,,3,NA,NA,NA,NA,NA,NA,No data,ok,5,2
+UAM,TrepCamp,Directed,2223,,,3,NA,NA,NA,NA,NA,NA,No data,ok,5,5
+UAM,Santander,Directed,2224,,,3,NA,NA,NA,NA,NA,NA,No data,ok,5,6
+UAM,INDRA,Directed,2225,,,3,NA,NA,NA,NA,NA,NA,No data,ok,5,10
+UCJC,Ayto. Madrid,Directed,2226,,,3,NA,NA,NA,NA,NA,NA,No data,ok,6,12
+UCJC,Comunidad de Madrid,Directed,2227,,,3,NA,NA,NA,NA,NA,NA,No data,ok,6,13
+UPC ITT,UAH,Directed,2228,,,3,NA,NA,NA,NA,NA,NA,No data,ok,7,12
+Consejería de Educación e Investigación,CSIC,Directed,2229,,,3,NA,NA,NA,NA,NA,NA,No data,ok,12,15
+Consejería de Educación e Investigación,Alastria,Directed,2230,,,3,NA,NA,NA,NA,NA,NA,No data,ok,12,16
+Consejería de Educación e Investigación,Centro Empresas UPM,Directed,2231,,,3,NA,NA,NA,NA,NA,NA,No data,ok,12,17
+Consejería de Educación e Investigación,BioMad,Directed,2232,,,3,NA,NA,NA,NA,NA,NA,No data,ok,12,18
+Consejería de Educación e Investigación,CIEMAT,Directed,2233,,,3,NA,NA,NA,NA,NA,NA,No data,ok,12,19
+Consejería de Educación e Investigación,Centro empresas Alcobendas,Directed,2234,,,3,NA,NA,NA,NA,NA,NA,No data,ok,12,20
+Consejería de Educación e Investigación,Fundación COTEC,Directed,2235,,,3,NA,NA,NA,NA,NA,NA,No data,ok,12,21
+Consejería de Educación e Investigación,Fundación Universidad-Empresa,Directed,2236,,,3,NA,NA,NA,NA,NA,NA,No data,ok,12,24
+UAM,Tetuan Valley,Directed,2237,,,3,NA,NA,NA,NA,NA,NA,No data,ok,13,1
+UAM,FPCM,Directed,2238,,,3,NA,NA,NA,NA,NA,NA,No data,ok,13,2
+UAM,UCM,Directed,2239,,,3,NA,NA,NA,NA,NA,NA,No data,ok,13,3
+UAM,Comunidad de Madrid,Directed,2240,,,3,NA,NA,NA,NA,NA,NA,No data,ok,13,4
+UAM,Madri+d,Directed,2241,,,3,NA,NA,NA,NA,NA,NA,No data,ok,13,5
+UAM,Fundación COTEC,Directed,2242,,,3,NA,NA,NA,NA,NA,NA,No data,ok,13,6
+UAM,Impact Hub Madrid,Directed,2243,,,3,NA,NA,NA,NA,NA,NA,No data,ok,13,7
+UAM,CSIC,Directed,2244,,,3,NA,NA,NA,NA,NA,NA,No data,ok,13,8
+UAM,Ayto. Madrid,Directed,2245,,,3,NA,NA,NA,NA,NA,NA,No data,ok,13,9
+UAM,Centro empresas Alcobendas,Directed,2246,,,3,NA,NA,NA,NA,NA,NA,No data,ok,13,10
+MIDE,IBM,Directed,2247,,,3,NA,NA,NA,NA,NA,NA,No data,ok,N14,2
+MIDE,BuildUp! Ferrovial,Directed,2248,,,3,NA,NA,NA,NA,NA,NA,No data,ok,N14,3
+MIDE,UPM,Directed,2249,,,3,NA,NA,NA,NA,NA,NA,No data,ok,N14,4
+MIDE,Tetuan Valley,Directed,2250,,,3,NA,NA,NA,NA,NA,NA,No data,ok,N14,5
+MIDE,Unlimiteck,Directed,2251,,,3,NA,NA,NA,NA,NA,NA,No data,ok,N14,6
+MIDE,Comunidad de Madrid,Directed,2252,,,3,NA,NA,NA,NA,NA,NA,No data,ok,N14,8
+MIDE,MIT,Directed,2253,,,3,NA,NA,NA,NA,NA,NA,No data,ok,N14,9
+MIDE,Impact Hub Madrid,Directed,2254,,,3,NA,NA,NA,NA,NA,NA,No data,ok,N14,10
+Impact Hub Madrid,SB Madrid,Directed,2255,,,3,NA,NA,NA,NA,NA,NA,No data,ok,N26,1
+Impact Hub Madrid,ship2B,Directed,2256,,,3,NA,NA,NA,NA,NA,NA,No data,ok,N26,2
+Impact Hub Madrid,Foro Impacto,Directed,2257,,,3,NA,NA,NA,NA,NA,NA,No data,ok,N26,3
+Impact Hub Madrid,South Summit,Directed,2258,,,3,NA,NA,NA,NA,NA,NA,No data,ok,N26,4
+Impact Hub Madrid,AEF,Directed,2259,,,3,NA,NA,NA,NA,NA,NA,No data,ok,N26,5
+Impact Hub Madrid,Aso. Esp. Startups,Directed,2260,,,3,NA,NA,NA,NA,NA,NA,No data,ok,N26,6
+Impact Hub Madrid,Ayto. Madrid,Directed,2261,,,3,NA,NA,NA,NA,NA,NA,No data,ok,N26,7
+Impact Hub Madrid,B-Corp,Directed,2262,,,3,NA,NA,NA,NA,NA,NA,No data,ok,N26,8
+Impact Hub Madrid,Open Value,Directed,2263,,,3,NA,NA,NA,NA,NA,NA,No data,ok,N26,9
+Impact Hub Madrid,Bridge for Billions,Directed,2264,,,3,NA,NA,NA,NA,NA,NA,No data,ok,N26,10

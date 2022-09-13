@@ -1,0 +1,2707 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="Weight" attr.type="long"/>
+<key id="d1" for="node" attr.name="weight" attr.type="float"/>
+<key id="d0" for="node" attr.name="rol" attr.type="string"/>
+<graph edgedefault="directed"><node id="ASEM">
+  <data key="d0">Vinculador</data>
+  <data key="d1">3.6</data>
+</node>
+<node id="ITESM">
+  <data key="d0">Habilitador</data>
+  <data key="d1">7.2</data>
+</node>
+<node id="FONDESO">
+  <data key="d0">Habilitador</data>
+  <data key="d1">3.8</data>
+</node>
+<node id="UVM">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Hult Prize">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Universidad La Salle">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Universia">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Global Shapers">
+  <data key="d0">Comunidad</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="Seedstars">
+  <data key="d0">Habilitador</data>
+  <data key="d1">3.4</data>
+</node>
+<node id="Le Wagon">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="EPIC LAB">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Posible">
+  <data key="d0">Habilitador</data>
+  <data key="d1">4.2</data>
+</node>
+<node id="ALEB Investments">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="LAVCA">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="UNAM">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">3.2</data>
+</node>
+<node id="WeWork Labs">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Dila Capital">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="AEM">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="COPARMEX">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="U. Anáhuac">
+  <data key="d0">Habilitador</data>
+  <data key="d1">5.0</data>
+</node>
+<node id="BlueBox">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Startup Chile">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="UDD">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Epic Queen">
+  <data key="d0">Comunidad</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Co-Madre">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Startup México">
+  <data key="d0">Habilitador</data>
+  <data key="d1">3.2</data>
+</node>
+<node id="COLATAM">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="COW">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="AMEXCAP">
+  <data key="d0">Vinculador</data>
+  <data key="d1">6.6</data>
+</node>
+<node id="Magical Startups">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Wayra">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="Homework">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Enlace+">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Comunidad IoTinkerers">
+  <data key="d0">Comunidad</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Fablab CDMX">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Startup Weekend">
+  <data key="d0">Comunidad</data>
+  <data key="d1">7.4</data>
+</node>
+<node id="Talent Land">
+  <data key="d0">Habilitador</data>
+  <data key="d1">3.6</data>
+</node>
+<node id="Ronin PR Mexico">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Accenture">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="Finnovista">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="SEDECO CDMX">
+  <data key="d0">Articulador</data>
+  <data key="d1">2.8</data>
+</node>
+<node id="FCCyT">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="UAM Cuajimalpa">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Intel">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Fortune">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Revista Investigación y Desarrollo">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="UAM">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="Comunicación social CDMX">
+  <data key="d0">Promotor</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Nuance">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Wizeline">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="IBM">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Oracle">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Mercado Libre">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Uber">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="YouTube">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="INADEM">
+  <data key="d0">Articulador</data>
+  <data key="d1">20.8</data>
+</node>
+<node id="AWS">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="Canal 21">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="El Economista">
+  <data key="d0">Promotor</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="Adobe Capital">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="Amazon">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="Disruptivo TV">
+  <data key="d0">Promotor</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="El Financiero">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Laboratoria">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Victoria147">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="SDSN México">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="Makesense">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="FLDM">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="MITEF México">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="IODEMC">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="TechnoPoli">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Gob Qro">
+  <data key="d0">Articulador</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="Gob Tam">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Impulsa">
+  <data key="d0">Habilitador</data>
+  <data key="d1">3.0</data>
+</node>
+<node id="TrepCamp">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="Angel Ventures">
+  <data key="d0">Habilitador</data>
+  <data key="d1">3.0</data>
+</node>
+<node id="Haz La Lucha">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="C2 Montréal">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Mountain Nazca">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Santander Universidades">
+  <data key="d0">Habilitador</data>
+  <data key="d1">5.6</data>
+</node>
+<node id="CIEBT-IPN">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="EY">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="LabCDMX">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="iLab">
+  <data key="d0">Vinculador</data>
+  <data key="d1">3.2</data>
+</node>
+<node id="GIZ">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Microsoft">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Gob. México">
+  <data key="d0">Articulador</data>
+  <data key="d1">4.0</data>
+</node>
+<node id="UMA">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="ASELA">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="BID">
+  <data key="d0">Habilitador</data>
+  <data key="d1">8.6</data>
+</node>
+<node id="Facebook">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.8</data>
+</node>
+<node id="Catapulta">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="PwC">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Visa">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="CCMX">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="InnovaUNAM">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Gob Nuevo Laredo">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="SCT">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="G2">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Scotiabank">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="TecNM">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="Google for Startups">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="SICyT Jalisco">
+  <data key="d0">Articulador</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="ALTEC">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Jefatura GCDMX">
+  <data key="d0">Articulador</data>
+  <data key="d1">3.8</data>
+</node>
+<node id="Banregio">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="CONACYT">
+  <data key="d0">Articulador</data>
+  <data key="d1">3.2</data>
+</node>
+<node id="500 Startups">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="Senado">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="WND">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="Distrito Emprendedor">
+  <data key="d0">Habilitador</data>
+  <data key="d1">3.2</data>
+</node>
+<node id="UNAM Facultad de Química">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="SAP">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="H/F">
+  <data key="d0">Comunidad</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="RAMPA">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Gob Gto">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="IBT UNAM">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="UP">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="MassChallenge">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="MSICT">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="SEP">
+  <data key="d0">Articulador</data>
+  <data key="d1">3.4</data>
+</node>
+<node id="Wild">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="ITAM">
+  <data key="d0">Habilitador</data>
+  <data key="d1">3.6</data>
+</node>
+<node id="Fiinlab">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="CORFO">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="WEF">
+  <data key="d0">Vinculador</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="EBC">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="Santander">
+  <data key="d0">Habilitador</data>
+  <data key="d1">11.6</data>
+</node>
+<node id="ANUIES">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Dalus">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="AMCDPE">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.4</data>
+</node>
+<node id="Variv Capital">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="Imagine Lab">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Deloitte">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="InBIA">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="IMP">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Konedtitud">
+  <data key="d0">Comunidad</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="ALLVP">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="BBVA Open Innovation">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="Martin Trust MIT">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="Venture Well">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="FUNIBER">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="UNINI">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Entrepreneur">
+  <data key="d0">Promotor</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="EMPATITIS">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="NAFIN">
+  <data key="d0">Habilitador</data>
+  <data key="d1">5.8</data>
+</node>
+<node id="BID Invest">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="BID Lab">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CAF">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Capria">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="DEG">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="FDF">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="Mexico Ventures">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="PROPARCO">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Chrysalis">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="ESMEX">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Startup Grind">
+  <data key="d0">Comunidad</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="CIC UNAM">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="BANCOMEXT">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="SE">
+  <data key="d0">Articulador</data>
+  <data key="d1">6.6</data>
+</node>
+<node id="AMEXCID">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Banco Bienestar">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Bimbo">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="CANACINTRA">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CICE-BUAP">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Dharma">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Everis">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="KDI">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Micochinito">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="RedEmprendia">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="Samsung">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Bain &amp; Co">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Capital Invent">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CENTRO">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="Endeavor">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.8</data>
+</node>
+<node id="GBM">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="ICEM">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Sperentia">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Citibanamex">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="EGADE">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Fundación Televisa">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.6</data>
+</node>
+<node id="MIA">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Televisa">
+  <data key="d0">Promotor</data>
+  <data key="d1">2.6</data>
+</node>
+<node id="C Minds">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CCE">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Nexos">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Radio Fórmula">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="WeWork">
+  <data key="d0">Habilitador</data>
+  <data key="d1">3.0</data>
+</node>
+<node id="Ashoka">
+  <data key="d0">Habilitador</data>
+  <data key="d1">4.0</data>
+</node>
+<node id="Cinépolis">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Continental">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="eMerge Americas">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="FEMSA">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Fintech México">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="FuckUp Nights">
+  <data key="d0">Comunidad</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Google México">
+  <data key="d0">Habilitador</data>
+  <data key="d1">4.6</data>
+</node>
+<node id="Hacking Health">
+  <data key="d0">Comunidad</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Heineken">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="INCmty">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Play Business">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Sistema B">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Startup Essentials">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="StartupBus">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Supter">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Zona Ei ITESM">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Dynatrace">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Failure Institute">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Forbes México">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Grupo Expansión">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Open Sandbox">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Social Media Week">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="WeXchange">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Banxico">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="FIMPES">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Fomento Geek">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="IFTF">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Chivas Venture">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="DB Academy">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="FLIX">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="GEN">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Genome">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="IME">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="IOS Offices">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="IPADE">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="SEDECO GTO">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="SEDECO QRO">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Shark Tank">
+  <data key="d0">Promotor</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="South Summit">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="SVX">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Agora">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="AIIMX">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="ANDE">
+  <data key="d0">Vinculador</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="Biofin">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Capital Institute">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Co Capital">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="El Buen Socio">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Grupo Paisano">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="GSG">
+  <data key="d0">Vinculador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Impact Hub">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Pomona Impact">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="PSM">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.2</data>
+</node>
+<node id="Unreasonable México">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Gob BajaCalifornia">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Gob BajaCaliforniaSur">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Gob Chihuahua">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Gob Coahuila">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Gob Guerrero">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Gob Jalisco">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Gob Nayarit">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Gob Sonora">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="BBVA">
+  <data key="d0">Habilitador</data>
+  <data key="d1">3.2</data>
+</node>
+<node id="Cleantech Labs CDMX">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Cenapyme">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="Fundación Telefónica">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="BEDU">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CCEMx">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Santander X">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="AngelHack">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Apolo25">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Startup Gdl">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="MCM">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Cervantes Sainz">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Compartamos Banco">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="IFT">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Exitus Capital">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Grupo Salinas">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Alacrity">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="SECTEI">
+  <data key="d0">Articulador</data>
+  <data key="d1">0.2</data>
+</node>
+<node id="Ignia">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="HSBC">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CFI">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.4</data>
+</node>
+<node id="FOMIN">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="FRockefeller">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="JP Morgan">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Omidyar">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="Soros">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="KVIC">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Latinia">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="AT&amp;T">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="CISCO">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Dux Capital">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="Bancoldex">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="FIDBAN">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Universidad de Salamanca">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Fundación Citi">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="FINANZAS CDMX">
+  <data key="d0">Articulador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="CONCAMIN">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="IPN">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">0.8</data>
+</node>
+<node id="ProEmpleo">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="New Ventures">
+  <data key="d0">Habilitador</data>
+  <data key="d1">4.6</data>
+</node>
+<node id="AcelerA">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Aliat Universidades">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Unboxed">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Banorte">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Rainmaking">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Colony">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.0</data>
+</node>
+<node id="Techstars">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="IEEGL ITESM">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="World Resources Institute">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">1.0</data>
+</node>
+<edge source="ASEM" target="ITESM">
+  <data key="d2">5</data>
+</edge>
+<edge source="ASEM" target="Ronin PR Mexico">
+  <data key="d2">1</data>
+</edge>
+<edge source="ASEM" target="FLDM">
+  <data key="d2">4</data>
+</edge>
+<edge source="ASEM" target="Senado">
+  <data key="d2">5</data>
+</edge>
+<edge source="ASEM" target="CCMX">
+  <data key="d2">5</data>
+</edge>
+<edge source="ASEM" target="Homework">
+  <data key="d2">3</data>
+</edge>
+<edge source="ASEM" target="CENTRO">
+  <data key="d2">4</data>
+</edge>
+<edge source="ASEM" target="Cervantes Sainz">
+  <data key="d2">5</data>
+</edge>
+<edge source="ASEM" target="Santander">
+  <data key="d2">5</data>
+</edge>
+<edge source="ITESM" target="500 Startups">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITESM" target="AMEXCAP">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITESM" target="ASEM">
+  <data key="d2">1</data>
+</edge>
+<edge source="ITESM" target="Ashoka">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITESM" target="AWS">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITESM" target="BID">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITESM" target="Cinépolis">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITESM" target="Continental">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITESM" target="COW">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITESM" target="eMerge Americas">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITESM" target="Endeavor">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITESM" target="FEMSA">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITESM" target="Fintech México">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITESM" target="FuckUp Nights">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITESM" target="Google for Startups">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITESM" target="Google México">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITESM" target="Hacking Health">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITESM" target="Heineken">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITESM" target="IBM">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITESM" target="INADEM">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITESM" target="INCmty">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITESM" target="Play Business">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITESM" target="Seedstars">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITESM" target="Sistema B">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITESM" target="Startup Essentials">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITESM" target="StartupBus">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITESM" target="Supter">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITESM" target="TrepCamp">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITESM" target="Variv Capital">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITESM" target="Zona Ei ITESM">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITESM" target="CCMX">
+  <data key="d2">1</data>
+</edge>
+<edge source="FONDESO" target="UVM">
+  <data key="d2">1</data>
+</edge>
+<edge source="FONDESO" target="Canal 21">
+  <data key="d2">4</data>
+</edge>
+<edge source="FONDESO" target="El Economista">
+  <data key="d2">4</data>
+</edge>
+<edge source="FONDESO" target="UAM">
+  <data key="d2">1</data>
+</edge>
+<edge source="FONDESO" target="Distrito Emprendedor">
+  <data key="d2">5</data>
+</edge>
+<edge source="FONDESO" target="FINANZAS CDMX">
+  <data key="d2">5</data>
+</edge>
+<edge source="FONDESO" target="SEDECO CDMX">
+  <data key="d2">5</data>
+</edge>
+<edge source="FONDESO" target="IPN">
+  <data key="d2">4</data>
+</edge>
+<edge source="FONDESO" target="UNAM">
+  <data key="d2">4</data>
+</edge>
+<edge source="FONDESO" target="ProEmpleo">
+  <data key="d2">5</data>
+</edge>
+<edge source="FONDESO" target="TrepCamp">
+  <data key="d2">1</data>
+</edge>
+<edge source="FONDESO" target="Impulsa">
+  <data key="d2">1</data>
+</edge>
+<edge source="FONDESO" target="Cleantech Labs CDMX">
+  <data key="d2">1</data>
+</edge>
+<edge source="FONDESO" target="Jefatura GCDMX">
+  <data key="d2">5</data>
+</edge>
+<edge source="UVM" target="NAFIN">
+  <data key="d2">5</data>
+</edge>
+<edge source="UVM" target="INADEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="UVM" target="SE">
+  <data key="d2">5</data>
+</edge>
+<edge source="Hult Prize" target="Universidad La Salle">
+  <data key="d2">3</data>
+</edge>
+<edge source="Universidad La Salle" target="COW">
+  <data key="d2">3</data>
+</edge>
+<edge source="Universidad La Salle" target="SDSN México">
+  <data key="d2">4</data>
+</edge>
+<edge source="Universidad La Salle" target="ITESM">
+  <data key="d2">3</data>
+</edge>
+<edge source="Universidad La Salle" target="Entrepreneur">
+  <data key="d2">5</data>
+</edge>
+<edge source="Universidad La Salle" target="Seedstars">
+  <data key="d2">3</data>
+</edge>
+<edge source="Universidad La Salle" target="Startup México">
+  <data key="d2">3</data>
+</edge>
+<edge source="Universidad La Salle" target="Impulsa">
+  <data key="d2">5</data>
+</edge>
+<edge source="Universidad La Salle" target="Google México">
+  <data key="d2">2</data>
+</edge>
+<edge source="Universidad La Salle" target="WeWork">
+  <data key="d2">2</data>
+</edge>
+<edge source="Universidad La Salle" target="Facebook">
+  <data key="d2">5</data>
+</edge>
+<edge source="Universidad La Salle" target="INADEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="Universidad La Salle" target="Santander Universidades">
+  <data key="d2">5</data>
+</edge>
+<edge source="Universia" target="Universidad La Salle">
+  <data key="d2">3</data>
+</edge>
+<edge source="Global Shapers" target="Seedstars">
+  <data key="d2">3</data>
+</edge>
+<edge source="Global Shapers" target="C Minds">
+  <data key="d2">3</data>
+</edge>
+<edge source="Global Shapers" target="CCE">
+  <data key="d2">3</data>
+</edge>
+<edge source="Global Shapers" target="MIA">
+  <data key="d2">3</data>
+</edge>
+<edge source="Global Shapers" target="Nexos">
+  <data key="d2">3</data>
+</edge>
+<edge source="Global Shapers" target="Radio Fórmula">
+  <data key="d2">3</data>
+</edge>
+<edge source="Global Shapers" target="Senado">
+  <data key="d2">3</data>
+</edge>
+<edge source="Global Shapers" target="WeWork">
+  <data key="d2">3</data>
+</edge>
+<edge source="Global Shapers" target="WEF">
+  <data key="d2">5</data>
+</edge>
+<edge source="Seedstars" target="AWS">
+  <data key="d2">3</data>
+</edge>
+<edge source="Seedstars" target="H/F">
+  <data key="d2">5</data>
+</edge>
+<edge source="Seedstars" target="RAMPA">
+  <data key="d2">5</data>
+</edge>
+<edge source="Seedstars" target="BBVA">
+  <data key="d2">5</data>
+</edge>
+<edge source="Seedstars" target="Startup Gdl">
+  <data key="d2">3</data>
+</edge>
+<edge source="Seedstars" target="Colony">
+  <data key="d2">5</data>
+</edge>
+<edge source="Le Wagon" target="EPIC LAB">
+  <data key="d2">5</data>
+</edge>
+<edge source="EPIC LAB" target="Distrito Emprendedor">
+  <data key="d2">5</data>
+</edge>
+<edge source="EPIC LAB" target="UNAM Facultad de Química">
+  <data key="d2">5</data>
+</edge>
+<edge source="EPIC LAB" target="ALLVP">
+  <data key="d2">5</data>
+</edge>
+<edge source="EPIC LAB" target="Angel Ventures">
+  <data key="d2">5</data>
+</edge>
+<edge source="EPIC LAB" target="BBVA Open Innovation">
+  <data key="d2">5</data>
+</edge>
+<edge source="EPIC LAB" target="Martin Trust MIT">
+  <data key="d2">5</data>
+</edge>
+<edge source="EPIC LAB" target="Venture Well">
+  <data key="d2">5</data>
+</edge>
+<edge source="EPIC LAB" target="Bain &amp; Co">
+  <data key="d2">3</data>
+</edge>
+<edge source="EPIC LAB" target="Capital Invent">
+  <data key="d2">3</data>
+</edge>
+<edge source="EPIC LAB" target="CENTRO">
+  <data key="d2">3</data>
+</edge>
+<edge source="EPIC LAB" target="Endeavor">
+  <data key="d2">3</data>
+</edge>
+<edge source="EPIC LAB" target="Everis">
+  <data key="d2">3</data>
+</edge>
+<edge source="EPIC LAB" target="GBM">
+  <data key="d2">3</data>
+</edge>
+<edge source="EPIC LAB" target="ICEM">
+  <data key="d2">3</data>
+</edge>
+<edge source="EPIC LAB" target="INADEM">
+  <data key="d2">3</data>
+</edge>
+<edge source="EPIC LAB" target="MassChallenge">
+  <data key="d2">3</data>
+</edge>
+<edge source="EPIC LAB" target="Posible">
+  <data key="d2">3</data>
+</edge>
+<edge source="EPIC LAB" target="Sperentia">
+  <data key="d2">3</data>
+</edge>
+<edge source="EPIC LAB" target="UAM Cuajimalpa">
+  <data key="d2">3</data>
+</edge>
+<edge source="EPIC LAB" target="ITAM">
+  <data key="d2">5</data>
+</edge>
+<edge source="Posible" target="Universidad La Salle">
+  <data key="d2">5</data>
+</edge>
+<edge source="Posible" target="Fundación Televisa">
+  <data key="d2">5</data>
+</edge>
+<edge source="ALEB Investments" target="LAVCA">
+  <data key="d2">1</data>
+</edge>
+<edge source="ALEB Investments" target="UNAM">
+  <data key="d2">1</data>
+</edge>
+<edge source="ALEB Investments" target="AEM">
+  <data key="d2">3</data>
+</edge>
+<edge source="ALEB Investments" target="COPARMEX">
+  <data key="d2">3</data>
+</edge>
+<edge source="ALEB Investments" target="U. Anáhuac">
+  <data key="d2">3</data>
+</edge>
+<edge source="ALEB Investments" target="AMEXCAP">
+  <data key="d2">5</data>
+</edge>
+<edge source="ALEB Investments" target="Startup México">
+  <data key="d2">3</data>
+</edge>
+<edge source="ALEB Investments" target="INADEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="ALEB Investments" target="NAFIN">
+  <data key="d2">5</data>
+</edge>
+<edge source="UNAM" target="Santander Universidades">
+  <data key="d2">4</data>
+</edge>
+<edge source="UNAM" target="Santander">
+  <data key="d2">5</data>
+</edge>
+<edge source="UNAM" target="INADEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="WeWork Labs" target="Dila Capital">
+  <data key="d2">2</data>
+</edge>
+<edge source="WeWork Labs" target="Google for Startups">
+  <data key="d2">2</data>
+</edge>
+<edge source="WeWork Labs" target="Startup Weekend">
+  <data key="d2">2</data>
+</edge>
+<edge source="WeWork Labs" target="500 Startups">
+  <data key="d2">4</data>
+</edge>
+<edge source="WeWork Labs" target="Dalus">
+  <data key="d2">1</data>
+</edge>
+<edge source="WeWork Labs" target="Facebook">
+  <data key="d2">1</data>
+</edge>
+<edge source="WeWork Labs" target="Variv Capital">
+  <data key="d2">2</data>
+</edge>
+<edge source="WeWork Labs" target="WeWork">
+  <data key="d2">5</data>
+</edge>
+<edge source="Dila Capital" target="Angel Ventures">
+  <data key="d2">2</data>
+</edge>
+<edge source="Dila Capital" target="FDF">
+  <data key="d2">5</data>
+</edge>
+<edge source="Dila Capital" target="INADEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="U. Anáhuac" target="Startup México">
+  <data key="d2">4</data>
+</edge>
+<edge source="U. Anáhuac" target="BID">
+  <data key="d2">5</data>
+</edge>
+<edge source="U. Anáhuac" target="INADEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="BlueBox" target="Startup Chile">
+  <data key="d2">3</data>
+</edge>
+<edge source="BlueBox" target="UDD">
+  <data key="d2">3</data>
+</edge>
+<edge source="BlueBox" target="AMEXCAP">
+  <data key="d2">4</data>
+</edge>
+<edge source="BlueBox" target="Magical Startups">
+  <data key="d2">4</data>
+</edge>
+<edge source="BlueBox" target="Wayra">
+  <data key="d2">4</data>
+</edge>
+<edge source="BlueBox" target="LAVCA">
+  <data key="d2">3</data>
+</edge>
+<edge source="BlueBox" target="Imagine Lab">
+  <data key="d2">4</data>
+</edge>
+<edge source="BlueBox" target="ITAM">
+  <data key="d2">4</data>
+</edge>
+<edge source="BlueBox" target="Chrysalis">
+  <data key="d2">3</data>
+</edge>
+<edge source="BlueBox" target="CORFO">
+  <data key="d2">5</data>
+</edge>
+<edge source="BlueBox" target="INADEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="BlueBox" target="NAFIN">
+  <data key="d2">5</data>
+</edge>
+<edge source="Epic Queen" target="Co-Madre">
+  <data key="d2">3</data>
+</edge>
+<edge source="Epic Queen" target="500 Startups">
+  <data key="d2">3</data>
+</edge>
+<edge source="Epic Queen" target="Amazon">
+  <data key="d2">3</data>
+</edge>
+<edge source="Epic Queen" target="BBVA Open Innovation">
+  <data key="d2">3</data>
+</edge>
+<edge source="Epic Queen" target="Citibanamex">
+  <data key="d2">3</data>
+</edge>
+<edge source="Epic Queen" target="EGADE">
+  <data key="d2">3</data>
+</edge>
+<edge source="Epic Queen" target="Fundación Televisa">
+  <data key="d2">3</data>
+</edge>
+<edge source="Epic Queen" target="ITESM">
+  <data key="d2">3</data>
+</edge>
+<edge source="Epic Queen" target="Martin Trust MIT">
+  <data key="d2">3</data>
+</edge>
+<edge source="Epic Queen" target="MIA">
+  <data key="d2">3</data>
+</edge>
+<edge source="Epic Queen" target="Posible">
+  <data key="d2">3</data>
+</edge>
+<edge source="Epic Queen" target="Televisa">
+  <data key="d2">3</data>
+</edge>
+<edge source="Epic Queen" target="Uber">
+  <data key="d2">3</data>
+</edge>
+<edge source="Epic Queen" target="Google México">
+  <data key="d2">5</data>
+</edge>
+<edge source="Epic Queen" target="Wayra">
+  <data key="d2">2</data>
+</edge>
+<edge source="Startup México" target="COLATAM">
+  <data key="d2">3</data>
+</edge>
+<edge source="Startup México" target="UNAM">
+  <data key="d2">4</data>
+</edge>
+<edge source="Startup México" target="Gob Gto">
+  <data key="d2">5</data>
+</edge>
+<edge source="Startup México" target="Gob Qro">
+  <data key="d2">5</data>
+</edge>
+<edge source="Startup México" target="Amazon">
+  <data key="d2">3</data>
+</edge>
+<edge source="Startup México" target="AMEXCAP">
+  <data key="d2">3</data>
+</edge>
+<edge source="Startup México" target="Angel Ventures">
+  <data key="d2">3</data>
+</edge>
+<edge source="Startup México" target="Bimbo">
+  <data key="d2">3</data>
+</edge>
+<edge source="Startup México" target="Chivas Venture">
+  <data key="d2">3</data>
+</edge>
+<edge source="Startup México" target="DB Academy">
+  <data key="d2">5</data>
+</edge>
+<edge source="Startup México" target="Facebook">
+  <data key="d2">3</data>
+</edge>
+<edge source="Startup México" target="FLIX">
+  <data key="d2">3</data>
+</edge>
+<edge source="Startup México" target="GEN">
+  <data key="d2">3</data>
+</edge>
+<edge source="Startup México" target="Genome">
+  <data key="d2">3</data>
+</edge>
+<edge source="Startup México" target="Google México">
+  <data key="d2">3</data>
+</edge>
+<edge source="Startup México" target="IME">
+  <data key="d2">3</data>
+</edge>
+<edge source="Startup México" target="INADEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="Startup México" target="IODEMC">
+  <data key="d2">3</data>
+</edge>
+<edge source="Startup México" target="IOS Offices">
+  <data key="d2">3</data>
+</edge>
+<edge source="Startup México" target="IPADE">
+  <data key="d2">3</data>
+</edge>
+<edge source="Startup México" target="Oracle">
+  <data key="d2">3</data>
+</edge>
+<edge source="Startup México" target="SEDECO GTO">
+  <data key="d2">3</data>
+</edge>
+<edge source="Startup México" target="SEDECO QRO">
+  <data key="d2">3</data>
+</edge>
+<edge source="Startup México" target="Shark Tank">
+  <data key="d2">3</data>
+</edge>
+<edge source="Startup México" target="South Summit">
+  <data key="d2">3</data>
+</edge>
+<edge source="Startup México" target="Talent Land">
+  <data key="d2">3</data>
+</edge>
+<edge source="Startup México" target="Wayra">
+  <data key="d2">3</data>
+</edge>
+<edge source="Startup México" target="MCM">
+  <data key="d2">4</data>
+</edge>
+<edge source="Startup México" target="Dux Capital">
+  <data key="d2">4</data>
+</edge>
+<edge source="AMEXCAP" target="EPIC LAB">
+  <data key="d2">5</data>
+</edge>
+<edge source="Homework" target="Enlace+">
+  <data key="d2">4</data>
+</edge>
+<edge source="Homework" target="INADEM">
+  <data key="d2">3</data>
+</edge>
+<edge source="Homework" target="Disruptivo TV">
+  <data key="d2">4</data>
+</edge>
+<edge source="Homework" target="U. Anáhuac">
+  <data key="d2">3</data>
+</edge>
+<edge source="Homework" target="Posible">
+  <data key="d2">4</data>
+</edge>
+<edge source="Comunidad IoTinkerers" target="ASEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="Comunidad IoTinkerers" target="Fablab CDMX">
+  <data key="d2">5</data>
+</edge>
+<edge source="Comunidad IoTinkerers" target="Startup Weekend">
+  <data key="d2">5</data>
+</edge>
+<edge source="Comunidad IoTinkerers" target="Talent Land">
+  <data key="d2">5</data>
+</edge>
+<edge source="Comunidad IoTinkerers" target="WND">
+  <data key="d2">5</data>
+</edge>
+<edge source="Comunidad IoTinkerers" target="Konedtitud">
+  <data key="d2">5</data>
+</edge>
+<edge source="Comunidad IoTinkerers" target="EBC">
+  <data key="d2">5</data>
+</edge>
+<edge source="Comunidad IoTinkerers" target="Seedstars">
+  <data key="d2">5</data>
+</edge>
+<edge source="Comunidad IoTinkerers" target="INADEM">
+  <data key="d2">4</data>
+</edge>
+<edge source="Startup Weekend" target="Catapulta">
+  <data key="d2">5</data>
+</edge>
+<edge source="Talent Land" target="Epic Queen">
+  <data key="d2">4</data>
+</edge>
+<edge source="Talent Land" target="UAM">
+  <data key="d2">3</data>
+</edge>
+<edge source="Ronin PR Mexico" target="El Economista">
+  <data key="d2">4</data>
+</edge>
+<edge source="Ronin PR Mexico" target="El Financiero">
+  <data key="d2">4</data>
+</edge>
+<edge source="Ronin PR Mexico" target="ALLVP">
+  <data key="d2">3</data>
+</edge>
+<edge source="Ronin PR Mexico" target="Dynatrace">
+  <data key="d2">3</data>
+</edge>
+<edge source="Ronin PR Mexico" target="Endeavor">
+  <data key="d2">3</data>
+</edge>
+<edge source="Ronin PR Mexico" target="Entrepreneur">
+  <data key="d2">3</data>
+</edge>
+<edge source="Ronin PR Mexico" target="Failure Institute">
+  <data key="d2">3</data>
+</edge>
+<edge source="Ronin PR Mexico" target="Forbes México">
+  <data key="d2">3</data>
+</edge>
+<edge source="Ronin PR Mexico" target="Grupo Expansión">
+  <data key="d2">3</data>
+</edge>
+<edge source="Ronin PR Mexico" target="Open Sandbox">
+  <data key="d2">3</data>
+</edge>
+<edge source="Ronin PR Mexico" target="Social Media Week">
+  <data key="d2">3</data>
+</edge>
+<edge source="Ronin PR Mexico" target="Talent Land">
+  <data key="d2">3</data>
+</edge>
+<edge source="Ronin PR Mexico" target="WeXchange">
+  <data key="d2">3</data>
+</edge>
+<edge source="Ronin PR Mexico" target="Santander">
+  <data key="d2">5</data>
+</edge>
+<edge source="Ronin PR Mexico" target="Startup Weekend">
+  <data key="d2">5</data>
+</edge>
+<edge source="Accenture" target="Finnovista">
+  <data key="d2">2</data>
+</edge>
+<edge source="Finnovista" target="Banregio">
+  <data key="d2">4</data>
+</edge>
+<edge source="Finnovista" target="HSBC">
+  <data key="d2">3</data>
+</edge>
+<edge source="Finnovista" target="Scotiabank">
+  <data key="d2">3</data>
+</edge>
+<edge source="Finnovista" target="Ignia">
+  <data key="d2">4</data>
+</edge>
+<edge source="Finnovista" target="Latinia">
+  <data key="d2">4</data>
+</edge>
+<edge source="Finnovista" target="BBVA">
+  <data key="d2">5</data>
+</edge>
+<edge source="Finnovista" target="Rainmaking">
+  <data key="d2">5</data>
+</edge>
+<edge source="Finnovista" target="BID">
+  <data key="d2">5</data>
+</edge>
+<edge source="SEDECO CDMX" target="Startup México">
+  <data key="d2">3</data>
+</edge>
+<edge source="SEDECO CDMX" target="UAM">
+  <data key="d2">3</data>
+</edge>
+<edge source="FCCyT" target="UAM Cuajimalpa">
+  <data key="d2">3</data>
+</edge>
+<edge source="UAM Cuajimalpa" target="IBT UNAM">
+  <data key="d2">5</data>
+</edge>
+<edge source="UAM Cuajimalpa" target="Santander">
+  <data key="d2">1</data>
+</edge>
+<edge source="UAM Cuajimalpa" target="CONACYT">
+  <data key="d2">4</data>
+</edge>
+<edge source="Intel" target="Fortune">
+  <data key="d2">4</data>
+</edge>
+<edge source="Fortune" target="IBM">
+  <data key="d2">2</data>
+</edge>
+<edge source="Fortune" target="Oracle">
+  <data key="d2">2</data>
+</edge>
+<edge source="Fortune" target="Mercado Libre">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fortune" target="Uber">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fortune" target="YouTube">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fortune" target="Adobe Capital">
+  <data key="d2">4</data>
+</edge>
+<edge source="Fortune" target="Amazon">
+  <data key="d2">4</data>
+</edge>
+<edge source="Fortune" target="Deloitte">
+  <data key="d2">4</data>
+</edge>
+<edge source="Fortune" target="Bimbo">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fortune" target="Televisa">
+  <data key="d2">5</data>
+</edge>
+<edge source="Revista Investigación y Desarrollo" target="UAM">
+  <data key="d2">4</data>
+</edge>
+<edge source="UAM" target="Impulsa">
+  <data key="d2">5</data>
+</edge>
+<edge source="UAM" target="TrepCamp">
+  <data key="d2">5</data>
+</edge>
+<edge source="UAM" target="Startup México">
+  <data key="d2">2</data>
+</edge>
+<edge source="UAM" target="ALTEC">
+  <data key="d2">3</data>
+</edge>
+<edge source="UAM" target="Jefatura GCDMX">
+  <data key="d2">3</data>
+</edge>
+<edge source="UAM" target="CONACYT">
+  <data key="d2">4</data>
+</edge>
+<edge source="UAM" target="IMP">
+  <data key="d2">4</data>
+</edge>
+<edge source="UAM" target="Cleantech Labs CDMX">
+  <data key="d2">4</data>
+</edge>
+<edge source="UAM" target="Santander">
+  <data key="d2">5</data>
+</edge>
+<edge source="UAM" target="Santander Universidades">
+  <data key="d2">5</data>
+</edge>
+<edge source="Comunicación social CDMX" target="FONDESO">
+  <data key="d2">5</data>
+</edge>
+<edge source="Nuance" target="Ronin PR Mexico">
+  <data key="d2">5</data>
+</edge>
+<edge source="Wizeline" target="Ronin PR Mexico">
+  <data key="d2">5</data>
+</edge>
+<edge source="INADEM" target="CIEBT-IPN">
+  <data key="d2">3</data>
+</edge>
+<edge source="INADEM" target="IODEMC">
+  <data key="d2">1</data>
+</edge>
+<edge source="INADEM" target="MITEF México">
+  <data key="d2">1</data>
+</edge>
+<edge source="INADEM" target="MassChallenge">
+  <data key="d2">1</data>
+</edge>
+<edge source="Adobe Capital" target="BID Invest">
+  <data key="d2">3</data>
+</edge>
+<edge source="Adobe Capital" target="BID Lab">
+  <data key="d2">3</data>
+</edge>
+<edge source="Adobe Capital" target="CAF">
+  <data key="d2">3</data>
+</edge>
+<edge source="Adobe Capital" target="Capria">
+  <data key="d2">3</data>
+</edge>
+<edge source="Adobe Capital" target="DEG">
+  <data key="d2">3</data>
+</edge>
+<edge source="Adobe Capital" target="FDF">
+  <data key="d2">3</data>
+</edge>
+<edge source="Adobe Capital" target="Mexico Ventures">
+  <data key="d2">3</data>
+</edge>
+<edge source="Adobe Capital" target="NAFIN">
+  <data key="d2">3</data>
+</edge>
+<edge source="Adobe Capital" target="PROPARCO">
+  <data key="d2">3</data>
+</edge>
+<edge source="Adobe Capital" target="New Ventures">
+  <data key="d2">5</data>
+</edge>
+<edge source="Laboratoria" target="Victoria147">
+  <data key="d2">1</data>
+</edge>
+<edge source="Laboratoria" target="SAP">
+  <data key="d2">5</data>
+</edge>
+<edge source="Laboratoria" target="AT&amp;T">
+  <data key="d2">4</data>
+</edge>
+<edge source="Laboratoria" target="CISCO">
+  <data key="d2">4</data>
+</edge>
+<edge source="Laboratoria" target="Fundación Citi">
+  <data key="d2">5</data>
+</edge>
+<edge source="Laboratoria" target="Google México">
+  <data key="d2">5</data>
+</edge>
+<edge source="Laboratoria" target="Citibanamex">
+  <data key="d2">5</data>
+</edge>
+<edge source="SDSN México" target="Makesense">
+  <data key="d2">3</data>
+</edge>
+<edge source="SDSN México" target="Gob. México">
+  <data key="d2">5</data>
+</edge>
+<edge source="MITEF México" target="IODEMC">
+  <data key="d2">4</data>
+</edge>
+<edge source="MITEF México" target="SICyT Jalisco">
+  <data key="d2">5</data>
+</edge>
+<edge source="MITEF México" target="MassChallenge">
+  <data key="d2">2</data>
+</edge>
+<edge source="MITEF México" target="INADEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="TechnoPoli" target="Gob Qro">
+  <data key="d2">5</data>
+</edge>
+<edge source="TechnoPoli" target="Gob Tam">
+  <data key="d2">5</data>
+</edge>
+<edge source="TechnoPoli" target="MSICT">
+  <data key="d2">5</data>
+</edge>
+<edge source="TechnoPoli" target="FUNIBER">
+  <data key="d2">5</data>
+</edge>
+<edge source="TechnoPoli" target="UNINI">
+  <data key="d2">5</data>
+</edge>
+<edge source="TechnoPoli" target="Gob BajaCalifornia">
+  <data key="d2">3</data>
+</edge>
+<edge source="TechnoPoli" target="Gob BajaCaliforniaSur">
+  <data key="d2">3</data>
+</edge>
+<edge source="TechnoPoli" target="Gob Chihuahua">
+  <data key="d2">3</data>
+</edge>
+<edge source="TechnoPoli" target="Gob Coahuila">
+  <data key="d2">3</data>
+</edge>
+<edge source="TechnoPoli" target="Gob Guerrero">
+  <data key="d2">3</data>
+</edge>
+<edge source="TechnoPoli" target="Gob Jalisco">
+  <data key="d2">3</data>
+</edge>
+<edge source="TechnoPoli" target="Gob Nayarit">
+  <data key="d2">3</data>
+</edge>
+<edge source="TechnoPoli" target="Gob Sonora">
+  <data key="d2">3</data>
+</edge>
+<edge source="TechnoPoli" target="Gob. México">
+  <data key="d2">5</data>
+</edge>
+<edge source="TechnoPoli" target="SE">
+  <data key="d2">5</data>
+</edge>
+<edge source="Impulsa" target="Santander Universidades">
+  <data key="d2">5</data>
+</edge>
+<edge source="Angel Ventures" target="WeWork Labs">
+  <data key="d2">4</data>
+</edge>
+<edge source="Angel Ventures" target="Variv Capital">
+  <data key="d2">3</data>
+</edge>
+<edge source="Angel Ventures" target="CFI">
+  <data key="d2">4</data>
+</edge>
+<edge source="Angel Ventures" target="KVIC">
+  <data key="d2">4</data>
+</edge>
+<edge source="Angel Ventures" target="Mexico Ventures">
+  <data key="d2">4</data>
+</edge>
+<edge source="Angel Ventures" target="NAFIN">
+  <data key="d2">4</data>
+</edge>
+<edge source="Angel Ventures" target="SE">
+  <data key="d2">4</data>
+</edge>
+<edge source="Angel Ventures" target="Bancoldex">
+  <data key="d2">5</data>
+</edge>
+<edge source="Angel Ventures" target="BID">
+  <data key="d2">5</data>
+</edge>
+<edge source="Angel Ventures" target="Banorte">
+  <data key="d2">5</data>
+</edge>
+<edge source="Haz La Lucha" target="SDSN México">
+  <data key="d2">2</data>
+</edge>
+<edge source="C2 Montréal" target="ALEB Investments">
+  <data key="d2">3</data>
+</edge>
+<edge source="Mountain Nazca" target="Angel Ventures">
+  <data key="d2">3</data>
+</edge>
+<edge source="Mountain Nazca" target="NAFIN">
+  <data key="d2">3</data>
+</edge>
+<edge source="Mountain Nazca" target="INADEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="Mountain Nazca" target="AMEXCAP">
+  <data key="d2">5</data>
+</edge>
+<edge source="Santander Universidades" target="CIEBT-IPN">
+  <data key="d2">1</data>
+</edge>
+<edge source="Santander Universidades" target="ANUIES">
+  <data key="d2">3</data>
+</edge>
+<edge source="Santander Universidades" target="Failure Institute">
+  <data key="d2">3</data>
+</edge>
+<edge source="Santander Universidades" target="FIMPES">
+  <data key="d2">3</data>
+</edge>
+<edge source="Santander Universidades" target="Fomento Geek">
+  <data key="d2">3</data>
+</edge>
+<edge source="Santander Universidades" target="FuckUp Nights">
+  <data key="d2">3</data>
+</edge>
+<edge source="Santander Universidades" target="IFTF">
+  <data key="d2">3</data>
+</edge>
+<edge source="Santander Universidades" target="ITESM">
+  <data key="d2">3</data>
+</edge>
+<edge source="Santander Universidades" target="Universidad La Salle">
+  <data key="d2">1</data>
+</edge>
+<edge source="Santander Universidades" target="Impulsa">
+  <data key="d2">1</data>
+</edge>
+<edge source="Santander Universidades" target="UAM">
+  <data key="d2">1</data>
+</edge>
+<edge source="Santander Universidades" target="Santander">
+  <data key="d2">5</data>
+</edge>
+<edge source="CIEBT-IPN" target="UAM">
+  <data key="d2">3</data>
+</edge>
+<edge source="CIEBT-IPN" target="AMEXCID">
+  <data key="d2">3</data>
+</edge>
+<edge source="CIEBT-IPN" target="Banco Bienestar">
+  <data key="d2">3</data>
+</edge>
+<edge source="CIEBT-IPN" target="Bimbo">
+  <data key="d2">3</data>
+</edge>
+<edge source="CIEBT-IPN" target="CANACINTRA">
+  <data key="d2">3</data>
+</edge>
+<edge source="CIEBT-IPN" target="CICE-BUAP">
+  <data key="d2">3</data>
+</edge>
+<edge source="CIEBT-IPN" target="Dharma">
+  <data key="d2">3</data>
+</edge>
+<edge source="CIEBT-IPN" target="Distrito Emprendedor">
+  <data key="d2">3</data>
+</edge>
+<edge source="CIEBT-IPN" target="Everis">
+  <data key="d2">3</data>
+</edge>
+<edge source="CIEBT-IPN" target="KDI">
+  <data key="d2">3</data>
+</edge>
+<edge source="CIEBT-IPN" target="Micochinito">
+  <data key="d2">3</data>
+</edge>
+<edge source="CIEBT-IPN" target="Microsoft">
+  <data key="d2">3</data>
+</edge>
+<edge source="CIEBT-IPN" target="RedEmprendia">
+  <data key="d2">3</data>
+</edge>
+<edge source="CIEBT-IPN" target="Samsung">
+  <data key="d2">3</data>
+</edge>
+<edge source="CIEBT-IPN" target="U. Anáhuac">
+  <data key="d2">3</data>
+</edge>
+<edge source="CIEBT-IPN" target="FONDESO">
+  <data key="d2">4</data>
+</edge>
+<edge source="CIEBT-IPN" target="CONACYT">
+  <data key="d2">3</data>
+</edge>
+<edge source="CIEBT-IPN" target="FIDBAN">
+  <data key="d2">5</data>
+</edge>
+<edge source="CIEBT-IPN" target="Universidad de Salamanca">
+  <data key="d2">5</data>
+</edge>
+<edge source="CIEBT-IPN" target="SEP">
+  <data key="d2">5</data>
+</edge>
+<edge source="CIEBT-IPN" target="SE">
+  <data key="d2">5</data>
+</edge>
+<edge source="EY" target="Finnovista">
+  <data key="d2">3</data>
+</edge>
+<edge source="LabCDMX" target="Ronin PR Mexico">
+  <data key="d2">3</data>
+</edge>
+<edge source="iLab" target="Santander Universidades">
+  <data key="d2">3</data>
+</edge>
+<edge source="GIZ" target="SDSN México">
+  <data key="d2">3</data>
+</edge>
+<edge source="Microsoft" target="TechnoPoli">
+  <data key="d2">3</data>
+</edge>
+<edge source="Gob. México" target="SDSN México">
+  <data key="d2">1</data>
+</edge>
+<edge source="Gob. México" target="Makesense">
+  <data key="d2">1</data>
+</edge>
+<edge source="UMA" target="Startup México">
+  <data key="d2">4</data>
+</edge>
+<edge source="ASELA" target="ASEM">
+  <data key="d2">1</data>
+</edge>
+<edge source="ASELA" target="ITESM">
+  <data key="d2">1</data>
+</edge>
+<edge source="BID" target="ASEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="BID" target="Finnovista">
+  <data key="d2">5</data>
+</edge>
+<edge source="Facebook" target="ASEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="Catapulta" target="AWS">
+  <data key="d2">3</data>
+</edge>
+<edge source="Catapulta" target="Distrito Emprendedor">
+  <data key="d2">3</data>
+</edge>
+<edge source="Catapulta" target="ESMEX">
+  <data key="d2">3</data>
+</edge>
+<edge source="Catapulta" target="Fiinlab">
+  <data key="d2">3</data>
+</edge>
+<edge source="Catapulta" target="Hult Prize">
+  <data key="d2">3</data>
+</edge>
+<edge source="Catapulta" target="MassChallenge">
+  <data key="d2">3</data>
+</edge>
+<edge source="Catapulta" target="Posible">
+  <data key="d2">3</data>
+</edge>
+<edge source="Catapulta" target="Startup Grind">
+  <data key="d2">3</data>
+</edge>
+<edge source="Catapulta" target="TrepCamp">
+  <data key="d2">3</data>
+</edge>
+<edge source="Catapulta" target="Universia">
+  <data key="d2">3</data>
+</edge>
+<edge source="Catapulta" target="Seedstars">
+  <data key="d2">5</data>
+</edge>
+<edge source="Catapulta" target="Startup Weekend">
+  <data key="d2">5</data>
+</edge>
+<edge source="PwC" target="EPIC LAB">
+  <data key="d2">5</data>
+</edge>
+<edge source="Visa" target="Finnovista">
+  <data key="d2">5</data>
+</edge>
+<edge source="CCMX" target="InnovaUNAM">
+  <data key="d2">5</data>
+</edge>
+<edge source="InnovaUNAM" target="TecNM">
+  <data key="d2">2</data>
+</edge>
+<edge source="InnovaUNAM" target="U. Anáhuac">
+  <data key="d2">4</data>
+</edge>
+<edge source="InnovaUNAM" target="CIEBT-IPN">
+  <data key="d2">3</data>
+</edge>
+<edge source="InnovaUNAM" target="ANUIES">
+  <data key="d2">1</data>
+</edge>
+<edge source="InnovaUNAM" target="AMCDPE">
+  <data key="d2">2</data>
+</edge>
+<edge source="InnovaUNAM" target="Startup México">
+  <data key="d2">2</data>
+</edge>
+<edge source="InnovaUNAM" target="InBIA">
+  <data key="d2">4</data>
+</edge>
+<edge source="InnovaUNAM" target="Ashoka">
+  <data key="d2">3</data>
+</edge>
+<edge source="InnovaUNAM" target="SDSN México">
+  <data key="d2">2</data>
+</edge>
+<edge source="InnovaUNAM" target="ITESM">
+  <data key="d2">3</data>
+</edge>
+<edge source="InnovaUNAM" target="Jefatura GCDMX">
+  <data key="d2">1</data>
+</edge>
+<edge source="InnovaUNAM" target="NAFIN">
+  <data key="d2">1</data>
+</edge>
+<edge source="InnovaUNAM" target="SE">
+  <data key="d2">1</data>
+</edge>
+<edge source="InnovaUNAM" target="SECTEI">
+  <data key="d2">1</data>
+</edge>
+<edge source="InnovaUNAM" target="FONDESO">
+  <data key="d2">3</data>
+</edge>
+<edge source="InnovaUNAM" target="SEDECO CDMX">
+  <data key="d2">3</data>
+</edge>
+<edge source="InnovaUNAM" target="INADEM">
+  <data key="d2">4</data>
+</edge>
+<edge source="InnovaUNAM" target="CONACYT">
+  <data key="d2">5</data>
+</edge>
+<edge source="InnovaUNAM" target="RedEmprendia">
+  <data key="d2">5</data>
+</edge>
+<edge source="InnovaUNAM" target="Santander">
+  <data key="d2">5</data>
+</edge>
+<edge source="InnovaUNAM" target="SEP">
+  <data key="d2">5</data>
+</edge>
+<edge source="Gob Nuevo Laredo" target="Startup México">
+  <data key="d2">5</data>
+</edge>
+<edge source="SCT" target="TechnoPoli">
+  <data key="d2">5</data>
+</edge>
+<edge source="G2" target="WeWork Labs">
+  <data key="d2">5</data>
+</edge>
+<edge source="Scotiabank" target="ITESM">
+  <data key="d2">3</data>
+</edge>
+<edge source="Jefatura GCDMX" target="FONDESO">
+  <data key="d2">1</data>
+</edge>
+<edge source="Jefatura GCDMX" target="SEDECO CDMX">
+  <data key="d2">1</data>
+</edge>
+<edge source="Jefatura GCDMX" target="FINANZAS CDMX">
+  <data key="d2">1</data>
+</edge>
+<edge source="500 Startups" target="Epic Queen">
+  <data key="d2">1</data>
+</edge>
+<edge source="500 Startups" target="Google México">
+  <data key="d2">1</data>
+</edge>
+<edge source="UP" target="iLab">
+  <data key="d2">5</data>
+</edge>
+<edge source="UP" target="EMPATITIS">
+  <data key="d2">5</data>
+</edge>
+<edge source="UP" target="Ashoka">
+  <data key="d2">3</data>
+</edge>
+<edge source="UP" target="BBVA">
+  <data key="d2">3</data>
+</edge>
+<edge source="UP" target="INADEM">
+  <data key="d2">3</data>
+</edge>
+<edge source="UP" target="MITEF México">
+  <data key="d2">3</data>
+</edge>
+<edge source="UP" target="South Summit">
+  <data key="d2">3</data>
+</edge>
+<edge source="UP" target="Startup México">
+  <data key="d2">3</data>
+</edge>
+<edge source="UP" target="New Ventures">
+  <data key="d2">5</data>
+</edge>
+<edge source="UP" target="Santander">
+  <data key="d2">5</data>
+</edge>
+<edge source="MassChallenge" target="Homework">
+  <data key="d2">3</data>
+</edge>
+<edge source="SEP" target="Epic Queen">
+  <data key="d2">2</data>
+</edge>
+<edge source="Wild" target="Homework">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITAM" target="Angel Ventures">
+  <data key="d2">4</data>
+</edge>
+<edge source="Fiinlab" target="Finnovista">
+  <data key="d2">4</data>
+</edge>
+<edge source="CORFO" target="Seedstars">
+  <data key="d2">4</data>
+</edge>
+<edge source="WEF" target="Global Shapers">
+  <data key="d2">5</data>
+</edge>
+<edge source="EBC" target="Seedstars">
+  <data key="d2">5</data>
+</edge>
+<edge source="Santander" target="UVM">
+  <data key="d2">5</data>
+</edge>
+<edge source="Santander" target="Banxico">
+  <data key="d2">3</data>
+</edge>
+<edge source="Santander" target="Universidad La Salle">
+  <data key="d2">5</data>
+</edge>
+<edge source="Santander" target="UP">
+  <data key="d2">4</data>
+</edge>
+<edge source="Santander" target="SE">
+  <data key="d2">5</data>
+</edge>
+<edge source="Dalus" target="ASEM">
+  <data key="d2">1</data>
+</edge>
+<edge source="Dalus" target="FLDM">
+  <data key="d2">1</data>
+</edge>
+<edge source="FUNIBER" target="CIEBT-IPN">
+  <data key="d2">5</data>
+</edge>
+<edge source="Startup Grind" target="WeWork Labs">
+  <data key="d2">4</data>
+</edge>
+<edge source="Startup Grind" target="Google for Startups">
+  <data key="d2">5</data>
+</edge>
+<edge source="CIC UNAM" target="BANCOMEXT">
+  <data key="d2">3</data>
+</edge>
+<edge source="CIC UNAM" target="BID">
+  <data key="d2">5</data>
+</edge>
+<edge source="CIC UNAM" target="Jefatura GCDMX">
+  <data key="d2">3</data>
+</edge>
+<edge source="CIC UNAM" target="NAFIN">
+  <data key="d2">3</data>
+</edge>
+<edge source="CIC UNAM" target="SE">
+  <data key="d2">3</data>
+</edge>
+<edge source="AMEXCID" target="MSICT">
+  <data key="d2">1</data>
+</edge>
+<edge source="AMEXCID" target="TechnoPoli">
+  <data key="d2">1</data>
+</edge>
+<edge source="IME" target="UVM">
+  <data key="d2">5</data>
+</edge>
+<edge source="SVX" target="Agora">
+  <data key="d2">3</data>
+</edge>
+<edge source="SVX" target="AIIMX">
+  <data key="d2">3</data>
+</edge>
+<edge source="SVX" target="AMEXCAP">
+  <data key="d2">5</data>
+</edge>
+<edge source="SVX" target="ANDE">
+  <data key="d2">5</data>
+</edge>
+<edge source="SVX" target="ASEM">
+  <data key="d2">3</data>
+</edge>
+<edge source="SVX" target="Ashoka">
+  <data key="d2">3</data>
+</edge>
+<edge source="SVX" target="Biofin">
+  <data key="d2">3</data>
+</edge>
+<edge source="SVX" target="Capital Institute">
+  <data key="d2">3</data>
+</edge>
+<edge source="SVX" target="Catapulta">
+  <data key="d2">3</data>
+</edge>
+<edge source="SVX" target="Co Capital">
+  <data key="d2">3</data>
+</edge>
+<edge source="SVX" target="Disruptivo TV">
+  <data key="d2">3</data>
+</edge>
+<edge source="SVX" target="El Buen Socio">
+  <data key="d2">3</data>
+</edge>
+<edge source="SVX" target="Global Shapers">
+  <data key="d2">3</data>
+</edge>
+<edge source="SVX" target="Grupo Paisano">
+  <data key="d2">3</data>
+</edge>
+<edge source="SVX" target="GSG">
+  <data key="d2">3</data>
+</edge>
+<edge source="SVX" target="Impact Hub">
+  <data key="d2">3</data>
+</edge>
+<edge source="SVX" target="INADEM">
+  <data key="d2">3</data>
+</edge>
+<edge source="SVX" target="Makesense">
+  <data key="d2">3</data>
+</edge>
+<edge source="SVX" target="Pomona Impact">
+  <data key="d2">3</data>
+</edge>
+<edge source="SVX" target="PSM">
+  <data key="d2">3</data>
+</edge>
+<edge source="SVX" target="SICyT Jalisco">
+  <data key="d2">3</data>
+</edge>
+<edge source="SVX" target="Sistema B">
+  <data key="d2">3</data>
+</edge>
+<edge source="SVX" target="Unreasonable México">
+  <data key="d2">3</data>
+</edge>
+<edge source="ANDE" target="New Ventures">
+  <data key="d2">5</data>
+</edge>
+<edge source="Cenapyme" target="UVM">
+  <data key="d2">1</data>
+</edge>
+<edge source="Fundación Telefónica" target="Epic Queen">
+  <data key="d2">3</data>
+</edge>
+<edge source="BEDU" target="Homework">
+  <data key="d2">3</data>
+</edge>
+<edge source="CCEMx" target="Epic Queen">
+  <data key="d2">4</data>
+</edge>
+<edge source="Santander X" target="Universidad La Salle">
+  <data key="d2">4</data>
+</edge>
+<edge source="AngelHack" target="WeWork Labs">
+  <data key="d2">4</data>
+</edge>
+<edge source="Apolo25" target="ASEM">
+  <data key="d2">5</data>
+</edge>
+<edge source="Compartamos Banco" target="UVM">
+  <data key="d2">1</data>
+</edge>
+<edge source="IFT" target="Epic Queen">
+  <data key="d2">3</data>
+</edge>
+<edge source="Exitus Capital" target="Universidad La Salle">
+  <data key="d2">3</data>
+</edge>
+<edge source="Grupo Salinas" target="Seedstars">
+  <data key="d2">4</data>
+</edge>
+<edge source="Alacrity" target="Universidad La Salle">
+  <data key="d2">5</data>
+</edge>
+<edge source="Ignia" target="BID">
+  <data key="d2">2</data>
+</edge>
+<edge source="Ignia" target="CFI">
+  <data key="d2">3</data>
+</edge>
+<edge source="Ignia" target="FOMIN">
+  <data key="d2">3</data>
+</edge>
+<edge source="Ignia" target="FRockefeller">
+  <data key="d2">3</data>
+</edge>
+<edge source="Ignia" target="JP Morgan">
+  <data key="d2">3</data>
+</edge>
+<edge source="Ignia" target="Omidyar">
+  <data key="d2">5</data>
+</edge>
+<edge source="Ignia" target="Soros">
+  <data key="d2">3</data>
+</edge>
+<edge source="Ignia" target="PSM">
+  <data key="d2">5</data>
+</edge>
+<edge source="CONCAMIN" target="Universidad La Salle">
+  <data key="d2">5</data>
+</edge>
+<edge source="New Ventures" target="World Resources Institute">
+  <data key="d2">5</data>
+</edge>
+<edge source="AcelerA" target="U. Anáhuac">
+  <data key="d2">5</data>
+</edge>
+<edge source="AcelerA" target="FOMIN">
+  <data key="d2">5</data>
+</edge>
+<edge source="Aliat Universidades" target="Unboxed">
+  <data key="d2">5</data>
+</edge>
+<edge source="Aliat Universidades" target="Ashoka">
+  <data key="d2">5</data>
+</edge>
+<edge source="Techstars" target="Startup Weekend">
+  <data key="d2">5</data>
+</edge>
+<edge source="IEEGL ITESM" target="ITESM">
+  <data key="d2">5</data>
+</edge>
+</graph></graphml>

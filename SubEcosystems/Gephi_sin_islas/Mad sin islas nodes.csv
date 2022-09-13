@@ -1,0 +1,106 @@
+Id,Label,timeset,d1,d0,indegree,outdegree,Degree,weighted indegree,weighted outdegree,Weighted Degree,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,modularity_class,clustering,eigencentrality
+Consejería de Educación e Investigación,Consejería de Educación e Investigación,,4.4,Articulador,13,17,30,38,59,97,6,0.353175,0.468914,1549.205397,0,0.044974,0.791166
+WB,WB,,1,Habilitador,2,0,2,5,0,5,0,0,0,0,2,0,0.068237
+FabLab Madrid CEU,FabLab Madrid CEU,,0.6,Habilitador,2,4,6,5,19,24,7,0.294702,0.356581,82.666667,5,0.1,0.016568
+INIA,INIA,,0.6,Generador de Conocimiento,0,6,6,0,25,25,5,0.311419,0.374074,0,2,0.166667,0
+UPC ITT,UPC ITT,,0.6,Generador de Conocimiento,2,5,7,8,20,28,6,0.272171,0.329963,138.8,2,0.02381,0.019919
+"Ágora News",Ágora News,,1,Promotor,2,0,2,5,0,5,0,0,0,0,1,0,0.054354
+USPCEU,USPCEU,,3,Generador de Conocimiento,2,3,5,8,3,11,7,0.293729,0.350963,100.341617,5,0.166667,0.030123
+Madri+d,Madri+d,,8.2,Articulador,14,12,26,49,22,71,5,0.338403,0.426779,1536.993889,0,0.061667,0.86642
+Deloitte,Deloitte,,0.2,Habilitador,0,2,2,0,2,2,7,0.275229,0.314365,0,1,0.5,0
+Compluemprende,Compluemprende,,3.2,Habilitador,4,3,7,18,15,33,6,0.260234,0.300562,103.991725,5,0.142857,0.335366
+Emprendedores,Emprendedores,,1,Promotor,2,0,2,5,0,5,0,0,0,0,1,0,0.030207
+AEI,AEI,,1.8,Articulador,2,0,2,9,0,9,0,0,0,0,2,0.5,0.137193
+UAH,UAH,,2,Generador de Conocimiento,2,2,4,7,10,17,6,0.264095,0.307678,34.555037,0,0.083333,0.030034
+Fundación COTEC,Fundación COTEC,,2.6,Habilitador,5,1,6,13,1,14,7,0.185031,0.202488,65.757937,1,0.066667,0.318812
+Demium,Demium,,1.4,Habilitador,2,1,3,5,2,7,8,0.181263,0.205792,39.562121,5,0.166667,0.080037
+Centro Empresas UPM,Centro Empresas UPM,,1.8,Habilitador,3,0,3,9,0,9,0,0,0,0,0,0.333333,0.444068
+ESA BIC Comunidad de Madrid,ESA BIC Comunidad de Madrid,,2.8,Habilitador,3,0,3,11,0,11,0,0,0,0,3,0.666667,0.552925
+EASME,EASME,,1,Articulador,2,0,2,6,0,6,0,0,0,0,0,0.5,0.451929
+CSIC,CSIC,,3.6,Articulador,5,1,6,16,2,18,7,0.224181,0.252274,208.072619,0,0.133333,0.518128
+UC3M,UC3M,,3.6,Generador de Conocimiento,4,5,9,12,25,37,7,0.252841,0.306421,152.86206,3,0.089286,0.493001
+Unlimiteck,Unlimiteck,,2.8,Habilitador,2,2,4,8,2,10,7,0.219753,0.247218,0.5,4,0.5,0.164914
+ITEMAS,ITEMAS,,1.4,Habilitador,2,0,2,7,0,7,0,0,0,0,3,0,0.358125
+Conector Madrid,Conector Madrid,,1.2,Habilitador,2,0,2,6,0,6,0,0,0,0,5,0,0.056135
+El Referente,El Referente,,0.8,Promotor,1,1,2,1,3,4,7,0.206497,0.228277,63.716667,2,0,0.029368
+MICINN,MICINN,,6.4,Articulador,6,7,13,25,21,46,6,0.316726,0.384457,576.754365,2,0.070513,0.386027
+Institución Educativa SEK,Institución Educativa SEK,,3,Habilitador,2,0,2,6,0,6,0,0,0,0,1,0.5,0.015996
+Ayto. Leganés,Ayto. Leganés,,1,Articulador,2,0,2,6,0,6,0,0,0,0,3,1,0.361255
+BBVA Open Innovation,BBVA Open Innovation,,2.2,Habilitador,2,1,3,9,2,11,7,0.264881,0.307437,62.996429,1,0.166667,0.02408
+Impact Hub Madrid,Impact Hub Madrid,,3,Habilitador,5,4,9,13,12,25,6,0.255014,0.300749,174.480159,4,0.083333,0.215408
+Spanish Startups,Spanish Startups,,1.4,Comunidad,4,7,11,13,21,34,6,0.278125,0.350187,601.489719,1,0.044444,0.134701
+INDRA,INDRA,,2.6,Habilitador,3,1,4,9,4,13,7,0.23545,0.266533,33.091667,3,0.083333,0.182108
+ESIC,ESIC,,2.8,Habilitador,0,3,3,0,14,14,6,0.29703,0.343148,0,1,0,0
+UCM,UCM,,4.8,Generador de Conocimiento,4,2,6,17,7,24,7,0.278997,0.326538,117.991508,5,0.133333,0.200018
+Mioti,Mioti,,2,Habilitador,2,0,2,6,0,6,0,0,0,0,4,1,0.173074
+UPM,UPM,,2.6,Generador de Conocimiento,3,5,8,10,12,22,5,0.324818,0.377715,724.319841,4,0.107143,0.353736
+ICO,ICO,,1.6,Habilitador,2,0,2,8,0,8,0,0,0,0,2,0.5,0.077327
+Startup Programme,Startup Programme,,1.2,Habilitador,1,3,4,4,3,7,7,0.282609,0.33731,25.666667,5,0.166667,0.016917
+Getafe Iniciativas,Getafe Iniciativas,,1.6,Articulador,3,1,4,15,4,19,7,0.234828,0.265597,129.468398,3,0.083333,0.137945
+Google Campus Madrid,Google Campus Madrid,,2.2,Habilitador,2,0,2,8,0,8,0,0,0,0,4,0,0.060214
+BID,BID,,1.6,Habilitador,1,1,2,4,4,8,7,0.216019,0.245131,91.333333,2,0,0.057865
+Aso. Esp. Startups,Aso. Esp. Startups,,3,Vinculador,4,1,5,11,5,16,7,0.220297,0.244409,135.785714,4,0.05,0.160738
+COAM,COAM,,1,Vinculador,0,2,2,0,5,5,8,0.235294,0.273447,0,5,0,0
+Fundación Cibervoluntarios,Fundación Cibervoluntarios,,1.4,Habilitador,1,1,2,5,2,7,7,0.185804,0.20313,3.083333,1,0,0.013535
+Fundación UAX,Fundación UAX,,0.6,Habilitador,3,6,9,7,23,30,6,0.300676,0.364419,237.102198,5,0.071429,0.105747
+Airbus,Airbus,,2.2,Habilitador,1,2,3,5,6,11,6,0.269697,0.312734,86.437879,1,0.166667,0.128519
+UFV,UFV,,1,Habilitador,0,3,3,0,6,6,7,0.247396,0.289348,0,5,0.166667,0
+Madrid Network,Madrid Network,,0.4,Vinculador,2,1,3,3,5,8,7,0.225316,0.252113,2.116667,0,0.5,0.451929
+Parque Científico UC3M,Parque Científico UC3M,,2.8,Habilitador,5,6,11,17,26,43,6,0.304795,0.371536,837.244589,3,0.090909,0.534219
+Startup Olé,Startup Olé,,1.4,Habilitador,1,1,2,3,4,7,8,0.210773,0.239378,101.833333,5,0,0.006866
+South Summit,South Summit,,6,Habilitador,6,2,8,22,8,30,6,0.273006,0.320225,642.166306,1,0.089286,0.377003
+Ayto. Madrid,Ayto. Madrid,,7.6,Articulador,9,3,12,30,8,38,5,0.286174,0.32603,804.615873,4,0.106061,0.745203
+The Cube,The Cube,,0.6,Habilitador,5,4,9,12,18,30,6,0.279874,0.325468,669.788095,4,0.119048,0.55361
+Santander Universidades,Santander Universidades,,1.4,Habilitador,2,10,12,7,36,43,5,0.342308,0.417978,856.204365,5,0.015152,0.060325
+IMDEA Energía,IMDEA Energía,,1.6,Generador de Conocimiento,0,2,2,0,8,8,7,0.248619,0.288571,0,2,0,0
+CDTI,CDTI,,5.2,Generador de Conocimiento,5,2,7,20,6,26,5,0.312281,0.351685,708.894589,2,0.166667,0.42629
+FEDIT,FEDIT,,1,Vinculador,2,6,8,5,21,26,6,0.286174,0.344569,331.233333,2,0.035714,0.141689
+MIDE,MIDE,,2.6,Habilitador,1,8,9,5,23,28,5,0.338403,0.409363,256.481746,4,0.107143,0.132812
+Imaguru,Imaguru,,0.6,Habilitador,2,2,4,6,6,12,7,0.220297,0.2603,144.5,1,0.166667,0.056563
+UPC,UPC,,1.6,Habilitador,3,5,8,7,13,20,7,0.239892,0.289353,275.717857,2,0.02381,0.096776
+"UFV, Innovación","UFV, Innovación",,0.6,Habilitador,1,1,2,1,5,6,7,0.239583,0.269073,0,5,0.5,0.00246
+Centro empresas Alcobendas,Centro empresas Alcobendas,,1.2,Habilitador,2,0,2,6,0,6,0,0,0,0,0,0,0.266399
+Fundación Universidad-Empresa,Fundación Universidad-Empresa,,1.2,Vinculador,2,0,2,6,0,6,0,0,0,0,5,0,0.235911
+Business Angels IESE,Business Angels IESE,,1.4,Habilitador,4,5,9,9,13,22,6,0.302721,0.356742,1412.804365,2,0.013889,0.219129
+Comunidad de Madrid,Comunidad de Madrid,,14,Articulador,11,4,15,43,9,52,6,0.288961,0.342509,525.020138,0,0.115385,1
+CE,CE,,3.8,Articulador,3,2,5,12,7,19,6,0.287097,0.334457,149.22619,2,0.15,0.070697
+FPCM,FPCM,,4.6,Habilitador,10,12,22,35,46,81,6,0.34902,0.438015,1284.977059,0,0.078571,0.932361
+El País,El País,,0.6,Promotor,1,1,2,1,2,3,7,0.185804,0.20313,12.638095,1,0,0.040818
+ASALMA,ASALMA,,2,Vinculador,1,1,2,5,5,10,8,0.19181,0.213269,5,3,0,0.030932
+BioMad,BioMad,,1.4,Articulador,1,1,2,3,4,7,7,0.260997,0.296388,0,0,0.5,0.202084
+UAM,UAM,,4,Generador de Conocimiento,2,14,16,10,40,50,5,0.377119,0.470037,477.290765,0,0.057143,0.263433
+FECYT,FECYT,,2.4,Articulador,2,2,4,5,7,12,6,0.265672,0.305805,25.257937,2,0.083333,0.038877
+Tetuan Valley,Tetuan Valley,,1.8,Habilitador,3,2,5,8,2,10,7,0.214458,0.244382,104.385714,4,0.05,0.135635
+Santander,Santander,,9.2,Habilitador,7,6,13,26,17,43,6,0.303754,0.368165,680.914319,5,0.045455,0.295697
+UCJC SEK LAB,UCJC SEK LAB,,0.2,Habilitador,0,2,2,0,2,2,7,0.27439,0.312513,0,1,0.5,0
+Startupxplore,Startupxplore,,0.6,Habilitador,3,3,6,8,6,14,6,0.256484,0.29382,245.266667,4,0.033333,0.050373
+Transfiere,Transfiere,,2,Habilitador,1,2,3,5,5,10,6,0.255014,0.292697,132.463095,2,0,0.047959
+"Consejería de Ciencia, Universidades e Innovación","Consejería de Ciencia, Universidades e Innovación",,2.8,Articulador,1,3,4,4,6,10,6,0.279874,0.332397,22.229365,0,0.416667,0.229607
+Fábrica de Fabricantes,Fábrica de Fabricantes,,0.6,Habilitador,2,1,3,5,3,8,9,0.175676,0.196612,13.833333,5,0,0.00492
+Innovaspain,Innovaspain,,1.8,Promotor,0,2,2,0,9,9,6,0.286624,0.329815,0,0,0.5,0
+ICEX,ICEX,,2,Articulador,2,2,4,4,6,10,8,0.220844,0.260126,223.655952,2,0,0.094282
+Consejería de Sanidad,Consejería de Sanidad,,0.4,Articulador,2,0,2,3,0,3,0,0,0,0,0,0.5,0.276354
+"UFV, Centro de Emprendimiento","UFV, Centro de Emprendimiento",,1.6,Habilitador,5,6,11,13,22,35,6,0.311644,0.376007,327.844048,5,0.055556,0.02236
+IBM,IBM,,1,Habilitador,1,1,2,3,2,5,7,0.236702,0.267469,14.958333,3,0,0.032101
+Bridge for Billions,Bridge for Billions,,1.2,Habilitador,2,0,2,6,0,6,0,0,0,0,2,0,0.08632
+CIEMAT,CIEMAT,,1.2,Generador de Conocimiento,8,3,11,23,11,34,7,0.275542,0.332156,509.548196,3,0.122222,0.992741
+LST UPM,LST UPM,,0.6,Habilitador,1,2,3,1,7,8,7,0.276398,0.327287,5.95,4,0.166667,0.083966
+ASEBIO,ASEBIO,,2.2,Vinculador,2,1,3,7,4,11,7,0.260997,0.296388,98.152381,2,0.166667,0.250043
+ENISA,ENISA,,0.8,Habilitador,0,2,2,0,4,4,7,0.256983,0.299146,0,2,0,0
+CE HORIZON 2020s,CE HORIZON 2020s,,3.8,Articulador,3,0,3,15,0,15,0,0,0,0,3,0.166667,0.365109
+ASCRI,ASCRI,,1.4,Vinculador,4,5,9,13,24,37,7,0.264095,0.319984,593.676984,2,0.013889,0.163813
+Endeavor,Endeavor,,0.6,Habilitador,1,3,4,1,11,12,7,0.240541,0.28122,102.65,1,0,0.027085
+Cámara Madrid,Cámara Madrid,,1.4,Vinculador,2,0,2,4,0,4,0,0,0,0,0,0.5,0.451929
+Makespace Madrid,Makespace Madrid,,0.6,Habilitador,4,1,5,10,4,14,6,0.224747,0.246816,279.348413,1,0,0.108605
+Spaces,Spaces,,1.2,Habilitador,1,2,3,5,2,7,7,0.218673,0.255618,0,1,0.5,0.040818
+BAN madri+d,BAN madri+d,,1.2,Habilitador,2,0,2,3,0,3,0,0,0,0,0,1,0.424406
+Esc. Secot de Emprendedores,Esc. Secot de Emprendedores,,0.6,Habilitador,2,0,2,4,0,4,0,0,0,0,5,1,0.116514
+CES UCM - Santander,CES UCM - Santander,,1.2,Habilitador,2,4,6,8,20,28,7,0.260234,0.311664,107.927331,5,0.15,0.102349
+Alastria,Alastria,,1.8,Vinculador,3,1,4,9,1,10,8,0.1939,0.218004,198.12619,2,0,0.332228
+UCJC,UCJC,,0.6,Habilitador,3,12,15,6,43,49,6,0.372385,0.459176,443.162166,1,0.057143,0.024582
+InNorMadrid,InNorMadrid,,0.8,Vinculador,2,0,2,5,0,5,0,0,0,0,0,1,0.293922
+Fundación Bankinter,Fundación Bankinter,,1.4,Habilitador,0,2,2,0,7,7,6,0.272189,0.303986,0,5,0,0
+AJE,AJE,,1.8,Vinculador,1,2,3,3,6,9,7,0.250704,0.28344,17.734957,3,0.166667,0.019662
+UAX,UAX,,2,Habilitador,1,1,2,5,5,10,7,0.231771,0.260166,0,5,0,0.033827
+Airbus Bizlab,Airbus Bizlab,,1,Habilitador,2,0,2,6,0,6,0,0,0,0,1,1,0.055266
+FUAM,FUAM,,1.2,Habilitador,2,6,8,5,13,18,6,0.31338,0.379213,233.134307,5,0.035714,0.13863

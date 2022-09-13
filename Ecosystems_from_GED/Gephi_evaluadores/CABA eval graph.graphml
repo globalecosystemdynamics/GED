@@ -1,0 +1,387 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="Weight" attr.type="long"/>
+<key id="d1" for="node" attr.name="weight" attr.type="float"/>
+<key id="d0" for="node" attr.name="rol" attr.type="string"/>
+<graph edgedefault="directed"><node id="Venturebees">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="IncUBAgro">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="GridX">
+  <data key="d0">Habilitador</data>
+  <data key="d1">4.6</data>
+</node>
+<node id="ITBA">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="Jaguar Ventures">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="Club de Reparadores">
+  <data key="d0">Comunidad</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Prodem">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="The Yield Lab">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="BACE Inversiones">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Incubando Salud">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Parabolt">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.4</data>
+</node>
+<node id="UNICEN">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="UNLP">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Madre Emprendedora">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Huerta Coworking">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="INICIA">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.6</data>
+</node>
+<node id="Socialab">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.6</data>
+</node>
+<node id="ASEA">
+  <data key="d0">Vinculador</data>
+  <data key="d1">9.4</data>
+</node>
+<node id="Dirección de Emprendedores GCBA">
+  <data key="d0">Articulador</data>
+  <data key="d1">8.4</data>
+</node>
+<node id="UBA">
+  <data key="d0">Generador de conocimiento</data>
+  <data key="d1">3.4</data>
+</node>
+<node id="EAN">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="A3">
+  <data key="d0">Habilitador</data>
+  <data key="d1">3.0</data>
+</node>
+<node id="UADE">
+  <data key="d0">Habilitador</data>
+  <data key="d1">2.0</data>
+</node>
+<node id="UNAJE">
+  <data key="d0">Vinculador</data>
+  <data key="d1">1.6</data>
+</node>
+<node id="EKHOS">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.2</data>
+</node>
+<node id="Endeavor Argentina">
+  <data key="d0">Habilitador</data>
+  <data key="d1">7.6</data>
+</node>
+<node id="SEPYME">
+  <data key="d0">Articulador</data>
+  <data key="d1">16.8</data>
+</node>
+<node id="Trepcamp">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="Hacela Rodar">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="UP">
+  <data key="d0">Habilitador</data>
+  <data key="d1">0.6</data>
+</node>
+<node id="CEDEX">
+  <data key="d0">Habilitador</data>
+  <data key="d1">1.6</data>
+</node>
+<edge source="Venturebees" target="ASEA">
+  <data key="d2">3</data>
+</edge>
+<edge source="Venturebees" target="SEPYME">
+  <data key="d2">2</data>
+</edge>
+<edge source="IncUBAgro" target="SEPYME">
+  <data key="d2">3</data>
+</edge>
+<edge source="GridX" target="ITBA">
+  <data key="d2">3</data>
+</edge>
+<edge source="GridX" target="Socialab">
+  <data key="d2">4</data>
+</edge>
+<edge source="GridX" target="Endeavor Argentina">
+  <data key="d2">3</data>
+</edge>
+<edge source="GridX" target="Parabolt">
+  <data key="d2">5</data>
+</edge>
+<edge source="GridX" target="SEPYME">
+  <data key="d2">5</data>
+</edge>
+<edge source="GridX" target="UADE">
+  <data key="d2">3</data>
+</edge>
+<edge source="GridX" target="Dirección de Emprendedores GCBA">
+  <data key="d2">4</data>
+</edge>
+<edge source="ITBA" target="Dirección de Emprendedores GCBA">
+  <data key="d2">2</data>
+</edge>
+<edge source="ITBA" target="Endeavor Argentina">
+  <data key="d2">3</data>
+</edge>
+<edge source="ITBA" target="UNLP">
+  <data key="d2">4</data>
+</edge>
+<edge source="Jaguar Ventures" target="SEPYME">
+  <data key="d2">4</data>
+</edge>
+<edge source="Jaguar Ventures" target="ASEA">
+  <data key="d2">3</data>
+</edge>
+<edge source="Club de Reparadores" target="A3">
+  <data key="d2">3</data>
+</edge>
+<edge source="The Yield Lab" target="Endeavor Argentina">
+  <data key="d2">3</data>
+</edge>
+<edge source="BACE Inversiones" target="SEPYME">
+  <data key="d2">3</data>
+</edge>
+<edge source="BACE Inversiones" target="Incubando Salud">
+  <data key="d2">3</data>
+</edge>
+<edge source="BACE Inversiones" target="Endeavor Argentina">
+  <data key="d2">3</data>
+</edge>
+<edge source="BACE Inversiones" target="ASEA">
+  <data key="d2">1</data>
+</edge>
+<edge source="BACE Inversiones" target="Parabolt">
+  <data key="d2">2</data>
+</edge>
+<edge source="Incubando Salud" target="ASEA">
+  <data key="d2">3</data>
+</edge>
+<edge source="Parabolt" target="SEPYME">
+  <data key="d2">5</data>
+</edge>
+<edge source="Parabolt" target="UNICEN">
+  <data key="d2">5</data>
+</edge>
+<edge source="Parabolt" target="UBA">
+  <data key="d2">4</data>
+</edge>
+<edge source="Parabolt" target="Endeavor Argentina">
+  <data key="d2">2</data>
+</edge>
+<edge source="Parabolt" target="ASEA">
+  <data key="d2">2</data>
+</edge>
+<edge source="UNICEN" target="SEPYME">
+  <data key="d2">3</data>
+</edge>
+<edge source="UNLP" target="SEPYME">
+  <data key="d2">3</data>
+</edge>
+<edge source="Madre Emprendedora" target="CEDEX">
+  <data key="d2">3</data>
+</edge>
+<edge source="Madre Emprendedora" target="SEPYME">
+  <data key="d2">3</data>
+</edge>
+<edge source="Huerta Coworking" target="SEPYME">
+  <data key="d2">3</data>
+</edge>
+<edge source="Huerta Coworking" target="Endeavor Argentina">
+  <data key="d2">3</data>
+</edge>
+<edge source="INICIA" target="SEPYME">
+  <data key="d2">1</data>
+</edge>
+<edge source="INICIA" target="Dirección de Emprendedores GCBA">
+  <data key="d2">3</data>
+</edge>
+<edge source="Socialab" target="GridX">
+  <data key="d2">3</data>
+</edge>
+<edge source="Socialab" target="SEPYME">
+  <data key="d2">3</data>
+</edge>
+<edge source="Socialab" target="EKHOS">
+  <data key="d2">3</data>
+</edge>
+<edge source="ASEA" target="A3">
+  <data key="d2">5</data>
+</edge>
+<edge source="ASEA" target="Huerta Coworking">
+  <data key="d2">2</data>
+</edge>
+<edge source="ASEA" target="The Yield Lab">
+  <data key="d2">3</data>
+</edge>
+<edge source="ASEA" target="SEPYME">
+  <data key="d2">3</data>
+</edge>
+<edge source="ASEA" target="Endeavor Argentina">
+  <data key="d2">3</data>
+</edge>
+<edge source="ASEA" target="INICIA">
+  <data key="d2">3</data>
+</edge>
+<edge source="Dirección de Emprendedores GCBA" target="UP">
+  <data key="d2">5</data>
+</edge>
+<edge source="Dirección de Emprendedores GCBA" target="GridX">
+  <data key="d2">5</data>
+</edge>
+<edge source="Dirección de Emprendedores GCBA" target="A3">
+  <data key="d2">3</data>
+</edge>
+<edge source="Dirección de Emprendedores GCBA" target="UADE">
+  <data key="d2">5</data>
+</edge>
+<edge source="Dirección de Emprendedores GCBA" target="CEDEX">
+  <data key="d2">4</data>
+</edge>
+<edge source="Dirección de Emprendedores GCBA" target="SEPYME">
+  <data key="d2">5</data>
+</edge>
+<edge source="Dirección de Emprendedores GCBA" target="Endeavor Argentina">
+  <data key="d2">3</data>
+</edge>
+<edge source="Dirección de Emprendedores GCBA" target="INICIA">
+  <data key="d2">3</data>
+</edge>
+<edge source="Dirección de Emprendedores GCBA" target="UNAJE">
+  <data key="d2">3</data>
+</edge>
+<edge source="UBA" target="IncUBAgro">
+  <data key="d2">5</data>
+</edge>
+<edge source="UBA" target="Dirección de Emprendedores GCBA">
+  <data key="d2">3</data>
+</edge>
+<edge source="UBA" target="ASEA">
+  <data key="d2">3</data>
+</edge>
+<edge source="EAN" target="SEPYME">
+  <data key="d2">2</data>
+</edge>
+<edge source="EAN" target="ASEA">
+  <data key="d2">3</data>
+</edge>
+<edge source="EAN" target="Endeavor Argentina">
+  <data key="d2">3</data>
+</edge>
+<edge source="A3" target="CEDEX">
+  <data key="d2">3</data>
+</edge>
+<edge source="A3" target="Socialab">
+  <data key="d2">3</data>
+</edge>
+<edge source="A3" target="Dirección de Emprendedores GCBA">
+  <data key="d2">3</data>
+</edge>
+<edge source="UADE" target="SEPYME">
+  <data key="d2">1</data>
+</edge>
+<edge source="UNAJE" target="A3">
+  <data key="d2">3</data>
+</edge>
+<edge source="UNAJE" target="Dirección de Emprendedores GCBA">
+  <data key="d2">4</data>
+</edge>
+<edge source="UNAJE" target="SEPYME">
+  <data key="d2">3</data>
+</edge>
+<edge source="UNAJE" target="ASEA">
+  <data key="d2">3</data>
+</edge>
+<edge source="UNAJE" target="Endeavor Argentina">
+  <data key="d2">3</data>
+</edge>
+<edge source="EKHOS" target="UADE">
+  <data key="d2">4</data>
+</edge>
+<edge source="EKHOS" target="UBA">
+  <data key="d2">2</data>
+</edge>
+<edge source="Endeavor Argentina" target="SEPYME">
+  <data key="d2">4</data>
+</edge>
+<edge source="Endeavor Argentina" target="Jaguar Ventures">
+  <data key="d2">3</data>
+</edge>
+<edge source="SEPYME" target="GridX">
+  <data key="d2">5</data>
+</edge>
+<edge source="SEPYME" target="A3">
+  <data key="d2">2</data>
+</edge>
+<edge source="SEPYME" target="Prodem">
+  <data key="d2">5</data>
+</edge>
+<edge source="SEPYME" target="Dirección de Emprendedores GCBA">
+  <data key="d2">5</data>
+</edge>
+<edge source="SEPYME" target="Parabolt">
+  <data key="d2">1</data>
+</edge>
+<edge source="Trepcamp" target="UBA">
+  <data key="d2">3</data>
+</edge>
+<edge source="Trepcamp" target="UNLP">
+  <data key="d2">3</data>
+</edge>
+<edge source="Trepcamp" target="UADE">
+  <data key="d2">3</data>
+</edge>
+<edge source="Hacela Rodar" target="Socialab">
+  <data key="d2">3</data>
+</edge>
+<edge source="Hacela Rodar" target="ASEA">
+  <data key="d2">2</data>
+</edge>
+<edge source="UP" target="INICIA">
+  <data key="d2">3</data>
+</edge>
+<edge source="UP" target="SEPYME">
+  <data key="d2">5</data>
+</edge>
+<edge source="CEDEX" target="SEPYME">
+  <data key="d2">4</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,85 @@
+Id,Label,timeset,d1,d0,indegree,outdegree,Degree,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,modularity_class,clustering,eigencentrality,weighted indegree,weighted outdegree,Weighted Degree
+Balloon Latam,Balloon Latam,,1.2,Habilitador,2,8,10,5,0.365854,0.442,232.966667,6,0.071429,0.109663,8,29,37
+INIA,INIA,,1,Generador de Conocimiento,1,4,5,7,0.28626,0.34981,0,0,0.25,0.03212,2,12,14
+Techstars,Techstars,,2,Habilitador,1,1,2,7,0.246711,0.278698,0,3,0,0.013286,5,5,10
+PUCV,PUCV,,1.6,Generador de Conocimiento,0,6,6,6,0.313008,0.38355,0,4,0.133333,0,0,20,20
+Duoc UC,Duoc UC,,2.2,Habilitador,2,1,3,7,0.233645,0.258921,47.5,5,0,0.023123,8,3,11
+Ganesha Lab,Ganesha Lab,,1.2,Habilitador,1,8,9,6,0.326087,0.413111,18.45,1,0.208333,0.029636,3,24,27
+CORFO,CORFO,,32.599998,Articulador,29,14,43,6,0.369458,0.473556,2098.102381,4,0.055128,1,120,44,164
+Universidad Mayor,Universidad Mayor,,1.2,Generador de Conocimiento,4,21,25,4,0.46875,0.574444,694.702381,1,0.049407,0.10397,12,64,76
+OTL UC,OTL UC,,1.6,Habilitador,1,1,2,7,0.246711,0.281048,13.333333,1,0,0.015632,3,5,8
+Founder List,Founder List,,1.8,Habilitador,3,0,3,0,0,0,0,1,0.166667,0.155552,9,0,9
+Fundación Más Ciencia,Fundación Más Ciencia,,0.6,Vinculador,1,4,5,7,0.284091,0.338794,0,0,0.25,0.026988,3,12,15
+BCI,BCI,,2.6,Habilitador,2,2,4,7,0.252525,0.297587,220.592857,3,0.25,0.114286,6,7,13
+Hubtec,Hubtec,,2.4,Habilitador,7,6,13,6,0.320513,0.396444,219.616667,1,0.106061,0.103486,27,23,50
+Agora Partnerships,Agora Partnerships,,1.4,Habilitador,2,0,2,0,0,0,0,4,0.5,0.23795,7,0,7
+Sistema B,Sistema B,,1,Habilitador,2,0,2,0,0,0,0,6,0,0.155616,5,0,5
+Dadneo,Dadneo,,1.4,Habilitador,2,0,2,0,0,0,0,4,1,0.34365,7,0,7
+Imagine Lab,Imagine Lab,,2.2,Habilitador,2,1,3,7,0.271739,0.310921,0,4,0.5,0.135475,6,5,11
+UDD Ventures,UDD Ventures,,1.4,Habilitador,1,1,2,5,0.323276,0.356889,68.466667,1,0,0.041265,3,4,7
+Ilustre Municipalidad de Renca,Ilustre Municipalidad de Renca,,1.4,Articulador,2,0,2,0,0,0,0,5,0,0.012427,7,0,7
+ProteinLab UTEM,ProteinLab UTEM,,1.2,Generador de Conocimiento,1,2,3,6,0.243506,0.280222,0,2,0.5,0.041883,5,2,7
+FIA,FIA,,2.4,Articulador,3,7,10,7,0.289575,0.36981,134.902381,0,0.125,0.124862,9,23,32
+"Ministerio de Economía, Fomento y Turismo","Ministerio de Economía, Fomento y Turismo",,5.4,Articulador,6,0,6,0,0,0,0,4,0.233333,0.469122,22,0,22
+BID,BID,,1.6,Habilitador,2,0,2,0,0,0,0,6,0,0.074237,8,0,8
+Simón de Cirene,Simón de Cirene,,1.6,Habilitador,1,3,4,6,0.3125,0.358222,35.445238,0,0.166667,0.126495,5,8,13
+UC,UC,,2.6,Generador de Conocimiento,3,6,9,7,0.291829,0.364921,72.833333,0,0.138889,0.039492,10,18,28
+USM,USM,,1.2,Habilitador,2,0,2,0,0,0,0,6,0,0.062093,6,0,6
+Doble Impacto,Doble Impacto,,1.2,Habilitador,2,0,2,0,0,0,0,4,1,0.385494,6,0,6
+Hub APTA,Hub APTA,,1.4,Habilitador,1,1,2,7,0.253378,0.294603,25.5,1,0,0.041265,3,4,7
+Club de Innovación,Club de Innovación,,2.8,Habilitador,4,0,4,0,0,0,0,2,0.083333,0.110435,14,0,14
+PUCC,PUCC,,11.6,Generador de Conocimiento,7,6,13,6,0.352113,0.419333,373.519048,4,0.166667,0.326984,28,16,44
+Prochile,Prochile,,1.2,Articulador,2,0,2,0,0,0,0,1,0,0.073386,6,0,6
+Santander Universidades,Santander Universidades,,2.8,Habilitador,4,0,4,0,0,0,0,4,0.583333,0.484742,14,0,14
+Laboratorio de Gobierno,Laboratorio de Gobierno,,2,Habilitador,2,1,3,7,0.238095,0.27327,1.342857,6,0.5,0.288121,7,3,10
+CONICYT,CONICYT,,4.4,Articulador,7,0,7,0,0,0,0,0,0.190476,0.10065,22,0,22
+UTEM,UTEM,,1.6,Generador de Conocimiento,1,1,2,6,0.245902,0.278,10.916667,2,0,0.029636,3,5,8
+Hub Providencia,Hub Providencia,,2.6,Habilitador,2,0,2,0,0,0,0,3,0,0.042921,8,0,8
+Centro de Innovación UC Anacleto Angelini,Centro de Innovación UC Anacleto Angelini,,7.8,Habilitador,7,1,8,8,0.218659,0.249937,19.5,4,0.25,0.565888,27,4,31
+Radio Pauta,Radio Pauta,,1.4,Promotor,1,1,2,7,0.232416,0.257707,1,5,0,0.00259,3,4,7
+Manutara Ventures,Manutara Ventures,,1.2,Habilitador,2,0,2,0,0,0,0,1,0,0.147782,6,0,6
+Universidad de Concepción,Universidad de Concepción,,1.6,Habilitador,3,0,3,0,0,0,0,0,0.166667,0.066023,8,0,8
+Alaya,Alaya,,1.2,Habilitador,2,0,2,0,0,0,0,4,0.5,0.382646,6,0,6
+Equitas Capital,Equitas Capital,,0.6,Habilitador,0,3,3,7,0.280443,0.333803,0,3,0.166667,0,0,9,9
+Girls in Tech Chile,Girls in Tech Chile,,0.8,Comunidad,2,0,2,0,0,0,0,1,1,0.065483,5,0,5
+WeWork,WeWork,,1.2,Habilitador,2,0,2,0,0,0,0,1,0,0.032226,6,0,6
+ACVC,ACVC,,2.4,Vinculador,3,16,19,6,0.386598,0.502222,424.533333,1,0.0625,0.158677,9,48,57
+Innova UTEM,Innova UTEM,,0.6,Habilitador,6,7,13,5,0.319149,0.391778,588.75,2,0.066667,0.14173,18,33,51
+CoLab UC,CoLab UC,,3,Habilitador,5,8,13,6,0.309917,0.390444,278.361905,4,0.109091,0.544226,13,32,45
+Socialab,Socialab,,2.4,Habilitador,4,6,10,5,0.327511,0.393556,158.8,6,0.142857,0.103634,10,22,32
+"Ministerio de Ciencia, Tecnología, Conocimiento e Innovación","Ministerio de Ciencia, Tecnología, Conocimiento e Innovación",,3.8,Articulador,6,0,6,0,0,0,0,1,0.233333,0.259051,19,0,19
+Santander,Santander,,1.4,Habilitador,2,0,2,0,0,0,0,3,0,0.015876,7,0,7
+Cámara Chilena de la Construcción,Cámara Chilena de la Construcción,,1.4,Vinculador,1,1,2,7,0.281481,0.322494,14.416667,2,0,0.00259,3,4,7
+Iniciativa Milenio,Iniciativa Milenio,,0.6,Articulador,0,11,11,7,0.336245,0.443321,0,0,0.127273,0,0,33,33
+CCS,CCS,,2.8,Vinculador,3,9,12,5,0.344037,0.432444,280.192857,4,0.155556,0.072444,9,26,35
+Fundación País Digital,Fundación País Digital,,1.4,Vinculador,1,1,2,7,0.274725,0.313143,0,4,0.5,0.024019,3,4,7
+Sofofa,Sofofa,,3,Vinculador,5,0,5,0,0,0,0,1,0.3,0.145111,15,0,15
+Know Hub Chile,Know Hub Chile,,1.2,Habilitador,2,0,2,0,0,0,0,1,0,0.056898,6,0,6
+Universidad Adolfo Ibañez,Universidad Adolfo Ibañez,,2,Habilitador,2,1,3,7,0.272727,0.312032,0,6,0.333333,0.070387,6,4,10
+Incuba UC,Incuba UC,,2.6,Habilitador,5,14,19,6,0.386598,0.497111,828.169048,4,0.095833,0.469523,15,51,66
+RT Electronics,RT Electronics,,0.6,Habilitador,2,3,5,6,0.298805,0.346,149.5,5,0.1,0.015647,7,12,19
+CDT,CDT,,0.6,Habilitador,0,3,3,7,0.277978,0.329901,0,2,0,0,0,11,11
+Fablabs.io,Fablabs.io,,1.6,Habilitador,1,1,2,6,0.245902,0.278,10.916667,2,0,0.029636,3,5,8
+ASIPLA,ASIPLA,,1,Vinculador,2,0,2,0,0,0,0,2,1,0.055852,6,0,6
+Acafi,Acafi,,1.2,Vinculador,2,0,2,0,0,0,0,1,0,0.16776,6,0,6
+Endeavor,Endeavor,,3,Habilitador,4,1,5,8,0.219941,0.251714,1,1,0.3,0.105815,11,4,15
+ASECH,ASECH,,1.4,Vinculador,3,2,5,5,0.321888,0.360222,178.383333,1,0.166667,0.143078,6,2,8
+Fundación Chile,Fundación Chile,,3.2,Habilitador,5,0,5,0,0,0,0,4,0.3,0.42015,16,0,16
+Start-Up Chile,Start-Up Chile,,5.6,Habilitador,11,5,16,7,0.277778,0.340921,228.966667,4,0.129167,0.500053,38,21,59
+Red GT,Red GT,,1.2,Vinculador,1,1,2,7,0.245161,0.279543,0,1,0.5,0.00259,3,3,6
+Acción Emprendedora,Acción Emprendedora,,1.4,Habilitador,1,1,2,5,0.323276,0.356889,119.116667,1,0,0.111456,3,4,7
+Fondo Alerce,Fondo Alerce,,2,Habilitador,4,0,4,0,0,0,0,4,0.5,0.461378,11,0,11
+Ministerio de Educación,Ministerio de Educación,,1.2,Articulador,2,0,2,0,0,0,0,0,0.5,0.04262,6,0,6
+Startup Weekend,Startup Weekend,,0.6,Comunidad,2,8,10,6,0.326087,0.403556,294.37619,3,0.055556,0.036419,8,32,40
+INNOVO-USACH,INNOVO-USACH,,1.8,Habilitador,3,8,11,5,0.388601,0.455333,739.1,4,0.144444,0.352743,8,29,37
+Gobierno Regional Metropolitano de Santiago,Gobierno Regional Metropolitano de Santiago,,2.6,Articulador,2,2,4,5,0.315126,0.349111,275.883333,4,0.333333,0.26159,6,7,13
+Global Shapers,Global Shapers,,0.6,Comunidad,0,2,2,1,1,1,0,5,0,0,0,8,8
+USACH,USACH,,2.8,Generador de Conocimiento,3,12,15,6,0.333333,0.436667,361.95,0,0.080952,0.099973,12,43,55
+Broota,Broota,,1.2,Habilitador,2,0,2,0,0,0,0,6,0.5,0.291971,6,0,6
+Co-Work Latam,Co-Work Latam,,2.4,Habilitador,3,0,3,0,0,0,0,5,0.166667,0.155872,12,0,12
+GORE,GORE,,3.4,Articulador,3,0,3,0,0,0,0,0,0.333333,0.069925,12,0,12
+UDD,UDD,,2.4,Habilitador,1,2,3,7,0.294118,0.344571,9.333333,5,0.333333,0.009837,3,9,12
+Santiago Innova,Santiago Innova,,1.2,Habilitador,1,7,8,5,0.336323,0.411333,133.309524,5,0.119048,0.024019,3,23,26
+Caja Los Andes,Caja Los Andes,,2.2,Habilitador,3,2,5,6,0.255973,0.298444,16.25,2,0.5,0.088823,11,2,13
+SERCOTEC,SERCOTEC,,2.8,Habilitador,5,0,5,0,0,0,0,0,0.05,0.086625,14,0,14
+iF Chile,iF Chile,,1.2,Habilitador,1,2,3,6,0.243506,0.280222,0,2,1,0.041883,5,2,7

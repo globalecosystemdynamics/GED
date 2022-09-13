@@ -1,0 +1,234 @@
+Source,Target,Type,Id,Label,timeset,Weight,direccionalidad,conector,razón,"# inter",convenio,éxito,¿por qué?,razón fracaso agrupada,"#id completo"
+Trebol Capital,AB MKT,Directed,3687,,,3,Alguien más nos conectó,SEDEC,Acceso a red de contactos,1,No,Sí,Se lograron los objetivos.,,AGS1077
+Revista Lider Empresarial,AB MKT,Directed,3688,,,2,Ellos nos buscaron,,Desarrollo de un proyecto conjunto,3,No,Sí,Se logró el proyecto,,AGS1125
+SEDEC,AB MKT,Directed,3689,,,1,,,Conector,,,,,,AGSC014
+The Inventor's House,AEM,Directed,3690,,,5,,,Crecimiento,,,,,,
+INADI,ASOCEA,Directed,3691,,,5,,,Establecimiento,,,,,,
+TEDxBarriodelaEstación,CANACO AGS,Directed,3692,,,1,Nosotros los buscamos,,Obtención de recursos monetarios o en especie,3,No,No se logró colaborar,Faltó formalizar el convenio,Esquema mal definido,AGS1152
+AEM,CANIETI,Directed,3693,,,5,Ellos nos buscaron,,Desarrollo de un proyecto conjunto,5,Sí,Sí,Se han dado en algunas colaboraciones para promover el emprendimiento en Aguascalientes con apoyo de la AEM,,AGS1042
+CANIETI,CCEA,Directed,3694,,,5,Nosotros los buscamos,,Obtención de recursos monetarios o en especie,10,Sí,Sí,Conseguimos que con la gestión de CCEA se diera el recurso económico para realizar el foro,,AGS1155
+INADI,CCEA,Directed,3695,,,4,Nosotros los buscamos,,Desarrollo de un proyecto conjunto,3,Sí,Sí,Se logró el desarrollo y operacion de proyectos por más de 3 años consecutivos,,AGS1184
+CIEA,CCEA,Directed,3696,,,5,,,Establecimiento,,,,,,
+DESEM,CCEA,Directed,3697,,,5,,,Establecimiento,,,,,,
+Maker Center,CECOI,Directed,3698,,,2,Nosotros los buscamos,,Desarrollo de un proyecto conjunto,5,No,No se logró colaborar,no tenian recursos y el interes no fue suficiente,Objetivos/intereses no alineados,AGS1009
+The Inventor's House,CECOI,Directed,3699,,,4,Nosotros los buscamos,,Intercambio de conocimiento y mejores prácticas,2,No,Sí,Se logró la vinculación de instituciones,,AGS1010
+UNID Ags,CECOI,Directed,3700,,,2,Nosotros los buscamos,,Acceso a red de contactos,1,Sí,Sí,Se tuvieron las vinculaciones empresariales necesarias.,,AGS1013
+CANIETI,CECOI,Directed,3701,,,5,Nosotros los buscamos,,Desarrollo de un proyecto conjunto,3,No,No,No fue posible la realización del proyecto que estuvimos promoviendo,Falta de resultados esperados,AGS1043
+Maker Center,CECOI,Directed,3702,,,5,,,Establecimiento,,,,,,
+DESEM,CIATEQ,Directed,3703,,,5,Nosotros los buscamos,,Acceso a red de contactos,4,Sí,Sí,Porque se pudo averiguar resultados y estadísticas acerca de sectores estratégicos de manufactura en Aguascalientes.,,AGS1058
+CANIETI,CIATEQ,Directed,3704,,,5,Nosotros los buscamos,,Desarrollo de un proyecto conjunto,5,Sí,Sí,Se ha dado una vinculación constante y apoto en proyectos en conjunto,,AGS1071
+INIFAP,CICESE,Directed,3705,,,5,Nosotros los buscamos,,Desarrollo de un proyecto conjunto,2,Sí,Sí,se cumplio con todos los entregables comprometidos,,AGS1055
+Nodo Ags RGMX,CIDE,Directed,3706,,,4,Alguien más nos conectó,INNOVATIA,Desarrollo de un proyecto conjunto,6,No,No se logró colaborar,pendiente,Otro,AGS1070
+TEDxBarriodelaEstación,CIDE,Directed,3707,,,1,Nosotros los buscamos,,Desarrollo de un proyecto conjunto,2,No,No se logró colaborar,Falta de interés de ellos,Objetivos/intereses no alineados,AGS1065
+INNOVATIA,CIDE,Directed,3708,,,1,,,Conector,,,,,,AGSC012
+CRECE,CIEA,Directed,3709,,,5,Nosotros los buscamos,,Acceso a red de contactos,2,No,Sí,SE LOGRÓ ARTIUCLAR PROGRAMA CONJUNTO DE INCUBACIÓN Y CAPACITACIÓN DE MYPIMES,,AGS1080
+CRECE,CIEA,Directed,3710,,,5,,,Establecimiento,,,,,,
+DESEM,CMIC,Directed,3711,,,5,Nosotros los buscamos,,Acceso a red de contactos,2,Sí,Sí,Logramos equipar y modelar empresas para su crecimiento,,AGS1136
+INIFAP,COFUPRO,Directed,3712,,,5,,,Crecimiento,,,,,,
+INIFAP,CONACYT,Directed,3713,,,4,Nosotros los buscamos,,Obtención de recursos monetarios o en especie,5,Sí,Sí,el conacyt emitio constancia d efiniquito del proyecto,,AGS1004
+INIFAP,CONACYT,Directed,3714,,,3,Nosotros los buscamos,,Desarrollo de un proyecto conjunto,4,Sí,Sí,se otorgo el acta de finiquito,,AGS1005
+Spark UP Ags,CONACYT,Directed,3715,,,5,Nosotros los buscamos,,Obtención de recursos monetarios o en especie,2,Sí,Sí,"Se han desarrollado más de 15 PEI eficazmente, generando un impacto económico y laboral positivo.",,AGS1014
+TEDxBarriodelaEstación,CONACYT,Directed,3716,,,1,Nosotros los buscamos,,Acceso a red de contactos,9,No,No se logró colaborar,No conseguimos al hombre indicado para la toma de decisiones,Falta de seguimiento,AGS1039
+INADI,CONACYT,Directed,3717,,,2,Nosotros los buscamos,,Desarrollo de un proyecto conjunto,5,Sí,Sí,Se trabajo con éxito el desarrollo del plan de negocios para integrar centros de investigación de la región para ofrecer servicios que propicien el desarrollo del sector automotriz local,,AGS1185
+SEDEC,CONALEP,Directed,3718,,,4,Nosotros los buscamos,,Desarrollo de un proyecto conjunto,15,Sí,Sí,"Porque se han logrado beneficiar alumnos como becarios del modelo Escuela - Empresa, generando una cultura laboral competitiva",,AGS1073
+AB MKT,COPARMEX,Directed,3719,,,2,Nosotros los buscamos,,Desarrollo de un proyecto conjunto,4,No,No se logró colaborar,No se llegó a un acuerdo,Esquema mal definido,AGS1139
+Humant,COPARMEX,Directed,3720,,,5,Nosotros los buscamos,,Intercambio de conocimiento y mejores prácticas,2,No,No,No se logro el proyecto,Falta de resultados esperados,AGS1140
+Maker Center,COPARMEX,Directed,3721,,,1,Nosotros los buscamos,,Desarrollo de un proyecto conjunto,5,No,No,"No tienen interes en apoyar a los emprendedores, estan mas preocupados por poryectos personales",Objetivos/intereses no alineados,AGS1142
+Trebol Capital,COPARMEX,Directed,3722,,,2,Nosotros los buscamos,,Acceso a red de contactos,2,No,No se logró colaborar,No se podían empatar agendas.,Esquema mal definido,AGS1144
+TEDxBarriodelaEstación,COPARMEX,Directed,3723,,,3,Nosotros los buscamos,,Acceso a red de contactos,3,No,No,Falta de promoción al interior de su gremio,Falta de resultados esperados,AGS1153
+ITA,COVESA,Directed,3724,,,4,Alguien más nos conectó,UAA,Intercambio de conocimiento y mejores prácticas,1,Sí,No se logró colaborar,Hay objetivos pero aun no se concretan,Falta de seguimiento,AGS1149
+UAA,COVESA,Directed,3725,,,1,,,Conector,,,,,,AGSC024
+CCEA,CRECE,Directed,3726,,,5,Ellos nos buscaron,,Desarrollo de un proyecto conjunto,5,No,Sí,SE LOGRÓ LA IMPLMENTACIÓN DE UN PROGRAMA DE CAPACITACIÓN A LOS MIEMBROS DEL CONSEJO,,AGS1146
+CCEA,CRECE,Directed,3727,,,5,Ellos nos buscaron,,Desarrollo de un proyecto conjunto,2,No,Sí,Logramos apoyar a 50 empresas mipymes del sector textil,,AGS1147
+CIEA,CRECE,Directed,3728,,,5,,,Crecimiento,,,,,,
+UAA,DESEM,Directed,3729,,,5,Ellos nos buscaron,,Desarrollo de un proyecto conjunto,2,Sí,Sí,"Por la generación de cultura emprendedora en diversas Licenciaturas e Ingenierías de la UAA, la formación de emprendedores y el arranque de empresas de estudiantes y egresados que participaron en el proyecto.",,AGS1103
+CCEA,DESEM,Directed,3730,,,5,Ellos nos buscaron,,Acceso a red de contactos,5,Sí,Sí,Por el acceso a personas con el perfil que atendemos,,AGS1148
+INADI,DESEM,Directed,3731,,,3,Ellos nos buscaron,,Obtención de recursos monetarios o en especie,4,Sí,Sí,"Por la cantidad de empresas apoyadas, por la oportunidad de equipamiento, capacitación y consultoría para generar valor a las personas beneficiadas.",,AGS1183
+CANIETI,DESEM,Directed,3732,,,5,Nosotros los buscamos,,Intercambio de conocimiento y mejores prácticas,2,Sí,Sí,Partipa en la organizacion del Foro,,AGS1118
+UAA,Difusión y Vinculación UAA,Directed,3733,,,5,Nosotros los buscamos,,Cobertura mediática,5,Sí,Sí,"Como programa académico, Emprende UAA busca posicionarse a través de medios institucionales: UAA TV, Radio UAA, publicidad impresa, sesiones informativas, conferencias, pantallas gigantes. También se invita a prensa externa para cubrir eventos. *Personas externas también pueden participar respetando las condiciones.",,AGS1123
+Nodo Ags RGMX,Difusión y Vinculación UAA,Directed,3734,,,1,Nosotros los buscamos,,Cobertura mediática,2,No,No se logró colaborar,falta de seguimiento,Falta de seguimiento,AGS1131
+AB MKT,ENDEAVOR,Directed,3735,,,4,Alguien más nos conectó,Un particular,Intercambio de conocimiento y mejores prácticas,2,No,Sí,Se formó un networking interesante y de mucho valor,,AGS1085
+INADI,ENDEAVOR,Directed,3736,,,1,Alguien más nos conectó,CCEA,Desarrollo de un proyecto conjunto,2,Sí,Sí,Se logró la operación conjunta de proyectos,,AGS1186
+Incubadora ITESM Ags,ENDEAVOR,Directed,3737,,,4,Nosotros los buscamos,,Intercambio de conocimiento y mejores prácticas,8,Sí,Sí,porque todo lo que se establecio en el convenio se trabajo al 100%,,AGS1086
+CCEA,ENDEAVOR,Directed,3738,,,1,,,Conector,,,,,,AGSC030
+AB MKT,ENDEAVOR,Directed,3739,,,5,,,Establecimiento,,,,,,
+TEDxBarriodelaEstación,Evolutivos Consultores,Directed,3740,,,5,Nosotros los buscamos,,Desarrollo de un proyecto conjunto,1,Sí,Sí,Armado de proyecto en común,,AGS1112
+AB MKT,FUN,Directed,3741,,,3,Alguien más nos conectó,Particular,Intercambio de conocimiento y mejores prácticas,2,No,Sí,Networking,,AGS1047
+Humant,FUN,Directed,3742,,,4,Nosotros los buscamos,,Desarrollo de un proyecto conjunto,1,No,Sí,Por que hemos colaborado en el desarrollo y fortalecimiento del ecosistema.,,AGS1048
+TEDxBarriodelaEstación,FUN,Directed,3743,,,5,Nosotros los buscamos,,Acceso a red de contactos,1,No,Sí,Panel de líderes de la comunidad,,AGS1052
+Trebol Capital,Global Shapers,Directed,3744,,,3,Nosotros los buscamos,,Acceso a red de contactos,1,No,Sí,Se viene trabajando en conjunto.,,AGS1049
+CRECE,Gob. AGS,Directed,3745,,,5,Nosotros los buscamos,,Desarrollo de un proyecto conjunto,10,Sí,Sí,SE LOGRÓ LA IMPLEMENTACIÓN DE PROGRAMAS PARA EL FORTALECIMIENTO DE MIPYMES,,AGS1015
+TEDxBarriodelaEstación,Gob. AGS,Directed,3746,,,4,Nosotros los buscamos,,Obtención de recursos monetarios o en especie,6,Sí,Sí,Gestión de recursos humanos y financieros,,AGS1040
+INADI,Gob. AGS,Directed,3747,,,2,Nosotros los buscamos,,Desarrollo de un proyecto conjunto,5,No,Sí,"Se logra la operación conjunta de proyectos para mypimes enfocados en capacitación, consultoría y equipamiento para sectores productivos tradicionales en el estado",,AGS1187
+TEDxBarriodelaEstación,Gob. AGS,Directed,3748,,,5,,,Establecimiento,,,,,,
+DESEM,Gob. AGS,Directed,3749,,,5,,,Crecimiento,,,,,,
+INADI,Gob. Sinaloa,Directed,3750,,,3,Nosotros los buscamos,,Obtención de recursos monetarios o en especie,4,No,Sí,Se logró apoyar el desarrollo de un proyecto para la sector del abasto agroalimentario en Culiacán,,AGS1188
+Nodo Ags RGMX,Gob. AGS (Municipal),Directed,3751,,,5,,,Crecimiento,,,,,,
+SEDEC,Humant,Directed,3752,,,5,Ellos nos buscaron,,Desarrollo de un proyecto conjunto,3,No,Sí,Por que se tradujo en el desarrollo de un proyecto muy relevante para el desarrollo del ecosistema emprendedor de Ags.,,AGS1028
+Centro Fox,Humant,Directed,3753,,,5,Ellos nos buscaron,,Desarrollo de un proyecto conjunto,3,Sí,Sí,Se concreto el programa y se operó exitosamente.,,AGS1081
+SIFIA,Humant,Directed,3754,,,5,Ellos nos buscaron,,Desarrollo de un proyecto conjunto,3,Sí,Sí,Se inicio el desarrollo de un proyecto fundamental para el desarrollo del ecosistema.,,AGS1101
+Trebol Capital,Humant,Directed,3755,,,5,Ellos nos buscaron,,Intercambio de conocimiento y mejores prácticas,1,No,Sí,Echamos a andar el primer fondo de capital de riesgo para startups de base tecnológica en el estado de Aguascalientes.,,AGS1102
+Revista Lider Empresarial,Humant,Directed,3756,,,4,Ellos nos buscaron,,Desarrollo de un proyecto conjunto,1,No,Sí,Nos apoyaron organizando eventos y dando cobertura y difusión a lo que estamos haciendo.,,AGS1126
+TEDxBarriodelaEstación,Humant,Directed,3757,,,3,Ellos nos buscaron,,Acceso a red de contactos,1,No,Sí,Por que apoyamos con vinculación al ecosistema y acceso a patrocinios.,,AGS1127
+Novaera,Humant,Directed,3758,,,1,,,Conector,,,,,,AGSC015
+UNID Ags,IDSCEA,Directed,3759,,,1,Alguien más nos conectó,CECOI,Obtención de recursos monetarios o en especie,2,No,No,Falta de seguimiento,Falta de seguimiento,AGS1023
+Maker Center,IDSCEA,Directed,3760,,,2,Nosotros los buscamos,,Desarrollo de un proyecto conjunto,2,No,No se logró colaborar,"no tenian presupuesto y el interes no era suficiente, nos recomendaron ir a otro estado",Objetivos/intereses no alineados,AGS1020
+The Inventor's House,IDSCEA,Directed,3761,,,3,Nosotros los buscamos,,Obtención de recursos monetarios o en especie,2,Sí,Sí,Se implementó exitosamente el proyecto,,AGS1021
+CECOI,IDSCEA,Directed,3762,,,1,,,Conector,,,,,,
+CRECE,IEA,Directed,3763,,,5,Nosotros los buscamos,,Desarrollo de un proyecto conjunto,3,Sí,Sí,SE LOGRÓ ARTICULAR DIVERSOS PROYECTOS EN LA CERTIFICACIÓN DE COMPETENCIAS LABORALES,,AGS1092
+UNID Ags,IEA,Directed,3764,,,5,Nosotros los buscamos,,Cobertura mediática,1,Sí,Sí,Se obtuvo el reconocimiento oficial de estudios y acción de formación,,AGS1093
+UNID Ags,IEA,Directed,3765,,,5,,,Crecimiento,,,,,,
+TEDxBarriodelaEstación,IIFE,Directed,3766,,,5,Nosotros los buscamos,,Acceso a red de contactos,1,No,Sí,Gestión y desarrollo,,AGS1113
+Nodo Ags RGMX,IME,Directed,3767,,,5,Nosotros los buscamos,,Desarrollo de un proyecto conjunto,5,Sí,Sí,El IME nos reconoció como organismo,,AGS1044
+SEDEC,INADEM,Directed,3768,,,5,Nosotros los buscamos,,Obtención de recursos monetarios o en especie,1,Sí,Sí,Porque cada año nos permite seguir apoyando proyectos productivos en beneficio del desarrollo de las MPYMES en Aguascalientes,,AGS1002
+CIEA,INADEM,Directed,3769,,,5,Nosotros los buscamos,,Desarrollo de un proyecto conjunto,15,Sí,Sí,Se está llevando acabo un Programa,,AGS1016
+CRECE,INADEM,Directed,3770,,,5,Nosotros los buscamos,,Obtención de recursos monetarios o en especie,5,Sí,Sí,SE LOGRÓ LA OBTENCIÓN DE RECURSOS PARA LA CAPACITACIÓN EMPRESARIAL,,AGS1017
+Spark UP Ags,INADEM,Directed,3771,,,5,Nosotros los buscamos,,Cobertura mediática,,Sí,Sí,"Somos reconocidos como incubadora de alto impacto, aceleradora y laboratorios de alta especialización.",,AGS1018
+ITA,INADEM,Directed,3772,,,4,Nosotros los buscamos,,Obtención de recursos monetarios o en especie,2,Sí,Sí,Acreditación,,AGS1019
+ITA,INADEM,Directed,3773,,,5,,,Establecimiento,,,,,,
+SEDEC,INADEM,Directed,3774,,,5,,,Establecimiento,,,,,,
+Trebol Capital,INADEM,Directed,3775,,,5,,,Establecimiento,,,,,,
+CCEA,INADI,Directed,3776,,,1,,,Conector,,,,,,AGSC029
+Enlace+,Incubadora ITESM Ags,Directed,3777,,,5,Ellos nos buscaron,,Desarrollo de un proyecto conjunto,3,Sí,Sí,porque trabajamos de la mano todos los dias,,AGS1078
+DESEM,Incubadora ITESM Ags,Directed,3778,,,2,Ellos nos buscaron,,Intercambio de conocimiento y mejores prácticas,3,No,No,"porque al final no se formalizo nada, sin embargo seguimos abiertos a realizar alguna actividad en conjunto",Esquema mal definido,AGS1082
+Makers 02X,Incubadora ITESM Ags,Directed,3779,,,4,Ellos nos buscaron,,Obtención de recursos monetarios o en especie,2,No,Sí,porque el trabajo en equipo que se ha realizado a funcionado para los emprendedores,,AGS1095
+COPARMEX,Incubadora ITESM Ags,Directed,3780,,,4,Ellos nos buscaron,,Intercambio de conocimiento y mejores prácticas,4,No,Sí,COPARMEX tiene un rol importante en los empresarios de Aguascalientes,,AGS1141
+ITA,Incubadora ITESM Ags,Directed,3781,,,4,Nosotros los buscamos,,Desarrollo de un proyecto conjunto,1,No,No se logró colaborar,Puntos de vista diferidos,Objetivos/intereses no alineados,AGS1088
+The Inventor's House,Incubadora UAA,Directed,3782,,,3,Nosotros los buscamos,,Intercambio de conocimiento y mejores prácticas,2,No,No se logró colaborar,No hubo seguimiento,Falta de seguimiento,AGS1090
+UAA,Incubadora UAA,Directed,3783,,,4,Nosotros los buscamos,,Desarrollo de un proyecto conjunto,5,Sí,Sí,"Emprende UAA, programa que coordino se lleva a acabo desde hace 9 años. Los ganadores (12 proyectos) tienen pase directo y gratuito al proceso de incubación de la UAA.",,AGS1091
+Nodo Ags RGMX,INFOTEC,Directed,3784,,,4,Alguien más nos conectó,INNOVATIA,Desarrollo de un proyecto conjunto,6,No,No se logró colaborar,pendiente,Otro,AGS1069
+SEDEC,INFOTEC,Directed,3785,,,3,Nosotros los buscamos,,Desarrollo de un proyecto conjunto,3,Sí,Sí,El proyecto está en proceso,,AGS1053
+CANIETI,INFOTEC,Directed,3786,,,5,Nosotros los buscamos,,Desarrollo de un proyecto conjunto,3,Sí,Sí,Partcipamos en conjunto en la realización del foro y se da promoción de la oferta conjunta,,AGS1068
+INNOVATIA,INFOTEC,Directed,3787,,,1,,,Conector,,,,,,AGSC010
+SAGARPA,INIFAP,Directed,3788,,,4,Ellos nos buscaron,,Desarrollo de un proyecto conjunto,5,Sí,Sí,se cumplio con todos los entregables comprometidos,,AGS1006
+SRE,INIFAP,Directed,3789,,,4,Ellos nos buscaron,,Desarrollo de un proyecto conjunto,3,Sí,Sí,se cumplio con todos los entregables comprometidos en el proyecto,,AGS1008
+UAA (AI),INIFAP,Directed,3790,,,4,Ellos nos buscaron,,Intercambio de conocimiento y mejores prácticas,3,Sí,Sí,hay colaboracion permanente con la UAA en la organizacion de eventos de capacitacion y en la imparitcion de ocnferencias a los grupos de estudiantes,,AGS1056
+UTNA (AI),INIFAP,Directed,3791,,,4,Ellos nos buscaron,,Intercambio de conocimiento y mejores prácticas,3,Sí,Sí,se admitió a estudiantes y profesores para estancias de investigacion y practica sprofesionales,,AGS1057
+ITPabellón,INIFAP,Directed,3792,,,4,Ellos nos buscaron,,Intercambio de conocimiento y mejores prácticas,2,Sí,Sí,se recibe a estudiantes en modalidad de prácticas profesionales y se han realizado propuesta de fondeo,,AGS1076
+COFUPRO,INIFAP,Directed,3793,,,3,Ellos nos buscaron,,Desarrollo de un proyecto conjunto,3,Sí,Sí,se ha mantenido el proyecto de colaboracion vigente desde hace 9 años,,AGS1134
+Maker Center,INNOVATIA,Directed,3794,,,5,Alguien más nos conectó,Nodo Ags RGMX,Intercambio de conocimiento y mejores prácticas,2,No,Sí,Funcionamos bien y tenemos metas en comun +,,AGS1138
+Nodo Ags RGMX,INNOVATIA,Directed,3795,,,1,,,Conector,,,,,,AGSC022
+Incubadora ITESM Ags,IEEGL,Directed,3796,,,5,,,Crecimiento,,,,,,
+SAGARPA,ITA,Directed,3797,,,3,Ellos nos buscaron,,Desarrollo de un proyecto conjunto,2,Sí,Sí,Acceso a fondos para nuestros incubados,,AGS1025
+CANIETI,ITA,Directed,3798,,,5,Nosotros los buscamos,,Desarrollo de un proyecto conjunto,4,Sí,Sí,"Participo el ITA, como facilitador de instalaciones y emprendedores en el Foro",,AGS1119
+SAGARPA,ITA,Directed,3799,,,1,,,Conector,,,,,,AGSC001
+UAA,ITA,Directed,3800,,,1,,,Conector,,,,,,AGSC023
+Humant,ITESM Ags,Directed,3801,,,5,Alguien más nos conectó,Novaera Guanajuato,Desarrollo de un proyecto conjunto,1,No,Sí,Por que de ello derivo la realización de un proyecto para el estado de Guanajuato.,,AGS1094
+Novaera,ITESM Ags,Directed,3802,,,1,,,Conector,,,,,,AGSC016
+Humant,ITESM Ags (AI),Directed,3803,,,3,Nosotros los buscamos,,Intercambio de conocimiento y mejores prácticas,2,No,Sí,Si,,AGS1059
+TEDxBarriodelaEstación,ITESM Ags (AI),Directed,3804,,,1,Nosotros los buscamos,,Cobertura mediática,5,No,No se logró colaborar,No conectamos con la persona correcta,Falta de seguimiento,AGS1066
+TEDxBarriodelaEstación,Kinesis MKT,Directed,3805,,,5,Nosotros los buscamos,,Desarrollo de un proyecto conjunto,1,Sí,Sí,Estrategia de mercadotecnia,,AGS1114
+TEDxBarriodelaEstación,LJA,Directed,3806,,,5,Nosotros los buscamos,,Cobertura mediática,1,No,Sí,Difusión masiva,,AGS1128
+UP Ags,Maker Center,Directed,3807,,,5,Ellos nos buscaron,,Desarrollo de un proyecto conjunto,1,Sí,Sí,Se realizaron de forma inmediata 2 eventos,,AGS1106
+Nodo Ags RGMX,Maker Center,Directed,3808,,,1,,,Conector,,,,,,AGSC021
+Maker Center,Makers Aguascalientes,Directed,3809,,,5,Nosotros los buscamos,,Intercambio de conocimiento y mejores prácticas,3,No,Sí,estamos en comunicacion aun que nunca hemos realizado un evento en conjunto,,AGS1096
+Spark UP Ags,MoveMakers,Directed,3810,,,5,Nosotros los buscamos,,Intercambio de conocimiento y mejores prácticas,3,No,Sí,Se esta cooperando en desarrollo de fomento al emprendimiento y la exportación así como el intercambio de mentorias.,,AGS1097
+UNID Ags,NAFIN,Directed,3811,,,2,Alguien más nos conectó,CECOI,Intercambio de conocimiento y mejores prácticas,1,No,Sí,Se tuvo la formación debida así como los recursos obtenidos.,,AGS1099
+SEDEC,NAFIN,Directed,3812,,,2,Nosotros los buscamos,,Obtención de recursos monetarios o en especie,8,No,No,"Porque cuando el empresario y/o emprendedor se acerca a realizar el trámite.....los requisitos difieren a la información proporcionada, ya que el fondeo lo realiza la banca comercial",Burocracia,AGS1074
+CECOI,NAFIN,Directed,3813,,,1,,,Conector,,,,,,AGSC018
+INNOVATIA,Nodo Ags RGMX,Directed,3814,,,4,Ellos nos buscaron,,Acceso a red de contactos,1,Sí,Sí,se logro hacer el consejo nacional de clusters teniendo un excelente resultado,,AGS1154
+INNOVATIA,Nodo Ags RGMX,Directed,3815,,,1,,,Conector,,,,,,AGSC009
+INNOVATIA,Nodo Ags RGMX,Directed,3816,,,1,,,Conector,,,,,,AGSC011
+Maker Center,Nodo Ags RGMX,Directed,3817,,,1,,,Conector,,,,,,AGSC019
+RGMX,Nodo Ags RGMX,Directed,3818,,,1,,,Conector,,,,,,AGSC025
+Capítulo Beijing RGMX,Nodo Ags RGMX,Directed,3819,,,1,,,Conector,,,,,,AGSC027
+Maker Center,Nodo Ags RGMX,Directed,3820,,,5,,,Crecimiento,,,,,,
+Nodo Ags RGMX,Nodo Mexicali RGMX,Directed,3821,,,3,Alguien más nos conectó,RGMX,Intercambio de conocimiento y mejores prácticas,1,Sí,Sí,Hemos trabajado y apoyado los proyectos de la contraparte,,AGS1156
+RGMX,Nodo Mexicali RGMX,Directed,3822,,,1,,,Conector,,,,,,AGSC026
+Maker Center,Novaera,Directed,3823,,,5,,,Crecimiento,,,,,,
+UAA,OpenIDEO Ags,Directed,3824,,,5,Nosotros los buscamos,,Intercambio de conocimiento y mejores prácticas,1,Sí,Sí,OpenIDEO formó a los nuevos emprendedores a través de la metodología Human Centered Design. Aportando nuevas ideas y perspectivas del ecosistema emprendedor.,,AGS1050
+ITA,Gob. El Llano,Directed,3825,,,4,Alguien más nos conectó,SAGARPA,Obtención de recursos monetarios o en especie,1,No,Sí,Fondos a gente del Municipio que incubo,,AGS1024
+SAGARPA,Gob. El Llano,Directed,3826,,,1,,,Conector,,,,,,AGSC002
+CIEA,PRONAFIM,Directed,3827,,,5,Nosotros los buscamos,,Desarrollo de un proyecto conjunto,20,No,No se logró colaborar,Se rechazó el proyecto por trámites documentales burocráticos,Burocracia,AGS1100
+Maker Center,Radio BI,Directed,3828,,,5,Nosotros los buscamos,,Intercambio de conocimiento y mejores prácticas,2,No,Sí,Tenemos una participacion en radio para hablar sobre emprendimiento y tecnologia todos los martes,,AGS1124
+TEDxBarriodelaEstación,Revista Lider Empresarial,Directed,3829,,,5,Nosotros los buscamos,,Cobertura mediática,2,Sí,Sí,Difusión masiva de contenidos,,AGS1129
+Nodo Ags RGMX,RGMX,Directed,3830,,,4,Alguien más nos conectó,Capítulo Beijing RGMX,Desarrollo de un proyecto conjunto,1,Sí,Sí,SE SIGUE TRABAJANDO EN LA VINCULACION Y DIFUSION DE LA RED MX,,AGS1157
+Capítulo Beijing RGMX,RGMX,Directed,3831,,,1,,,Conector,,,,,,AGSC028
+Nodo Ags RGMX,RGMX,Directed,3832,,,5,,,Establecimiento,,,,,,
+INIFAP,SAGARPA,Directed,3833,,,5,,,Crecimiento,,,,,,
+UNID Ags,SE,Directed,3834,,,1,Alguien más nos conectó,CECOI,Cobertura mediática,1,No,Sí,Se obtuvo la exposición mediática.,,AGS1036
+Incubadora ITESM Ags,SE,Directed,3835,,,4,Nosotros los buscamos,,Intercambio de conocimiento y mejores prácticas,2,No,Sí,el apoyo que ofrece cada semestre es util para nuestros alumnos,,AGS1035
+CECOI,SE,Directed,3836,,,1,,,Conector,,,,,,AGSC008
+Incubadora ITESM Ags,SE,Directed,3837,,,5,,,Establecimiento,,,,,,
+SEDEC,SE,Directed,3838,,,5,,,Crecimiento,,,,,,
+UNID Ags,SEDEC,Directed,3839,,,1,Alguien más nos conectó,CECOI,Desarrollo de un proyecto conjunto,1,No,No se logró colaborar,Falta de seguimiento,Falta de seguimiento,AGS1033
+UNID Ags,SEDEC,Directed,3840,,,1,Alguien más nos conectó,CECOI,Cobertura mediática,1,No,Sí,Se obtuvo la exposición mediática.,,AGS1034
+COFEMER,SEDEC,Directed,3841,,,5,Ellos nos buscaron,,Desarrollo de un proyecto conjunto,1,Sí,Sí,Porque estamos dentro de los estados con mejor clima de negocios en materia de mejora regulatoria de acuerdo con el DB del BM,,AGS1001
+CIMAT,SEDEC,Directed,3842,,,3,Ellos nos buscaron,,Obtención de recursos monetarios o en especie,3,Sí,Sí,Porque se captaron empresas para el sector industrial para intervenirlas y desarrollarlas como proveedoras de partes productivas,,AGS1054
+The Inventor's House,SEDEC,Directed,3843,,,1,Ellos nos buscaron,,Intercambio de conocimiento y mejores prácticas,3,No,Sí,Porque se logró la realización de un foro para compartir experiencia entre emprendedores existosos y emprendedores que están iniciando,,AGS1075
+PROMEXICO,SEDEC,Directed,3844,,,2,Ellos nos buscaron,,Desarrollo de un proyecto conjunto,3,No,Sí,"Porque apoyan giras internacionales, y se dio la vinculación con grupo de expertos alemanes para apoyar temas de desarrollo en las MPYMES",,AGS1122
+CCEA,SEDEC,Directed,3845,,,2,Ellos nos buscaron,,Obtención de recursos monetarios o en especie,10,No,No,"Porque a pesar del apoyo de proyectos productivos no se ha logrado el desarrollo competitivo de las empresas locales, al migrarlas de tradicionales a empresas de alto impacto",Falta de resultados esperados,AGS1132
+GIA,SEDEC,Directed,3846,,,4,Ellos nos buscaron,,Desarrollo de un proyecto conjunto,3,No,Sí,"Porque se ha logrado una buena vinculación en el intercambio de mejores prácticas entre los integrantes del Grupo, mejorando la productividad de sus empresas",,AGS1133
+AB MKT,SEDEC,Directed,3847,,,4,Nosotros los buscamos,,Desarrollo de un proyecto conjunto,4,Sí,Sí,Se desarrollaron los proyectos,,AGS1026
+CIEA,SEDEC,Directed,3848,,,5,Nosotros los buscamos,,Desarrollo de un proyecto conjunto,10,Sí,Sí,Se llevó a cabo el Proceso de Incubación Presencial 2017,,AGS1027
+Spark UP Ags,SEDEC,Directed,3849,,,5,Nosotros los buscamos,,Acceso a red de contactos,1,No,Sí,Hemos podido ayudar a vários emprendedores que no forman parte del Sistema UP-IPADE,,AGS1029
+Maker Center,SEDEC,Directed,3850,,,2,Nosotros los buscamos,,Desarrollo de un proyecto conjunto,4,No,No se logró colaborar,No mostraron interes,Objetivos/intereses no alineados,AGS1030
+Trebol Capital,SEDEC,Directed,3851,,,3,Nosotros los buscamos,,Obtención de recursos monetarios o en especie,1,Sí,Sí,Se logró un proyecto para desarrollar ángeles inversionistas en el Estado.,,AGS1032
+TEDxBarriodelaEstación,SEDEC,Directed,3852,,,1,Nosotros los buscamos,,Obtención de recursos monetarios o en especie,6,No,No,No hubo interés del secretario,Objetivos/intereses no alineados,AGS1041
+CANIETI,SEDEC,Directed,3853,,,5,Nosotros los buscamos,,Obtención de recursos monetarios o en especie,6,Sí,Sí,Los resultados fueron en general satisfactorios para CANIETI,,AGS1045
+CECOI,SEDEC,Directed,3854,,,1,,,Conector,,,,,,AGSC004
+CECOI,SEDEC,Directed,3855,,,1,,,Conector,,,,,,AGSC006
+Humant,SEDEC,Directed,3856,,,5,,,Establecimiento,,,,,,
+The Inventor's House,SEDEC,Directed,3857,,,5,,,Establecimiento,,,,,,
+UAA,SEDEC,Directed,3858,,,5,,,Establecimiento,,,,,,
+AB MKT,SEDEC,Directed,3859,,,5,,,Crecimiento,,,,,,
+CRECE,SEDEC,Directed,3860,,,5,,,Crecimiento,,,,,,
+DESEM,SEDEC,Directed,3861,,,5,,,Crecimiento,,,,,,
+Trebol Capital,SEDEC,Directed,3862,,,5,,,Crecimiento,,,,,,
+UAA,SEDEC,Directed,3863,,,5,,,Crecimiento,,,,,,
+UNID Ags,SEDEC,Directed,3864,,,5,,,Crecimiento,,,,,,
+SEDEC,SEDECO,Directed,3865,,,3,Nosotros los buscamos,,Intercambio de conocimiento y mejores prácticas,3,No,Sí,Porque nos compartieron información para implementar mejores prácticas como es el caso para desarrollar el modelo del distintivo de la marca AGUASCALIENTES,,AGS1003
+DESEM,SEDRAE,Directed,3866,,,5,,,Crecimiento,,,,,,
+Maker Center,SETUM Ags,Directed,3867,,,2,Nosotros los buscamos,,Desarrollo de un proyecto conjunto,12,No,No se logró colaborar,no coincidia con los intereses de la sria en particular,Objetivos/intereses no alineados,AGS1037
+UAA,SETUM Ags,Directed,3868,,,4,Nosotros los buscamos,,Obtención de recursos monetarios o en especie,5,Sí,Sí,Se logró el objetivo. Se obtuvo el patrocinio.,,AGS1038
+Nodo Ags RGMX,SETUM Ags,Directed,3869,,,5,Nosotros los buscamos,,Desarrollo de un proyecto conjunto,1,Sí,Sí,Se han logrado los objetivos y quedaron las pues tras abiertas para nuevos proyectos,,AGS1046
+UAA,SETUM Ags,Directed,3870,,,5,,,Establecimiento,,,,,,
+UAA,SETUM Ags,Directed,3871,,,5,,,Crecimiento,,,,,,
+Humant,SIFIA,Directed,3872,,,5,,,Crecimiento,,,,,,
+Aldea Networking,Spark UP Ags,Directed,3873,,,4,Ellos nos buscaron,,Acceso a red de contactos,2,No,No se logró colaborar,Estamos en proceso y en platicas.,Otro,AGS1079
+NAFIN,Spark UP Ags,Directed,3874,,,5,Ellos nos buscaron,,Obtención de recursos monetarios o en especie,2,Sí,Sí,Se lograron generar convenios y mejorar las tasas de financimianto y el fomento al emprendimiento,,AGS1098
+ARIAAC,Spark UP Ags,Directed,3875,,,5,Ellos nos buscaron,,Desarrollo de un proyecto conjunto,3,Sí,Sí,Por que se han concretado no solamente un solo proyecto si no vários y algunos de los socios forman parte de la red de mentores.,,AGS1135
+CANACINTRA,Spark UP Ags,Directed,3876,,,2,Ellos nos buscaron,,Desarrollo de un proyecto conjunto,4,Sí,No se logró colaborar,No hubo acuerdo.,Esquema mal definido,AGS1137
+GEJA,Spark UP Ags,Directed,3877,,,5,Ellos nos buscaron,,Intercambio de conocimiento y mejores prácticas,3,Sí,Sí,Hemos desarrollado colaboración en temas de experimentación en aceleración y algunos de los miembros colaboran como mentores y asesores.,,AGS1150
+GIA,Spark UP Ags,Directed,3878,,,4,Ellos nos buscaron,,Desarrollo de un proyecto conjunto,5,Sí,Sí,Se logró concretar con éxito el proyecto planteado por ellos.,,AGS1151
+Trebol Capital,Spark UP Ags,Directed,3879,,,1,Nosotros los buscamos,,Intercambio de conocimiento y mejores prácticas,1,No,No se logró colaborar,No se le dio seguimiento.,Falta de seguimiento,AGS1087
+INIFAP,SRE,Directed,3880,,,3,Alguien más nos conectó,Comisión Nacional de Riego de Chile,Desarrollo de un proyecto conjunto,4,Sí,Sí,se entregaron todos los comprobables comprometidos,,AGS1007
+Trebol Capital,Startcups,Directed,3881,,,2,Nosotros los buscamos,,Desarrollo de un proyecto conjunto,3,No,No,No se le dio seguimiento.,Falta de seguimiento,AGS1089
+Maker Center,SUM,Directed,3882,,,5,,,Establecimiento,,,,,,
+TEDxBarriodelaEstación,Termápolis Noticias,Directed,3883,,,5,Nosotros los buscamos,,Cobertura mediática,3,No,Sí,Gestión de imágen del proyecto,,AGS1130
+SEDEC,The Inventor's House,Directed,3884,,,3,Ellos nos buscaron,,Desarrollo de un proyecto conjunto,3,No,Sí,Se logró el desarrollo del proyecto,,AGS1031
+COPARMEX,The Inventor's House,Directed,3885,,,3,Ellos nos buscaron,,Desarrollo de un proyecto conjunto,1,No,Sí,Se lograron los objetivos,,AGS1143
+Nodo Ags RGMX,The Inventor's House,Directed,3886,,,1,Nosotros los buscamos,,Obtención de recursos monetarios o en especie,1,No,Sí,dieron un curso gratuito en el bootcamp emprendedor,,AGS1120
+TEDxBarriodelaEstación,Toastmasters Ags,Directed,3887,,,4,Nosotros los buscamos,,Intercambio de conocimiento y mejores prácticas,5,No,No se logró colaborar,No se sumaron al proyecto,Objetivos/intereses no alineados,AGS1051
+DESEM,Trebol Capital,Directed,3888,,,4,Ellos nos buscaron,,Acceso a red de contactos,1,No,Sí,Nos presento a mentores y posibles aliados.,,AGS1083
+Unreasonable Mexico,Trebol Capital,Directed,3889,,,5,Ellos nos buscaron,,Acceso a red de contactos,1,No,Sí,Participamos en actividades en conjunto y acceso a red de contactos.,,AGS1111
+SEDEC,Trebol Capital,Directed,3890,,,1,,,Conector,,,,,,AGSC013
+CECOI,UAA,Directed,3891,,,3,Ellos nos buscaron,,Intercambio de conocimiento y mejores prácticas,5,Sí,Sí,Los proyectos asesorados en Emprende UAA son invitados a los programas de CECOI para fortalecer sus ideas de negocio.,,AGS1011
+IDSCEA,UAA,Directed,3892,,,3,Ellos nos buscaron,,Intercambio de conocimiento y mejores prácticas,5,No,No se logró colaborar,"Nos invitaron a colaborar en el MIT Forum Ags, y además compartirían códigos de promoción para proyectos de emprendimiento en el mes de Marzo 2018. Sin embargo, por causas de fuerza mayor se canceló el evento hasta nuevo aviso.",Particularidades del proyecto,AGS1022
+DESEM,UAA,Directed,3893,,,5,Ellos nos buscaron,,Intercambio de conocimiento y mejores prácticas,3,Sí,Sí,"Desem es uno de nuestros principales aliados. Aporta asesores, metodologías y evaluadores en nuestros procesos.",,AGS1084
+COPARMEX,UAA,Directed,3894,,,3,Ellos nos buscaron,,Intercambio de conocimiento y mejores prácticas,3,Sí,Sí,"Coparmex también ha sido patrocinador del Entrenamiento Emprende UAA desde hace tiempo. Invita a los participantes del programa a sesiones, talleres y mentorías.",,AGS1145
+AB MKT,UAA,Directed,3895,,,5,,,Establecimiento,,,,,,
+UNID Ags,UAA,Directed,3896,,,5,,,Establecimiento,,,,,,
+AB MKT,UAA (AI),Directed,3897,,,3,Nosotros los buscamos,,Desarrollo de un proyecto conjunto,4,Sí,Sí,Se desarrolló el proyecto,,AGS1060
+CRECE,UAA (AI),Directed,3898,,,5,Nosotros los buscamos,,Desarrollo de un proyecto conjunto,5,No,Sí,SE LOGRÓ EL DISEÑO DE UN PROTOTIPO DE ESTÉTICA MÓVIL,,AGS1061
+DESEM,UAA (AI),Directed,3899,,,5,Nosotros los buscamos,,Intercambio de conocimiento y mejores prácticas,6,Sí,Sí,Por el nivel de especialización e investigaciones de sus Doctores.,,AGS1062
+Maker Center,UAA (AI),Directed,3900,,,2,Nosotros los buscamos,,Desarrollo de un proyecto conjunto,4,No,No se logró colaborar,"el evento termino no realizandose, existio poco interes de ellos",Objetivos/intereses no alineados,AGS1063
+UAA,UAA (AI),Directed,3901,,,4,Nosotros los buscamos,,Desarrollo de un proyecto conjunto,5,Sí,Sí,"El programa de emprendimiento es un programa académico, y corresponde a la Dirección General de Servicios Educativos. Para impulsar el desarrollo y crecimiento del ecosistema emprendedor, requiere de otras áreas funcionales de la Universidad. Para ello se contacta a la Unidad de Negocios e Incubadora, perteneciente a otra Dirección, la Dirección General de Difusión y Vinculación y a su vez al Centro de Ciencias Económico-Administrativas que aportan conocimiento y metodologías y en donde sus doctorandos e investigadores estudian el ecosistema emprendedor a nivel universitario.",,AGS1064
+TEDxBarriodelaEstación,UAA (AI),Directed,3902,,,1,Nosotros los buscamos,,Cobertura mediática,3,No,No se logró colaborar,No hubo interés y liderazgo dentro de la organización,Objetivos/intereses no alineados,AGS1067
+Nodo Ags RGMX,UAA (AI),Directed,3903,,,1,Nosotros los buscamos,,Intercambio de conocimiento y mejores prácticas,2,No,No se logró colaborar,NO HUBO RESPUESTA DE ELLOS,Falta de seguimiento,AGS1072
+Maker Center,UCA,Directed,3904,,,2,Nosotros los buscamos,,Desarrollo de un proyecto conjunto,2,No,No se logró colaborar,no existio el interes del publico,Objetivos/intereses no alineados,AGS1104
+TEDxBarriodelaEstación,UCA,Directed,3905,,,4,Nosotros los buscamos,,Desarrollo de un proyecto conjunto,2,No,Sí,Gestión de conocimientos y vinculación,,AGS1115
+TEDxBarriodelaEstación,UCA,Directed,3906,,,3,Nosotros los buscamos,,Obtención de recursos monetarios o en especie,3,Sí,Sí,Gestión y crecimiento de la relación.,,AGS1116
+CECOI,UNID Ags,Directed,3907,,,2,Ellos nos buscaron,,Cobertura mediática,1,No,Sí,Se logro el objetivo con la exposición.,,AGS1012
+CECOI,UNID Ags,Directed,3908,,,1,,,Conector,,,,,,AGSC003
+CECOI,UNID Ags,Directed,3909,,,1,,,Conector,,,,,,AGSC005
+CECOI,UNID Ags,Directed,3910,,,1,,,Conector,,,,,,AGSC007
+CECOI,UNID Ags,Directed,3911,,,1,,,Conector,,,,,,AGSC017
+CECOI,UNID Ags,Directed,3912,,,1,,,Conector,,,,,,
+Humant,Unreasonable Mexico,Directed,3913,,,5,Nosotros los buscamos,,Desarrollo de un proyecto conjunto,1,No,Sí,Por que nos vincularon a perfiles ideales para el proyecto que estábamos desarrollando.,,AGS1110
+TEDxBarriodelaEstación,Unreasonable Mexico,Directed,3914,,,3,Nosotros los buscamos,,Cobertura mediática,1,Sí,Sí,Promoción y difusión,,AGS1117
+Nodo Ags RGMX,UP Ags,Directed,3915,,,4,Alguien más nos conectó,Maker Center,Intercambio de conocimiento y mejores prácticas,2,Sí,Sí,SE HAN REALIZADO VARIOS EVENTOS CON ELLOS.,,AGS1121
+Trebol Capital,UP Ags,Directed,3916,,,3,Nosotros los buscamos,,Intercambio de conocimiento y mejores prácticas,1,No,Sí,Se lograron los objetivos.,,AGS1107
+Maker Center,UP Ags,Directed,3917,,,1,,,Conector,,,,,,AGSC020
+Spark UP Ags,UPA,Directed,3918,,,5,Nosotros los buscamos,,Obtención de recursos monetarios o en especie,3,Sí,Sí,Se logró positivamente el proyecto de aceleración,,AGS1108
+Spark UP Ags,UTC,Directed,3919,,,5,Nosotros los buscamos,,Obtención de recursos monetarios o en especie,2,Sí,Sí,Se logró generar una patente en el proceso de aceleración,,AGS1109
